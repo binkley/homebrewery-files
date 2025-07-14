@@ -2,32 +2,45 @@
 A D&D 5e (2024) spellcasting class. <br>
 Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial.
 
+### Core Witch Traits Block
+
+{note}
+**TODO** <br>
+Primary Ability - WIS <br>
+Hit Point Die - d8 or d6 <br>
+Saving Throw Proficiencies - CHA and WIS <br>
+Skill Proficiencies - witchy things <br>
+Weapon Proficiencies - Simple <br>
+Tool Proficiencies - brewing and healing <br>
+Armor Training - None <br>
+Starting Equipmeent - TBD
+{note}
+
 ### TODO: Describe the Witch Class
 
-TODO: La la la la, foo, foo, foo.
+### Becoming a Witch ...
+
+#### As a Multiclass Character
+
+### Witch Class Features
+
+As a Witch, you gain the following class features when you reach the specified Witch levels. These features are listed in the Witch Features table.
+
+#### Level 1: Spellcasting
+
+#### Level 3: Witch Subclass
 
 \page
 
-## Spell List
+## Witch Spell List
 
 Not just a plain list, but some description how to use, and why the Witch has these.
 
-### Cantrips
+#### Cantrips (Level 0 Witch Spells)
 
 > _A word in your ear, a flower in your pocket, and a fire in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
 
-{note}
-**TODO: Create a custom cantrip for the Witch class** <br>
-<br>
-**Evil Eye** <br>
-You fix your gaze on a creature within 30 feet. The target must make a Wisdom saving throw. On a failed save, it takes 1d8 psychic damage and can&rsquo;t take reactions until the start of its next turn. On a successful save, the creature takes no damage and suffers no additional effect. <br>
-<br>
-This spell has no effect on creatures that cannot see you (e.g., blinded, in magical darkness, or lacking visual senses). <br>
-<br>
-The number of creatures you can affect with this spell increases when you reach certain levels: 2 targets at 5th level, 3 at 11th, and 4 at 17th.
-{note}
-
-#### 🛡️ Ally Buffs & Wards
+##### 🛡️ Ally Buffs & Wards
 - **Guidance** <br>
   Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement. _Guidance_ and _Resistance_ are natural companions.
 
@@ -40,9 +53,13 @@ The number of creatures you can affect with this spell increases when you reach 
 - **Thaumaturgy** <br>
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
 
-#### 📌 Damage & Control
+##### 📌 Damage & Control
 - **Evil Eye** <br>
   Glare-based cantrip. Bonus action, WIS save, psychic damage, prevents reactions. Scales by number of targets.
+
+{note}
+**TODO** Reference the homebrew _Evil Eye_ cantrip to Homebrew and to DnDB.
+{note}
 
 - **Mind Sliver** <br>
   Psychic jab that weakens the target&rsquo;s next saving throw.
@@ -53,7 +70,7 @@ The number of creatures you can affect with this spell increases when you reach 
 - **Vicious Mockery** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
 
-#### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual, & Trickery
 - **Druidcraft** <br>
   Predict the weather, make flowers bloom, leaves fall, or small nature tricks.
 
@@ -71,11 +88,11 @@ The number of creatures you can affect with this spell increases when you reach 
 
 \page
 
-### 1st Level
+#### Level 1 Witch Spells
 
 > _A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
 
-#### 🛡️ Ally Buffs & Wards
+##### 🛡️ Ally Buffs & Wards
 - **Aid** <br>
   Bolsters allies with lasting vitality. A Witch&rsquo;s comfort made manifest.
 
@@ -91,7 +108,7 @@ The number of creatures you can affect with this spell increases when you reach 
 - **Sanctuary** <br>
   Discourages hostile action against an ally &mdash; _mind your manners_.
 
-#### 📌 Damage & Control
+##### 📌 Damage & Control
 - **Armor of Agathys** <br>
   Cold ward that harms attackers; perfect for a Witch&rsquo;s frosty resolve.
 
@@ -125,7 +142,7 @@ The number of creatures you can affect with this spell increases when you reach 
 - **Witch Bolt** <br>
   A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
 
-#### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual, & Trickery
 - **Alarm** <br>
   An unseen tripwire of bells and thread.
 
@@ -143,3 +160,13 @@ The number of creatures you can affect with this spell increases when you reach 
 
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
+
+\page
+
+## Witch Subclasses
+
+### The Maiden
+
+### The Mother
+
+### The Crone
