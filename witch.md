@@ -2,23 +2,23 @@
 A D&D 5e (2024) spellcasting class. <br>
 Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial.
 
-### Core Witch Traits Block
-
-{note}
-**TODO** <br>
-Primary Ability - WIS <br>
-Hit Point Die - d8 or d6 <br>
-Saving Throw Proficiencies - CHA and WIS <br>
-Skill Proficiencies - witchy things <br>
-Weapon Proficiencies - Simple <br>
-Tool Proficiencies - brewing and healing <br>
-Armor Training - None <br>
-Starting Equipmeent - TBD
+| Core Witch Traits ||
+|--|--|
+| **Primary Ability** | Wisdom |
+| **Hit Point Die** | d8 or d6 |
+| **Saving Throw Proficiencies** | Charisma and Wisdom |
+| **Skill Proficiencies** | _Choose 2:_ witchy things |
+| **Weapon Proficiencies** | Simple weapons |
+| **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
+| **Armor Training** | None |
+| **Starting Equipment** | _Choose A or B:_ TBD |
 {note}
 
-### TODO: Describe the Witch Class
+#### TODO: DESCRIPTIVE INTRODUCTION PARAGRAPHS
 
 ### Becoming a Witch ...
+
+#### As a Level 1 Character
 
 #### As a Multiclass Character
 
@@ -27,6 +27,22 @@ Starting Equipmeent - TBD
 As a Witch, you gain the following class features when you reach the specified Witch levels. These features are listed in the Witch Features table.
 
 #### Level 1: Spellcasting
+
+#### Level 1: Herbal Sage
+
+Your understanding of plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies, leaves and mushrooms.
+
+When using an _Herbalism Kit_, you can use your Wisdom modifier instead of your Intelligence modifier for any ability checks made with the kit. You also add your proficiency bonus if you aren’t already doing so.
+
+In addition, you always have advantage on any ability check made using an _Herbalism Kit_.
+
+#### Level 1: Witch Armor
+
+You could avoid fate this time. A subtle curse sends ill luck to your foes, causing blows to falter and spells to misfire.
+
+When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 #### Level 3: Witch Subclass
 
@@ -160,6 +176,32 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
+  
+\page
+
+#### Level 2 Witch Spells
+
+> _PITHY QUOTE._
+
+##### 🛡️ Ally Buffs & Wards
+
+##### 📌 Damage & Control
+
+##### 🔍 Utility, Ritual, & Trickery
+
+\page
+
+#### Level 3 Witch Spells
+
+> _PITHY QUOTE._
+
+##### 🛡️ Ally Buffs & Wards
+
+##### 📌 Damage & Control
+
+##### 🔍 Utility, Ritual, & Trickery
+- **Fly** <br>
+  You prefer a broom, but can make do as long as it doesn't catch fire.
 
 \page
 
