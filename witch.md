@@ -16,8 +16,16 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 > _A word in your ear, a flower in your pocket, and a fire in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
 
-- **[TBD Signature Cantrip]** <br>
-  Glare-based cantrip. Bonus action, WIS save, psychic damage, prevents reactions. Scales by number of targets.
+{note}
+**TODO: Create a custom cantrip for the Witch class** <br>
+<br>
+**Evil Eye** <br>
+You fix your gaze on a creature within 30 feet. The target must make a Wisdom saving throw. On a failed save, it takes 1d8 psychic damage and can&rsquo;t take reactions until the start of its next turn. On a successful save, the creature takes no damage and suffers no additional effect. <br>
+<br>
+This spell has no effect on creatures that cannot see you (e.g., blinded, in magical darkness, or lacking visual senses). <br>
+<br>
+The number of creatures you can affect with this spell increases when you reach certain levels: 2 targets at 5th level, 3 at 11th, and 4 at 17th.
+{note}
 
 #### 🛡️ Ally Buffs & Wards
 - **Guidance** <br>
@@ -33,6 +41,9 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
 
 #### 📌 Damage & Control
+- **Evil Eye** <br>
+  Glare-based cantrip. Bonus action, WIS save, psychic damage, prevents reactions. Scales by number of targets.
+
 - **Mind Sliver** <br>
   Psychic jab that weakens the target&rsquo;s next saving throw.
 
