@@ -19,7 +19,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **[TBD Signature Cantrip]** <br>
   Glare-based cantrip. Bonus action, WIS save, psychic damage, prevents reactions. Scales by number of targets.
 
-
 #### 🛡️ Ally Buffs & Wards
 - **Guidance** <br>
   Help an ally with a task — a Witch’s quiet encouragement. _Guidance_ and _Resistance_ are natural companions.
@@ -42,7 +41,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Vicious Mockery** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
-  
+
 #### 🔍 Utility, Ritual, & Trickery
 - **Druidcraft** <br>
   Predict the weather, make flowers bloom, leaves fall, or small nature tricks.
@@ -98,7 +97,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Roots rise up to imprison those who overstep.
 
 - **Faerie Fire** <br>
-  Enchants the air around foes with flickering light — reveals the unseen and invites reprisal.
+  Enchants the air around foes with flickering light &mdash; reveals the unseen and invites reprisal.
 
 - **Hex** <br>
   A spiteful curse that saps strength and fuels further harm.
@@ -107,7 +106,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A frost-edged blade that explodes into icy shards.
 
 - **Inflict Wounds** <br>
-  A brutal, unassuming touch that rots flesh—favored by stern Crones.
+  A brutal, unassuming touch that rots flesh.
 
 - **Thunderwave** <br>
   A forceful burst for those moments when subtlety fails.
@@ -115,22 +114,21 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Witch Bolt** <br>
   A sustained arc of crackling energy — hold your glare, and the magic holds too.
 
-
 #### 🔍 Utility, Ritual, & Trickery
 - **Alarm** <br>
   An unseen tripwire of bells and thread.
 
 - **Command** <br>
-  A single word; absolute obedience—for a moment.
+  A single word; absolute obedience &mdash; for a moment.
 
 - **Detect Poison and Disease** <br>
-  *“Don’t drink that.”* Essential village wisdom.
+  _"Don’t drink that."_ Essential village wisdom.
 
 - **Disguise Self** <br>
   A dab of glamour for clandestine errands.
 
 - **Fog Cloud** <br>
-  Smoke, steam, or morning mist—whatever hides the Witch’s work.
+  Smoke, steam, or morning mist &mdash; whatever hides the Witch’s work.
 
 - **Silent Image** <br>
-  For illusions too delicate for *Minor Illusion*.
+  For illusions too delicate for _Minor Illusion_.
