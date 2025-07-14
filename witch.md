@@ -14,27 +14,27 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ### Cantrips
 
-> _A word in your ear, a flower in your pocket, and a fire in your hand — that’s all a Witch needs. And a good stare._
+> _A word in your ear, a flower in your pocket, and a fire in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
 
 - **[TBD Signature Cantrip]** <br>
   Glare-based cantrip. Bonus action, WIS save, psychic damage, prevents reactions. Scales by number of targets.
 
 #### 🛡️ Ally Buffs & Wards
 - **Guidance** <br>
-  Help an ally with a task — a Witch’s quiet encouragement. _Guidance_ and _Resistance_ are natural companions.
+  Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement. _Guidance_ and _Resistance_ are natural companions.
 
 - **Resistance** <br>
-  Bolster an ally’s saving throw against a single threat. _Guidance_ and _Resistance_ are natural companions.
+  Bolster an ally&rsquo;s saving throw against a single threat. _Guidance_ and _Resistance_ are natural companions.
 
 - **Spare the Dying** <br>
-  Stabilize a dying creature. Especially suited to the *Mother* Witch. _Spare the Dying_ and _Toll the Dead_ are natural companions.
+  Stabilize a dying creature. Especially suited to the _Mother_ Witch. _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
 - **Thaumaturgy** <br>
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
 
 #### 📌 Damage & Control
 - **Mind Sliver** <br>
-  Psychic jab that weakens the target’s next saving throw.
+  Psychic jab that weakens the target&rsquo;s next saving throw.
 
 - **Toll the Dead** <br>
   A knell for the wicked; deals more damage if the target is wounded. _Spare the Dying_ and _Toll the Dead_ are natural companions.
@@ -66,10 +66,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 #### 🛡️ Ally Buffs & Wards
 - **Aid** <br>
-  Bolsters allies with lasting vitality. A Witch’s comfort made manifest.
+  Bolsters allies with lasting vitality. A Witch&rsquo;s comfort made manifest.
 
 - **Heroism** <br>
-  Temp HP and fear immunity — courage brewed in a teacup.
+  Temp HP and fear immunity &mdash; courage brewed in a teacup.
 
 - **Longstrider** <br>
   A blessing for swift feet, whether on errands or escapes.
@@ -78,14 +78,14 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Iron pins, salt circles, and stern words keep the otherworld at bay.
 
 - **Sanctuary** <br>
-  Discourages hostile action against an ally — *mind your manners*.
+  Discourages hostile action against an ally &mdash; _mind your manners_.
 
 #### 📌 Damage & Control
 - **Armor of Agathys** <br>
-  Cold ward that harms attackers; perfect for a Witch’s frosty resolve.
+  Cold ward that harms attackers; perfect for a Witch&rsquo;s frosty resolve.
 
 - **Cause Fear** <br>
-  Instills dread on a single foe; pairs naturally with the Witch’s glare cantrip.
+  Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
 
 - **Dissonant Whispers** <br>
   Psychic pain that drives enemies away.
@@ -112,7 +112,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A forceful burst for those moments when subtlety fails.
 
 - **Witch Bolt** <br>
-  A sustained arc of crackling energy — hold your glare, and the magic holds too.
+  A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
 
 #### 🔍 Utility, Ritual, & Trickery
 - **Alarm** <br>
@@ -122,13 +122,13 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A single word; absolute obedience &mdash; for a moment.
 
 - **Detect Poison and Disease** <br>
-  _"Don’t drink that."_ Essential village wisdom.
+  _&ldquo;Don&rsquo;t drink that.&rdquo;_ Essential village wisdom.
 
 - **Disguise Self** <br>
   A dab of glamour for clandestine errands.
 
 - **Fog Cloud** <br>
-  Smoke, steam, or morning mist &mdash; whatever hides the Witch’s work.
+  Smoke, steam, or morning mist &mdash; whatever hides the Witch&rsquo;s work.
 
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
