@@ -5,7 +5,7 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial.
 | Core Witch Traits ||
 |--|--|
 | **Primary Ability** | Wisdom |
-| **Hit Point Die** | d8 or d6 |
+| **Hit Point Die** | d6 |
 | **Saving Throw Proficiencies** | Charisma and Wisdom |
 | **Skill Proficiencies** | _Choose 2:_ witchy things |
 | **Weapon Proficiencies** | Simple weapons |
