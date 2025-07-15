@@ -44,11 +44,14 @@ When a creature you can see makes an attack roll or casts a spell that targets o
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
+
 #### Level 3: Witch Subclass
 
 \page
 
 ## Witch Spell List
+
+**TODO** Better placement within the document for the spell list. Better that it not make pages of reading before the reader gets to class features.
 
 Not just a plain list, but some description how to use, and why the Witch has these.
 
