@@ -11,7 +11,7 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial.
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
 | **Armor Training** | None |
-| **Starting Equipment** | _Choose A or B:_ TBD |
+| **Starting Equipment** | _Choose A or B:_ (A) Traveller's Clothes (including a witch&rsquo;s hat), a Sickle or Quarterstaff, a Healer&rsquo;s Kit, an Herbalism Kit, Cook&rsquo;s Utensils, four Candles, a Pouch containing 10 GP, and an Explorer's Pack; or (B) 50 GP |
 {note}
 
 #### TODO: DESCRIPTIVE INTRODUCTION PARAGRAPHS
@@ -32,15 +32,15 @@ As a Witch, you gain the following class features when you reach the specified W
 
 #### Level 1: Spellcasting
 
-Drawing from the land, necessity, and learning from other witches, you can cast spells.
+Drawing from the land, necessity, and the teachings of other witches, you can cast spells.
 
-**Cantrips.** You know three Witch cantrips of your choice. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
+**Cantrips.** You know three Witch cantrips of your choice.
 
-Whenever you gain a Witch level, you can replace one of your cantrips with another cantrip of your choice from the Witch spell list.
+Whenever you finish a long rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
 
-When you reach Witch levels 4 and 10, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
+You learn an additional Witch cantrip at levels 4 and 10, as shown in the Cantrips column of the Witch Features table.
 
-**Spell Slots.** The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+**Spell Slots.** The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a long rest.
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose **two** level 1 Witch spells.
 
@@ -52,7 +52,7 @@ If another Witch feature gives you spells that you always have prepared, those s
 
 **Spellcasting Ability.** Wisdom is your spellcasting ability for your Witch spells.
 
-**Spellcasting Focus.** You can use an **arcane focus**, **herbalism kit**, or **cook’s utensils** as a Spellcasting Focus for your Witch spells
+**Spellcasting Focus.** You can use an **arcane focus**, **herbalism kit**, or **cook&apos;s utensils** as a spellcasting focus for your Witch spells.
 
 **TODO** Formatting is hard here. The full-page table messes with layout for other sections.
 
