@@ -28,6 +28,24 @@ As a Witch, you gain the following class features when you reach the specified W
 
 #### Level 1: Spellcasting
 
+
+### Witch Features
+
+<div class='wide'>
+| Level | Proficiency Bonus | Class Features | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-----:|:-----------:|:--------------:|:---------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---------|
+| 1 | +2 | Spellcasting, Herbal Sage, Witch Armor | 3 | 2 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2 | +2 | &mdash; | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3 | +2 | Witch Subclass | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4 | +2 | ASI | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | &mdash; | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 6 | +3 | Subclass Feature | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 7 | +3 | &mdash; | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 8 | +3 | ASI | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 9 | +4 | &mdash; | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 10 | +4 | Subclass Feature | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
+</div>
+
 #### Level 1: Herbal Sage
 
 Your understanding of plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies, leaves and mushrooms.
@@ -47,13 +65,16 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 #### Level 3: Witch Subclass
 
+You gain a Witch subclass of your choice.
+
 \page
 
 ## Witch Spell List
 
-**TODO** Better placement within the document for the spell list. Better that it not make pages of reading before the reader gets to class features.
-
 Not just a plain list, but some description how to use, and why the Witch has these.
+
+
+\page
 
 #### Cantrips (Level 0 Witch Spells)
 
@@ -110,6 +131,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 #### Level 1 Witch Spells
 
 > _A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
+
 
 ##### 🛡️ Ally Buffs & Wards
 - **Aid** <br>
