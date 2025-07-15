@@ -206,13 +206,61 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 #### Level 2 Witch Spells
 
-> _PITHY QUOTE._
+> _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Enhance Ability** <br>
+  A blessing of wit, strength, or grace — tailored to the task, or the tale.
+
+- **Lesser Restoration** <br>
+  A charm against poison or paralysis; a true village healer knows when to cleanse.
+
+- **Protection from Poison** <br>
+  Draws the venom out with smoke, salt, and an old rhyme.
+
+- **Warding Bond** <br>
+  The Witch shares her strength with another — a silver thread ties fates together.
+
 ##### 📌 Damage & Control
 
+- **Blindness/Deafness** <br>
+  Strip the senses with a glance; sometimes, darkness is protection. Sometimes, punishment.
+
+- **Crown of Madness** <br>
+  A jagged charm of influence — cruel, theatrical, and thoroughly Witchy.
+
+- **Hold Person** <br>
+  One word and a stiffened spine; ideal for uninvited guests.
+
+- **Misty Step** <br>
+  A slip between shadows — not all Witches walk the same path twice.
+
+- **Ray of Enfeeblement** <br>
+  Saps strength from the stout — let the proud grow frail.
+
+- **Shatter** <br>
+  Piercing resonance, born of cracked teacups and fury.
+
 ##### 🔍 Utility, Ritual, & Trickery
+
+- **Augury** <br>
+  Bones, leaves, and smoke — the signs are never wrong, only misread.
+
+- **Detect Thoughts** <br>
+  A sip of another’s mind — best done politely, or not at all.
+
+- **Invisibility** <br>
+  A trick of breath and intention; the Witch is there, but not seen.
+
+- **Mirror Image** <br>
+  Is that her? Or her? Or her?
+
+- **Phantasmal Force** <br>
+  A haunting made to measure; illusions that draw blood — if they believe.
+
+- **See Invisibility** <br>
+  Not all unseen things are harmless. Best to know.
 
 \page
 
