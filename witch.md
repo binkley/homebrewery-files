@@ -119,6 +119,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ##### 🔍 Utility, Ritual, & Trickery
 
+- **Dancing Lights** <br>
+  Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
+  A flickering circle for rituals, or the glimmer of will-o'-wisps to draw in the foolish.
+
 - **Druidcraft** <br>
   Predict the weather, make flowers bloom, leaves fall, or summon other natural effects.
   The old ways, still strong.
