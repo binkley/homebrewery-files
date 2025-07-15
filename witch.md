@@ -28,7 +28,6 @@ As a Witch, you gain the following class features when you reach the specified W
 
 #### Level 1: Spellcasting
 
-
 ### Witch Features
 
 <div class='wide'>
@@ -78,22 +77,28 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 #### Cantrips (Level 0 Witch Spells)
 
-> _A word in your ear, a flower in your pocket, and a fire in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
+> _A word in your ear, a flower in your pocket, and flame or a cold wind in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
 
 ##### 🛡️ Ally Buffs & Wards
+
 - **Guidance** <br>
-  Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement. _Guidance_ and _Resistance_ are natural companions.
+  Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement.
+  _Guidance_ and _Resistance_ are natural companions.
 
 - **Resistance** <br>
-  Bolster an ally&rsquo;s saving throw against a single threat. _Guidance_ and _Resistance_ are natural companions.
+  Bolster an ally&rsquo;s saving throw against a single threat.
+  _Guidance_ and _Resistance_ are natural companions.
 
 - **Spare the Dying** <br>
-  Stabilize a dying creature. Especially suited to the _Mother_ Witch. _Spare the Dying_ and _Toll the Dead_ are natural companions.
-
-- **Thaumaturgy** <br>
-  Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
+  Stabilize a dying creature. Especially suited to the _Mother_ Witch.
+  _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
 ##### 📌 Damage & Control
+
+- **Chill Touch** <br>
+  A ghostly hand that deals necrotic damage and halts healing.
+  Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
+
 - **Evil Eye** <br>
   Glare-based cantrip. Bonus action, WIS save, psychic damage, prevents reactions. Scales by number of targets.
 
@@ -102,29 +107,47 @@ Not just a plain list, but some description how to use, and why the Witch has th
 {note}
 
 - **Mind Sliver** <br>
-  Psychic jab that weakens the target&rsquo;s next saving throw.
+  A subtle Psychic curse that weakens the target&rsquo;s next saving throw.
 
 - **Toll the Dead** <br>
-  A knell for the wicked; deals more damage if the target is wounded. _Spare the Dying_ and _Toll the Dead_ are natural companions.
+  A knell for the wicked; deals more damage if the target is wounded.
+  _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
 - **Vicious Mockery** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
+  Laughter can be crueler than claws.
 
 ##### 🔍 Utility, Ritual, & Trickery
+
 - **Druidcraft** <br>
-  Predict the weather, make flowers bloom, leaves fall, or small nature tricks.
+  Predict the weather, make flowers bloom, leaves fall, or summon other natural effects.
+  The old ways, still strong.
+  _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
 
 - **Elementalism** <br>
-  Subtle command over natural elements &mdash; less forceful than other elemental cantrips.
+  Rustle the leaves, scratch the dirt, crackle the fire, fill the cup.
+  _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
 
-- **Produce Flame** <br>
-  Create flame in your hand; sheds light or can be thrown as a fire attack.
+- **Friends** <br>
+  Briefly charm a creature to gain advantage on social checks. The charm is short &mdash; they remember.
+
+- **Message** <br>
+  Whisper across distance. Ideal for conspiracies and quiet warnings.
+  _“Don’t turn around.”_
 
 - **Minor Illusion** <br>
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
+  A lie made visible or heard. A whisper in the dark, a fake door where none exists.
 
-- **Message** <br>
-  Whisper across distance; essential for conspiracies and warnings.
+- **Produce Flame** <br>
+  Conjure fire for light or attack.
+  A bit of flame for hearth or hex
+
+- **Thaumaturgy** <br>
+  Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
+  A flair for storytelling, and demonstrate why one should respect a _Witch_.
+  _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
+
 
 \page
 
@@ -201,7 +224,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
-  
+
 \page
 
 #### Level 2 Witch Spells
@@ -225,22 +248,28 @@ Not just a plain list, but some description how to use, and why the Witch has th
 ##### 📌 Damage & Control
 
 - **Blindness/Deafness** <br>
-  Strip the senses with a glance; sometimes, darkness is protection. Sometimes, punishment.
+  Salt in the eyes, a whispered jinx — the senses fail under the Witch’s curse.
 
 - **Crown of Madness** <br>
   A jagged charm of influence — cruel, theatrical, and thoroughly Witchy.
 
 - **Hold Person** <br>
-  One word and a stiffened spine; ideal for uninvited guests.
+  A witch’s glare that paralyzes the body. Curse, freeze, or bind — the will obeys.
 
-- **Misty Step** <br>
-  A slip between shadows — not all Witches walk the same path twice.
+- **Mind Spike** <br>
+  A cursed thorn of thought; it sears with psychic pain and leaves a lingering connection.
+
+- **Moonbeam** <br>
+  A ghostly column of silver flame that punishes shapeshifters and trespassers. Cold, radiant, and merciless — like judgment in the night.
 
 - **Ray of Enfeeblement** <br>
-  Saps strength from the stout — let the proud grow frail.
+  A weakening hex that saps strength from arms and dulls the edge of steel.
 
 - **Shatter** <br>
-  Piercing resonance, born of cracked teacups and fury.
+  A resonance of malice that cracks bone and glass. A Witch’s rage given voice.
+
+- **Tasha’s Mind Whip** <br>
+  A lash of psychic force unravels the mind and disrupts action. Cruel, precise, and deeply unsettling. Rename as _Witch's Lash_ for flavor if desired.
 
 ##### 🔍 Utility, Ritual, & Trickery
 
@@ -255,6 +284,9 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Mirror Image** <br>
   Is that her? Or her? Or her?
+
+- **Misty Step** <br>
+  A slip between shadows — not all Witches walk the same path twice.
 
 - **Phantasmal Force** <br>
   A haunting made to measure; illusions that draw blood — if they believe.
