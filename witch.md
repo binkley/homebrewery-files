@@ -100,6 +100,12 @@ Explore "Coven Familiars" or shared familiars as part of group or subclass featu
 
 You gain a Witch subclass of your choice.
 
+#### Level 3: Second Sight
+
+Your insight into others borders on the supernatural.
+
+You gain proficiency in the _Insight_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
+
 \page
 
 ## Witch Spell List
