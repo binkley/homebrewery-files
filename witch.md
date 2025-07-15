@@ -133,7 +133,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Message** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
-  _“Don’t turn around.”_
+  _&ldquo;Don&rsquo;t turn around.&rdquo;_
 
 - **Minor Illusion** <br>
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
@@ -141,11 +141,11 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Produce Flame** <br>
   Conjure fire for light or attack.
-  A bit of flame for hearth or hex
+  A bit of flame for hearth or hex.
 
 - **Thaumaturgy** <br>
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
-  A flair for storytelling, and demonstrate why one should respect a _Witch_.
+  A flair for storytelling, and a reason to respect a Witch.
   _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
 
 
