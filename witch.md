@@ -20,7 +20,11 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial.
 
 #### As a Level 1 Character
 
+**TODO**
+
 #### As a Multiclass Character
+
+**TODO**
 
 ### Witch Class Features
 
@@ -28,7 +32,8 @@ As a Witch, you gain the following class features when you reach the specified W
 
 #### Level 1: Spellcasting
 
-### Witch Features
+**TODO** Formatting is hard here. The full-page table messes with layout for other sections.
+
 
 <div class='wide'>
 | Level | Proficiency Bonus | Class Features | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
@@ -44,6 +49,8 @@ As a Witch, you gain the following class features when you reach the specified W
 | 9 | +4 | &mdash; | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass Feature | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 </div>
+
+\page
 
 #### Level 1: Herbal Sage
 
@@ -61,6 +68,21 @@ When a creature you can see makes an attack roll or casts a spell that targets o
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
+#### Level 2: Witch's Familiar
+
+You learn the *Find Familiar* spell. It is always prepared for you and doesn’t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+
+When casting *Find Familiar* using this feature, you do so as a ritual. You may use an Herbalism Kit or Cook’s Utensils as your spellcasting focus for the casting.
+
+**Independent Spirit.**
+Your familiar is unusually willful and assertive. It can take the **Attack action** on its turn. When it does, it makes a single attack that benefits from your proficiency bonus. On turns it attacks, the familiar can’t cast spells or deliver your spells.
+
+{note}
+**TODO:**
+Consider subclass-specific upgrades to the familiar (e.g. form options, magical traits, casting abilities). <br>
+At higher levels, allow familiars with higher CR, or enhanced functions akin to the Warlock's *Pact of the Chain*. <br>
+Explore "Coven Familiars" or shared familiars as part of group or subclass features.
+{note}
 
 #### Level 3: Witch Subclass
 
