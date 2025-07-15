@@ -37,7 +37,7 @@ As a Witch, you gain the following class features when you reach the specified W
 
 <div class='wide'>
 | Level | Proficiency Bonus | Class Features | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-|:-----:|:-----------:|:--------------:|:---------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---------|
+|:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | +2 | Spellcasting, Herbal Sage, Witch Armor | 3 | 2 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2 | +2 | &mdash; | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -68,7 +68,20 @@ When a creature you can see makes an attack roll or casts a spell that targets o
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
-#### Level 2: Witch's Familiar
+#### Level 2: Sharp Words
+
+You learn the *Hex* spell. It is always prepared for you and doesn’t count against the number of spells you can prepare.
+
+You can cast *Hex* without expending a spell slot using only verbal components. You can do so twice, and you regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
+
+You gain additional uses when you reach certain Witch levels:
+- **5th level**: 3 uses
+- **11th level**: 4 uses
+- **17th level**: 5 uses
+
+When you cast *Hex* using this feature, you can use your Cook’s Utensils or Herbalism Kit as your spellcasting focus.
+
+#### Level 2: Dangerous Familiar
 
 You learn the *Find Familiar* spell. It is always prepared for you and doesn’t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
