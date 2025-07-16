@@ -274,7 +274,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
 
 - **Dissonant Whispers** <br>
-  Psychic pain that drives enemies away.
+  Psychic pain that drives enemies away and instills respect.
+  You are satisfied to share fear.
 
 - **Earth Tremor** <br>
   Shakes the ground, knocks prone, and leaves rough terrain.
@@ -372,11 +373,9 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Invisibility** <br>
   A trick of breath and intention; the Witch is there, but not seen.
 
-- **Mirror Image** <br>
-  Is that her? Or her? Or her?
-
-- **Phantasmal Force** <br>
-  A haunting made to measure; illusions that draw blood&mdash;if they believe.
+- **Rope Trick** <br>
+  A hidden treehouse without a tree.
+  A Witch can do surprising things with a bit of strong string.
 
 - **See Invisibility** <br>
   Not all unseen things are harmless. Best to know.
@@ -416,10 +415,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A terrible vision sends foes fleeing &mdash; your shadow stretches farther than your body.
 
 - **Hypnotic Pattern** <br>
-  A swirling, mind-drowning display that pacifies the mind. Candlelight, fireflies, or spiraling ash &mdash; whatever binds the eye.
-
-- **Vampiric Touch** <br>
-  A draining grasp of necrotic hunger fueled by pain, healed by harm.
+  A swirling, mind-drowning display that pacifies the mind.
+  Candlelight, fireflies, spiraling ash binds the eye.
 
 ##### 🔍 Utility, Ritual, & Trickery
 
@@ -428,9 +425,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Fly** <br>
   Grant flight to yourself or another. Whether on broom, crow-feet, or wind-whistle, the sky opens to you.
-
-- **Major Image** <br>
-  Craft full illusions that speak, move, and mislead. Convince the senses and the soul may follow.
 
 - **Sending** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
@@ -446,9 +440,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Arcane Eye** <br>
   You send forth an invisible scout &mdash; a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven’s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
-  
+
 - **Divination** <br>
-  [Description here]
+  Smoke curling, bones rattling, or a hated mirror reflecting your true self.
+  The future speaks if you open your senses.
 
 \page
 
@@ -473,10 +468,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Feather Fall* |
-| 5           | *Misty Step*, *Moonbeam*, *[Spell 3]* |
-| 7           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
-| 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
+| 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Feather Fall*, *Moonbeam* |
+| 5           | *Major Image* |
+| 7           | *Greater Invisibility*, *Hallucinatory Terrain* |
+| 9           | [none] |
 
 - **Color Spray** <br>
   A dazzling burst of multicolored light overwhelms the senses.  
@@ -494,9 +489,17 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   You or your allies float gently to the ground.  
   Good thing you cast this, otherwise _splat_.
 
-- **Misty Step** <br>
-  A slip between shadows.
-  Not all Witches walk the same path twice.
+- **Greater Invisibility** <br>
+  You or another you touch _stay_ invisible.
+  Perfect daggers or kisses slipped unseen.
+
+- **Hallucinatory Terrain** <br>
+  A forest, a graveyard glade, a marsh a sunlit shore, up to your imagination.
+  You rewrite the world for targets.
+
+- **Major Image** <br>
+  Craft full illusions that speak, move, and mislead.
+  Convince the senses and the soul may follow.
 
 - **Moonbeam** <br>
   A radiant pillar of lunar light burns away foes and blocks their egress.
@@ -520,13 +523,18 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | Witch Level | Spell |
 |:--:|:--|
 | 3           | *Aid*, *Calm Emotions*, *Sanctuary* |
-| 5           | *Create Food and Water*, *Warding Bond*, *[Spell 3]* |
-| 7           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
-| 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
+| 5           | *Beacon of Hope*, *Create Food and Water*, *Leomund&rsquo;s Tiny Hut* |
+| 7           | *Mordenkainen's Private Sanctum* |
+| 9           | *Dream*, *Greater Restoration*, *Mass Cure Wounds* |
 
 - **Aid** <br>
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
+
+- **Beacon of Hope** <br>
+  Healing heals you more than usual.
+  I&rsquo;m no substitute for a proper healer, but I do what I can.
+  Keep your chin up.
 
 - **Calm Emotions** <br>
   Soothe anger, fear, or suspicion in a crowd or a companion.
@@ -534,10 +542,34 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
-  No one goes without when a proper witch is near.
+  No one goes without when with a proper witch in their company.
 
-- **Warding Bond** <br>
-  The Witch shares her strength with another&mdash;a silver thread ties fates together.
+- **Dream** <br>
+  Communicate or frighten others in their dreams through yourself or someone you touch.
+  I had the most odd dream last night.
+  I&rsquo;m certain I was talking with the king and he talked back.
+
+- **Greater Restoration** <br>
+  Fixes most serious ailments and cursed magic items.
+  Now doesn&rsquo;t that feel better?
+
+- **Leomund&rsquo;s Tiny Hut** <br>
+  A safe space from magic and the natural elements.
+  It&rsquo;s not much, but better than nothing and a fireball.
+  Would you pass the biscuits?
+
+- **Mass Cure Wounds** <br>
+  Significant healing for up to six creatures.
+  You get healing, and you get healing, and &hellip; _everyone_ gets healing!
+  Did I remember to use _Beacon of Hope_ first?
+
+- **Mordenkainen&rsquo;s Private Sanctum** <br>
+  Within these wards, your guests and secrets are safe.
+  A Witch keeps her hearth protected from scrying eyes.
+
+- **Sanctuary** <br>
+  An attacker must choose a different target if they cannot oppose your willpower.
+  A Witch stands up for those who cannot stand for themselves.
 
 \page
 
@@ -561,14 +593,18 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spells |
 |:--:|:--|
-| 3           | *Command*, *Dissonant Whispers*, *Detect Thoughts*, *Suggestion* |
-| 5           | *Beast Sense*, *Clairvoyance*, *Phantasmal Force* |
-| 7           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
-| 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
+| 3           | *Beast Sense*, *Command*, *Detect Thoughts*, *Suggestion*, *Phantasmal Force* |
+| 5           | *Clairvoyance*, *Vampiric Touch* |
+| 7           | *Blight*, *Death Ward*, *Polymorph* |
+| 9           | *Dominate Person*, *Legend Lore* |
 
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
   One step from _Borrowing_ them.
+
+- **Blight** <br>
+  Destroy plant life or strongly damage a foe.
+  Witches save their folk and are woe to those against.
 
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.  
@@ -578,19 +614,34 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A single word for others to obey: sit, flee, drop, grovel.
   Respect of you is manifest.
 
-- **Dissonant Whispers** <br>
-  Psychic pain that drives enemies away and instills respect.
-  You are satisfied to share fear.
+- **Death Ward** <br>
+  A quiet sigil, unseen, catches a final blow. Death must come twice.
+  And I&rsquo;ve met those bones as equals.
 
 - **Detect Thoughts** <br>
   Read surface thoughts and probe deeper into a creature&rsquo;s mind.  
   Few things hide from your knowing gaze.
+
+- **Dominate Person** <br>
+  Strongly control another creature.
+  You will pay the cost later, but right now your goals are all that matter.
+
+- **Legend Lore** <br>
+  Learn about other people, places or events, now or in the past.
+  Most folk are astonished at your wisdom but you know how the trick is done, and the key is fame.
 
 - **Suggestion** <br>
   One whisper takes root and they obey before they’ve thought it through.
 
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
+
+- **Polymorph** <br>
+  You take the form of another creature for a time with your mind and their body.
+  Why _borrow_ when you can steal?
+
+- **Vampiric Touch** <br>
+  A draining grasp of necrotic hunger fueled by pain, healed by harm.
 
 ### Level 6: Borrowing
 
