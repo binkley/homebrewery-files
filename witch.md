@@ -447,6 +447,16 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and awkward village dinners.
 
+#### Level 4 Witch Spells
+
+> _The fourth candle is lit in solitude. Your powers now walk ahead of you, sent through storm, shadow, or a silent eye._
+
+##### 🔍 Utility, Ritual, & Trickery
+
+- **Arcane Eye** <br>
+  You send forth an invisible scout — a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven’s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
+
+
 \page
 
 ## Witch Subclasses
