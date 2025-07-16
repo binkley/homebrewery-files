@@ -361,9 +361,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Mind Spike** <br>
   A cursed thorn of thought; it sears with psychic pain and leaves a lingering connection.
 
-- **Moonbeam** <br>
-  A ghostly column of silver flame that punishes shapeshifters and trespassers. Cold, radiant, and merciless&mdash;like judgment in the night.
-
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
 
@@ -471,7 +468,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 #### Level 3: Flower Power
 
-Your herbal skills border on the supernatural.
+Your herbal knowledge border on the supernatural.
 
 You gain proficiency in the _Nature_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
 
@@ -482,15 +479,20 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 **TODO** Sort out subclass spells from general class spell list.
 
 | Witch Level | Spell |
-|:-----------:|:-|
+|:--:|:--|
 | 3           | *Color Spray*, *Feather Fall* |
 | 5           | *Moonbeam* |
+
+- **Moonbeam** <br>
+  A ghostly column of silver flame that punishes shapeshifters and trespassers. Cold, radiant, and merciless&mdash;like judgment in the night.
+
+\page
 
 ### The Mother
 
 #### Level 3: Honey-tongued
 
-Your persuasion of others borders on the supernatural.
+Your natural personality borders on the supernatural.
 
 You gain proficiency in the _Persuasion_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
 
@@ -499,17 +501,45 @@ You gain proficiency in the _Persuasion_ skill. If you're already proficient in 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
 | Witch Level | Spell |
-|:-----------:|:-|
+|:--:|:--|
 | 3           | *Calm Emotions*, *[Spell 2]* |
 | 5           | *Create Food and Water*, *[Spell 2]* |
+
+\page
+
 
 ### The Crone
 
 #### Level 3: Sharp-tongued
 
-Your intimidation of others borders on the supernatural.
+Your commanding presence borders on the supernatural.
 
-You gain proficiency in the _Intimidation_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
+You gain proficiency in the _Intimidation_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it (expertise).
+
+#### Level 3: Crone Spells
+
+When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and chilling wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
+
+| Witch Level | Spells |
+|:--:|:--|
+| 3           | *Dissonant Whispers*, *Detect Thoughts*, *Suggestion* |
+| 5           | *Clairvoyance*, *Divination* |
+
+- **Dissonant Whispers** <br>
+  A rasped word or gaze that writhes in the mind. Flight is instinct — and pain accompanies it.
+
+- **Detect Thoughts** <br>
+  Minds murmur around you like crows on a wire. You know what they fear.
+
+- **Suggestion** <br>
+  One whispered truth takes root — and they find themselves obeying before they’ve thought it through.
+
+- **Clairvoyance** <br>
+  A second sight, placed far away. See or hear what others would rather keep hidden.
+
+- **Divination** <br>
+  The bones fall. The leaves scatter. The answer lies in the pattern — if you dare to look.
+
 
 #### Level 3: Crone Spells
 
@@ -517,9 +547,13 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:-----------:|:-|
-| 3           | *Armor of Agathys*, *Command* |
+| 3           | *Command*, *Dissonant Whispers* |
 | 5           | *Clairvoyance*, *Phantasmal Force* |
 
+- **Dissonant Whispers** <br>
+  Psychic pain that drives enemies away.
+
+\page
 
 ### The [SUBCLASS NAME]
 
