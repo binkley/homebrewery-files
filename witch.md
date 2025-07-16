@@ -364,15 +364,29 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 #### Level 3 Witch Spells
 
-> _PITHY QUOTE._
+> _The charm deepens, the glance sharpens, and the broom is no longer just for sweeping._
 
 ##### 🛡️ Ally Buffs & Wards
 
 ##### 📌 Damage & Control
 
+- **Enemies Abound** <br>
+  Scramble a foe’s sense of friend and foe — paranoia and panic in whispered form.  
+  A cruel trick from the Crone, or a test from a stern Mother.
+
+- **Hypnotic Pattern** <br>
+  A twisting sigil or graceful movement entrances all who see — held fast, minds undone.  
+  The Crone’s dance, the Mother’s lullaby, or the Maiden’s glittering snare.
+
+- **Slow** <br>
+  Twist time, thicken air, sap strength and clarity — six become sluggish with a glance.  
+  Like molasses on memory or sleep pressed heavy on limbs.
+
 ##### 🔍 Utility, Ritual, & Trickery
+
 - **Fly** <br>
-  You prefer a broom, but can make do as long as it doesn't catch fire.
+  Lift off with grace or urgency — borne aloft by broom, breeze, or will alone.  
+  A classic Witch’s trick, whether for flight, fright, or vanishing into the stormy sky.
 
 \page
 
