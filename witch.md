@@ -44,7 +44,7 @@ You learn an additional Witch cantrip at levels 4 and 10, as shown in the Cantri
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose **two** level 1 Witch spells.
 
-The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional Witch spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include four Witch spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional Witch spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include four Witch spells of levels 1 or 2 in any combination.
 
 If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
 
