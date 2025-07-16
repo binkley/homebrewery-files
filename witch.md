@@ -153,6 +153,14 @@ You may only cast these spells as rituals. They do not count against your spells
 
 When casting one of these rituals, you may use a **witch&rsquo;s focus** &mdash; an herbalism kit, cook&rsquo;s utensils, or arcane focus &mdash; in place of any material component that lacks a listed gold cost.
 
+### Level 6: Flying Witches
+
+You gain a **Broom of Flying**.
+
+### Level 9: Improved Familiar
+
+When casting **Find Familiar** you may choose any creature of CR 1 or lower.
+
 \page
 
 ## Witch Spell List
