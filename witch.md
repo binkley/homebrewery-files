@@ -271,9 +271,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ##### 📌 Damage & Control
 
-- **Armor of Agathys** <br>
-  Cold ward that harms attackers; perfect for a Witch&rsquo;s frosty resolve.
-
 - **Cause Fear** <br>
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
 
@@ -285,9 +282,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Entangle** <br>
   Roots rise up to imprison those who overstep.
-
-- **Faerie Fire** <br>
-  Enchants the air around foes with flickering light &mdash; reveals the unseen and invites reprisal.
 
 - **Hex** <br>
   A spiteful curse that saps strength and fuels further harm.
@@ -312,8 +306,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Alarm** <br>
   An unseen tripwire of bells and thread.
 
-- **Command** <br>
-  A single word; absolute obedience &mdash; for a moment.
+- **Ceremony** <br>
+  As a community leader you are looked on.
 
 - **Detect Poison and Disease** <br>
   _&ldquo;Don&rsquo;t drink that.&rdquo;_ Essential village wisdom.
@@ -457,14 +451,16 @@ Not just a plain list, but some description how to use, and why the Witch has th
 ##### 🔍 Utility, Ritual, & Trickery
 
 - **Arcane Eye** <br>
-  You send forth an invisible scout — a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven’s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
-
+  You send forth an invisible scout &mdash; a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven’s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
 
 \page
 
 ## Witch Subclasses
 
+You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass’s features that are of your Witch level or lower.
+
 ### The Maiden
+_[Short phrase describing]_
 
 #### Level 3: Flower Power
 
@@ -480,8 +476,17 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Color Spray*, *Feather Fall* |
+| 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Feather Fall* |
 | 5           | *Moonbeam* |
+
+- **Chaos Bolt** <br>
+  A damaging spell with unclear results. You are not sure quite what you cast.
+
+- **Color Spray** <br>
+  Dazzle those in front of you. They should learn to respect a witch.
+
+- **Faerie Fire** <br>
+  Enchants the air around foes with flickering light revealing the unseen and making obvious targets.
 
 - **Moonbeam** <br>
   A ghostly column of silver flame that punishes shapeshifters and trespassers. Cold, radiant, and merciless&mdash;like judgment in the night.
@@ -489,6 +494,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 \page
 
 ### The Mother
+_[Short phrase describing]_
 
 #### Level 3: Honey-tongued
 
@@ -507,8 +513,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 \page
 
-
 ### The Crone
+_[Short phrase describing]_
 
 #### Level 3: Sharp-tongued
 
@@ -546,12 +552,42 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 When you choose this Calling at 3rd level, you gain additional spells that reflect the eerie presence and foresight of a wise Witch. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
 | Witch Level | Spell |
-|:-----------:|:-|
-| 3           | *Command*, *Dissonant Whispers* |
-| 5           | *Clairvoyance*, *Phantasmal Force* |
+|:--:|:--|
+| 3           | *Armor of Agathys*, Command*, *Dissonant Whispers* |
+| 5           | *Beast Sense*, *Clairvoyance*, *Phantasmal Force* |
+
+- **Armor of Agathys** <br>
+  Cold ward that harms attackers and matches a Witch&rsquo;s frosty resolve.
+
+- **Beast Sense** <br>
+  See though the eyes of a natural creature. One step from _Borrowing_ them.
+
+- **Clairvoyance** <br>
+
+- **Command** <br>
+  A single word; absolute obedience for a now.
 
 - **Dissonant Whispers** <br>
-  Psychic pain that drives enemies away.
+  Psychic pain that drives enemies away and instills respect.
+
+### Level 6: Borrowing
+
+You inhabit the body of a natural creature for up to 1 day.
+
+You can cast a special form of **Magic Jar** on a non-hostile _Beast_ or _Plant_ within range of your senses. The target does not make a saving throw. Its own body serves as the container, and remains aware as a silent observer.
+
+Borrowing ends early if the borrowed creature drops to 0 hit points or after 1 day.
+
+If the creature is already possessed or protected by _Protection from Evil and Good_, _Magic Circle_, or similar magic, the borrowing fails. The target must have a CR equal to or lower than your limit as shown below.
+
+If the Witch borrows a creature for more than 1 hour, they gain 1 level of _Exhaustion_.
+
+You may use this feature once, regaining its use when you finish a long rest.
+
+| Witch Level | Maximum CR |
+|:-----------:|:----------:|
+| 6           | 1          |
+| 10          | 2          |
 
 \page
 
