@@ -445,7 +445,24 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ### The Maiden
 
+#### Maiden Spells
+
+When you choose this Calling at 3rd level, you gain additional spells that reflect the wild, bright magic of youthful witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
+
+| Witch Level | Spell |
+|:-----------:|:-|
+| 3           | *Color Spray*, *Feather Fall* |
+
 ### The Mother
+
+#### Mother Spells
+
+When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
+
+| Witch Level | Spell |
+|:-----------:|:-|
+| 3           | *Calm Emotions*, *[Spell 2]* |
+| 5           | *Create Food and Water*, *[Spell 2]* |
 
 ### The Crone
 
@@ -457,7 +474,7 @@ Witches of the [Subclass Name] aspect channel the power of the [Maiden / Mother 
 [brief flavor text about philosophy, role, or magical outlook].  
 They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
 
-#### Bonus Spells
+#### [SUBCLASS] Spells
 
 You gain additional spells based on your subclass. These spells are always prepared for you and don’t count against the number of spells you can prepare.
 
