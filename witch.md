@@ -134,7 +134,9 @@ You gain proficiency in the _Insight_ skill. If you're already proficient in it,
 
 Starting at 5th level, your connection to your coven &mdash; real or imagined &mdash; grants you insight into deeper rituals.
 
-Choose one ritual spell from any full caster&rsquo;s spell list (Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) of 3rd level or lower. This spell counts as a Witch spell for you, and you can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
+You automatically learn **Augury**, and it counts as a Witch spell for you. You can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
+
+In addition, choose one other ritual spell from any full caster&rsquo;s spell list (Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) of 3rd level or lower. This spell counts as a Witch spell for you, and you can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.<br>
 
 You may change this spell whenever you gain a level in this class, reflecting a shift in your coven&rsquo;s knowledge or priorities.
 
