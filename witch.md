@@ -167,6 +167,8 @@ When casting **Find Familiar** you may choose any creature of CR 1 or lower.
 
 Not just a plain list, but some description how to use, and why the Witch has these.
 
+**TODO** Adjust the share spell lists with those specific to a subclass.
+
 \page
 
 #### Cantrips (Level 0 Witch Spells)
@@ -253,9 +255,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 > _A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
 
 ##### 🛡️ Ally Buffs & Wards
-
-- **Aid** <br>
-  Bolsters allies with lasting vitality. A Witch&rsquo;s comfort made manifest.
 
 - **Heroism** <br>
   Temp HP and fear immunity &mdash; courage brewed in a teacup.
@@ -366,11 +365,12 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ##### 🔍 Utility, Ritual, & Trickery
 
+- **Animal Messenger** <br>
+
 - **Augury** <br>
   Bones, leaves, and smoke&mdash;the signs are never wrong, only misread.
 
-- **Detect Thoughts** <br>
-  A sip of another&rsquo;s mind&mdash;best done politely, or not at all.
+- **Borrowed Knowledge** <br>
 
 - **Invisibility** <br>
   A trick of breath and intention; the Witch is there, but not seen.
@@ -452,6 +452,9 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Arcane Eye** <br>
   You send forth an invisible scout &mdash; a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven’s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
+  
+- **Divination** <br>
+  [Description here]
 
 \page
 
@@ -477,7 +480,9 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | Witch Level | Spell |
 |:--:|:--|
 | 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Feather Fall* |
-| 5           | *Moonbeam* |
+| 5           | *Moonbeam*, *[Spell 2]*, *[Spell 3]* |
+| 7           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
+| 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
 
 - **Chaos Bolt** <br>
   A damaging spell with unclear results. You are not sure quite what you cast.
@@ -487,6 +492,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Faerie Fire** <br>
   Enchants the air around foes with flickering light revealing the unseen and making obvious targets.
+
+- **Feather Fall** <br>
 
 - **Moonbeam** <br>
   A ghostly column of silver flame that punishes shapeshifters and trespassers. Cold, radiant, and merciless&mdash;like judgment in the night.
@@ -508,13 +515,27 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Calm Emotions*, *[Spell 2]* |
-| 5           | *Create Food and Water*, *[Spell 2]* |
+| 3           | *Calm Emotions*, *[Spell 2]*, *[Spell 3]* |
+| 5           | *Aid*, *Create Food and Water*, *[Spell 3]* |
+| 7           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
+| 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
+
+- **Aid** <br>
+  Bolsters allies with lasting vitality. A Witch&rsquo;s comfort made manifest.
+
+- **Calm Emotions** <br>
+
+- **Create Food and Water** <br>
 
 \page
 
 ### The Crone
-_[Short phrase describing]_
+
+> _Flavorful quote, folklore fragment, or thematic tagline._
+
+Witches of the C aspect channel the power of the [Maiden / Mother / Crone] —
+[brief flavor text about philosophy, role, or magical outlook].  
+They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
 
 #### Level 3: Sharp-tongued
 
@@ -524,40 +545,14 @@ You gain proficiency in the _Intimidation_ skill. If you're already proficient i
 
 #### Level 3: Crone Spells
 
-When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and chilling wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
+When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
 | Witch Level | Spells |
 |:--:|:--|
-| 3           | *Dissonant Whispers*, *Detect Thoughts*, *Suggestion* |
-| 5           | *Clairvoyance*, *Divination* |
-
-- **Dissonant Whispers** <br>
-  A rasped word or gaze that writhes in the mind. Flight is instinct — and pain accompanies it.
-
-- **Detect Thoughts** <br>
-  Minds murmur around you like crows on a wire. You know what they fear.
-
-- **Suggestion** <br>
-  One whispered truth takes root — and they find themselves obeying before they’ve thought it through.
-
-- **Clairvoyance** <br>
-  A second sight, placed far away. See or hear what others would rather keep hidden.
-
-- **Divination** <br>
-  The bones fall. The leaves scatter. The answer lies in the pattern — if you dare to look.
-
-
-#### Level 3: Crone Spells
-
-When you choose this Calling at 3rd level, you gain additional spells that reflect the eerie presence and foresight of a wise Witch. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
-
-| Witch Level | Spell |
-|:--:|:--|
-| 3           | *Armor of Agathys*, Command*, *Dissonant Whispers* |
+| 3           | *Command*, *Dissonant Whispers*, *Detect Thoughts*, *Suggestion* |
 | 5           | *Beast Sense*, *Clairvoyance*, *Phantasmal Force* |
-
-- **Armor of Agathys** <br>
-  Cold ward that harms attackers and matches a Witch&rsquo;s frosty resolve.
+| 7           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
+| 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
 
 - **Beast Sense** <br>
   See though the eyes of a natural creature. One step from _Borrowing_ them.
@@ -569,6 +564,22 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Dissonant Whispers** <br>
   Psychic pain that drives enemies away and instills respect.
+
+- **Detect Thoughts** <br>
+  A sip of another&rsquo;s mind&mdash;best done politely.
+
+- **Suggestion** <br>
+  One whisper takes root and they obey before they’ve thought it through.
+
+- **Clairvoyance** <br>
+  A second sight, placed far away. See or hear what others would rather keep hidden.
+
+- **Divination** <br>
+  Fall winds, tea leaves, sweaty palms, all shape an answer. What is the pattern?
+
+- **Suggestion** <br>
+
+- **Phantasmal Force** <br>
 
 ### Level 6: Borrowing
 
