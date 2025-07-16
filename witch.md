@@ -11,7 +11,7 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial.
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
 | **Armor Training** | None |
-| **Starting Equipment** | _Choose A or B:_ (A) Traveller's Clothes (including a witch&rsquo;s hat), a Sickle or Quarterstaff, a Healer&rsquo;s Kit, an Herbalism Kit, Cook&rsquo;s Utensils, four Candles, a Pouch containing 10 GP, and an Explorer's Pack; or (B) 50 GP |
+| **Starting Equipment** | _Choose A or B:_ (A) Traveler's Clothes (including a Witch&rsquo;s hat), a Sickle or Quarterstaff, a Healer&rsquo;s Kit, an Herbalism Kit, Cook&rsquo;s Utensils, four Candles, a Pouch containing 10 GP, and an Explorer's Pack; or (B) 50 GP |
 {note}
 
 #### TODO: DESCRIPTIVE INTRODUCTION PARAGRAPHS
