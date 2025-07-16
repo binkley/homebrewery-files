@@ -44,9 +44,9 @@ You learn an additional Witch cantrip at levels 4 and 10, as shown in the Cantri
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose **two** level 1 Witch spells.
 
-The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional Witch spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Witch, your list of prepared spells can include four Witch spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional Witch spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include four Witch spells of levels 1 and 2 in any combination.
 
-If another Witch feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
+If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
 
 **Changing Your Prepared Spells.** Whenever you gain a Witch level, you can replace one spell on your list with another Witch spell for which you have spell slots.
 
@@ -77,7 +77,7 @@ If another Witch feature gives you spells that you always have prepared, those s
 
 Your understanding of plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies, leaves and mushrooms.
 
-When using an _Herbalism Kit_, you can use your Wisdom modifier instead of your Intelligence modifier for any ability checks made with the kit. You also add your proficiency bonus if you aren’t already doing so.
+When using an _Herbalism Kit_, you can use your Wisdom modifier instead of your Intelligence modifier for any ability checks made with the kit. You also add your proficiency bonus if you aren&rsquo;t already doing so.
 
 In addition, you always have advantage on any ability check made using an _Herbalism Kit_.
 
@@ -91,7 +91,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 #### Level 2: Sharp Words
 
-You learn the *Hex* spell. It is always prepared for you and doesn’t count against the number of spells you can prepare.
+You learn the *Hex* spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare.
 
 You can cast *Hex* without expending a spell slot using only verbal components. You can do so twice, and you regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
@@ -100,16 +100,16 @@ You gain additional uses when you reach certain Witch levels:
 - **11th level**: 4 uses
 - **17th level**: 5 uses
 
-When you cast *Hex* using this feature, you can use your Cook’s Utensils or Herbalism Kit as your spellcasting focus.
+When you cast *Hex* using this feature, you can use your Cook&rsquo;s Utensils or Herbalism Kit as your spellcasting focus.
 
 #### Level 2: Dangerous Familiar
 
-You learn the *Find Familiar* spell. It is always prepared for you and doesn’t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+You learn the *Find Familiar* spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
-When casting *Find Familiar* using this feature, you do so as a ritual. You may use an Herbalism Kit or Cook’s Utensils as your spellcasting focus for the casting.
+When casting *Find Familiar* using this feature, you do so as a ritual. You may use an Herbalism Kit or Cook&rsquo;s Utensils as your spellcasting focus for the casting.
 
 **Independent Spirit.**
-Your familiar is unusually willful and assertive. It can take the **Attack action** on its turn. When it does, it makes a single attack that benefits from your proficiency bonus. On turns it attacks, the familiar can’t cast spells or deliver your spells.
+Your familiar is unusually willful and assertive. It can take the **Attack action** on its turn. When it does, it makes a single attack that benefits from your proficiency bonus. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
 
 {note}
 **TODO:**
@@ -128,12 +128,34 @@ Your insight into others borders on the supernatural.
 
 You gain proficiency in the _Insight_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
 
+### Level 5: Coven Magic
+
+> _Three stand beneath the moon. The spell is cast not alone, but in echo and accord._
+
+Starting at 5th level, your connection to your coven &mdash; real or imagined &mdash; grants you insight into deeper rituals.
+
+Choose one ritual spell from any full caster&rsquo;s spell list (Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) of 3rd level or lower. This spell counts as a Witch spell for you, and you can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
+
+You may change this spell whenever you gain a level in this class, reflecting a shift in your coven&rsquo;s knowledge or priorities.
+
+At higher levels, your coven&rsquo;s lore deepens:
+
+| Witch Level | Ritual Spells Known | Max Spell Level |
+|:-----------:|:-------------------:|:---------------:|
+| 5           | 1                   | 3rd             |
+| 9           | 2                   | 4th             |
+| 13          | 3                   | 5th             |
+| 17          | 4                   | 6th             |
+
+You may only cast these spells as rituals. They do not count against your spells prepared.
+
+When casting one of these rituals, you may use a **witch&rsquo;s focus** &mdash; an herbalism kit, cook&rsquo;s utensils, or arcane focus &mdash; in place of any material component that lacks a listed gold cost.
+
 \page
 
 ## Witch Spell List
 
 Not just a plain list, but some description how to use, and why the Witch has these.
-
 
 \page
 
@@ -214,13 +236,11 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A flair for storytelling, and a reason to respect a Witch.
   _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
 
-
 \page
 
 #### Level 1 Witch Spells
 
 > _A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
-
 
 ##### 🛡️ Ally Buffs & Wards
 - **Aid** <br>
@@ -300,7 +320,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 ##### 🛡️ Ally Buffs & Wards
 
 - **Enhance Ability** <br>
-  A blessing of wit, strength, or grace — tailored to the task, or the tale.
+  A blessing of wit, strength, or grace&mdash;tailored to the task, or the tale.
 
 - **Lesser Restoration** <br>
   A charm against poison or paralysis; a true village healer knows when to cleanse.
@@ -309,41 +329,41 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Draws the venom out with smoke, salt, and an old rhyme.
 
 - **Warding Bond** <br>
-  The Witch shares her strength with another — a silver thread ties fates together.
+  The Witch shares her strength with another&mdash;a silver thread ties fates together.
 
 ##### 📌 Damage & Control
 
 - **Blindness/Deafness** <br>
-  Salt in the eyes, a whispered jinx — the senses fail under the Witch’s curse.
+  Salt in the eyes, a whispered jinx&mdash;the senses fail under the Witch&rsquo;s curse.
 
 - **Crown of Madness** <br>
-  A jagged charm of influence — cruel, theatrical, and thoroughly Witchy.
+  A jagged charm of influence&mdash;cruel, theatrical, and thoroughly Witchy.
 
 - **Hold Person** <br>
-  A witch’s glare that paralyzes the body. Curse, freeze, or bind — the will obeys.
+  A witch&rsquo;s glare that paralyzes the body. Curse, freeze, or bind&mdash;the will obeys.
 
 - **Mind Spike** <br>
   A cursed thorn of thought; it sears with psychic pain and leaves a lingering connection.
 
 - **Moonbeam** <br>
-  A ghostly column of silver flame that punishes shapeshifters and trespassers. Cold, radiant, and merciless — like judgment in the night.
+  A ghostly column of silver flame that punishes shapeshifters and trespassers. Cold, radiant, and merciless&mdash;like judgment in the night.
 
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
 
 - **Shatter** <br>
-  A resonance of malice that cracks bone and glass. A Witch’s rage given voice.
+  A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
 
-- **Tasha’s Mind Whip** <br>
+- **Tasha&rsquo;s Mind Whip** <br>
   A lash of psychic force unravels the mind and disrupts action. Cruel, precise, and deeply unsettling. Rename as _Witch's Lash_ for flavor if desired.
 
 ##### 🔍 Utility, Ritual, & Trickery
 
 - **Augury** <br>
-  Bones, leaves, and smoke — the signs are never wrong, only misread.
+  Bones, leaves, and smoke&mdash;the signs are never wrong, only misread.
 
 - **Detect Thoughts** <br>
-  A sip of another’s mind — best done politely, or not at all.
+  A sip of another&rsquo;s mind&mdash;best done politely, or not at all.
 
 - **Invisibility** <br>
   A trick of breath and intention; the Witch is there, but not seen.
@@ -352,10 +372,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Is that her? Or her? Or her?
 
 - **Misty Step** <br>
-  A slip between shadows — not all Witches walk the same path twice.
+  A slip between shadows&mdash;not all Witches walk the same path twice.
 
 - **Phantasmal Force** <br>
-  A haunting made to measure; illusions that draw blood — if they believe.
+  A haunting made to measure; illusions that draw blood&mdash;if they believe.
 
 - **See Invisibility** <br>
   Not all unseen things are harmless. Best to know.
@@ -364,29 +384,58 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 #### Level 3 Witch Spells
 
-> _The charm deepens, the glance sharpens, and the broom is no longer just for sweeping._
+> _This is the turning point. A third candle is lit. You may now call lightning, bind fate, or vanish with a scream. People begin to fear you&mdash;or seek you out._
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Catnap** <br>
+  Send up to three creatures into a magical slumber for a brief but deeply restful nap. Ideal for harried familiars, wounded allies, or covenmates between crises.
+
+- **Life Transference** <br>
+  Give your life to heal another&mdash;blood for blood, breath for breath.
+
+- **Revivify** <br>
+  A soul still warm may yet be coaxed back. The price is steep, the window narrow, and the Witch must act quickly.
+
 ##### 📌 Damage & Control
 
+- **Bestow Curse** <br>
+  A lingering malediction tailored to your spite.
+
+- **Call Lightning** <br>
+  Under a stormy sky, your wrath becomes thunder made flesh.
+
+- **Counterspell** <br>
+  A stern gesture and sharp word unravel enemy magic mid-cast.
+
 - **Enemies Abound** <br>
-  Scramble a foe’s sense of friend and foe — paranoia and panic in whispered form.  
-  A cruel trick from the Crone, or a test from a stern Mother.
+  Confuse a creature&rsquo;s mind so it sees all as threats. Let your foes tear each other apart.
+
+- **Fear** <br>
+  A terrible vision sends foes fleeing &mdash; your shadow stretches farther than your body.
 
 - **Hypnotic Pattern** <br>
-  A twisting sigil or graceful movement entrances all who see — held fast, minds undone.  
-  The Crone’s dance, the Mother’s lullaby, or the Maiden’s glittering snare.
+  A swirling, mind-drowning display that pacifies the mind. Candlelight, fireflies, or spiraling ash &mdash; whatever binds the eye.
 
-- **Slow** <br>
-  Twist time, thicken air, sap strength and clarity — six become sluggish with a glance.  
-  Like molasses on memory or sleep pressed heavy on limbs.
+- **Vampiric Touch** <br>
+  A draining grasp of necrotic hunger fueled by pain, healed by harm.
 
 ##### 🔍 Utility, Ritual, & Trickery
 
+- **Dispel Magic** <br>
+  A sweeping charmbreaker&mdash;sometimes with a broom, sometimes with bilewort.
+
 - **Fly** <br>
-  Lift off with grace or urgency — borne aloft by broom, breeze, or will alone.  
-  A classic Witch’s trick, whether for flight, fright, or vanishing into the stormy sky.
+  Grant flight to yourself or another. Whether on broom, crow-feet, or wind-whistle, the sky opens to you.
+
+- **Major Image** <br>
+  Craft full illusions that speak, move, and mislead. Convince the senses and the soul may follow.
+
+- **Sending** <br>
+  Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
+
+- **Tongues** <br>
+  Speak and be understood, no matter the creature. Useful for parley, curses, and awkward village dinners.
 
 \page
 
