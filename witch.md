@@ -337,9 +337,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Protection from Poison** <br>
   Draws the venom out with smoke, salt, and an old rhyme.
 
-- **Warding Bond** <br>
-  The Witch shares her strength with another&mdash;a silver thread ties fates together.
-
 ##### 📌 Damage & Control
 
 - **Blindness/Deafness** <br>
@@ -377,9 +374,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Mirror Image** <br>
   Is that her? Or her? Or her?
-
-- **Misty Step** <br>
-  A slip between shadows&mdash;not all Witches walk the same path twice.
 
 - **Phantasmal Force** <br>
   A haunting made to measure; illusions that draw blood&mdash;if they believe.
@@ -462,6 +456,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass’s features that are of your Witch level or lower.
 
+**TODO** Sort out subclass spells from general class spell list.
+
 ### The Maiden
 _[Short phrase describing]_
 
@@ -475,28 +471,36 @@ You gain proficiency in the _Nature_ skill. If you're already proficient in it, 
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the wild, bright magic of youthful witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
-**TODO** Sort out subclass spells from general class spell list.
-
 | Witch Level | Spell |
 |:--:|:--|
 | 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Feather Fall* |
-| 5           | *Moonbeam*, *[Spell 2]*, *[Spell 3]* |
+| 5           | *Misty Step*, *Moonbeam*, *[Spell 3]* |
 | 7           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
 | 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
 
-- **Chaos Bolt** <br>
-  A damaging spell with unclear results. You are not sure quite what you cast.
-
 - **Color Spray** <br>
-  Dazzle those in front of you. They should learn to respect a witch.
+  A dazzling burst of multicolored light overwhelms the senses.  
+  Flair, chaos, and a touch of drama can be more potent than blades.
+
+- **Chaos Bolt** <br>
+  A damaging spell with magical results; sometimes it jumps to others.
+  You are not sure quite what you cast.
 
 - **Faerie Fire** <br>
-  Enchants the air around foes with flickering light revealing the unseen and making obvious targets.
+  Enchant the air around foes to make obvious targets and reveal the unseen.
+  Faeries are good, right?
 
 - **Feather Fall** <br>
+  You or your allies float gently to the ground.  
+  Good thing you cast this, otherwise _splat_.
+
+- **Misty Step** <br>
+  A slip between shadows.
+  Not all Witches walk the same path twice.
 
 - **Moonbeam** <br>
-  A ghostly column of silver flame that punishes shapeshifters and trespassers. Cold, radiant, and merciless&mdash;like judgment in the night.
+  A radiant pillar of lunar light burns away foes and blocks their egress.
+  Why can&rsquo;t I cast this at coven?
 
 \page
 
@@ -515,17 +519,25 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Calm Emotions*, *[Spell 2]*, *[Spell 3]* |
-| 5           | *Aid*, *Create Food and Water*, *[Spell 3]* |
+| 3           | *Aid*, *Calm Emotions*, *Sanctuary* |
+| 5           | *Create Food and Water*, *Warding Bond*, *[Spell 3]* |
 | 7           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
 | 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
 
 - **Aid** <br>
-  Bolsters allies with lasting vitality. A Witch&rsquo;s comfort made manifest.
+  Bolsters allies with lasting vitality.
+  A Witch&rsquo;s comfort shared with friends.
 
 - **Calm Emotions** <br>
+  Soothe anger, fear, or suspicion in a crowd or a companion.
+  Like a hug, a cookie, and a firm tone all at once.
 
 - **Create Food and Water** <br>
+  Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
+  No one goes without when a proper witch is near.
+
+- **Warding Bond** <br>
+  The Witch shares her strength with another&mdash;a silver thread ties fates together.
 
 \page
 
@@ -555,31 +567,30 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 9           | *[Spell 1]*, *[Spell 2]*, *[Spell 3]* |
 
 - **Beast Sense** <br>
-  See though the eyes of a natural creature. One step from _Borrowing_ them.
+  See though the eyes of a natural creature.
+  One step from _Borrowing_ them.
 
 - **Clairvoyance** <br>
+  See or hear from afar through a chosen point.  
+  A bowl of water, a raven’s eyes, a knot in the tree, all spy for you.
 
 - **Command** <br>
-  A single word; absolute obedience for a now.
+  A single word for others to obey: sit, flee, drop, grovel.
+  Respect of you is manifest.
 
 - **Dissonant Whispers** <br>
   Psychic pain that drives enemies away and instills respect.
+  You are satisfied to share fear.
 
 - **Detect Thoughts** <br>
-  A sip of another&rsquo;s mind&mdash;best done politely.
+  Read surface thoughts and probe deeper into a creature&rsquo;s mind.  
+  Few things hide from your knowing gaze.
 
 - **Suggestion** <br>
   One whisper takes root and they obey before they’ve thought it through.
 
-- **Clairvoyance** <br>
-  A second sight, placed far away. See or hear what others would rather keep hidden.
-
-- **Divination** <br>
-  Fall winds, tea leaves, sweaty palms, all shape an answer. What is the pattern?
-
-- **Suggestion** <br>
-
 - **Phantasmal Force** <br>
+  A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
 ### Level 6: Borrowing
 
@@ -599,52 +610,3 @@ You may use this feature once, regaining its use when you finish a long rest.
 |:-----------:|:----------:|
 | 6           | 1          |
 | 10          | 2          |
-
-\page
-
-### The [SUBCLASS NAME]
-
-> _Flavorful quote, folklore fragment, or thematic tagline._
-
-Witches of the [Subclass Name] aspect channel the power of the [Maiden / Mother / Crone] —
-[brief flavor text about philosophy, role, or magical outlook].  
-They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
-
-#### [SUBCLASS] Spells
-
-You gain additional spells based on your subclass. These spells are always prepared for you and don’t count against the number of spells you can prepare.
-
-| Witch Level | Spells |
-|:-----------:|:-------|
-| 3rd | *[Spell 1]*, *[Spell 2]* |
-| 5th | *[Spell 3]*, *[Spell 4]* |
-| 9th | *[Spell 5]*, *[Spell 6]* |
-
-These spells count as Witch spells for you, and you may cast them using Witch spell slots.
-
-#### [Level 3 Feature Name]
-
-*Description of the feature gained at 3rd level.*  
-Explain how it connects to the subclass flavor, what it enables in play (e.g., curses, healing, reactions, battlefield control), and whether it uses limited resources or passive benefits.
-
-#### [Level 6 Feature Name]
-
-*Description of the feature gained at 6th level.*  
-Typically improves or expands on the 3rd-level feature or introduces a new way of influencing the field (e.g., area denial, aura, hex amplification, spiritual insight, shadow teleportation).
-
-#### [Level 10 Feature Name]
-
-*Description of the feature gained at 10th level.*  
-May introduce a powerful passive effect or a new use of an existing ability (e.g., immunity to certain conditions, control over fate, ritual casting speedup, or expanded familiar utility).
-
-#### [Level 14 Feature Name]
-
-*Description of the feature gained at 14th level.*  
-This is the capstone subclass feature — strong, thematic, and unique.  
-Should feel earned and impactful without overshadowing high-level spells.  
-Possibilities include:
-- Free use of a powerful spell
-- Upgraded familiar or coven magic
-- Reactive hexes
-- Death denial
-- Battlefield control aura
