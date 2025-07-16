@@ -89,7 +89,7 @@ When a creature you can see makes an attack roll or casts a spell that targets o
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
-#### Level 2: Sharp Words
+#### Level 2: Cross Words
 
 You learn the *Hex* spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare.
 
@@ -253,6 +253,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 > _A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
 
 ##### 🛡️ Ally Buffs & Wards
+
 - **Aid** <br>
   Bolsters allies with lasting vitality. A Witch&rsquo;s comfort made manifest.
 
@@ -269,6 +270,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Discourages hostile action against an ally &mdash; _mind your manners_.
 
 ##### 📌 Damage & Control
+
 - **Armor of Agathys** <br>
   Cold ward that harms attackers; perfect for a Witch&rsquo;s frosty resolve.
 
@@ -303,6 +305,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
 
 ##### 🔍 Utility, Ritual, & Trickery
+
+- **Animal Friendship** <br>
+  Beasts of field, forest, air or waters recognize you.
+  
 - **Alarm** <br>
   An unseen tripwire of bells and thread.
 
@@ -463,17 +469,32 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ### The Maiden
 
-#### Maiden Spells
+#### Level 3: Flower Power
+
+Your herbal skills border on the supernatural.
+
+You gain proficiency in the _Nature_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
+
+#### Level 3: Maiden Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the wild, bright magic of youthful witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
+
+**TODO** Sort out subclass spells from general class spell list.
 
 | Witch Level | Spell |
 |:-----------:|:-|
 | 3           | *Color Spray*, *Feather Fall* |
+| 5           | *Moonbeam* |
 
 ### The Mother
 
-#### Mother Spells
+#### Level 3: Honey-tongued
+
+Your persuasion of others borders on the supernatural.
+
+You gain proficiency in the _Persuasion_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
+
+#### Level 3: Mother Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
@@ -483,6 +504,22 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 5           | *Create Food and Water*, *[Spell 2]* |
 
 ### The Crone
+
+#### Level 3: Sharp-tongued
+
+Your intimidation of others borders on the supernatural.
+
+You gain proficiency in the _Intimidation_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
+
+#### Level 3: Crone Spells
+
+When you choose this Calling at 3rd level, you gain additional spells that reflect the eerie presence and foresight of a wise Witch. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
+
+| Witch Level | Spell |
+|:-----------:|:-|
+| 3           | *Armor of Agathys*, *Command* |
+| 5           | *Clairvoyance*, *Phantasmal Force* |
+
 
 ### The [SUBCLASS NAME]
 
@@ -501,8 +538,6 @@ You gain additional spells based on your subclass. These spells are always prepa
 | 3rd | *[Spell 1]*, *[Spell 2]* |
 | 5th | *[Spell 3]*, *[Spell 4]* |
 | 9th | *[Spell 5]*, *[Spell 6]* |
-| 13th | *[Spell 7]*, *[Spell 8]* |
-| 17th | *[Spell 9]*, *[Spell 10]* |
 
 These spells count as Witch spells for you, and you may cast them using Witch spell slots.
 
