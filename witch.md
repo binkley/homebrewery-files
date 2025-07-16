@@ -446,3 +446,52 @@ Not just a plain list, but some description how to use, and why the Witch has th
 ### The Mother
 
 ### The Crone
+
+### The [SUBCLASS NAME]
+
+> _Flavorful quote, folklore fragment, or thematic tagline._
+
+Witches of the [Subclass Name] aspect channel the power of the [Maiden / Mother / Crone] —
+[brief flavor text about philosophy, role, or magical outlook].  
+They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
+
+#### Bonus Spells
+
+You gain additional spells based on your subclass. These spells are always prepared for you and don’t count against the number of spells you can prepare.
+
+| Witch Level | Spells |
+|:-----------:|:-------|
+| 3rd | *[Spell 1]*, *[Spell 2]* |
+| 5th | *[Spell 3]*, *[Spell 4]* |
+| 9th | *[Spell 5]*, *[Spell 6]* |
+| 13th | *[Spell 7]*, *[Spell 8]* |
+| 17th | *[Spell 9]*, *[Spell 10]* |
+
+These spells count as Witch spells for you, and you may cast them using Witch spell slots.
+
+#### [Level 3 Feature Name]
+
+*Description of the feature gained at 3rd level.*  
+Explain how it connects to the subclass flavor, what it enables in play (e.g., curses, healing, reactions, battlefield control), and whether it uses limited resources or passive benefits.
+
+#### [Level 6 Feature Name]
+
+*Description of the feature gained at 6th level.*  
+Typically improves or expands on the 3rd-level feature or introduces a new way of influencing the field (e.g., area denial, aura, hex amplification, spiritual insight, shadow teleportation).
+
+#### [Level 10 Feature Name]
+
+*Description of the feature gained at 10th level.*  
+May introduce a powerful passive effect or a new use of an existing ability (e.g., immunity to certain conditions, control over fate, ritual casting speedup, or expanded familiar utility).
+
+#### [Level 14 Feature Name]
+
+*Description of the feature gained at 14th level.*  
+This is the capstone subclass feature — strong, thematic, and unique.  
+Should feel earned and impactful without overshadowing high-level spells.  
+Possibilities include:
+- Free use of a powerful spell
+- Upgraded familiar or coven magic
+- Reactive hexes
+- Death denial
+- Battlefield control aura
