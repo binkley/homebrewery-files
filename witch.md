@@ -111,13 +111,6 @@ When casting *Find Familiar* using this feature, you do so as a ritual. You may 
 **Independent Spirit.**
 Your familiar is unusually willful and assertive. It can take the **Attack action** on its turn. When it does, it makes a single attack that benefits from your proficiency bonus. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
 
-{note}
-**TODO:**
-Consider subclass-specific upgrades to the familiar (e.g. form options, magical traits, casting abilities). <br>
-At higher levels, allow familiars with higher CR, or enhanced functions akin to the Warlock's *Pact of the Chain*. <br>
-Explore "Coven Familiars" or shared familiars as part of group or subclass features.
-{note}
-
 #### Level 3: Witch Subclass
 
 You gain a Witch subclass of your choice.
@@ -153,25 +146,27 @@ You may only cast these spells as rituals. They do not count against your spells
 
 When casting one of these rituals, you may use a **witch&rsquo;s focus** &mdash; an herbalism kit, cook&rsquo;s utensils, or arcane focus &mdash; in place of any material component that lacks a listed gold cost.
 
-### Level 7: Flying Witches
+### Level 7: Witches Fly Free
 
 You gain a **Broom of Flying**.
 
-This is a powerful, storied magic item, some say too powerful. But when you need to be somewhere, _flying_ is the only way to travel. It is amazing how much you can carry on a broom.
+This is a powerful, storied magic item &mdash; some say too powerful. But when you need to be somewhere in a hurry, _flying_ is the only way to travel. It&rsquo;s amazing how much you can carry on a broom.
+
+If you already possess this item, you are granted a different suitable magic item, chosen by the DM.
+
+#### Difficult Customer
+
+When haggling over other means of travel you have **advantage** on _Charisma (Intimidation)_ or _Charisma (Persuasion) checks_. Witches rarely pay full price for themselves, and never twice.
 
 ### Level 9: Improved Familiar
 
-When casting **Find Familiar** you may choose any creature of CR 1 or lower.
+When casting **Find Familiar** you may choose any creature of challenge rating 1 or lower.
 
 \page
 
 ## Witch Spell List
 
 Not just a plain list, but some description how to use, and why the Witch has these.
-
-**TODO** Adjust the share spell lists with those specific to a subclass.
-
-\page
 
 #### Cantrips (Level 0 Witch Spells)
 
@@ -291,6 +286,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Inflict Wounds** <br>
   A brutal, unassuming touch that rots flesh.
 
+- **Ray of Sickness** <br>
+
 - **Thunderwave** <br>
   A forceful burst for those moments when subtlety fails.
 
@@ -395,6 +392,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Life Transference** <br>
   Give your life to heal another&mdash;blood for blood, breath for breath.
+
+- **Magic Circle** <br>
   
 - **Remove Curse** <br>
 
@@ -428,6 +427,9 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Dispel Magic** <br>
   A sweeping charmbreaker&mdash;sometimes with a broom, sometimes with bilewort.
 
+- **Feign Death** <br>
+  It appears dead.
+
 - **Fly** <br>
   Grant flight to yourself or another. Whether on broom, crow-feet, or wind-whistle, the sky opens to you.
 
@@ -436,6 +438,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and awkward village dinners.
+
+\page
 
 #### Level 4 Witch Spells
 
