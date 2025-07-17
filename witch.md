@@ -266,7 +266,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Iron pins, salt circles, and stern words keep the otherworld at bay.
 
 - **Sanctuary** <br>
-  Discourages hostile action against an ally &mdash; _mind your manners_.
+  An attacker must choose a different target if they cannot oppose your willpower.
+  A Witch stands up for those who cannot stand for themselves.
 
 ##### 📌 Damage & Control
 
@@ -379,7 +380,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A Witch can do surprising things with a bit of strong string.
 
 - **See Invisibility** <br>
-  Not all unseen things are harmless. Best to know.
+  Not all unseen things are harmless.
+  _I know you're there._
 
 \page
 
@@ -396,7 +398,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Give your life to heal another&mdash;blood for blood, breath for breath.
 
 - **Revivify** <br>
-  A soul still warm may yet be coaxed back. The price is steep, the window narrow, and the Witch must act quickly.
+  A soul still warm may yet be coaxed back.
+  _Get up you lazy bones! Death is no excuse._
 
 ##### 📌 Damage & Control
 
@@ -523,7 +526,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Aid*, *Calm Emotions*, *Sanctuary* |
+| 3           | *Aid*, *Calm Emotions* |
 | 5           | *Beacon of Hope*, *Create Food and Water*, *Leomund&rsquo;s Tiny Hut* |
 | 7           | *Mordenkainen's Private Sanctum* |
 | 9           | *Dream*, *Greater Restoration*, *Mass Cure Wounds* |
@@ -568,10 +571,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Within these wards, your guests and secrets are safe.
   A Witch keeps her hearth protected from scrying eyes.
 
-- **Sanctuary** <br>
-  An attacker must choose a different target if they cannot oppose your willpower.
-  A Witch stands up for those who cannot stand for themselves.
-
 \page
 
 ### The Crone
@@ -597,7 +596,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 3           | *Beast Sense*, *Command*, *Detect Thoughts*, *Suggestion*, *Phantasmal Force* |
 | 5           | *Clairvoyance*, *Vampiric Touch* |
 | 7           | *Blight*, *Death Ward*, *Polymorph* |
-| 9           | *Dominate Beast*, *Legend Lore* |
+| 9           | *Dominate Beast* |
 
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
@@ -626,10 +625,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Dominate Beast** <br>
   Strongly control a _beast_.
   You will pay the cost later, but right now your goals are all that matter.
-
-- **Legend Lore** <br>
-  Learn about other people, places or events, now or in the past.
-  Most folk are astonished at your wisdom but you know how the trick is done, and the key is fame.
 
 - **Suggestion** <br>
   One whisper takes root and they obey before they’ve thought it through.
