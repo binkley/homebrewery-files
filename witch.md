@@ -277,9 +277,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Dissonant Whispers** <br>
   Psychic pain that drives enemies away and instills respect.
 
-- **Earth Tremor** <br>
-  Shakes the ground, knocks prone, and leaves rough terrain.
-
 - **Entangle** <br>
   Roots rise up to imprison those who overstep.
 
@@ -396,6 +393,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Life Transference** <br>
   Give your life to heal another&mdash;blood for blood, breath for breath.
+  
+- **Remove Curse** <br>
 
 - **Revivify** <br>
   A soul still warm may yet be coaxed back.
