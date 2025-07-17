@@ -534,11 +534,13 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 3           | *Aid*, *Calm Emotions* |
 | 5           | *Beacon of Hope*, *Create Food and Water*, *Leomund&rsquo;s Tiny Hut* |
 | 7           | *Mordenkainen's Private Sanctum* |
-| 9           | *Dream*, *Greater Restoration*, *Mass Cure Wounds* |
+| 9           | *Aura of Life*, *Dream*, *Greater Restoration* |
 
 - **Aid** <br>
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
+
+- **Aura of Life** <br>
 
 - **Beacon of Hope** <br>
   Healing heals you more than usual.
@@ -566,11 +568,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
   Would you pass the biscuits?
-
-- **Mass Cure Wounds** <br>
-  Significant healing for up to six creatures.
-  You get healing, and you get healing, and &hellip; _everyone_ gets healing!
-  Did I remember to use _Beacon of Hope_ first?
 
 - **Mordenkainen&rsquo;s Private Sanctum** <br>
   Within these wards, your guests and secrets are safe.
