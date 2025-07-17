@@ -1,6 +1,6 @@
 # The Witch
 A D&D 5e (2024) spellcasting class. <br>
-Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial.
+Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. Someone to respect, listen to, and fear in confrontations.
 
 | Core Witch Traits ||
 |--|--|
@@ -14,7 +14,11 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial.
 | **Starting Equipment** | _Choose A or B:_ (A) Traveler's Clothes (including a Witch&rsquo;s hat), a Sickle or Quarterstaff, a Healer&rsquo;s Kit, an Herbalism Kit, Cook&rsquo;s Utensils, four Candles, a Pouch containing 10 GP, and an Explorer's Pack; or (B) 50 GP |
 {note}
 
-#### TODO: DESCRIPTIVE INTRODUCTION PARAGRAPHS
+Witches are defined by their affinity with people and the world as it is. They read people, signs, and seasons; books are only a tool, not a devotion. Their magic arises from deep intuition and willpower, shaped by folk wisdom and occult traditions passed down through stories, dreams, and experience.
+
+A Witch&rsquo's powers sway crowds and kingdoms, glimpse the future, drive creatures of field, forest, and water, and protect those around them. There is whimsy and unreality in their actions and spells. A witch&rsquo;s curse is _terrible_.
+
+Most Witches are not taught in academies but by fellow Witches or through unexpected callings. Many live apart from the world, as village healers, wandering seers, or craggy hermits. Others hold court as matriarchs, midwives, folk queens, or figures of local legend. Above all, a Witch seeks _respect_.
 
 ### Becoming a Witch ...
 
@@ -59,16 +63,16 @@ If another Witch feature gives you spells that you always have prepared, those s
 <div class='wide'>
 | Level | Proficiency Bonus | Class Features  | Sharp Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | +2 | Spellcasting, Herbal Sage, Witch Armor | 2 | 3 | 2 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 2 | +2 | &mdash; | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 1 | +2 | Spellcasting, Herbal Sage, Witch Armor | 2 | 3 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2 | +2 | Cross Words, Dangerous Familiar | 2 | 3 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4 | +2 | ASI | 2 | 4 | 4 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5 | +3 | &mdash; | 3 | 4 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 6 | +3 | Subclass Feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | &mdash; | 3 | 4 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 6 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7 | +3 | Flying Witches | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8 | +3 | ASI | 4 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 9 | +4 | &mdash; | 4 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 10 | +4 | Subclass Feature, Third Sight | 4 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 10 | +4 | Subclass feature | 4 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 </div>
 
 \page
@@ -298,7 +302,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Animal Friendship** <br>
   Beasts of field, forest, air or waters recognize you.
-  
+
 - **Alarm** <br>
   An unseen tripwire of bells and thread.
 
@@ -325,11 +329,20 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Borrowed Knowledge** <br>
+  You are for a time better at something.
+  Witches and their odd knacks surprise others, and the Witch doesn&rsquo;t tell.
+
 - **Enhance Ability** <br>
-  A blessing of wit, strength, or grace&mdash;tailored to the task, or the tale.
+  A blessing of ability tailored to the task, or the tale.
+  _I&rsquo;m sure you can do it, dearie._
+
+- **Gentle Repose** <br>
+  Death comes but no need to hurry it along. Let the body remain for a while.
 
 - **Lesser Restoration** <br>
-  A charm against poison or paralysis; a true village healer knows when to cleanse.
+  You miracously feel better from a life-altering condition.
+  _You&rsquo;ll be right up in no time, I&rsquo;m sure._
 
 - **Protection from Poison** <br>
   Draws the venom out with smoke, salt, and an old rhyme.
@@ -355,6 +368,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
 
 - **Suggestion** <br>
+  One whisper takes root and they obey before they’ve thought it through.
 
 - **Tasha&rsquo;s Mind Whip** <br>
   A lash of psychic force unravels the mind and disrupts action. Cruel, precise, and deeply unsettling. Rename as _Witch's Lash_ for flavor if desired.
@@ -366,10 +380,14 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Augury** <br>
   Bones, leaves, and smoke&mdash;the signs are never wrong, only misread.
 
-- **Borrowed Knowledge** <br>
+- **Detect Thoughts** <br>
+  Read surface thoughts and probe deeper into a creature&rsquo;s mind.
+  Few things hide from your knowing gaze.
 
 - **Invisibility** <br>
   A trick of breath and intention; the Witch is there, but not seen.
+
+- **Locate Animals or Plants** <br>
 
 - **Rope Trick** <br>
   A hidden treehouse without a tree.
@@ -387,40 +405,59 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Beacon of Hope** <br>
+  Healing heals you more than usual.
+  _Not a substitute for a proper healer, but I do what I can._
+
 - **Catnap** <br>
-  Send up to three creatures into a magical slumber for a brief but deeply restful nap. Ideal for harried familiars, wounded allies, or covenmates between crises.
+  Send up to three creatures into a magical slumber for a brief but deeply restful nap.
+  _Harried familiars, tired allies: a good nap is all purpose._
 
 - **Life Transference** <br>
-  Give your life to heal another&mdash;blood for blood, breath for breath.
+  Give your some of your life force to heal another.
+  _This hurts; it really hurts. It hurts me more than it does you._
+
+- **Haste** <br>
+  Focus on speeding up a creature in your sight.
+  _Better them than you, but if you, take a good meal after._
 
 - **Magic Circle** <br>
-  
+  A circle of safety. Not only a circle on the ground, but above you as well.
+
 - **Remove Curse** <br>
+  Undo the harmful words of others.
+  _So they cursed you? Curse them back; it&rsquo;s just words._
 
 - **Revivify** <br>
-  A soul still warm may yet be coaxed back.
+  A soul still warm may be coaxed back.
   _Get up you lazy bones! Death is no excuse._
 
 ##### 📌 Damage & Control
 
+- **Antagonize** <br>
+
 - **Bestow Curse** <br>
   A lingering malediction tailored to your spite.
+  _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
 
 - **Call Lightning** <br>
   Under a stormy sky, your wrath becomes thunder made flesh.
+  _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
 
 - **Counterspell** <br>
   A stern gesture and sharp word unravel enemy magic mid-cast.
+  _Take that!_
 
 - **Enemies Abound** <br>
-  Confuse a creature&rsquo;s mind so it sees all as threats. Let your foes tear each other apart.
+  Confuse a creature&rsquo;s mind so it sees all as threats and let them fight amongst themselves.
+  _Did you hear what they called you?_
 
 - **Fear** <br>
-  A terrible vision sends foes fleeing &mdash; your shadow stretches farther than your body.
+  A vision sends foes fleeing. Your shadow stretches farther than your body, and recalls their worst terrors.
 
 - **Hypnotic Pattern** <br>
   A swirling, mind-drowning display that pacifies the mind.
-  Candlelight, fireflies, spiraling ash binds the eye.
+  They seem stupid now, but will remember you after with the hand-waving and the confetti.
 
 ##### 🔍 Utility, Ritual, & Trickery
 
@@ -428,10 +465,14 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A sweeping charmbreaker&mdash;sometimes with a broom, sometimes with bilewort.
 
 - **Feign Death** <br>
-  It appears dead.
+  It or you appear dead.
 
 - **Fly** <br>
-  Grant flight to yourself or another. Whether on broom, crow-feet, or wind-whistle, the sky opens to you.
+  Grant flight to yourself or another.
+  When a broom is out, tap the feet to rise.
+
+- **Nondetection** <br>
+  Hide from pyring magical eyes for a time.
 
 - **Sending** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
@@ -445,6 +486,14 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 > _The fourth candle is lit in solitude. Your powers now walk ahead of you, sent through storm, shadow, or a silent eye._
 
+##### 🛡️ Ally Buffs & Wards
+
+##### 📌 Damage & Control
+
+- **Banishment** <br>
+
+- **Sickening Radiance** <br>
+
 ##### 🔍 Utility, Ritual, & Trickery
 
 - **Arcane Eye** <br>
@@ -453,6 +502,22 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Divination** <br>
   Smoke curling, bones rattling, or a hated mirror reflecting your true self.
   The future speaks if you open your senses.
+
+\page
+
+##### 🛡️ Ally Buffs & Wards
+
+##### 📌 Damage & Control
+
+##### 🔍 Utility, Ritual, & Trickery
+
+#### Leve 5 Witch Spells
+
+- **Dream** <br>
+  Communicate or frighten others in their dreams through yourself or someone you touch.
+  I had the most odd dream last night.
+  I&rsquo;m certain I was talking with the king and he talked back.
+
 
 \page
 
@@ -480,10 +545,12 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Feather Fall*, *Moonbeam* |
 | 5           | *Major Image* |
 | 7           | *Greater Invisibility*, *Hallucinatory Terrain* |
-| 9           | [none] |
+| 9           | *Aura of Purity*, *Font of Moonlight* |
+
+- **Aura of Purity** <br>
 
 - **Color Spray** <br>
-  A dazzling burst of multicolored light overwhelms the senses.  
+  A dazzling burst of multicolored light overwhelms the senses.
   Flair, chaos, and a touch of drama can be more potent than blades.
 
 - **Chaos Bolt** <br>
@@ -495,8 +562,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Faeries are good, right?
 
 - **Feather Fall** <br>
-  You or your allies float gently to the ground.  
+  You or your allies float gently to the ground.
   Good thing you cast this, otherwise _splat_.
+
+- **Font of Moonlight** <br>
 
 - **Greater Invisibility** <br>
   You or another you touch _stay_ invisible.
@@ -531,10 +600,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Aid*, *Calm Emotions* |
-| 5           | *Beacon of Hope*, *Create Food and Water*, *Leomund&rsquo;s Tiny Hut* |
+| 3           | *Aid*, *Calm Emotions*, *Comprehend Languages* |
+| 5           | *Create Food and Water*, *Leomund&rsquo;s Tiny Hut*, *Tongues* |
 | 7           | *Mordenkainen's Private Sanctum* |
-| 9           | *Aura of Life*, *Dream*, *Greater Restoration* |
+| 9           | *Aura of Life*, *Greater Restoration* |
 
 - **Aid** <br>
   Bolsters allies with lasting vitality.
@@ -542,23 +611,15 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Aura of Life** <br>
 
-- **Beacon of Hope** <br>
-  Healing heals you more than usual.
-  I&rsquo;m no substitute for a proper healer, but I do what I can.
-  Keep your chin up.
-
 - **Calm Emotions** <br>
   Soothe anger, fear, or suspicion in a crowd or a companion.
   Like a hug, a cookie, and a firm tone all at once.
 
+- **Comprehend Languages** <br>
+
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
   No one goes without when with a proper witch in their company.
-
-- **Dream** <br>
-  Communicate or frighten others in their dreams through yourself or someone you touch.
-  I had the most odd dream last night.
-  I&rsquo;m certain I was talking with the king and he talked back.
 
 - **Greater Restoration** <br>
   Fixes most serious ailments and cursed magic items.
@@ -573,6 +634,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Within these wards, your guests and secrets are safe.
   A Witch keeps her hearth protected from scrying eyes.
 
+- **Tongues** <br>
+
 \page
 
 ### The Crone
@@ -580,7 +643,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 > _Flavorful quote, folklore fragment, or thematic tagline._
 
 Witches of the C aspect channel the power of the [Maiden / Mother / Crone] —
-[brief flavor text about philosophy, role, or magical outlook].  
+[brief flavor text about philosophy, role, or magical outlook].
 They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
 
 #### Level 3: Sharp-tongued
@@ -595,10 +658,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spells |
 |:--:|:--|
-| 3           | *Beast Sense*, *Command*, *Detect Thoughts*, *Suggestion*, *Phantasmal Force* |
-| 5           | *Clairvoyance*, *Vampiric Touch* |
+| 3           | *Beast Sense*, *Command* *Enthrall*, *Phantasmal Force* |
+| 5           | *Clairvoyance*, *Speak with Plants*, *Vampiric Touch* |
 | 7           | *Blight*, *Death Ward*, *Polymorph* |
-| 9           | *Dominate Beast* |
+| 9           | *Compulsion*, *Dominate Beast*, *Phantasmal Killer* |
 
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
@@ -609,30 +672,31 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Witches save their folk and are woe to those against.
 
 - **Clairvoyance** <br>
-  See or hear from afar through a chosen point.  
+  See or hear from afar through a chosen point.
   A bowl of water, a raven’s eyes, a knot in the tree, all spy for you.
 
 - **Command** <br>
   A single word for others to obey: sit, flee, drop, grovel.
   Respect of you is manifest.
 
+- **Compulsion** <br>
+
 - **Death Ward** <br>
   A quiet sigil, unseen, catches a final blow. Death must come twice.
   And I&rsquo;ve met those bones as equals.
-
-- **Detect Thoughts** <br>
-  Read surface thoughts and probe deeper into a creature&rsquo;s mind.  
-  Few things hide from your knowing gaze.
 
 - **Dominate Beast** <br>
   Strongly control a _beast_.
   You will pay the cost later, but right now your goals are all that matter.
 
-- **Suggestion** <br>
-  One whisper takes root and they obey before they’ve thought it through.
+- **Enthrall** <br>
+
+- **Speak with Plants** <br>
 
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
+
+- **Phantasmal Killer** <br>
 
 - **Polymorph** <br>
   You take the form of another creature for a time with your mind and their body.
