@@ -275,7 +275,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Dissonant Whispers** <br>
   Psychic pain that drives enemies away and instills respect.
-  You are satisfied to share fear.
 
 - **Earth Tremor** <br>
   Shakes the ground, knocks prone, and leaves rough terrain.
@@ -357,6 +356,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Shatter** <br>
   A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
+
+- **Suggestion** <br>
 
 - **Tasha&rsquo;s Mind Whip** <br>
   A lash of psychic force unravels the mind and disrupts action. Cruel, precise, and deeply unsettling. Rename as _Witch's Lash_ for flavor if desired.
@@ -596,7 +597,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 3           | *Beast Sense*, *Command*, *Detect Thoughts*, *Suggestion*, *Phantasmal Force* |
 | 5           | *Clairvoyance*, *Vampiric Touch* |
 | 7           | *Blight*, *Death Ward*, *Polymorph* |
-| 9           | *Dominate Person*, *Legend Lore* |
+| 9           | *Dominate Beast*, *Legend Lore* |
 
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
@@ -622,8 +623,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Read surface thoughts and probe deeper into a creature&rsquo;s mind.  
   Few things hide from your knowing gaze.
 
-- **Dominate Person** <br>
-  Strongly control another creature.
+- **Dominate Beast** <br>
+  Strongly control a _beast_.
   You will pay the cost later, but right now your goals are all that matter.
 
 - **Legend Lore** <br>
@@ -647,17 +648,19 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 You inhabit the body of a natural creature for up to 1 day.
 
-You can cast a special form of **Magic Jar** on a non-hostile _Beast_ or _Plant_ within range of your senses. The target does not make a saving throw. Its own body serves as the container, and remains aware as a silent observer.
+You can cast a special form of **Magic Jar** on a non-hostile _Beast_ or _Plant_ lacking the **Swarm** trait within range of your senses. The target does not make a saving throw. Its own body serves as the container for the spell, and remains aware as a silent, non-hostile observer.
+
+At 10<sup>th</sup> level you may borrow a creature with the **Swarm** trait such as a _Swarm of Bats_.
+
+If the creature is already possessed or protected by *Protection from Evil and Good*, *Magic Circle*, or similar magic, the borrowing fails. The target must have a challenge rating equal to or lower than your limit, as shown below.
 
 Borrowing ends early if the borrowed creature drops to 0 hit points or after 1 day.
 
-If the creature is already possessed or protected by _Protection from Evil and Good_, _Magic Circle_, or similar magic, the borrowing fails. The target must have a CR equal to or lower than your limit as shown below.
+If the Witch borrows a creature for more than 1 hour, you gain 1 level of _Exhaustion_.
 
-If the Witch borrows a creature for more than 1 hour, they gain 1 level of _Exhaustion_.
+You may use this feature once, and regain its use when you finish a long rest.
 
-You may use this feature once, regaining its use when you finish a long rest.
-
-| Witch Level | Maximum CR |
-|:-----------:|:----------:|
-| 6           | 1          |
-| 10          | 2          |
+| Witch Level | Maximum Challenge Rating |
+|:--:|:--:|
+| 6           | 1                        |
+| 10          | 2                        |
