@@ -65,7 +65,7 @@ If another Witch feature gives you spells that you always have prepared, those s
 | 4 | +2 | ASI | 2 | 4 | 4 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 5 | +3 | &mdash; | 3 | 4 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6 | +3 | Subclass Feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 7 | +3 | &mdash; | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 7 | +3 | Flying Witches | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8 | +3 | ASI | 4 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 9 | +4 | &mdash; | 4 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass Feature, Third Sight | 4 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -153,9 +153,11 @@ You may only cast these spells as rituals. They do not count against your spells
 
 When casting one of these rituals, you may use a **witch&rsquo;s focus** &mdash; an herbalism kit, cook&rsquo;s utensils, or arcane focus &mdash; in place of any material component that lacks a listed gold cost.
 
-### Level 6: Flying Witches
+### Level 7: Flying Witches
 
 You gain a **Broom of Flying**.
+
+This is a powerful, storied magic item, some say too powerful. But when you need to be somewhere, _flying_ is the only way to travel. It is amazing how much you can carry on a broom.
 
 ### Level 9: Improved Familiar
 
