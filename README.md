@@ -5,3 +5,4 @@
   martial.
   See [Homebrewery](https://homebrewery.naturalcrit.com/edit/acC04Sqxbdca) for
   online rendering.
+- [_Evil Eye_](./evil-eye.md) &mdash; a witchy Cantrip in DnDB style.
