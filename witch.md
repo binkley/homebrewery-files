@@ -160,7 +160,7 @@ If you already possess this item, you are granted a different suitable magic ite
 
 #### Difficult Customer
 
-When haggling over other means of travel you have **advantage** on _Charisma (Intimidation)_ or _Charisma (Persuasion) checks_. Witches rarely pay full price for themselves, and never twice.
+When haggling over other means of travel you have **advantage** on _Charisma (Intimidation or Persuasion)_ checks_. Witches rarely pay full price for themselves, and never twice.
 
 ### Level 9: Improved Familiar
 
