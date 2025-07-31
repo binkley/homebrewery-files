@@ -40,29 +40,30 @@ As a Witch, you gain the following class features when you reach the specified W
 
 #### Level 1: Spellcasting
 
-Drawing from the land, necessity, and the teachings of other witches, you can cast spells. The information below details how you use those rules with Witch spells, which appear on the Witch spell list.
+You have learned to draw from the land, necessity, and the teaching of other witches to cast spells. See the D&amp;D _Player&rsquo;s Handbook_ for the rules on spellcasting. The information below details how you use those rules with Witch spell, which appear in the Witch spell list later in the class&rsquo;s description.
 
-_**Cantrips.**_ You know three cantrips of your choice from the Witch spell list.
+_**Cantrips.**_ 
+You know three cantrips of your choice from the Witch spell list.
 
-Whenever you finish a long rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
+Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.  When you reach Witch levels 4 and 10, you learn another cantrip of your choice from the Witch spell list, as shown in the Cantrips column of the Witch Features table.
 
-When you reach Witch levels 4 and 10, you learn another cantrip of your choice from the Witch spell list, as shown in the Cantrips column of the Witch Features table.
+_**Spell Slots.**_ 
+The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-_**Spell Slots.**_ The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
-
-_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 spells from the Witch spell list.
+_**Prepared Spells of Level 1+.**_ 
+You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 spells from the Witch spell list.
 
 The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Witch, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Witch feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
+If another Witch feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
+
+_**Spellcasting Ability.**_ 
+Wisdom is your spellcasting ability for your Witch spells.
+
+_**Spellcasting Focus.**_ 
+You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellcasting Focus for your Witch spells.
 
 \page
-
-_**Changing Your Prepared Spells**_. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Witch spells for which you have spell slots.
-
-_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for your Witch spells.
-
-_**Spellcasting Focus.**_ You can use a Druidic Focus or Herbalism Kit as a Spellcasting Focus for your Witch spells.
 
 ##### Witch Features
 <div class='wide'>
@@ -72,11 +73,11 @@ _**Spellcasting Focus.**_ You can use a Druidic Focus or Herbalism Kit as a Spel
 | 2 | +2 | Cross Words, Dangerous Familiar | 2 | 3 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4 | +2 | ASI | 2 | 4 | 4 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5 | +3 | &mdash; | 3 | 4 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | Coven Magic | 3 | 4 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 7 | +3 | Flying Witches | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 7 | +3 | Witches Fly Free | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8 | +3 | ASI | 4 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 9 | +4 | &mdash; | 4 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 9 | +4 | Improved Familiar | 4 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass feature | 4 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 </div>
 
