@@ -31,8 +31,7 @@ Most Witches are not taught in academies but by fellow Witches or through unexpe
 
 #### As a Multiclass Character
 
-- Gain the Hit Point Die from the Core Witch Traits table.
-- Gain proficiency with the Herbalism Kit.
+- Gain the following traits from the Core Witch Traits table: Hit Point Die, proficiency in one skill of your choice, and proficiency with the Herbalism Kit.
 - Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table. See the multiclassing rules in the D&amp;D _Player&rsquo;s Handbook_ to determine your available spell slots.
 
 ### Witch Class Features
