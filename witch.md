@@ -2,7 +2,8 @@
 A D&D 5e (2024) spellcasting class. <br>
 Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. Someone to respect, listen to, and fear in confrontations.
 
-| Core Witch Traits ||
+##### Core Witch Traits
+|||
 |--|--|
 | **Primary Ability** | Wisdom |
 | **Hit Point Die** | D6 per Witch level |
@@ -12,11 +13,10 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. So
 | **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
 | **Armor Training** | None |
 | **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch’s hat); a component pouch or druidic focus; a sickle or quarterstaff; a healer’s kit; an herbalism kit; cook’s utensils; four candles; a pouch with 10 gp; and an explorer’s pack; (B) 50 gp |
-{note}
 
-Witches are defined by their affinity with people and the world as it is. They read people, signs, and seasons; books are only a tool, not a devotion. Their magic arises from deep intuition and willpower, shaped by folk wisdom and occult traditions passed down through stories, dreams, and experience.
+Witches rarely choose the path of magic so much as they are chosen by it. Signs of a witch’s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning the respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
 
-A Witch&rsquo's powers sway crowds and kingdoms, glimpse the future, drive creatures of field, forest, and water, and protect those around them. There is whimsy and unreality in their actions and spells. A witch&rsquo;s curse is _terrible_.
+A Witch&rsquo;s powers sway crowds and kingdoms, glimpse the future, drive creatures of field, forest, and water, and protect those around them. There is whimsy and unreality in their actions and spells. A witch&rsquo;s curse is _terrible_.
 
 Most Witches are not taught in academies but by fellow Witches or through unexpected callings. Many live apart from the world, as village healers, wandering seers, or craggy hermits. Others hold court as matriarchs, midwives, folk queens, or figures of local legend. Above all, a Witch seeks _respect_.
 
@@ -24,11 +24,16 @@ Most Witches are not taught in academies but by fellow Witches or through unexpe
 
 #### As a Level 1 Character
 
-**TODO**
+- Gain all the tratis in the Core Witch Traits table.
+- Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table.
+
+\column
 
 #### As a Multiclass Character
 
-**TODO**
+- Gain the Hit Point Die from the Core Witch Traits table.
+- Gain proficiency with the Herbalism Kit.
+- Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table. See the multiclassing rules in the D&amp;D _Player&rsquo;s Handbook_ to determine your available spell slots.
 
 ### Witch Class Features
 
@@ -60,6 +65,7 @@ If another Witch feature gives you spells that you always have prepared, those s
 
 \page
 
+##### Witch Features
 <div class='wide'>
 | Level | Proficiency Bonus | Class Features  | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
