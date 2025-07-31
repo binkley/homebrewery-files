@@ -40,29 +40,29 @@ As a Witch, you gain the following class features when you reach the specified W
 
 #### Level 1: Spellcasting
 
-Drawing from the land, necessity, and the teachings of other witches, you can cast spells.
+Drawing from the land, necessity, and the teachings of other witches, you can cast spells. The information below details how you use those rules with Witch spells, which appear on the Witch spell list.
 
-**Cantrips.** You know three Witch cantrips of your choice.
+_**Cantrips.**_ You know three cantrips of your choice from the Witch spell list.
 
 Whenever you finish a long rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
 
-You learn an additional Witch cantrip at levels 4 and 10, as shown in the Cantrips column of the Witch Features table.
+When you reach Witch levels 4 and 10, you learn another cantrip of your choice from the Witch spell list, as shown in the Cantrips column of the Witch Features table.
 
-**Spell Slots.** The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a long rest.
+_**Spell Slots.**_ The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose **two** level 1 Witch spells.
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 spells from the Witch spell list.
 
-The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional Witch spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include four Witch spells of levels 1 or 2 in any combination.
+The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Witch, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
-
-**Changing Your Prepared Spells.** Whenever you gain a Witch level, you can replace one spell on your list with another Witch spell for which you have spell slots.
-
-**Spellcasting Ability.** Wisdom is your spellcasting ability for your Witch spells.
-
-**Spellcasting Focus.** You can use an **druidic focus**, **herbalism kit**, or **cook&apos;s utensils** as a spellcasting focus for your Witch spells.
+If another Witch feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
 
 \page
+
+_**Changing Your Prepared Spells**_. Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Witch spells for which you have spell slots.
+
+_**Spellcasting Ability.**_ Wisdom is your spellcasting ability for your Witch spells.
+
+_**Spellcasting Focus.**_ You can use a Druidic Focus or Herbalism Kit as a Spellcasting Focus for your Witch spells.
 
 ##### Witch Features
 <div class='wide'>
@@ -136,15 +136,15 @@ Starting at 5th level, your connection to your coven &mdash; real or imagined &m
 
 You automatically learn **Augury**, and it counts as a Witch spell for you. You can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
 
+\page
+
 {note}
 Bird flocks, tea leaves, lay of the cards &mdash;the auspices don't lie, they're only misread.
 {note}
 
-In addition, choose one other ritual spell from any full caster&rsquo;s spell list (Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) of 3rd level or lower. This spell counts as a Witch spell for you, and you can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.<br>
+In addition, choose one other ritual spell from any full caster&rsquo;s spell list (Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) of 3rd level or lower. This spell counts as a Witch spell for you, and you can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
 
 You may change this spell whenever you gain a level in this class, reflecting a shift in your coven&rsquo;s knowledge or priorities.
-
-\page
 
 At higher levels, your coven&rsquo;s lore deepens:
 
@@ -243,6 +243,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Whisper across distance. Ideal for conspiracies and quiet warnings.
   _&ldquo;Don&rsquo;t turn around.&rdquo;_
 
+\page
+
 - **Minor Illusion** <br>
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
   A lie made visible or heard. A whisper in the dark, a fake door where none exists.
@@ -255,8 +257,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
   A flair for storytelling, and a reason to respect a Witch.
   _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
-
-\page
 
 #### Level 1 Witch Spells
 
@@ -375,14 +375,14 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Suggestion** <br>
   One whisper takes root and they obey before they’ve thought it through.
 
+\page
+
 - **Tasha&rsquo;s Mind Whip** <br>
   A lash of psychic force unravels the mind and disrupts action. Cruel, precise, and deeply unsettling. Rename as _Witch's Lash_ for flavor if desired.
 
 ##### 🔍 Utility, Ritual, & Trickery
 
 - **Animal Messenger** <br>
-
-\page
 
 - **Detect Thoughts** <br>
   Read surface thoughts and probe deeper into a creature&rsquo;s mind.
