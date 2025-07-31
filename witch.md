@@ -11,7 +11,7 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. So
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
 | **Armor Training** | None |
-| **Starting Equipment** | _Choose A or B:_ (A) Traveler's Clothes (including a Witch&rsquo;s hat), a Sickle or Quarterstaff, a Healer&rsquo;s Kit, an Herbalism Kit, Cook&rsquo;s Utensils, four Candles, a Pouch containing 10 GP, and an Explorer's Pack; or (B) 50 GP |
+| **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch’s hat); a component pouch or druidic focus; a sickle or quarterstaff; a healer’s kit; an herbalism kit; cook’s utensils; four candles; a pouch with 10 gp; and an explorer’s pack; (B) 50 gp |
 {note}
 
 Witches are defined by their affinity with people and the world as it is. They read people, signs, and seasons; books are only a tool, not a devotion. Their magic arises from deep intuition and willpower, shaped by folk wisdom and occult traditions passed down through stories, dreams, and experience.
@@ -56,7 +56,7 @@ If another Witch feature gives you spells that you always have prepared, those s
 
 **Spellcasting Ability.** Wisdom is your spellcasting ability for your Witch spells.
 
-**Spellcasting Focus.** You can use an **arcane focus**, **herbalism kit**, or **cook&apos;s utensils** as a spellcasting focus for your Witch spells.
+**Spellcasting Focus.** You can use an **druidic focus**, **herbalism kit**, or **cook&apos;s utensils** as a spellcasting focus for your Witch spells.
 
 **TODO** Formatting is hard here. The full-page table messes with layout for other sections.
 
@@ -148,7 +148,7 @@ At higher levels, your coven&rsquo;s lore deepens:
 
 You may only cast these spells as rituals. They do not count against your spells prepared.
 
-When casting one of these rituals, you may use a **witch&rsquo;s focus** &mdash; an herbalism kit, cook&rsquo;s utensils, or arcane focus &mdash; in place of any material component that lacks a listed gold cost.
+When casting one of these rituals, you may use a **witch&rsquo;s focus** &mdash; an herbalism kit, cook&rsquo;s utensils, or druidic focus &mdash; in place of any material component that lacks a listed gold cost.
 
 ### Level 7: Witches Fly Free
 
