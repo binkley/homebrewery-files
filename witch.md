@@ -58,10 +58,10 @@ If another Witch feature gives you spells that you always have prepared, those s
 
 **Spellcasting Focus.** You can use an **druidic focus**, **herbalism kit**, or **cook&apos;s utensils** as a spellcasting focus for your Witch spells.
 
-**TODO** Formatting is hard here. The full-page table messes with layout for other sections.
+\page
 
 <div class='wide'>
-| Level | Proficiency Bonus | Class Features  | Sharp Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| Level | Proficiency Bonus | Class Features  | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | +2 | Spellcasting, Herbal Sage, Witch Armor | 2 | 3 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2 | +2 | Cross Words, Dangerous Familiar | 2 | 3 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -74,8 +74,6 @@ If another Witch feature gives you spells that you always have prepared, those s
 | 9 | +4 | &mdash; | 4 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass feature | 4 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 </div>
-
-\page
 
 #### Level 1: Herbal Sage
 
@@ -137,6 +135,8 @@ In addition, choose one other ritual spell from any full caster&rsquo;s spell li
 
 You may change this spell whenever you gain a level in this class, reflecting a shift in your coven&rsquo;s knowledge or priorities.
 
+\page
+
 At higher levels, your coven&rsquo;s lore deepens:
 
 | Witch Level | Ritual Spells Known | Max Spell Level |
@@ -165,8 +165,6 @@ When haggling over other means of travel you have **advantage** on _Charisma (In
 ### Level 9: Improved Familiar
 
 When casting **Find Familiar** you may choose any creature of challenge rating 1 or lower.
-
-\page
 
 ## Witch Spell List
 
@@ -321,8 +319,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
 
-\page
-
 #### Level 2 Witch Spells
 
 > _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
@@ -380,6 +376,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Augury** <br>
   Bones, leaves, and smoke&mdash;the signs are never wrong, only misread.
 
+\page
+
 - **Detect Thoughts** <br>
   Read surface thoughts and probe deeper into a creature&rsquo;s mind.
   Few things hide from your knowing gaze.
@@ -396,8 +394,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **See Invisibility** <br>
   Not all unseen things are harmless.
   _I know you're there._
-
-\page
 
 #### Level 3 Witch Spells
 
@@ -445,7 +441,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
 
 - **Counterspell** <br>
-  A stern gesture and sharp word unravel enemy magic mid-cast.
+  A stern gesture and mindful word unravel enemy magic mid-cast.
   _Take that!_
 
 - **Enemies Abound** <br>
@@ -480,8 +476,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and awkward village dinners.
 
-\page
-
 #### Level 4 Witch Spells
 
 > _The fourth candle is lit in solitude. Your powers now walk ahead of you, sent through storm, shadow, or a silent eye._
@@ -503,23 +497,20 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Smoke curling, bones rattling, or a hated mirror reflecting your true self.
   The future speaks if you open your senses.
 
-\page
+#### Leve 5 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
 ##### 📌 Damage & Control
 
-##### 🔍 Utility, Ritual, & Trickery
+\page
 
-#### Leve 5 Witch Spells
+##### 🔍 Utility, Ritual, & Trickery
 
 - **Dream** <br>
   Communicate or frighten others in their dreams through yourself or someone you touch.
   I had the most odd dream last night.
   I&rsquo;m certain I was talking with the king and he talked back.
-
-
-\page
 
 ## Witch Subclasses
 
@@ -583,8 +574,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
 
-\page
-
 ### The Mother
 _[Short phrase describing]_
 
@@ -625,6 +614,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Fixes most serious ailments and cursed magic items.
   Now doesn&rsquo;t that feel better?
 
+\page
+
 - **Leomund&rsquo;s Tiny Hut** <br>
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
@@ -635,8 +626,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A Witch keeps her hearth protected from scrying eyes.
 
 - **Tongues** <br>
-
-\page
 
 ### The Crone
 
