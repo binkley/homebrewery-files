@@ -136,6 +136,10 @@ Starting at 5th level, your connection to your coven &mdash; real or imagined &m
 
 You automatically learn **Augury**, and it counts as a Witch spell for you. You can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
 
+{note}
+Bird flocks, tea leaves, lay of the cards &mdash;the auspices don't lie, they're only misread.
+{note}
+
 In addition, choose one other ritual spell from any full caster&rsquo;s spell list (Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) of 3rd level or lower. This spell counts as a Witch spell for you, and you can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.<br>
 
 You may change this spell whenever you gain a level in this class, reflecting a shift in your coven&rsquo;s knowledge or priorities.
@@ -378,9 +382,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Animal Messenger** <br>
 
-- **Augury** <br>
-  Bones, leaves, and smoke&mdash;the signs are never wrong, only misread.
-
 \page
 
 - **Detect Thoughts** <br>
@@ -445,10 +446,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Under a stormy sky, your wrath becomes thunder made flesh.
   _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
 
-- **Counterspell** <br>
-  A stern gesture and mindful word unravel enemy magic mid-cast.
-  _Take that!_
-
 - **Enemies Abound** <br>
   Confuse a creature&rsquo;s mind so it sees all as threats and let them fight amongst themselves.
   _Did you hear what they called you?_
@@ -468,18 +465,11 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Feign Death** <br>
   It or you appear dead.
 
-- **Fly** <br>
-  Grant flight to yourself or another.
-  When a broom is out, tap the feet to rise.
-
 - **Nondetection** <br>
   Hide from pyring magical eyes for a time.
 
 - **Sending** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
-
-- **Tongues** <br>
-  Speak and be understood, no matter the creature. Useful for parley, curses, and awkward village dinners.
 
 #### Level 4 Witch Spells
 
@@ -631,6 +621,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A Witch keeps her hearth protected from scrying eyes.
 
 - **Tongues** <br>
+  Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
 
 ### The Crone
 
@@ -652,7 +643,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spells |
 |:--:|:--|
-| 3           | *Beast Sense*, *Command* *Enthrall*, *Phantasmal Force* |
+| 3           | *Beast Sense*, *Command*, *Counterspell*, *Enthrall*, *Phantasmal Force* |
 | 5           | *Clairvoyance*, *Speak with Plants*, *Vampiric Touch* |
 | 7           | *Blight*, *Death Ward*, *Polymorph* |
 | 9           | *Compulsion*, *Dominate Beast*, *Phantasmal Killer* |
@@ -664,6 +655,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Blight** <br>
   Destroy plant life or strongly damage a foe.
   Witches save their folk and are woe to those against.
+
+- **Counterspell** <br>
+  A stern gesture and harsher word unravels enemy magic mid-cast.
+  _Take that!_
 
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
