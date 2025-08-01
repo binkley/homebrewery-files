@@ -71,16 +71,16 @@ You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellc
 <div class='wide'>
 | Level | Proficiency Bonus | Class Features  | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | +2 | Spellcasting, Herbal Sage, Witch Armor | 2 | 3 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 2 | +2 | Cross Words, Dangerous Familiar | 2 | 3 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 4 | +2 | ASI | 2 | 4 | 4 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5 | +3 | Coven Magic | 3 | 4 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 6 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 7 | +3 | Witches Fly Free | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 8 | +3 | ASI | 4 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 9 | +4 | Improved Familiar | 4 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 10 | +4 | Subclass feature | 4 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 1 | +2 | Spellcasting, Evil Eye, Herbal Sage | 2 | 2 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2 | +2 | Cross Words, Dangerous Familiar, Witch Armor | 2 | 2 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3 | +2 | Witch Subclass, Second Sight | 2 | 2 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4 | +2 | ASI | 2 | 3 | 4 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | Coven Magic | 3 | 3 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 6 | +3 | Subclass feature | 3 | 3 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 7 | +3 | Witches Fly Free | 3 | 3 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 8 | +3 | ASI | 4 | 3 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 9 | +4 | Improved Familiar | 4 | 3 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 10 | +4 | Subclass feature | 4 | 4 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 </div>
 
 #### Level 1: Evil Eye
@@ -96,14 +96,6 @@ Your understanding of plants and folk cures is guided by wisdom, not rote learni
 When using an _Herbalism Kit_, you can use your Wisdom modifier instead of your Intelligence modifier for any ability checks made with the kit. You also add your proficiency bonus if you aren&rsquo;t already doing so.
 
 In addition, you always have advantage on any ability check made using an _Herbalism Kit_.
-
-#### Level 1: Witch Armor
-
-You could avoid fate this time. A subtle curse sends ill luck to your foes, causing blows to falter and spells to misfire.
-
-When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
-
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
 
 #### Level 2: Cross Words
 
@@ -127,6 +119,14 @@ When casting *Find Familiar* using this feature, you do so as a ritual. You may 
 **Independent Spirit.**
 Your familiar is unusually willful and assertive. It can take the **Attack action** on its turn. When it does, it makes a single attack that benefits from your proficiency bonus. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
 
+#### Level 2: Witch Armor
+
+You could avoid fate this time. A subtle curse sends ill luck to your foes, causing blows to falter and spells to misfire.
+
+When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
 #### Level 3: Witch Subclass
 
 You gain a Witch subclass of your choice.
@@ -137,11 +137,11 @@ Your insight into others borders on the supernatural.
 
 You gain proficiency in the _Insight_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
 
+\page
+
 ### Level 5: Coven Magic
 
 > _Three stand beneath the moon. The spell is cast not alone, but in echo and accord._
-
-\page
 
 Starting at 5th level, your connection to your coven &mdash; real or imagined &mdash; grants you insight into deeper rituals.
 
@@ -368,6 +368,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Witches and their odd knacks surprise others, and the Witch doesn&rsquo;t tell.
   _(Strixhaven: Curriculum of Chaos, WotC)_
 
+\page
+
 - **Calm Emotions** <br>
   Lower fear, anger, and turmoil in a group. 
   A Witch's presence steadies hearts, whether by soft words, stern looks, or a shared cup of tea.
@@ -393,8 +395,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Crown of Madness** <br>
   A jagged charm of influence&mdash;cruel, theatrical, and thoroughly Witchy.
-
-\page
 
 - **Heat Metal** <br>
   Curse a blade or armor with burning heat.
@@ -495,6 +495,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A lingering malediction tailored to your spite.
   _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
 
+\page
+
 - **Call Lightning** <br>
   Under a stormy sky, your wrath becomes thunder made flesh.
   _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
@@ -534,8 +536,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Banishment** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
-
-\page
 
 - **Sickening Radiance** <br>
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
@@ -602,6 +602,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Enchant the air around foes to make obvious targets and reveal the unseen.
   Faeries are good, right?
 
+\page
+
 - **Feather Fall** <br>
   You or your allies float gently to the ground.
   Good thing you cast this, otherwise _splat_.
@@ -633,8 +635,6 @@ _Steadfast hands, a voice of reason, and full of life_
 Your natural personality borders on the supernatural.
 
 You gain proficiency in the _Persuasion_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
-
-\page
 
 #### Level 3: Mother Spells
 
@@ -708,6 +708,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 7           | *Blight*, *Death Ward*, *Polymorph* |
 | 9           | *Compulsion*, *Dominate Beast*, *Phantasmal Killer* |
 
+\page
+
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
   One step from _Borrowing_ them.
@@ -741,8 +743,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Enthrall** <br>
   You catch their attention and hold it fast; a story, a look, or a song makes the world fall away for them.
-
-\page
 
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they&rsquo;ve seen.
