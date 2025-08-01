@@ -569,6 +569,11 @@ You gain a Witch subclass of your choice. A subclass is a specialization that gr
 ### The Maiden
 _Bright-eyed, underestimated, and full of wild potential_
 
+#### Level 3: Inner Discovery
+
+You gain proficiency in your choice of the Nature or Performance skill.
+If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
+
 #### Level 3: Flower Power
 
 Your herbal knowledge border on the supernatural.
@@ -581,7 +586,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Feather Fall*, *Moonbeam* |
+| 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Moonbeam* |
 | 5           | *Major Image* |
 | 7           | *Greater Invisibility*, *Hallucinatory Terrain* |
 | 9           | *Aura of Purity*, *Fount of Moonlight* |
@@ -598,15 +603,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   You are not sure quite what you cast.
   _(Xanathar&rsquo;s Guide to Everything, WotC)_
 
-- **Faerie Fire** <br>
-  Enchant the air around foes to make obvious targets and reveal the unseen.
-  Faeries are good, right?
-
 \page
 
-- **Feather Fall** <br>
-  You or your allies float gently to the ground.
-  Good thing you cast this, otherwise _splat_.
+- **Faerie Fire** <br>
+  Enchant the air around foes to make obvious targets and reveal the unseen.
 
 - **Fount of Moonlight** <br>
   You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
@@ -637,6 +637,11 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 ### The Mother
 _Steadfast hands, a voice of reason, and full of life_
+
+#### Level 3: Trusted Wisdom
+
+You gain proficiency in your choice of the Medicine or Persuasion skill.
+If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
 
 #### Level 3: Honey-tongued
 
@@ -699,13 +704,19 @@ Witches of the C aspect channel the power of the [Maiden / Mother / Crone] —
 [brief flavor text about philosophy, role, or magical outlook].
 They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
 
+
+#### Level 3: Dark Intuition
+
+You gain proficiency in your choice of the Arcana or Intimidation skill.
+If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
+
+\page
+
 #### Level 3: Sharp-tongued
 
 Your commanding presence borders on the supernatural.
 
 You gain proficiency in the _Intimidation_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it (expertise).
-
-\page
 
 #### Level 3: Crone Spells
 
