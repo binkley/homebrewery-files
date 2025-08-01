@@ -125,7 +125,7 @@ You could avoid fate this time. A subtle curse sends ill luck to your foes, caus
 
 When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your Wisdom bonus, and you regain all expended uses when you finish a Long Rest.
 
 #### Level 3: Witch Subclass
 
@@ -627,6 +627,14 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
 
+#### Level 6: Inner Voice
+
+You gain advantage on Charisma (Performance or Persuasion) checks when using song, storytelling, or commanding tone, provided you are not in combat.
+
+You can use your voice as a focus to cast a spell with only verbal components, even if it normally requires material or somatic components.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+
 ### The Mother
 _Steadfast hands, a voice of reason, and full of life_
 
@@ -697,6 +705,8 @@ Your commanding presence borders on the supernatural.
 
 You gain proficiency in the _Intimidation_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it (expertise).
 
+\page
+
 #### Level 3: Crone Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -707,8 +717,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 5           | *Clairvoyance*, *Speak with Plants*, *Vampiric Touch* |
 | 7           | *Blight*, *Death Ward*, *Polymorph* |
 | 9           | *Compulsion*, *Dominate Beast*, *Phantasmal Killer* |
-
-\page
 
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
@@ -780,6 +788,8 @@ You may use this feature once, and regain its use when you finish a long rest.
 |:--:|:--:|
 | 6           | 1                        |
 | 10          | 2                        |
+
+\page
 
 ## Evil Eye
 
