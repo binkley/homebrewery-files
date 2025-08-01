@@ -44,15 +44,15 @@ You have learned to draw from the land, necessity, and the teaching of other wit
 
 Every spell includes a brief note on how Witches tend to use it. These notes don't change the spell&rsquo;s mechanics but suggest tone and roleplay. A Witch often adds a personal flavor to a spell without changing the magic.
 
-_**Cantrips.**_ 
+_**Cantrips.**_
 You know three cantrips of your choice from the Witch spell list.
 
 Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.  When you reach Witch levels 4 and 10, you learn another cantrip of your choice from the Witch spell list, as shown in the Cantrips column of the Witch Features table.
 
-_**Spell Slots.**_ 
+_**Spell Slots.**_
 The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
-_**Prepared Spells of Level 1+.**_ 
+_**Prepared Spells of Level 1+.**_
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 spells from the Witch spell list.
 
 The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
@@ -61,10 +61,10 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 
 If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
 
-_**Spellcasting Ability.**_ 
+_**Spellcasting Ability.**_
 Wisdom is your spellcasting ability for your Witch spells.
 
-_**Spellcasting Focus.**_ 
+_**Spellcasting Focus.**_
 You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellcasting Focus for your Witch spells.
 
 ##### Witch Features
@@ -85,7 +85,9 @@ You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellc
 
 #### Level 1: Evil Eye
 
-You learn the **Evil Eye** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know.
+Witches say the eyes speak before the mouth does. A curse carried in a glance, stopping hearts, thoughts, and hands.
+
+You learn the **Evil Eye** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
 
 #### Level 1: Herbal Sage
 
@@ -195,6 +197,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Guidance** <br>
   Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement.
   _Guidance_ and _Resistance_ are natural companions.
+ 
+- **Mold Earth** <br>
+  Shape loose soil or reveal buried things with a gesture.
+  Witches use it to tend gardens, trace circles, or uncover what others tried to hide.
 
 - **Resistance** <br>
   Bolster an ally&rsquo;s saving throw against a single threat.
@@ -211,11 +217,9 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
 
 - **Evil Eye** <br>
-  Glare-based cantrip. Bonus action, WIS save, psychic damage, prevents reactions. Scales by number of targets.
-
-{note}
-**TODO** Reference the homebrew _Evil Eye_ cantrip to Homebrew and to DnDB.
-{note}
+  A glare sharp enough to still the bold and curdle milk.
+  One hard look and their courage falters, their hands forget what they meant to do.
+  _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
 
 - **Mind Sliver** <br>
   A subtle Psychic curse that weakens the target&rsquo;s next saving throw.
@@ -243,7 +247,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Elementalism** <br>
   Rustle the leaves, scratch the dirt, crackle the fire, fill the cup.
   _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
-  
+
 \page
 
 - **Friends** <br>
@@ -353,6 +357,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Witches and their odd knacks surprise others, and the Witch doesn&rsquo;t tell.
   _(Strixhaven: Curriculum of Chaos, WotC)_
 
+- **Calm Emotions** <br>
+  Lower fear, anger, and turmoil in a group. 
+  A Witch's presence steadies hearts, whether by soft words, stern looks, or a shared cup of tea.
+ 
 - **Enhance Ability** <br>
   A blessing of ability tailored to the task, or the tale.
   _I&rsquo;m sure you can do it, dearie._
@@ -608,7 +616,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Aid*, *Calm Emotions*, *Comprehend Languages* |
+| 3           | *Aid*, *Comprehend Languages* |
 | 5           | *Create Food and Water*, *Leomund&rsquo;s Tiny Hut*, *Life Transference*, *Tongues* |
 | 7           | *Mordenkainen's Private Sanctum* |
 | 9           | *Aura of Life*, *Greater Restoration* |
@@ -620,11 +628,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
-- **Calm Emotions** <br>
-  Soothe anger, fear, or suspicion in a crowd or a companion.
-  Like a hug, a cookie, and a firm tone all at once.
-
 - **Comprehend Languages** <br>
+  You understand the meaning of spoken and written words, though your replies may be more creative than correct. 
+  A Witch doesn't just recognize the words &mdash; she knows what that person
+meant.
 
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
@@ -747,3 +754,24 @@ You may use this feature once, and regain its use when you finish a long rest.
 |:--:|:--:|
 | 6           | 1                        |
 | 10          | 2                        |
+
+## Evil Eye
+
+Some magic is so bound up with witches that no one else dares touch it.
+The spell described here is always yours and doesn't count against the number of cantrips you know.
+
+*Cantrip | Witch*
+
+> _A glare that bites deeper than words._
+
+- **Casting Time:** 1 bonus action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** Instantaneous
+
+You fix your gaze on a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a [rules]reaction[/rules] until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
+
+This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets [condition]blinded[/condition], [condition]invisible[/condition], or lacking visual senses. You must be within a target's line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you.
+
+### Cantrip Upgrade
+You may target additional creatures when you reach levels 5 (up to 2 creatures), 11 (up to 3 creatures), and 17 (up to 4 creatures).
