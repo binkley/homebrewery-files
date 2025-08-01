@@ -192,15 +192,11 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 > _A word in your ear, a flower in your pocket, and flame or a cold wind in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
 
-##### 🛡️ Ally Buffs & Wards
+##### 🛡️ Ally Buffs &amp; Wards
 
 - **Guidance** <br>
   Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement.
   _Guidance_ and _Resistance_ are natural companions.
- 
-- **Mold Earth** <br>
-  Shape loose soil or reveal buried things with a gesture.
-  Witches use it to tend gardens, trace circles, or uncover what others tried to hide.
 
 - **Resistance** <br>
   Bolster an ally&rsquo;s saving throw against a single threat.
@@ -210,7 +206,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Stabilize a dying creature. Especially suited to the _Mother_ Witch.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
-##### 📌 Damage & Control
+##### 📌 Damage &amp; Control
 
 - **Chill Touch** <br>
   A ghostly hand that deals necrotic damage and halts healing.
@@ -221,10 +217,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
   One hard look and their courage falters, their hands forget what they meant to do.
   _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
 
-- **Mind Sliver** <br>
-  A subtle Psychic curse that weakens the target&rsquo;s next saving throw.
-  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
-
 - **Toll the Dead** <br>
   A knell for the wicked; deals more damage if the target is wounded.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
@@ -233,7 +225,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
   Laughter can be crueler than claws.
 
-##### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Dancing Lights** <br>
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
@@ -242,16 +234,19 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Druidcraft** <br>
   Predict the weather, make flowers bloom, leaves fall, or summon other natural effects.
   The old ways, still strong.
-  _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
 
 - **Elementalism** <br>
   Rustle the leaves, scratch the dirt, crackle the fire, fill the cup.
-  _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
 
 \page
 
 - **Friends** <br>
   Briefly charm a creature to gain advantage on social checks. The charm is short &mdash; they remember.
+
+- **Gust** <br>
+  Shape a puff of air &mdash; slam a door, push a foe, ruffle robes, or carry a whispered word.
+  A witch&rsquo;s breath made manifest.
+  _(Xanathar’s Guide to Everything, WotC)_
 
 - **Message** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
@@ -261,20 +256,31 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
   A lie made visible or heard. A whisper in the dark, a fake door where none exists.
 
+- **Mold Earth** <br>
+  Shape loose soil or reveal buried things with a gesture.
+  Witches use it to tend gardens, trace circles, or uncover what others tried to hide.
+
+- **Prestidigitation** <br>
+  Tiny, harmless magical tricks—cleaning, soiling, lighting, or adding flavor.
+  Witches know a little magic goes a long way for first impressions.
+
 - **Produce Flame** <br>
   Conjure fire for light or attack.
   A bit of flame for hearth or hex.
 
+- **Shape Water** <br>
+  Command a small amount of water, freezing, coloring, or moving it around.
+  A stream listens to a Witch better than most people.
+
 - **Thaumaturgy** <br>
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
   A flair for storytelling, and a reason to respect a Witch.
-  _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
 
 #### Level 1 Witch Spells
 
 > _A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
 
-##### 🛡️ Ally Buffs & Wards
+##### 🛡️ Ally Buffs &amp; Wards
 
 - **Heroism** <br>
   Temp HP and fear immunity &mdash; courage brewed in a teacup.
@@ -289,7 +295,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   An attacker must choose a different target if they cannot oppose your willpower.
   A Witch stands up for those who cannot stand for themselves.
 
-##### 📌 Damage & Control
+##### 📌 Damage &amp; Control
 
 - **Cause Fear** <br>
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
@@ -312,6 +318,11 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Ray of Sickness** <br>
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
 
+- **Snare** <br>
+  Create a hidden magical trap that catches creatures unawares.
+  A Witch's charm on a rope can hold faster than iron.
+  _(Xanathar&rsquo;s Guide to Everything, WotC)_
+
 - **Tasha&rsquo;s Caustic Brew** <br>
   A jet of hissing, caustic acid sprays from your hand, eating through armor and pride alike.
   More potion than spell &mdash; it smells like a witch&rsquo;s kitchen gone wrong.
@@ -323,7 +334,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Witch Bolt** <br>
   A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
 
-##### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Animal Friendship** <br>
   Beasts of field, forest, air or waters recognize you.
@@ -350,7 +361,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 > _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
 
-##### 🛡️ Ally Buffs & Wards
+##### 🛡️ Ally Buffs &amp; Wards
 
 - **Borrowed Knowledge** <br>
   You are for a time better at something.
@@ -375,7 +386,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Protection from Poison** <br>
   Draws the venom out with smoke, salt, and an old rhyme.
 
-##### 📌 Damage & Control
+##### 📌 Damage &amp; Control
 
 - **Blindness/Deafness** <br>
   Salt in the eyes, a whispered jinx&mdash;the senses fail under the Witch&rsquo;s curse.
@@ -385,11 +396,20 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 \page
 
+- **Heat Metal** <br>
+  Curse a blade or armor with burning heat.
+  _Feel that? That's what comes of crossing me._
+
 - **Hold Person** <br>
-  A witch&rsquo;s glare that paralyzes the body. Curse, freeze, or bind&mdash;the will obeys.
+  A witch&rsquo;s glare that paralyzes the body.
+  Curse, freeze, or bind&mdash;your will obeys.
 
 - **Mind Spike** <br>
-  A cursed thorn of thought; it sears with psychic pain and leaves a lingering connection.
+  A cursed thorn of thought searing with psychic pain and leaving a lingering connection.
+
+- **Mirror Image** <br>
+  You split into shimmering duplicates that confuse enemies.
+  Witches are hard to pin down when three of them glare at you.
 
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
@@ -405,7 +425,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   Cruel, precise, and deeply unsettling.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
-##### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Animal Messenger** <br>
   A bird, squirrel, or other small critter carries your whispered words where no person could go.
@@ -420,6 +440,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Locate Animals or Plants** <br>
   Close your eyes, touch the earth, and the land itself tells you where a beast roams or a plant grows.
 
+- **Pass without Trace** <br>
+  A veil of shadows cloaks your allies.
+  Witches slip unseen across hedges and hollow ways.
+
 - **Rope Trick** <br>
   A hidden treehouse without a tree.
   A Witch can do surprising things with a bit of strong string.
@@ -432,7 +456,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 > _This is the turning point. A third candle is lit. You may now call lightning, bind fate, or vanish with a scream. People begin to fear you&mdash;or seek you out._
 
-##### 🛡️ Ally Buffs & Wards
+##### 🛡️ Ally Buffs &amp; Wards
 
 - **Beacon of Hope** <br>
   Healing heals you more than usual.
@@ -457,7 +481,11 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A soul still warm may be coaxed back.
   _Get up you lazy bones! Death is no excuse._
 
-##### 📌 Damage & Control
+- **Spirit Guardians** <br>
+  Protective spirits circle you, harming enemies and shielding allies.
+  Witches call on the shades of old friends and long-dead kin.
+
+##### 📌 Damage &amp; Control
 
 - **Antagonize** <br>
   A sharp word and a colder glare &mdash; your enemy lashes out recklessly, unable to ignore the sting.
@@ -482,7 +510,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A swirling, mind-drowning display that pacifies the mind.
   They seem stupid now, but will remember you after with the hand-waving and the confetti.
 
-##### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Dispel Magic** <br>
   A sweeping charmbreaker&mdash;sometimes with a broom, sometimes with bilewort.
@@ -500,9 +528,9 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 > _The fourth candle is lit in solitude. Your powers now walk ahead of you, sent through storm, shadow, or a silent eye._
 
-##### 🛡️ Ally Buffs & Wards
+##### 🛡️ Ally Buffs &amp; Wards
 
-##### 📌 Damage & Control
+##### 📌 Damage &amp; Control
 
 - **Banishment** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
@@ -512,7 +540,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Sickening Radiance** <br>
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
 
-##### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Arcane Eye** <br>
   You send forth an invisible scout &mdash; a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven&rsquo;s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
@@ -523,11 +551,11 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 #### Leve 5 Witch Spells
 
-##### 🛡️ Ally Buffs & Wards
+##### 🛡️ Ally Buffs &amp; Wards
 
-##### 📌 Damage & Control
+##### 📌 Damage &amp; Control
 
-##### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Dream** <br>
   Communicate or frighten others in their dreams through yourself or someone you touch.
@@ -537,8 +565,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 ## Witch Subclasses
 
 You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass&rsquo;s features that are of your Witch level or lower.
-
-**TODO** Sort out subclass spells from general class spell list.
 
 ### The Maiden
 _Bright-eyed, underestimated, and full of wild potential_
@@ -758,9 +784,7 @@ You may use this feature once, and regain its use when you finish a long rest.
 ## Evil Eye
 
 Some magic is so bound up with witches that no one else dares touch it.
-The spell described here is always yours and doesn't count against the number of cantrips you know.
-
-*Cantrip | Witch*
+The cantip described here is always yours and doesn't count against the number of cantrips you know.
 
 > _A glare that bites deeper than words._
 
@@ -769,9 +793,10 @@ The spell described here is always yours and doesn't count against the number of
 - **Components:** S
 - **Duration:** Instantaneous
 
-You fix your gaze on a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a [rules]reaction[/rules] until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
+You fix your gaze on a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a reaction until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
 
-This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets [condition]blinded[/condition], [condition]invisible[/condition], or lacking visual senses. You must be within a target's line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you.
+This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets blinded, invisible, or lacking visual senses. You must be within a target&rsquo;s line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you as you cast this spell.
 
 ### Cantrip Upgrade
+
 You may target additional creatures when you reach levels 5 (up to 2 creatures), 11 (up to 3 creatures), and 17 (up to 4 creatures).
