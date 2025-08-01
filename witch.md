@@ -239,14 +239,14 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
   A flickering circle for rituals, or the glimmer of will-o'-wisps to draw in the foolish.
 
+\page
+
 - **Druidcraft** <br>
   Predict the weather, make flowers bloom, leaves fall, or summon other natural effects.
   The old ways, still strong.
 
 - **Elementalism** <br>
   Rustle the leaves, scratch the dirt, crackle the fire, fill the cup.
-
-\page
 
 - **Friends** <br>
   Briefly charm a creature to gain advantage on social checks. The charm is short &mdash; they remember.
@@ -365,6 +365,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
 
+\page
+
 #### Level 2 Witch Spells
 
 > _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
@@ -375,8 +377,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   You are for a time better at something.
   Witches and their odd knacks surprise others, and the Witch doesn&rsquo;t tell.
   _(Strixhaven: Curriculum of Chaos, WotC)_
-
-\page
 
 - **Calm Emotions** <br>
   Lower fear, anger, and turmoil in a group. 
@@ -493,6 +493,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Protective spirits circle you, harming enemies and shielding allies.
   Witches call on the shades of old friends and long-dead kin.
 
+\page
+
 ##### 📌 Damage &amp; Control
 
 - **Antagonize** <br>
@@ -502,8 +504,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Bestow Curse** <br>
   A lingering malediction tailored to your spite.
   _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
-
-\page
 
 - **Call Lightning** <br>
   Under a stormy sky, your wrath becomes thunder made flesh.
@@ -598,6 +598,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
 
+\page
+
 - **Color Spray** <br>
   A dazzling burst of multicolored light overwhelms the senses.
   Flair, chaos, and a touch of drama can be more potent than blades.
@@ -609,8 +611,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Faerie Fire** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
-
-\page
 
 - **Fount of Moonlight** <br>
   You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
@@ -709,13 +709,13 @@ They are known for [2–3 traits or habits], and their magic leans toward [key t
 
 Your magic knowledge or commanding presence borders on the supernatural.
 
+\page
+
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill (expertise).
 
 #### Level 3: Crone Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
-
-\page
 
 | Witch Level | Spells |
 |:--:|:--|
