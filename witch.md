@@ -12,9 +12,9 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. So
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
 | **Armor Training** | None |
-| **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch’s hat); a component pouch or druidic focus; a sickle or quarterstaff; a healer’s kit; an herbalism kit; cook’s utensils; four candles; a pouch with 10 gp; and an explorer’s pack; (B) 50 gp |
+| **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch&rsquo;s hat); a component pouch or druidic focus; a sickle or quarterstaff; a healer&rsquo;s kit; an herbalism kit; cook&rsquo;s utensils; four candles; a pouch with 10 gp; and an explorer&rsquo;s pack; (B) 50 gp |
 
-Witches rarely choose the path of magic so much as they are chosen by it. Signs of a witch’s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning the respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
+Witches rarely choose the path of magic so much as they are chosen by it. Signs of a witch&rsquo;s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning the respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
 
 A Witch&rsquo;s powers sway crowds and kingdoms, glimpse the future, drive creatures of field, forest, and water, and protect those around them. There is whimsy and unreality in their actions and spells. A witch&rsquo;s curse is _terrible_.
 
@@ -42,6 +42,8 @@ As a Witch, you gain the following class features when you reach the specified W
 
 You have learned to draw from the land, necessity, and the teaching of other witches to cast spells. See the D&amp;D _Player&rsquo;s Handbook_ for the rules on spellcasting. The information below details how you use those rules with Witch spell, which appear in the Witch spell list later in the class&rsquo;s description.
 
+Every spell includes a brief note on how Witches tend to use it. These notes don't change the spell&rsquo;s mechanics but suggest tone and roleplay. A Witch often adds a personal flavor to a spell without changing the magic.
+
 _**Cantrips.**_ 
 You know three cantrips of your choice from the Witch spell list.
 
@@ -53,17 +55,17 @@ The Witch Features table shows how many spell slots you have to cast your level 
 _**Prepared Spells of Level 1+.**_ 
 You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 spells from the Witch spell list.
 
-The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 3 Witch, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
+The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
-If another Witch feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
+\page
+
+If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
 
 _**Spellcasting Ability.**_ 
 Wisdom is your spellcasting ability for your Witch spells.
 
 _**Spellcasting Focus.**_ 
 You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellcasting Focus for your Witch spells.
-
-\page
 
 ##### Witch Features
 <div class='wide'>
@@ -213,6 +215,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Mind Sliver** <br>
   A subtle Psychic curse that weakens the target&rsquo;s next saving throw.
+  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 - **Toll the Dead** <br>
   A knell for the wicked; deals more damage if the target is wounded.
@@ -239,12 +242,12 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **Friends** <br>
   Briefly charm a creature to gain advantage on social checks. The charm is short &mdash; they remember.
+  
+\page
 
 - **Message** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
   _&ldquo;Don&rsquo;t turn around.&rdquo;_
-
-\page
 
 - **Minor Illusion** <br>
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
@@ -299,6 +302,12 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A brutal, unassuming touch that rots flesh.
 
 - **Ray of Sickness** <br>
+  A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
+
+- **Tasha&rsquo;s Caustic Brew** <br>
+  A jet of hissing, caustic acid sprays from your hand, eating through armor and pride alike.
+  More potion than spell &mdash; it smells like a witch&rsquo;s kitchen gone wrong.
+  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 - **Thunderwave** <br>
   A forceful burst for those moments when subtlety fails.
@@ -338,6 +347,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Borrowed Knowledge** <br>
   You are for a time better at something.
   Witches and their odd knacks surprise others, and the Witch doesn&rsquo;t tell.
+  _(Strixhaven: Curriculum of Chaos, WotC)_
 
 - **Enhance Ability** <br>
   A blessing of ability tailored to the task, or the tale.
@@ -364,6 +374,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Hold Person** <br>
   A witch&rsquo;s glare that paralyzes the body. Curse, freeze, or bind&mdash;the will obeys.
 
+\page
+
 - **Mind Spike** <br>
   A cursed thorn of thought; it sears with psychic pain and leaves a lingering connection.
 
@@ -374,16 +386,17 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
 
 - **Suggestion** <br>
-  One whisper takes root and they obey before they’ve thought it through.
-
-\page
+  One whisper takes root and they obey before they&rsquo;ve thought it through.
 
 - **Tasha&rsquo;s Mind Whip** <br>
-  A lash of psychic force unravels the mind and disrupts action. Cruel, precise, and deeply unsettling. Rename as _Witch's Lash_ for flavor if desired.
+  A lash of psychic force unravels the mind and disrupts action.
+  Cruel, precise, and deeply unsettling.
+  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 ##### 🔍 Utility, Ritual, & Trickery
 
 - **Animal Messenger** <br>
+  A bird, squirrel, or other small critter carries your whispered words where no person could go.
 
 - **Detect Thoughts** <br>
   Read surface thoughts and probe deeper into a creature&rsquo;s mind.
@@ -393,6 +406,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
   A trick of breath and intention; the Witch is there, but not seen.
 
 - **Locate Animals or Plants** <br>
+  Close your eyes, touch the earth, and the land itself tells you where a beast roams or a plant grows.
 
 - **Rope Trick** <br>
   A hidden treehouse without a tree.
@@ -400,7 +414,7 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 - **See Invisibility** <br>
   Not all unseen things are harmless.
-  _I know you're there._
+  _I know you're there. I can see you._
 
 #### Level 3 Witch Spells
 
@@ -415,10 +429,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Catnap** <br>
   Send up to three creatures into a magical slumber for a brief but deeply restful nap.
   _Harried familiars, tired allies: a good nap is all purpose._
-
-- **Life Transference** <br>
-  Give your some of your life force to heal another.
-  _This hurts; it really hurts. It hurts me more than it does you._
 
 - **Haste** <br>
   Focus on speeding up a creature in your sight.
@@ -438,6 +448,8 @@ Not just a plain list, but some description how to use, and why the Witch has th
 ##### 📌 Damage & Control
 
 - **Antagonize** <br>
+  A sharp word and a colder glare &mdash; your enemy lashes out recklessly, unable to ignore the sting.
+  _(The Book of Many Things, WotC)_
 
 - **Bestow Curse** <br>
   A lingering malediction tailored to your spite.
@@ -481,13 +493,17 @@ Not just a plain list, but some description how to use, and why the Witch has th
 ##### 📌 Damage & Control
 
 - **Banishment** <br>
+  With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
 
 - **Sickening Radiance** <br>
+  A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
+
+\page
 
 ##### 🔍 Utility, Ritual, & Trickery
 
 - **Arcane Eye** <br>
-  You send forth an invisible scout &mdash; a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven’s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
+  You send forth an invisible scout &mdash; a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven&rsquo;s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
 
 - **Divination** <br>
   Smoke curling, bones rattling, or a hated mirror reflecting your true self.
@@ -499,8 +515,6 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ##### 📌 Damage & Control
 
-\page
-
 ##### 🔍 Utility, Ritual, & Trickery
 
 - **Dream** <br>
@@ -510,12 +524,12 @@ Not just a plain list, but some description how to use, and why the Witch has th
 
 ## Witch Subclasses
 
-You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass’s features that are of your Witch level or lower.
+You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass&rsquo;s features that are of your Witch level or lower.
 
 **TODO** Sort out subclass spells from general class spell list.
 
 ### The Maiden
-_[Short phrase describing]_
+_Bright-eyed, underestimated, and full of wild potential_
 
 #### Level 3: Flower Power
 
@@ -532,9 +546,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Feather Fall*, *Moonbeam* |
 | 5           | *Major Image* |
 | 7           | *Greater Invisibility*, *Hallucinatory Terrain* |
-| 9           | *Aura of Purity*, *Font of Moonlight* |
+| 9           | *Aura of Purity*, *Fount of Moonlight* |
 
 - **Aura of Purity** <br>
+  A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
 
 - **Color Spray** <br>
   A dazzling burst of multicolored light overwhelms the senses.
@@ -543,6 +558,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Chaos Bolt** <br>
   A damaging spell with magical results; sometimes it jumps to others.
   You are not sure quite what you cast.
+  _(Xanathar&rsquo;s Guide to Everything, WotC)_
 
 - **Faerie Fire** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
@@ -552,7 +568,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   You or your allies float gently to the ground.
   Good thing you cast this, otherwise _splat_.
 
-- **Font of Moonlight** <br>
+- **Fount of Moonlight** <br>
+  You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
 
 - **Greater Invisibility** <br>
   You or another you touch _stay_ invisible.
@@ -571,7 +588,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Why can&rsquo;t I cast this at coven?
 
 ### The Mother
-_[Short phrase describing]_
+_Steadfast hands, a voice of reason, and full of life_
 
 #### Level 3: Honey-tongued
 
@@ -583,10 +600,12 @@ You gain proficiency in the _Persuasion_ skill. If you're already proficient in 
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
+\page
+
 | Witch Level | Spell |
 |:--:|:--|
 | 3           | *Aid*, *Calm Emotions*, *Comprehend Languages* |
-| 5           | *Create Food and Water*, *Leomund&rsquo;s Tiny Hut*, *Tongues* |
+| 5           | *Create Food and Water*, *Leomund&rsquo;s Tiny Hut*, *Life Transference*, *Tongues* |
 | 7           | *Mordenkainen's Private Sanctum* |
 | 9           | *Aura of Life*, *Greater Restoration* |
 
@@ -595,6 +614,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A Witch&rsquo;s comfort shared with friends.
 
 - **Aura of Life** <br>
+  The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
 - **Calm Emotions** <br>
   Soothe anger, fear, or suspicion in a crowd or a companion.
@@ -610,12 +630,14 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Fixes most serious ailments and cursed magic items.
   Now doesn&rsquo;t that feel better?
 
-\page
-
 - **Leomund&rsquo;s Tiny Hut** <br>
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
   Would you pass the biscuits?
+
+- **Life Transference** <br>
+  Give your some of your life force to heal another.
+  _This hurts; it really hurts. It hurts me more than it does you._
 
 - **Mordenkainen&rsquo;s Private Sanctum** <br>
   Within these wards, your guests and secrets are safe.
@@ -663,13 +685,14 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
-  A bowl of water, a raven’s eyes, a knot in the tree, all spy for you.
+  A bowl of water, a raven&rsquo;s eyes, a knot in the tree, all spy for you.
 
 - **Command** <br>
   A single word for others to obey: sit, flee, drop, grovel.
   Respect of you is manifest.
 
 - **Compulsion** <br>
+  An irresistible pull—your voice bends the target&rsquo;s will, driving them to move in the path you choose.
 
 - **Death Ward** <br>
   A quiet sigil, unseen, catches a final blow. Death must come twice.
@@ -680,13 +703,18 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   You will pay the cost later, but right now your goals are all that matter.
 
 - **Enthrall** <br>
+  You catch their attention and hold it fast; a story, a look, or a song makes the world fall away for them.
 
 - **Speak with Plants** <br>
+  Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they&rsquo;ve seen.
 
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
 - **Phantasmal Killer** <br>
+  You unearth the deepest terror in a creature&rsquo;s mind, and give it shape so it stalks them from within.
+
+\page
 
 - **Polymorph** <br>
   You take the form of another creature for a time with your mind and their body.
