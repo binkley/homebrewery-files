@@ -571,14 +571,10 @@ _Bright-eyed, underestimated, and full of wild potential_
 
 #### Level 3: Inner Discovery
 
-You gain proficiency in your choice of the Nature or Performance skill.
-If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
+Your herbal knowledge or your voice borders on the supernatural.
 
-#### Level 3: Flower Power
-
-Your herbal knowledge border on the supernatural.
-
-You gain proficiency in the _Nature_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
+You gain proficiency in your choice of the _Nature_ or _Performance_ skill.
+If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill (expertise).
 
 #### Level 3: Maiden Spells
 
@@ -603,10 +599,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   You are not sure quite what you cast.
   _(Xanathar&rsquo;s Guide to Everything, WotC)_
 
-\page
-
 - **Faerie Fire** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
+
+\page
 
 - **Fount of Moonlight** <br>
   You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
@@ -640,14 +636,10 @@ _Steadfast hands, a voice of reason, and full of life_
 
 #### Level 3: Trusted Wisdom
 
-You gain proficiency in your choice of the Medicine or Persuasion skill.
+Your hearth skills or your personality border on the supernatural.
+
+You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill.
 If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
-
-#### Level 3: Honey-tongued
-
-Your natural personality borders on the supernatural.
-
-You gain proficiency in the _Persuasion_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
 
 #### Level 3: Mother Spells
 
@@ -707,20 +699,15 @@ They are known for [2–3 traits or habits], and their magic leans toward [key t
 
 #### Level 3: Dark Intuition
 
-You gain proficiency in your choice of the Arcana or Intimidation skill.
-If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
+Your magic knowledge or commanding presence borders on the supernatural.
 
-\page
-
-#### Level 3: Sharp-tongued
-
-Your commanding presence borders on the supernatural.
-
-You gain proficiency in the _Intimidation_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it (expertise).
+You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill (expertise).
 
 #### Level 3: Crone Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
+
+\page
 
 | Witch Level | Spells |
 |:--:|:--|
