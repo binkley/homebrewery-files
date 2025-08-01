@@ -83,6 +83,10 @@ You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellc
 | 10 | +4 | Subclass feature | 4 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 </div>
 
+#### Level 1: Evil Eye
+
+You learn the **Evil Eye** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know.
+
 #### Level 1: Herbal Sage
 
 Your understanding of plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies, leaves and mushrooms.
@@ -135,11 +139,11 @@ You gain proficiency in the _Insight_ skill. If you're already proficient in it,
 
 > _Three stand beneath the moon. The spell is cast not alone, but in echo and accord._
 
+\page
+
 Starting at 5th level, your connection to your coven &mdash; real or imagined &mdash; grants you insight into deeper rituals.
 
 You automatically learn **Augury**, and it counts as a Witch spell for you. You can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
-
-\page
 
 {note}
 Bird flocks, tea leaves, lay of the cards &mdash;the auspices don't lie, they're only misread.
@@ -239,11 +243,11 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Elementalism** <br>
   Rustle the leaves, scratch the dirt, crackle the fire, fill the cup.
   _Druidcraft_, _Elementalism_, and _Thaumaturgy_ are of a kin.
+  
+\page
 
 - **Friends** <br>
   Briefly charm a creature to gain advantage on social checks. The charm is short &mdash; they remember.
-  
-\page
 
 - **Message** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
@@ -371,10 +375,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Crown of Madness** <br>
   A jagged charm of influence&mdash;cruel, theatrical, and thoroughly Witchy.
 
+\page
+
 - **Hold Person** <br>
   A witch&rsquo;s glare that paralyzes the body. Curse, freeze, or bind&mdash;the will obeys.
-
-\page
 
 - **Mind Spike** <br>
   A cursed thorn of thought; it sears with psychic pain and leaves a lingering connection.
@@ -495,10 +499,10 @@ Not just a plain list, but some description how to use, and why the Witch has th
 - **Banishment** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
 
+\page
+
 - **Sickening Radiance** <br>
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
-
-\page
 
 ##### 🔍 Utility, Ritual, & Trickery
 
@@ -596,11 +600,11 @@ Your natural personality borders on the supernatural.
 
 You gain proficiency in the _Persuasion_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
 
+\page
+
 #### Level 3: Mother Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
-
-\page
 
 | Witch Level | Spell |
 |:--:|:--|
@@ -705,6 +709,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Enthrall** <br>
   You catch their attention and hold it fast; a story, a look, or a song makes the world fall away for them.
 
+\page
+
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they&rsquo;ve seen.
 
@@ -713,8 +719,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Phantasmal Killer** <br>
   You unearth the deepest terror in a creature&rsquo;s mind, and give it shape so it stalks them from within.
-
-\page
 
 - **Polymorph** <br>
   You take the form of another creature for a time with your mind and their body.
