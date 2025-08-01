@@ -184,9 +184,17 @@ When haggling over other means of travel you have **advantage** on _Charisma (In
 
 When casting **Find Familiar** you may choose any creature of challenge rating 1 or lower.
 
+#### Level 10: Witch&rsquo;s Insight
+
+Your insight into fate and folly lets you tip the balance of events.
+
+When a creature you can see within 30 feet of you makes a **D20 Test**, you can use your reaction to spend 1 use of this feature and impose **advantage** or **disadvantage** on that test. You must choose to do so **before** the roll is made.
+
+You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
+
 ## Witch Spell List
 
-Not just a plain list, but some description how to use, and why the Witch has these.
+Not just a plain list, but some description how to use, and why a Witch knows these.
 
 #### Cantrips (Level 0 Witch Spells)
 
