@@ -641,7 +641,16 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 #### Level 10: Voice and Vision
 
-**TODO: Consider "Inner Harmony"
+**TODO: Consider "Inner Harmony" <br>
+**TODO: Consider "Twyfold"
+
+_You are never just one thing &mdash; your strength is in contradictions._
+
+As a bonus action, you can call upon your internal conflicts, gaining a burst of confidence and insight. For 1 minute, you gain the following benefits:
+
+Choose one: gain **Advantage** on Charisma-based ability checks or on Wisdom-based ability checks. During this time, you can switch the chosen ability (Charisma or Wisdom) at the start of your turn without expending another bonus action.
+
+You can use this feature a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest.
 
 ### The Mother
 _Steadfast hands, a voice of reason, and full of life_
@@ -697,6 +706,8 @@ meant.
   Within these wards, your guests and secrets are safe.
   A Witch keeps her hearth protected from scrying eyes.
 
+\page
+
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
 
@@ -720,8 +731,6 @@ They are known for [2–3 traits or habits], and their magic leans toward [key t
 #### Level 3: Dark Intuition
 
 Your magic knowledge or commanding presence borders on the supernatural.
-
-\page
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill (expertise).
 
@@ -799,6 +808,8 @@ If the creature is already possessed or protected by *Protection from Evil and G
 Borrowing ends early if the borrowed creature drops to 0 hit points or after 1 day.
 
 If the Witch borrows a creature for more than 1 hour, you gain 1 level of _Exhaustion_.
+
+\page
 
 You may use this feature once, and regain its use when you finish a long rest.
 
