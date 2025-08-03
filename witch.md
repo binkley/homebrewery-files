@@ -711,7 +711,7 @@ meant.
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
 
-#### Level 10: Benison
+#### Level 14: Benison
 
 _Stand tall or I'll hide you. You've got this. And there'll be plum pudding after._
 
@@ -797,29 +797,57 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 ### Level 6: Borrowing
 
-You inhabit the body of a natural creature for up to 1 day.
+You inhabit the body of a natural creature for a limited time, and control it as your own.
 
-You can cast a special form of **Magic Jar** on a non-hostile _Beast_ or _Plant_ lacking the **Swarm** trait within range of your senses. The target does not make a saving throw. Its own body serves as the container for the spell, and remains aware as a silent, non-hostile observer.
+You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body seems dead to others. The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer. The borrowed creature cannot be a sentient creature, and it must have an Intelligence score lower than 3.
 
-At 10<sup>th</sup> level you may borrow a creature with the **Swarm** trait such as a _Swarm of Bats_.
+You are limited to non-hostile _Beast_ or _Plant_ creatures lacking the **Swarm** trait. While in the borrowed form, you cannot take the **Attack** action.
 
 If the creature is already possessed or protected by *Protection from Evil and Good*, *Magic Circle*, or similar magic, the borrowing fails. The target must have a challenge rating equal to or lower than your limit, as shown below.
 
-Borrowing ends early if the borrowed creature drops to 0 hit points or after 1 day.
-
-If the Witch borrows a creature for more than 1 hour, you gain 1 level of _Exhaustion_.
-
 \page
+
+Others may make a skill check to recognize that your near-dead form still lives (DC 15). <br>
+**TODO** Others that examine your body can make a DC 15 Wisdom (Medicine) check (or Wisdom (Perception) at the DM’s discretion) to realize you are not dead, only absent.
+
+Borrowing ends early if the borrowed creature is reduced to 0 hit points, you return to your own body. When this happens, you immediately return to your own body and fall **Prone** and **Incapacitated** until the end of your next turn.
+
+If you borrow a creature for more than 1 hour, you gain 1 level of _Exhaustion_, and an additional level of exhaustion for each hour thereafter.
 
 You may use this feature once, and regain its use when you finish a long rest.
 
 | Witch Level | Maximum Challenge Rating |
 |:--:|:--:|
-| 6           | 1                        |
-| 10          | 2                        |
+| 6           | 1 |
+| 12          | 2 |
 
+### Level 10: Greater Borrowing
 
-### Level 10: Malison
+Your powers of borrowing grow stronger and shock even other witches.
+
+You gain these benefits in addition to those of the _Borrowing_ feature:
+
+#### Borrowed Instinct
+
+While borrowing, you may add your Wisdom modifier to Perception and Stealth checks made through the borrowed creature, in addition to the creature&rsquo;s own modifiers.
+
+#### Dangerous Creatures
+
+You can take the **Attack** action while borrowing, using the creature&rsquo;s attack actions.
+
+#### Extended Duration
+
+If you borrow a creature for more than 8 hours, you gain 1 level of _Exhaustion_, and an additional level of exhaustion for each 8 hours thereafter.
+
+#### Greater Form
+
+Your borrowing is not limited to _Beast_ or _Plant_ creatures, and can borrow a creature with the **Swarm** trait (such as a _Swarm of Insects_). While borrowing a swarm, you perceive through all of its component creatures simultaneously, though you act as if you were a single creature.
+
+#### Spellcasting
+
+While borrowing, you can use the borrowed creature&rsquo;s reaction to cast a cantrip that has only verbal or somatic components. You must be able to provide any verbal or somatic components required in the borrowed creatures. You cannot concentrate on a spell cast this way. You can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+### Level 14: Malison
 
 _I can't make you better, but I can make them worse._
 
