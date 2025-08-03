@@ -639,6 +639,10 @@ You can use your voice as a focus to cast a spell with only verbal components, e
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
+#### Level 10: Voice and Vision
+
+**TODO: Consider "Inner Harmony"
+
 ### The Mother
 _Steadfast hands, a voice of reason, and full of life_
 
@@ -695,6 +699,14 @@ meant.
 
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
+
+#### Level 10: Benison
+
+_Stand tall or I'll hide you. You've got this. And there'll be plum pudding after._
+
+Your calm assurance steadies hands and hearts.
+
+As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### The Crone
 
@@ -794,6 +806,15 @@ You may use this feature once, and regain its use when you finish a long rest.
 |:--:|:--:|
 | 6           | 1                        |
 | 10          | 2                        |
+
+
+### Level 10: Malison
+
+_I can't make you better, but I can make them worse._
+
+You speak words or think thoughts that twist fate.
+
+As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 \page
 
