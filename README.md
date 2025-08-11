@@ -5,6 +5,7 @@
   martial.
   See [Homebrewery](https://homebrewery.naturalcrit.com/edit/acC04Sqxbdca) for
   online rendering.
+  (D&amp;D Beyond does not support custom classes, only subclasses.)
    - [_Evil Eye_](./evil-eye.md) &mdash; a witchy Cantrip in DnDB style.
      See [D&amp;D Beyond](https://www.dndbeyond.com/spells/2978566-evil-eye)
      or [Homebrewery](https://homebrewery.naturalcrit.com/edit/ryns87mhYTtr)
