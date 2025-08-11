@@ -14,5 +14,5 @@ You can use the chosen benefit a number of times equal to your Proficiency Bonus
 
 When you use this feature, choose one of the following benefits:
 - When you make a saving throw against an Intelligence, Wisdom, or Charisma effect, or against a spell from the Enchantment school, you can use your reaction to gain advantage.
-- As both minds focus, when you hit with a weapon or spell attack, you can use this feature (no action required) to change the damage type to Psychic for one weapon and spell attack you make until the start of your next turn.
+- As both minds focus, one time when you hit with a weapon or spell attack, you can use this feature (no action required) to change the damage type to Psychic.
 - When you take Psychic damage, you can use your reaction for resistance to that damage.
