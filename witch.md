@@ -866,8 +866,7 @@ As a reaction when a creature you can see within 60 feet makes a **D20 Test**, y
 
 ## Evil Eye
 
-Some magic is so bound up with witches that no one else dares touch it.
-The cantip described here is always yours and doesn't count against the number of cantrips you know.
+Some magic is so bound up with witches that no one else dares try. The cantip described here doesn't count against the number of cantrips you know.
 
 > _A glare that bites deeper than words._
 
@@ -876,7 +875,7 @@ The cantip described here is always yours and doesn't count against the number o
 - **Components:** S
 - **Duration:** Instantaneous
 
-You fix your gaze on a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a reaction until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
+You must see a creature within range and briefly fix your gaze on them. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a reaction until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
 
 This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets blinded, invisible, or lacking visual senses. You must be within a target&rsquo;s line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you as you cast this spell.
 
