@@ -8,8 +8,9 @@
   See [Homebrewery](https://homebrewery.naturalcrit.com/edit/acC04Sqxbdca) for
   online rendering.
   (D&amp;D Beyond does not support custom classes, only subclasses.)
-   - [_Evil Eye_](./evil-eye.md) &mdash; a witchy Cantrip.
-     See [D&amp;D Beyond](https://www.dndbeyond.com/spells/2978566-evil-eye)
+   - [_Witch Glare_](./witch-glare.md) &mdash; a witchy Cantrip.
+     See [D&amp;D
+     Beyond](https://www.dndbeyond.com/spells/3005327-witch-glare)
      or [Homebrewery](https://homebrewery.naturalcrit.com/edit/ryns87mhYTtr)
      for online rendering.
 - Alternative Goliath ancestries (2024 D&amp;D 5e)

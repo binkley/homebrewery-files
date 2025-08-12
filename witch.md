@@ -60,7 +60,7 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 ##### Witch Features
 | Level | Proficiency Bonus | Class Features | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | +2 | Spellcasting, Evil Eye, Herbal Sage | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 1 | +2 | Spellcasting, Witch Glare, Herbal Sage | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2 | +2 | Cross Words, Dangerous Familiar, Witch Armor | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4 | +2 | ASI | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -86,11 +86,11 @@ Wisdom is your spellcasting ability for your Witch spells.
 _**Spellcasting Focus.**_
 You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Spellcasting Focus for your Witch spells.
 
-#### Level 1: Evil Eye
+#### Level 1: Witch Glare
 
 Witches say the eyes speak before the mouth does. A curse carried in a glance, stopping hearts, thoughts, and hands.
 
-You learn the **Evil Eye** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
+You learn the **Witch Glare** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
 
 #### Level 1: Herbal Sage
 
@@ -234,11 +234,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A ghostly hand that deals necrotic damage and halts healing.
   Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
 
-- **Evil Eye** <br>
-  A glare sharp enough to still the bold and curdle milk.
-  One hard look and their courage falters, their hands forget what they meant to do.
-  _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
-
 - **Toll the Dead** <br>
   A knell for the wicked; deals more damage if the target is wounded.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
@@ -246,6 +241,11 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Vicious Mockery** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
   Laughter can be crueler than claws.
+
+- **Witch Glare** <br>
+  A glare sharp enough to still the bold and curdle milk.
+  One hard look and their courage falters, their hands forget what they meant to do.
+  _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
 
 ##### 🔍 Utility, Ritual, &amp; Trickery
 
@@ -864,7 +864,7 @@ As a reaction when a creature you can see within 60 feet makes a **D20 Test**, y
 
 \page
 
-## Evil Eye
+## Witch Glare
 
 Some magic is so bound up with witches that no one else dares try. The cantip described here doesn't count against the number of cantrips you know.
 
@@ -875,9 +875,15 @@ Some magic is so bound up with witches that no one else dares try. The cantip de
 - **Components:** S
 - **Duration:** Instantaneous
 
-You must see a creature within range and briefly fix your gaze on them. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a reaction until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
+{{note
+Commonly known among witches as the _Evil Eye_, this spell channels your will into a piercing glance to one or others.
+}}
+
+You fix your gaze on a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a reaction until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
 
 This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets blinded, invisible, or lacking visual senses. You must be within a target&rsquo;s line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you as you cast this spell.
+
+If you cast this spell, you can&rsquo;t take a _Magic Action_ on the same turn.
 
 ### Cantrip Upgrade
 

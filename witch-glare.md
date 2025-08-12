@@ -12,5 +12,7 @@ You must see a creature within range and briefly fix your gaze on them. The targ
 
 This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets [condition]blinded[/condition], [condition]invisible[/condition], or lacking visual senses. You must be within a target's line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you.
 
+If you cast this spell, you can’t take the Magic Action on the same turn.
+
 ### Cantrip Upgrade
 You may target additional creatures when you reach levels 5 (up to 2 creatures), 11 (up to 3 creatures), and 17 (up to 4 creatures).
