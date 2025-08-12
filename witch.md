@@ -71,16 +71,20 @@ You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Sp
 <div class='wide'>
 | Level | Proficiency Bonus | Class Features | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | +2 | Spellcasting, Evil Eye, Herbal Sage | 2 | 3 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 2 | +2 | Cross Words, Dangerous Familiar, Witch Armor | 2 | 3 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 1 | +2 | Spellcasting, Evil Eye, Herbal Sage | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2 | +2 | Cross Words, Dangerous Familiar, Witch Armor | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 4 | +2 | ASI | 2 | 4 | 4 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5 | +3 | Coven Magic | 3 | 4 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4 | +2 | ASI | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | Coven Magic | 3 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7 | +3 | Witches Fly Free | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8 | +3 | ASI | 3 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 9 | +4 | Improved Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass feature | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 11 | +4 | ??? | 3 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 12 | +4 | ??? | 3 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 13 | +4 | ??? | 3 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
+| 14 | +5 | Subclass feature | 3 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 </div>
 
 #### Level 1: Evil Eye
@@ -131,13 +135,13 @@ You can use this feature a number of times equal to your Wisdom bonus, and you r
 
 You gain a Witch subclass of your choice.
 
+\page
+
 #### Level 3: Second Sight
 
 Your insight into others borders on the supernatural.
 
 You gain proficiency in the _Insight_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
-
-\page
 
 #### Level 5: Coven Magic
 
@@ -225,13 +229,13 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Stabilize a dying creature. Especially suited to the _Mother_ Witch.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
+\page
+
 ##### 📌 Damage &amp; Control
 
 - **Chill Touch** <br>
   A ghostly hand that deals necrotic damage and halts healing.
   Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
-
-\page
 
 - **Evil Eye** <br>
   A glare sharp enough to still the bold and curdle milk.
@@ -347,13 +351,13 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   More potion than spell &mdash; it smells like a witch&rsquo;s kitchen gone wrong.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
+\page
+
 - **Thunderwave** <br>
   A forceful burst for those moments when subtlety fails.
 
 - **Witch Bolt** <br>
   A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
-
-\page
 
 ##### 🔍 Utility, Ritual, &amp; Trickery
 
@@ -475,6 +479,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 > _This is the turning point. A third candle is lit. You may now call lightning, bind fate, or vanish with a scream. People begin to fear you&mdash;or seek you out._
 
+\page
+
 ##### 🛡️ Ally Buffs &amp; Wards
 
 - **Beacon of Hope** <br>
@@ -484,8 +490,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Catnap** <br>
   Send up to three creatures into a magical slumber for a brief but deeply restful nap.
   _Harried familiars, tired allies: a good nap is all purpose._
-
-\page
 
 - **Haste** <br>
   Focus on speeding up a creature in your sight.
@@ -592,14 +596,14 @@ _Bright-eyed, underestimated, and full of wild potential_
 
 Your herbal knowledge or your voice borders on the supernatural.
 
+\page
+
 You gain proficiency in your choice of the _Nature_ or _Performance_ skill.
 If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill (expertise).
 
 #### Level 3: Maiden Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the wild, bright magic of youthful witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
-
-\page
 
 | Witch Level | Spell |
 |:--:|:--|
@@ -696,6 +700,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A Witch doesn't just recognize the words &mdash; she knows what that person
 meant.
 
+\page
+
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
   No one goes without when with a proper witch in their company.
@@ -708,8 +714,6 @@ meant.
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
   Would you pass the biscuits?
-
-\page
 
 - **Life Transference** <br>
   Give your some of your life force to heal another.
@@ -810,9 +814,9 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 You inhabit the body of a natural creature for a limited time, and control it as your own.
 
-You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation.
-
 \page
+
+You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation.
 
 The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer. The borrowed creature cannot be a sentient creature, and it must have an Intelligence score of 3 or lower. The target must have a Challenge Rating (CR) equal to or lower than your limit:
 
