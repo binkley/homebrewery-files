@@ -96,7 +96,7 @@ You learn the **Evil Eye** cantrip. It counts as a Witch cantrip for you and doe
 
 Your understanding of animals, plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies.
 
-You gain expertise with the _herbalism kit_. When you make an ability check using this tool, your proficiency bonus is doubled if it applies to the check.
+You gain **expertise** with the _herbalism kit_ and double your proficiency bonus for any ability check using this tool
 
 When using an _herbalism kit_, you can use your Wisdom modifier instead of your Intelligence modifier for any ability checks made with the kit. In addition, you always have advantage on any ability check made using an _herbalism kit_.
 
@@ -140,7 +140,7 @@ You gain a Witch subclass of your choice.
 
 Your insight into others borders on the supernatural.
 
-You gain proficiency in the _Insight_ skill. If you're already proficient in it, your proficiency bonus is doubled for any ability check you make with it using your **expertise**.
+If you are already proficient in _Insight_, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
 
 #### Level 5: Coven Magic
 
@@ -597,8 +597,7 @@ Your herbal knowledge or your voice borders on the supernatural.
 
 \page
 
-You gain proficiency in your choice of the _Nature_ or _Performance_ skill.
-If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill (expertise).
+You gain proficiency in your choice of the _Nature_ or _Performance_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
 
 #### Level 3: Maiden Spells
 
@@ -673,8 +672,7 @@ _Steadfast hands, a voice of reason, and full of life_
 
 Your hearth skills or your personality border on the supernatural.
 
-You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill.
-If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill.
+You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
 #### Level 3: Mother Spells
 
@@ -746,7 +744,7 @@ They are known for [2–3 traits or habits], and their magic leans toward [key t
 
 Your magic knowledge or commanding presence borders on the supernatural.
 
-You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, your proficiency bonus is doubled for any ability check you make that uses that skill (expertise).
+You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
 #### Level 3: Crone Spells
 
