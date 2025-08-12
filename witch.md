@@ -14,7 +14,7 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. So
 | **Armor Training** | None |
 | **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch&rsquo;s hat); a component pouch or druidic focus; a sickle or quarterstaff; a healer&rsquo;s kit; an herbalism kit; cook&rsquo;s utensils; four candles; a pouch with 10 gp; and an explorer&rsquo;s pack; (B) 50 gp |
 
-Witches rarely choose the path of magic so much as they are chosen by it. Signs of a witch&rsquo;s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning the respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
+Witches rarely choose the path of magic so much as they are chosen by it. Signs of a witch&rsquo;s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
 
 A Witch&rsquo;s powers sway crowds and kingdoms, glimpse the future, drive creatures of field, forest, and water, and protect those around them. There is whimsy and unreality in their actions and spells. A witch&rsquo;s curse is _terrible_.
 
@@ -59,7 +59,7 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 
 \page
 
-If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you.
+If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
 
 _**Spellcasting Ability.**_
 Wisdom is your spellcasting ability for your Witch spells.
@@ -69,7 +69,7 @@ You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellc
 
 ##### Witch Features
 <div class='wide'>
-| Level | Proficiency Bonus | Class Features  | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| Level | Proficiency Bonus | Class Features | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | +2 | Spellcasting, Evil Eye, Herbal Sage | 2 | 2 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2 | +2 | Cross Words, Dangerous Familiar, Witch Armor | 2 | 2 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -78,9 +78,9 @@ You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellc
 | 5 | +3 | Coven Magic | 3 | 3 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6 | +3 | Subclass feature | 3 | 3 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7 | +3 | Witches Fly Free | 3 | 3 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 8 | +3 | ASI | 4 | 3 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 9 | +4 | Improved Familiar | 4 | 3 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 10 | +4 | Subclass feature | 4 | 4 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 8 | +3 | ASI | 3 | 3 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 9 | +4 | Improved Familiar | 3 | 3 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 10 | +4 | Subclass feature | 3 | 4 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 </div>
 
 #### Level 1: Evil Eye
@@ -178,7 +178,7 @@ If you already possess this item, you are granted a different suitable magic ite
 
 #### Difficult Customer
 
-When haggling over other means of travel you have **advantage** on _Charisma (Intimidation or Persuasion)_ checks_. Witches rarely pay full price for themselves, and never twice.
+When haggling over other means of travel you have **advantage** on _Charisma (Intimidation or Persuasion)_ checks. Witches rarely pay full price for themselves, and never twice.
 
 ### Level 9: Improved Familiar
 
