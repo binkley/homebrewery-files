@@ -12,7 +12,7 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. So
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
 | **Armor Training** | None |
-| **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch&rsquo;s hat); a component pouch or druidic focus; a sickle or quarterstaff; a healer&rsquo;s kit; an herbalism kit; cook&rsquo;s utensils; four candles; a pouch with 10 gp; and an explorer&rsquo;s pack; (B) 50 gp |
+| **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch&rsquo;s hat); a component pouch or druidic focus; a sickle or quarterstaff; a _healer&rsquo;s kit_; an _herbalism kit_; _cook&rsquo;s utensils_; four candles; a pouch with 10 gp; and an explorer&rsquo;s pack; (B) 50 gp |
 
 Witches rarely choose the path of magic so much as they are chosen by it. Signs of a witch&rsquo;s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
 
@@ -31,7 +31,7 @@ Most Witches are not taught in academies but by fellow Witches or through unexpe
 
 #### As a Multiclass Character
 
-- Gain the following traits from the Core Witch Traits table: Hit Point Die, proficiency in one skill of your choice, and proficiency with the Herbalism Kit.
+- Gain the following traits from the Core Witch Traits table: Hit Point Die, proficiency in one skill of your choice, and proficiency with the _herbalism kit_.
 - Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table. See the multiclassing rules in the D&amp;D _Player&rsquo;s Handbook_ to determine your available spell slots.
 
 ### Witch Class Features
@@ -65,7 +65,7 @@ _**Spellcasting Ability.**_
 Wisdom is your spellcasting ability for your Witch spells.
 
 _**Spellcasting Focus.**_
-You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellcasting Focus for your Witch spells.
+You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Spellcasting Focus for your Witch spells.
 
 ##### Witch Features
 <div class='wide'>
@@ -91,11 +91,11 @@ You learn the **Evil Eye** cantrip. It counts as a Witch cantrip for you and doe
 
 #### Level 1: Herbal Sage
 
-Your understanding of plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies, leaves and mushrooms.
+Your understanding of animals, plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies.
 
-When using an _Herbalism Kit_, you can use your Wisdom modifier instead of your Intelligence modifier for any ability checks made with the kit. You also add your proficiency bonus if you aren&rsquo;t already doing so.
+You gain expertise with the _herbalism kit_. When you make an ability check using this tool, your proficiency bonus is doubled if it applies to the check.
 
-In addition, you always have advantage on any ability check made using an _Herbalism Kit_.
+When using an _herbalism kit_, you can use your Wisdom modifier instead of your Intelligence modifier for any ability checks made with the kit. In addition, you always have advantage on any ability check made using an _herbalism kit_.
 
 #### Level 2: Cross Words
 
@@ -108,16 +108,16 @@ You gain additional uses when you reach certain Witch levels:
 - **11th level**: 4 uses
 - **17th level**: 5 uses
 
-When you cast *Hex* using this feature, you can use your Cook&rsquo;s Utensils or Herbalism Kit as your spellcasting focus.
+#### Level 2: Witch&rsquo;s Familiar
 
-#### Level 2: Dangerous Familiar
+You learn the _Find Familiar_ spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
-You learn the *Find Familiar* spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+| Witch Level | Maximum Familiar Challenge Rating (CR) |
+|:--:|:--:|
+| 2 | 0 |
+| 9 | 1 |
 
-When casting *Find Familiar* using this feature, you do so as a ritual. You may use an Herbalism Kit or Cook&rsquo;s Utensils as your spellcasting focus for the casting.
-
-**Independent Spirit.**
-Your familiar is unusually willful and assertive. It can take the **Attack action** on its turn. When it does, it makes a single attack that benefits from your proficiency bonus. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
+**Fearless**. Your familiar gains immunity to the Charmed and Frightened conditions.
 
 #### Level 2: Witch Armor
 
@@ -139,7 +139,7 @@ You gain proficiency in the _Insight_ skill. If you're already proficient in it,
 
 \page
 
-### Level 5: Coven Magic
+#### Level 5: Coven Magic
 
 > _Three stand beneath the moon. The spell is cast not alone, but in echo and accord._
 
@@ -166,9 +166,9 @@ At higher levels, your coven&rsquo;s lore deepens:
 
 You may only cast these spells as rituals. They do not count against your spells prepared.
 
-When casting one of these rituals, you may use a **witch&rsquo;s focus** &mdash; an herbalism kit, cook&rsquo;s utensils, or druidic focus &mdash; in place of any material component that lacks a listed gold cost.
+When casting one of these rituals, may use your **spell focus** in place of any material component that lacks a listed gold cost.
 
-### Level 7: Witches Fly Free
+#### Level 7: Witches Fly Free
 
 You gain a **Broom of Flying**.
 
@@ -176,13 +176,24 @@ This is a powerful, storied magic item &mdash; some say too powerful. But when y
 
 If you already possess this item, you are granted a different suitable magic item, chosen by the DM.
 
-#### Difficult Customer
+**Difficult Customer**. When haggling over other means of travel you have **advantage** on _Charisma (Intimidation or Persuasion)_ checks. Witches rarely pay full price for themselves, and never twice.
 
-When haggling over other means of travel you have **advantage** on _Charisma (Intimidation or Persuasion)_ checks. Witches rarely pay full price for themselves, and never twice.
+#### Level 9: Dangerous Familiar
 
-### Level 9: Improved Familiar
+Your familiar is stronger and unusually willful and assertive.
 
-When casting **Find Familiar** you may choose any creature of challenge rating 1 or lower.
+{{note
+That Witch&rsquo;s creature gave me a wicked stare, and I knew it was not to be messed with.
+}}
+
+When you cast *Find Familiar*, you can choose any creature of Challenge Rating (CR) 1 or lower.
+
+In combat, your familiar acts during your turn. A familiar can&rsquo;t attack, but it can move and take other actions. If you do one of the following your familiar may use the **Attack** action:
+
+- Use a **Bonus Action** to mentally command it to take an action from its stat block.
+- When you take the **Attack** action, you can forgo one of your own attacks to command the familiar to make one attack.
+
+When your familiar makes an attack, it adds your proficiency bonus to its attack roll and damage roll. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
 
 #### Level 10: Witch&rsquo;s Insight
 
@@ -220,6 +231,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A ghostly hand that deals necrotic damage and halts healing.
   Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
 
+\page
+
 - **Evil Eye** <br>
   A glare sharp enough to still the bold and curdle milk.
   One hard look and their courage falters, their hands forget what they meant to do.
@@ -238,8 +251,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Dancing Lights** <br>
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
   A flickering circle for rituals, or the glimmer of will-o'-wisps to draw in the foolish.
-
-\page
 
 - **Druidcraft** <br>
   Predict the weather, make flowers bloom, leaves fall, or summon other natural effects.
@@ -342,6 +353,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Witch Bolt** <br>
   A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
 
+\page
+
 ##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Animal Friendship** <br>
@@ -365,8 +378,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
 
-\page
-
 #### Level 2 Witch Spells
 
 > _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
@@ -379,9 +390,9 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   _(Strixhaven: Curriculum of Chaos, WotC)_
 
 - **Calm Emotions** <br>
-  Lower fear, anger, and turmoil in a group. 
+  Lower fear, anger, and turmoil in a group.
   A Witch's presence steadies hearts, whether by soft words, stern looks, or a shared cup of tea.
- 
+
 - **Enhance Ability** <br>
   A blessing of ability tailored to the task, or the tale.
   _I&rsquo;m sure you can do it, dearie._
@@ -474,6 +485,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Send up to three creatures into a magical slumber for a brief but deeply restful nap.
   _Harried familiars, tired allies: a good nap is all purpose._
 
+\page
+
 - **Haste** <br>
   Focus on speeding up a creature in your sight.
   _Better them than you, but if you, take a good meal after._
@@ -492,8 +505,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Spirit Guardians** <br>
   Protective spirits circle you, harming enemies and shielding allies.
   Witches call on the shades of old friends and long-dead kin.
-
-\page
 
 ##### 📌 Damage &amp; Control
 
@@ -588,6 +599,8 @@ If you are already proficient in the chosen skill, your proficiency bonus is dou
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the wild, bright magic of youthful witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
+\page
+
 | Witch Level | Spell |
 |:--:|:--|
 | 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Moonbeam* |
@@ -597,8 +610,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
-
-\page
 
 - **Color Spray** <br>
   A dazzling burst of multicolored light overwhelms the senses.
@@ -681,7 +692,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
 - **Comprehend Languages** <br>
-  You understand the meaning of spoken and written words, though your replies may be more creative than correct. 
+  You understand the meaning of spoken and written words, though your replies may be more creative than correct.
   A Witch doesn't just recognize the words &mdash; she knows what that person
 meant.
 
@@ -698,6 +709,8 @@ meant.
   It&rsquo;s not much, but better than nothing and a fireball.
   Would you pass the biscuits?
 
+\page
+
 - **Life Transference** <br>
   Give your some of your life force to heal another.
   _This hurts; it really hurts. It hurts me more than it does you._
@@ -705,8 +718,6 @@ meant.
 - **Mordenkainen&rsquo;s Private Sanctum** <br>
   Within these wards, your guests and secrets are safe.
   A Witch keeps her hearth protected from scrying eyes.
-
-\page
 
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
@@ -795,17 +806,17 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Vampiric Touch** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
 
-### Level 6: Borrowing
+#### Level 6: Borrowing
 
 You inhabit the body of a natural creature for a limited time, and control it as your own.
 
 You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation.
 
-The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer. The borrowed creature cannot be a sentient creature, and it must have an Intelligence score of 3 or lower. The target must have a challenge rating equal to or lower than your limit:
-
 \page
 
-| Witch Level | Maximum Challenge Rating |
+The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer. The borrowed creature cannot be a sentient creature, and it must have an Intelligence score of 3 or lower. The target must have a Challenge Rating (CR) equal to or lower than your limit:
+
+| Witch Level | Maximum Borrowing Challenge Rating (CR) |
 |:--:|:--:|
 | 6 | 1 |
 | 12 | 2 |
@@ -818,13 +829,9 @@ Others examining your body can make a DC 15 _Intelligence (Investigation)_ or _W
 
 You may use this feature once, and regain its use when you finish a long rest.
 
-#### Returning
+**Returning**. When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. Borrowing ends immediately if the borrowed creature is reduced to 0 hit points.
 
-When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. Borrowing ends immediately if the borrowed creature is reduced to 0 hit points.
-
-#### Weariness
-
-_Your training and unnatural endurance allow you to remain in a borrowed body far longer than others could._
+**Weariness**. _Your training and unnatural endurance allow you to remain in a borrowed body far longer than others could._
 
 Borrowing a creature is a mental and physical challenge. As your mind inhabits a creature&rsquo;s body and your own body lies dormant, the strain grows and you gain 1 level of _Exhaustion_ when you reach the listed duration, and 1 additional level for each further period of that length thereafter.
 
@@ -834,29 +841,21 @@ Borrowing a creature is a mental and physical challenge. As your mind inhabits a
 | 10 | 4 |
 | 14 | 8 |
 
-### Level 10: Greater Borrowing
+#### Level 10: Greater Borrowing
 
 Your powers of borrowing grow stronger as your skills deepen, and shock even other witches.
 
 You gain these benefits in addition to those of the _Borrowing_ feature:
 
-#### Borrowed Instinct
+**Borrowed Instinct**. While borrowing, you can choose to use your own Intelligence or Wisdom scores or bonuses in place of the creature&rsquo;s.
 
-While borrowing, you can choose to use your own Intelligence or Wisdom scores or bonuses in place of the creature&rsquo;s.
+**Dangerous Creatures**. You can take the **Attack** action while borrowing, using the creature&rsquo;s attack actions.
 
-#### Dangerous Creatures
+**Greater Form**. You can now borrow a creature with the **Swarm** trait (such as a _Swarm of Insects_), as long as it meets the other requirements of the _Borrowing_ feature. While borrowing a swarm, you perceive through all of its component creatures simultaneously, though you act as if you were a single creature.
 
-You can take the **Attack** action while borrowing, using the creature&rsquo;s attack actions.
+**Spellcasting**. You can cast a cantrip without material components. The borrowed creature supplies verbal or somatic components such as buzz of wings, chirps, pawing at the ground, and similar natural sounds or motions if they are capable. You may concentrate on a spell cast this way, as your mind is fully present in the borrowed form. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-#### Greater Form
-
-You can now borrow a creature with the **Swarm** trait (such as a _Swarm of Insects_), as long as it meets the other requirements of the _Borrowing_ feature. While borrowing a swarm, you perceive through all of its component creatures simultaneously, though you act as if you were a single creature.
-
-#### Spellcasting
-
-You can cast a cantrip without material components. The borrowed creature supplies verbal or somatic components such as buzz of wings, chirps, pawing at the ground, and similar natural sounds or motions if they are capable. You may concentrate on a spell cast this way, as your mind is fully present in the borrowed form. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-### Level 14: Malison
+#### Level 14: Malison
 
 _I can't make you better, but I can make them worse._
 
