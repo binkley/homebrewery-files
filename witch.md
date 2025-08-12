@@ -71,16 +71,16 @@ You can use a Druidic Focus, Herbalism Kit, or Cook&rsquo;s Utensils as a Spellc
 <div class='wide'>
 | Level | Proficiency Bonus | Class Features | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | +2 | Spellcasting, Evil Eye, Herbal Sage | 2 | 2 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 2 | +2 | Cross Words, Dangerous Familiar, Witch Armor | 2 | 2 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 3 | +2 | Witch Subclass, Second Sight | 2 | 2 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 4 | +2 | ASI | 2 | 3 | 4 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5 | +3 | Coven Magic | 3 | 3 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 6 | +3 | Subclass feature | 3 | 3 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 7 | +3 | Witches Fly Free | 3 | 3 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 8 | +3 | ASI | 3 | 3 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 9 | +4 | Improved Familiar | 3 | 3 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 10 | +4 | Subclass feature | 3 | 4 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 1 | +2 | Spellcasting, Evil Eye, Herbal Sage | 2 | 3 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2 | +2 | Cross Words, Dangerous Familiar, Witch Armor | 2 | 3 | 5 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4 | +2 | ASI | 2 | 4 | 4 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | Coven Magic | 3 | 4 | 4 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 6 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 7 | +3 | Witches Fly Free | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 8 | +3 | ASI | 3 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 9 | +4 | Improved Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 10 | +4 | Subclass feature | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 </div>
 
 #### Level 1: Evil Eye
