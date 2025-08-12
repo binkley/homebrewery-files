@@ -96,9 +96,7 @@ You learn the **Evil Eye** cantrip. It counts as a Witch cantrip for you and doe
 
 Your understanding of animals, plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies.
 
-You gain **expertise** with the _herbalism kit_ and double your proficiency bonus for any ability check using this tool
-
-When using an _herbalism kit_, you can use your Wisdom modifier instead of your Intelligence modifier for any ability checks made with the kit. In addition, you always have advantage on any ability check made using an _herbalism kit_.
+You gain **expertise** with the _herbalism kit_ and double your proficiency bonus for any check using this tool.
 
 #### Level 2: Cross Words
 
