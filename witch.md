@@ -46,7 +46,7 @@ Every spell includes a brief note on how Witches tend to use it. These notes don
 
 _**Cantrips.**_ You know three Witch cantrips of your choice. _Guidance_, _Thaumaturgy_, and _Toll the Dead_ are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
 
-When you reach Witch levels 4 and 10, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
+When you reach Witch levels 4 and 10 and 16, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
 
 _**Spell Slots.**_ The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
@@ -70,10 +70,16 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 | 8 | +3 | ASI | 3 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 9 | +4 | Improved Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass feature | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 11 | +4 | ??? | 3 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
-| 12 | +4 | ??? | 3 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
-| 13 | +4 | ??? | 3 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
+| 11 | +4 | ??? | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 12 | +4 | ??? | 4 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 13 | +4 | ??? | 4 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 14 | +5 | Subclass feature | 3 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
+| 15 | +5 | ??? | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
+| 16 | +5 | ASI | 4 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
+| 17 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | ASI | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 </div>
 
 If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
@@ -126,13 +132,13 @@ You could avoid fate this time. A subtle curse sends ill luck to your foes, caus
 
 When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
+\page
+
 You can use this feature a number of times equal to your Wisdom bonus, and you regain all expended uses when you finish a Long Rest.
 
 #### Level 3: Witch Subclass
 
 You gain a Witch subclass of your choice.
-
-\page
 
 #### Level 3: Second Sight
 
@@ -169,15 +175,17 @@ You may only cast these spells as rituals. They do not count against your spells
 
 When casting one of these rituals, may use your **spell focus** in place of any material component that lacks a listed gold cost.
 
-#### Level 7: Witches Fly Free
+#### Level 7: Token of Respect
 
-You gain a **Broom of Flying**.
+{{note
+Others know witches not just for their stare but for the magic they have and the items associated with them.
+}}
 
-This is a powerful, storied magic item &mdash; some say too powerful. But when you need to be somewhere in a hurry, _flying_ is the only way to travel. It&rsquo;s amazing how much you can carry on a broom.
+When you gain this feature, choose one magic item that is Uncommon and requires attunement, or one that is Rare and does not require attunement. The item must be a Ring, Wand, or Wondrous Item and should suit your witchy theme. Your DM has final say on which items are available for this feature.
 
-If you already possess this item, you are granted a different suitable magic item, chosen by the DM.
+If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means &mdash; it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
-**Difficult Customer**. When haggling over other means of travel you have **advantage** on _Charisma (Intimidation or Persuasion)_ checks. Witches rarely pay full price for themselves, and never twice.
+Example items include those evoking respect, mobility, protection, or nature&rsquo;s power such as _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These items represent different powers and aspects of witches.
 
 #### Level 9: Dangerous Familiar
 
@@ -212,6 +220,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 > _A word in your ear, a flower in your pocket, and flame or a cold wind in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
 
+\page
+
 ##### 🛡️ Ally Buffs &amp; Wards
 
 - **Guidance** <br>
@@ -225,8 +235,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Spare the Dying** <br>
   Stabilize a dying creature. Especially suited to the _Mother_ Witch.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
-
-\page
 
 ##### 📌 Damage &amp; Control
 
@@ -335,6 +343,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Inflict Wounds** <br>
   A brutal, unassuming touch that rots flesh.
 
+\page
+
 - **Ray of Sickness** <br>
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
 
@@ -347,8 +357,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A jet of hissing, caustic acid sprays from your hand, eating through armor and pride alike.
   More potion than spell &mdash; it smells like a witch&rsquo;s kitchen gone wrong.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
-
-\page
 
 - **Thunderwave** <br>
   A forceful burst for those moments when subtlety fails.
@@ -468,6 +476,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A hidden treehouse without a tree.
   A Witch can do surprising things with a bit of strong string.
 
+\page
+
 - **See Invisibility** <br>
   Not all unseen things are harmless.
   _I know you're there. I can see you._
@@ -475,8 +485,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 #### Level 3 Witch Spells
 
 > _This is the turning point. A third candle is lit. You may now call lightning, bind fate, or vanish with a scream. People begin to fear you&mdash;or seek you out._
-
-\page
 
 ##### 🛡️ Ally Buffs &amp; Wards
 
@@ -586,14 +594,14 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass&rsquo;s features that are of your Witch level or lower.
 
+\page
+
 ### The Maiden
 _Bright-eyed, underestimated, and full of wild potential_
 
 #### Level 3: Inner Discovery
 
 Your herbal knowledge or your voice borders on the supernatural.
-
-\page
 
 You gain proficiency in your choice of the _Nature_ or _Performance_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
 
@@ -687,6 +695,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
 
+\page
+
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
@@ -694,8 +704,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   You understand the meaning of spoken and written words, though your replies may be more creative than correct.
   A Witch doesn't just recognize the words &mdash; she knows what that person
 meant.
-
-\page
 
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
@@ -798,6 +806,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Phantasmal Killer** <br>
   You unearth the deepest terror in a creature&rsquo;s mind, and give it shape so it stalks them from within.
 
+\page
+
 - **Polymorph** <br>
   You take the form of another creature for a time with your mind and their body.
   Why _borrow_ when you can steal?
@@ -808,8 +818,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 #### Level 6: Borrowing
 
 You inhabit the body of a natural creature for a limited time, and control it as your own.
-
-\page
 
 You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation.
 
