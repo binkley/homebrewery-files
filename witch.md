@@ -46,7 +46,7 @@ Every spell includes a brief note on how Witches tend to use it. These notes don
 
 _**Cantrips.**_ You know three Witch cantrips of your choice. _Guidance_, _Thaumaturgy_, and _Toll the Dead_ are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
 
-When you reach Witch levels 4 and 10 and 16, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
+When you reach Witch levels 4, 10 and 16, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
 
 _**Spell Slots.**_ The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
@@ -58,25 +58,25 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 
 <div class='wide'>
 ##### Witch Features
-| Level | Proficiency Bonus | Class Features | Cross Words | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+| Level | Proficiency Bonus | Class Features | Cross Words Uses | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | +2 | Spellcasting, Witch Glare, Herbal Sage | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 2 | +2 | Cross Words, Dangerous Familiar, Witch Armor | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2 | +2 | Cross Words, Witch&rsquo;s Familiar, Witch Armor | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 4 | +2 | ASI | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5 | +3 | Coven Magic | 3 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4 | +2 | ASI, Cantrips | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | Coven Magic, Cross Words | 3 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 7 | +3 | Witches Fly Free | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 7 | +3 | Token of Respect | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8 | +3 | ASI | 3 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 9 | +4 | Improved Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 10 | +4 | Subclass feature | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 11 | +4 | ??? | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 9 | +4 | Dangerous Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 10 | +4 | Subclass feature, Cantrips | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 11 | +4 | ???, Cross Words | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
 | 12 | +4 | ??? | 4 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
 | 13 | +4 | ??? | 4 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
-| 14 | +5 | Subclass feature | 3 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
+| 14 | +5 | Subclass feature | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 15 | +5 | ??? | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
-| 16 | +5 | ASI | 4 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
-| 17 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 16 | +5 | ASI, Cantrips | 4 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
+| 17 | +6 | ???, Cross Words | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19 | +6 | ASI | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
@@ -110,7 +110,7 @@ You learn the *Hex* spell. It is always prepared for you and doesn&rsquo;t count
 
 You can cast *Hex* without expending a spell slot using only verbal components. You can do so twice, and you regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
-You gain additional uses when you reach certain Witch levels:
+You begin with 2 uses and gain additional uses when you reach certain Witch levels:
 - **5th level**: 3 uses
 - **11th level**: 4 uses
 - **17th level**: 5 uses
@@ -130,9 +130,9 @@ _**Fearless**._ Your familiar gains immunity to the Charmed and Frightened condi
 
 You could avoid fate this time. A subtle curse sends ill luck to your foes, causing blows to falter and spells to misfire.
 
-When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
-
 \page
+
+When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
 You can use this feature a number of times equal to your Wisdom bonus, and you regain all expended uses when you finish a Long Rest.
 
@@ -216,11 +216,11 @@ You can use this feature a number of times equal to your **proficiency bonus**, 
 
 Not just a plain list, but some description how to use, and why a Witch knows these.
 
+\page
+
 #### Cantrips (Level 0 Witch Spells)
 
 > _A word in your ear, a flower in your pocket, and flame or a cold wind in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
-
-\page
 
 ##### 🛡️ Ally Buffs &amp; Wards
 
@@ -331,6 +331,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Dissonant Whispers** <br>
   Psychic pain that drives enemies away and instills respect.
 
+\page
+
 - **Entangle** <br>
   Roots rise up to imprison those who overstep.
 
@@ -342,8 +344,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Inflict Wounds** <br>
   A brutal, unassuming touch that rots flesh.
-
-\page
 
 - **Ray of Sickness** <br>
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
@@ -465,6 +465,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Invisibility** <br>
   A trick of breath and intention; the Witch is there, but not seen.
 
+\page
+
 - **Locate Animals or Plants** <br>
   Close your eyes, touch the earth, and the land itself tells you where a beast roams or a plant grows.
 
@@ -475,8 +477,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Rope Trick** <br>
   A hidden treehouse without a tree.
   A Witch can do surprising things with a bit of strong string.
-
-\page
 
 - **See Invisibility** <br>
   Not all unseen things are harmless.
@@ -583,6 +583,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 ##### 📌 Damage &amp; Control
 
+\page
+
 ##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Dream** <br>
@@ -593,8 +595,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 ## Witch Subclasses
 
 You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass&rsquo;s features that are of your Witch level or lower.
-
-\page
 
 ### The Maiden
 _Bright-eyed, underestimated, and full of wild potential_
@@ -680,6 +680,8 @@ Your hearth skills or your personality border on the supernatural.
 
 You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
+\page
+
 #### Level 3: Mother Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -694,8 +696,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aid** <br>
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
-
-\page
 
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
@@ -787,8 +787,9 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   An irresistible pull—your voice bends the target&rsquo;s will, driving them to move in the path you choose.
 
 - **Death Ward** <br>
-  A quiet sigil, unseen, catches a final blow. Death must come twice.
-  And I&rsquo;ve met those bones as equals.
+  I had a quiet conversation with Death, and they must come twice for you this time.
+
+\page
 
 - **Dominate Beast** <br>
   Strongly control a _beast_.
@@ -805,8 +806,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Phantasmal Killer** <br>
   You unearth the deepest terror in a creature&rsquo;s mind, and give it shape so it stalks them from within.
-
-\page
 
 - **Polymorph** <br>
   You take the form of another creature for a time with your mind and their body.
