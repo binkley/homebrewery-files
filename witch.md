@@ -751,7 +751,7 @@ You can cast _Aura of Calm_ without expending a spell slot a number of times equ
 A familiar is more than a cute companion. Its claws, mismatched eyes, croaks or aggressive stance puts fear in the hearts of most.
 }}
 
-When you command your familiar to take the **Attack** action using the rules of your _Dangerous Familiar_ feature, its attacks can unnerve its foes. For the next 1 minute, whenever your familiar hits a creature with an attack, that creature must succeed on a Wisdom saving throw against your Witch spell save DC or gain the **Frightened** condition until the end of its next turn.
+When you command your familiar to take the **Attack** action using the rules of your _Dangerous Familiar_ feature, its attacks can unnerve its foes. Until your next turn ends, whenever your familiar hits a creature with an attack, that creature must succeed on a Wisdom saving throw against your Witch spell save DC or gain the **Frightened** condition until the end of its next turn.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
