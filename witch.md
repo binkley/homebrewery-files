@@ -60,7 +60,7 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 ##### Witch Features
 | Level | Proficiency Bonus | Class Features | Cross Words Uses | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | +2 | Spellcasting, Witch Glare, Herbal Sage | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 1 | +2 | Spellcasting, Harsh Glare, Herbal Sage | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2 | +2 | Cross Words, Witch&rsquo;s Familiar, Witch Armor | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4 | +2 | ASI, Cantrips | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -739,7 +739,7 @@ meant.
 Some witches win fights by smiling, speaking softly, and watching the world rearrange around them.
 }}
 
-Your presence is a campaign in itself &mdash; a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
+Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
 
 You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know.  
 
@@ -908,13 +908,14 @@ The Witch has spells exclusive to them unless some Bard picks them up.
 > _A glare that bites deeper than words._
 
 {{note
-Commonly known among witches as the _Evil Eye_, this spell channels your will into a piercing glance to one or others.
+Commonly known as the _Evil Eye_, this spell channels your will into a piercing glance to one or others.
 }}
 
 - **Casting Time:** 1 bonus action
 - **Range:** 60 feet
 - **Components:** S
 - **Duration:** Instantaneous
+
 You fix your gaze on a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a reaction until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
 
 This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets blinded, invisible, or lacking visual senses. You must be within a target&rsquo;s line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you as you cast this spell.
@@ -927,19 +928,20 @@ You may target additional creatures when you reach levels 5 (up to 2 creatures),
 
 ## Aura of Calm _(4th-level enchantment)_
 
-Some witches are supernaturally powerful in swaying others and changing their attitude. This is a greater version of the _Calm Emotions_ spell.
+_Your words and presence lower hostilities for now._ This is a greater version of the _Calm Emotions_ spell.
 
 - **Casting Time:** 1 action
 - **Range:** Self (20-foot radius)
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-You emanate an aura of supernatural charm by your words and presence that draws attention and softens hearts. Each creature of your choice that starts its turn within 20 feet of you, or enters the area for the first time on a turn, must make a Wisdom saving throw against your spellcasting DC. Once the effect no longer applies to a creature &mdash; such as after a successful saving throw or the effect ending &mdash; it is immune for the rest of this casting of the spell.
+You emanate an aura of supernatural charm by your words and presence that draws attention and softens hearts. Each creature of your choice that starts its turn within 20 feet of you, or enters the area for the first time on a turn, must make a Wisdom saving throw. Once the effect no longer applies to a creature &mdash; such as after a successful saving throw or the effect ending &mdash; it is immune for the rest of this casting of the spell.
 
 On a failed save, choose one of the following effects for that creature:
 
 - **Charm and Fear Suppression.** The creature has immunity to the _Charmed_ and _Frightened_ conditions until the spell ends. If the creature is already _Charmed_ or _Frightened_, those conditions are suppressed for the duration.  
 - **Attitude Shift.** The creature’s attitude toward you and creatures you choose shifts one step friendlier (_Hostile_ &rarr; _Indifferent_, _Indifferent_ &rarr; _Friendly_) for as long as the effect lasts. This change happens even if the creature is currently engaged in combat.
+- **Word to the Wise.** For any Charisma check you make with the affected creatures you can substitute a Wisdom check if appropriate.
 
 If an affected creature within your aura is attacked by you or your companions, the effect ends for all affected creatures in the aura, though the aura remains. When an affected creature leaves the aura, it immediately makes another Wisdom saving throw. On a success, the effect ends for that creature.
 

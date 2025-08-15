@@ -8,9 +8,15 @@
   See [Homebrewery](https://homebrewery.naturalcrit.com/edit/acC04Sqxbdca) for
   online rendering.
   (D&amp;D Beyond does not support custom classes, only subclasses.)
-   - [_Witch Glare_](./witch-glare.md) &mdash; a witchy Cantrip.
+   - [_Aura of Calm_](./aura-of-calm.md) &mdash; a witchy spell for _Mother_
+     subclass.
      See [D&amp;D
-     Beyond](https://www.dndbeyond.com/spells/3005327-witch-glare)
+     Beyond](https://www.dndbeyond.com/spells/3008065-aura-of-calm)
+     or [Homebrewery](https://homebrewery.naturalcrit.com/edit/6qsmSyMl-Sck)
+     for online rendering.
+   - [_Harsh Glare_](./harsh-glare.md) &mdash; a witchy Cantrip.
+     See [D&amp;D
+     Beyond](https://www.dndbeyond.com/spells/3008061-harsh-glare).
      or [Homebrewery](https://homebrewery.naturalcrit.com/edit/ryns87mhYTtr)
      for online rendering.
 - Alternative Goliath ancestries (2024 D&amp;D 5e)
