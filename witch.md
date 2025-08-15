@@ -905,19 +905,16 @@ The Witch has spells exclusive to them unless some Bard picks them up.
 
 ## Harsh Glare _(Cantrip enchantment)_
 
-A stare so strong it is an _evil eye_ on those unfortunate to be the target.
-
 > _A glare that bites deeper than words._
-
-- **Casting Time:** 1 bonus action
-- **Range:** 60 feet
-- **Components:** S
-- **Duration:** Instantaneous
 
 {{note
 Commonly known among witches as the _Evil Eye_, this spell channels your will into a piercing glance to one or others.
 }}
 
+- **Casting Time:** 1 bonus action
+- **Range:** 60 feet
+- **Components:** S
+- **Duration:** Instantaneous
 You fix your gaze on a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a reaction until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
 
 This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets blinded, invisible, or lacking visual senses. You must be within a target&rsquo;s line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you as you cast this spell.
@@ -930,14 +927,14 @@ You may target additional creatures when you reach levels 5 (up to 2 creatures),
 
 ## Aura of Calm _(4th-level enchantment)_
 
-Some witches are supernaturally powerful in swaying others and changing their attitude.
+Some witches are supernaturally powerful in swaying others and changing their attitude. This is a greater version of the _Calm Emotions_ spell.
 
 - **Casting Time:** 1 action
 - **Range:** Self (20-foot radius)
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
 
-You emanate an aura of supernatural charm that draws attention and softens hearts. Each creature of your choice that starts its turn within 20 feet of you, or enters the area for the first time on a turn, must make a Wisdom saving throw against your spellcasting DC. Once the effect no longer applies to a creature &mdash; such as after a successful saving throw or the effect ending &mdash; it is immune for the rest of this casting of the spell.
+You emanate an aura of supernatural charm by your words and presence that draws attention and softens hearts. Each creature of your choice that starts its turn within 20 feet of you, or enters the area for the first time on a turn, must make a Wisdom saving throw against your spellcasting DC. Once the effect no longer applies to a creature &mdash; such as after a successful saving throw or the effect ending &mdash; it is immune for the rest of this casting of the spell.
 
 On a failed save, choose one of the following effects for that creature:
 
