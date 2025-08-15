@@ -1,4 +1,4 @@
-## Evil Eye
+## Harsh Glare
 *Cantrip | Witch*
 
 > _A glare that bites deeper than words._

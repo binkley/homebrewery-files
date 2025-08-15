@@ -96,7 +96,7 @@ You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Sp
 
 Witches say the eyes speak before the mouth does. A curse carried in a glance, stopping hearts, thoughts, and hands.
 
-You learn the **Witch Glare** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
+You learn the **Harsh Glare** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
 
 #### Level 1: Herbal Sage
 
@@ -242,6 +242,11 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A ghostly hand that deals necrotic damage and halts healing.
   Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
 
+- **Harsh Glare** <br>
+  A glare sharp enough to still the bold and curdle milk.
+  One hard look and their courage falters, their hands forget what they meant to do.
+  _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
+
 - **Toll the Dead** <br>
   A knell for the wicked; deals more damage if the target is wounded.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
@@ -249,11 +254,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Vicious Mockery** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
   Laughter can be crueler than claws.
-
-- **Witch Glare** <br>
-  A glare sharp enough to still the bold and curdle milk.
-  One hard look and their courage falters, their hands forget what they meant to do.
-  _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
 
 ##### 🔍 Utility, Ritual, &amp; Trickery
 
@@ -560,6 +560,10 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 ##### 🛡️ Ally Buffs &amp; Wards
 
+- **Aura of Calm** <br>
+  Your presences as you move around others turns combatants into those looking
+at each other and smooths social situations.
+
 ##### 📌 Damage &amp; Control
 
 - **Banishment** <br>
@@ -729,6 +733,30 @@ meant.
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
 
+#### Level 10: Charm Offensive
+
+{{note
+Some witches win fights by smiling, speaking softly, and watching the world rearrange around them.
+}}
+
+Your presence is a campaign in itself &mdash; a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
+
+You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know.  
+
+You can cast _Aura of Calm_ without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
+
+#### Level 10: Terrifying Familiar
+
+{{note
+A familiar is more than a cute companion. Its claws, mismatched eyes, croaks or aggressive stance puts fear in the hearts of most.
+}}
+
+When you command your familiar to take the **Attack** action using the rules of your _Dangerous Familiar_ feature, its attacks can unnerve its foes. For the next 1 minute, whenever your familiar hits a creature with an attack, that creature must succeed on a Wisdom saving throw against your Witch spell save DC or gain the **Frightened** condition until the end of its next turn.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+Creatures immune to the **Frightened** condition are unaffected.
+
 #### Level 14: Benison
 
 _Stand tall or I'll hide you. You've got this. And there'll be plum pudding after._
@@ -749,6 +777,8 @@ They are known for [2–3 traits or habits], and their magic leans toward [key t
 #### Level 3: Dark Intuition
 
 Your magic knowledge or commanding presence borders on the supernatural.
+
+\page
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
@@ -788,8 +818,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Death Ward** <br>
   I had a quiet conversation with Death, and they must come twice for you this time.
-
-\page
 
 - **Dominate Beast** <br>
   Strongly control a _beast_.
@@ -871,9 +899,13 @@ As a reaction when a creature you can see within 60 feet makes a **D20 Test**, y
 
 \page
 
-## Witch Glare
+# New Spells
 
-Some magic is so bound up with witches that no one else dares try. The cantip described here doesn't count against the number of cantrips you know.
+The Witch has spells exclusive to them unless some Bard picks them up.
+
+## Harsh Glare _(Cantrip enchantment)_
+
+A stare so strong it is an _evil eye_ on those unfortunate to be the target.
 
 > _A glare that bites deeper than words._
 
@@ -890,8 +922,30 @@ You fix your gaze on a creature you can see within range. The target must succee
 
 This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets blinded, invisible, or lacking visual senses. You must be within a target&rsquo;s line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you as you cast this spell.
 
-If you cast this spell, you can&rsquo;t take a _Magic Action_ on the same turn.
+If you cast this spell, you can't take a _Magic Action_ on the same turn.
 
 ### Cantrip Upgrade
 
 You may target additional creatures when you reach levels 5 (up to 2 creatures), 11 (up to 3 creatures), and 17 (up to 4 creatures).
+
+## Aura of Calm _(4th-level enchantment)_
+
+Some witches are supernaturally powerful in swaying others and changing their attitude.
+
+- **Casting Time:** 1 action
+- **Range:** Self (20-foot radius)
+- **Components:** V
+- **Duration:** Concentration, up to 1 minute
+
+You emanate an aura of supernatural charm that draws attention and softens hearts. Each creature of your choice that starts its turn within 20 feet of you, or enters the area for the first time on a turn, must make a Wisdom saving throw against your spellcasting DC. Once the effect no longer applies to a creature &mdash; such as after a successful saving throw or the effect ending &mdash; it is immune for the rest of this casting of the spell.
+
+On a failed save, choose one of the following effects for that creature:
+
+- **Charm and Fear Suppression.** The creature has immunity to the _Charmed_ and _Frightened_ conditions until the spell ends. If the creature is already _Charmed_ or _Frightened_, those conditions are suppressed for the duration.  
+- **Attitude Shift.** The creature’s attitude toward you and creatures you choose shifts one step friendlier (_Hostile_ &rarr; _Indifferent_, _Indifferent_ &rarr; _Friendly_) for as long as the effect lasts. This change happens even if the creature is currently engaged in combat.
+
+If an affected creature within your aura is attacked by you or your companions, the effect ends for all affected creatures in the aura, though the aura remains. When an affected creature leaves the aura, it immediately makes another Wisdom saving throw. On a success, the effect ends for that creature.
+
+When the effect ends for a creature (including when the spell ends), the improved attitude persists unless a significant event changes their mind, such as continuing combat with them or their allies (DM&rsquo;s discretion).
+
+_The aura moves with you, remaining centered on you for the spell’s duration._
