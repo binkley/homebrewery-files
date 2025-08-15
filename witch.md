@@ -71,7 +71,7 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 | 9 | +4 | Dangerous Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass feature, Cantrips | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 11 | +4 | ???, Cross Words | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
-| 12 | +4 | ??? | 4 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 12 | +4 | Witch&rsquo;s Insight | 4 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
 | 13 | +4 | ??? | 4 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 14 | +5 | Subclass feature | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 15 | +5 | ??? | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
@@ -204,7 +204,7 @@ In combat, your familiar acts during your turn. A familiar can&rsquo;t attack, b
 
 When your familiar makes an attack, it adds your proficiency bonus to its attack roll and damage roll. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
 
-#### Level 10: Witch&rsquo;s Insight
+#### Level 12: Witch&rsquo;s Insight
 
 Your insight into fate and folly lets you tip the balance of events.
 
@@ -680,7 +680,11 @@ _Steadfast hands, a voice of reason, and full of life_
 
 #### Level 3: Trusted Wisdom
 
-Your hearth skills or your personality border on the supernatural.
+_Your people or hearth skills are exceptional._
+
+{{note
+Would you like another cup of tea, dear? I have a poultice for that and I won't tell a word.
+}}
 
 You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
@@ -735,8 +739,10 @@ meant.
 
 #### Level 10: Charm Offensive
 
+_You wade into battle or soirees to lower tensions._
+
 {{note
-Some witches win fights by smiling, speaking softly, and watching the world rearrange around them.
+Some witches win fights by smiling, speaking softly, and watching the world rearrange around them. They had better respect you, and stop this nonsense.
 }}
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
@@ -747,23 +753,22 @@ You can cast _Aura of Calm_ without expending a spell slot a number of times equ
 
 #### Level 10: Terrifying Familiar
 
+_Your familiar draws respect and frightens others._
+
 {{note
-A familiar is more than a cute companion. Its claws, mismatched eyes, croaks or aggressive stance puts fear in the hearts of most.
+A familiar is more than a cute companion. Its claws, mismatched eyes, croaks or aggressive stance puts fear in the hearts of most. Some run away.
 }}
 
-When you command your familiar to take the **Attack** action using the rules of your _Dangerous Familiar_ feature, its attacks can unnerve its foes. Until your next turn ends, whenever your familiar hits a creature with an attack, that creature must succeed on a Wisdom saving throw against your Witch spell save DC or gain the **Frightened** condition until the end of its next turn.
-
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+When you command your familiar to take the **Attack** action using the rules of your _Dangerous Familiar_ feature, its attacks can unnerve its foes. Until the end of your next turn, whenever your familiar hits a creature with an attack, that creature must succeed on a Wisdom saving throw against your Witch spell save DC or gain the **Frightened** condition until the end of its next turn.
 
 Creatures immune to the **Frightened** condition are unaffected.
 
-#### Level 14: Benison
+You can use this feature a number of times per long rest as shown in the _Terrifying Familiar Uses_ table. You regain all expended uses when you finish a long rest.
 
-_Stand tall or I'll hide you. You've got this. And there'll be plum pudding after._
-
-Your calm assurance steadies hands and hearts.
-
-As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+| Witch Level | Terrifying Familiar Uses |
+|:--:|:--|
+| 10 | 2 |
+| 17 | 3 |
 
 ### The Crone
 
@@ -844,7 +849,11 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 #### Level 6: Borrowing
 
-You inhabit the body of a natural creature for a limited time, and control it as your own.
+_You inhabit the body of a natural creature for a limited time, and control it as your own._
+
+{{note
+Some call this unnatural. Some call it supernatural. You know it is the most natural if you respect limits.
+}}
 
 You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation.
 
@@ -875,9 +884,15 @@ Borrowing a creature is a mental and physical challenge. As your mind inhabits a
 | 10 | 4 |
 | 14 | 8 |
 
+\page
+
 #### Level 10: Greater Borrowing
 
-Your powers of borrowing grow stronger as your skills deepen, and shock even other witches.
+_Your powers of borrowing grow stronger as your skills deepen._
+
+{{note
+Your borrowing shocks even other witches. You're not quite sure your boundaries and match some witches of lore.
+}}
 
 You gain these benefits in addition to those of the _Borrowing_ feature:
 
