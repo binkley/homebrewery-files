@@ -2,6 +2,8 @@
 A D&D 5e (2024) spellcasting class. <br>
 Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. Someone to respect, listen to, and fear in confrontations.
 
+The Witch is **High** in _complexity_ akin to Bard, Druid, Monk, Sorcerer, or Warlock.
+
 ##### Core Witch Traits
 |||
 |--|--|
@@ -20,14 +22,14 @@ A Witch&rsquo;s powers sway crowds and kingdoms, glimpse the future, drive creat
 
 Most Witches are not taught in academies but by fellow Witches or through unexpected callings. Many live apart from the world, as village healers, wandering seers, or craggy hermits. Others hold court as matriarchs, midwives, folk queens, or figures of local legend. Above all, a Witch seeks _respect_.
 
+\column
+
 ### Becoming a Witch ...
 
 #### As a Level 1 Character
 
 - Gain all the tratis in the Core Witch Traits table.
 - Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table.
-
-\column
 
 #### As a Multiclass Character
 
@@ -51,8 +53,6 @@ When you reach Witch levels 4, 10 and 16, you learn another Witch cantrip of you
 _**Spell Slots.**_ The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
 
 _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose three level 1 spells from the Witch spell list. The chosen spells must be of a level for which you have spell slots.
-
-The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include four spells of levels 1 and 2 in any combination.
 
 \page
 
@@ -81,6 +81,8 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 | 19 | +6 | ASI | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 </div>
+
+The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include four spells of levels 1 and 2 in any combination.
 
 If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
 
@@ -115,6 +117,8 @@ You begin with 2 uses and gain additional uses when you reach certain Witch leve
 - **11th level**: 4 uses
 - **17th level**: 5 uses
 
+\page
+
 #### Level 2: Witch&rsquo;s Familiar
 
 You learn the _Find Familiar_ spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
@@ -129,8 +133,6 @@ _**Fearless**._ Your familiar gains immunity to the Charmed and Frightened condi
 #### Level 2: Witch Armor
 
 You could avoid fate this time. A subtle curse sends ill luck to your foes, causing blows to falter and spells to misfire.
-
-\page
 
 When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
@@ -202,6 +204,8 @@ In combat, your familiar acts during your turn. A familiar can&rsquo;t attack, b
 - Use a **Bonus Action** to mentally command it to take an action from its stat block.
 - When you take the **Attack** action, you can forgo one of your own attacks to command the familiar to make one attack.
 
+\page
+
 When your familiar makes an attack, it adds your proficiency bonus to its attack roll and damage roll. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
 
 #### Level 12: Witch&rsquo;s Insight
@@ -215,8 +219,6 @@ You can use this feature a number of times equal to your **proficiency bonus**, 
 ## Witch Spell List
 
 Not just a plain list, but some description how to use, and why a Witch knows these.
-
-\page
 
 #### Cantrips (Level 0 Witch Spells)
 
@@ -313,6 +315,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Heroism** <br>
   Temp HP and fear immunity &mdash; courage brewed in a teacup.
 
+\page
+
 - **Longstrider** <br>
   A blessing for swift feet, whether on errands or escapes.
 
@@ -330,8 +334,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Dissonant Whispers** <br>
   Psychic pain that drives enemies away and instills respect.
-
-\page
 
 - **Entangle** <br>
   Roots rise up to imprison those who overstep.
@@ -445,6 +447,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Shatter** <br>
   A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
 
+\page
+
 - **Suggestion** <br>
   One whisper takes root and they obey before they&rsquo;ve thought it through.
 
@@ -464,8 +468,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Invisibility** <br>
   A trick of breath and intention; the Witch is there, but not seen.
-
-\page
 
 - **Locate Animals or Plants** <br>
   Close your eyes, touch the earth, and the land itself tells you where a beast roams or a plant grows.
@@ -569,6 +571,8 @@ at each other and smooths social situations.
 - **Banishment** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
 
+\page
+
 - **Sickening Radiance** <br>
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
 
@@ -586,8 +590,6 @@ at each other and smooths social situations.
 ##### 🛡️ Ally Buffs &amp; Wards
 
 ##### 📌 Damage &amp; Control
-
-\page
 
 ##### 🔍 Utility, Ritual, &amp; Trickery
 
@@ -664,16 +666,24 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 #### Level 10: Voice and Vision
 
-**TODO: Consider "Inner Harmony" <br>
-**TODO: Consider "Twyfold"
+**TODO**: Consider "Inner Harmony" <br>
+**TODO**: Consider "Twyfold"
 
-_You are never just one thing &mdash; your strength is in contradictions._
+_You are never just one thing &mdash; your strength is in contradictions. And people hear you out._
 
-As a bonus action, you can call upon your internal conflicts, gaining a burst of confidence and insight. For 1 minute, you gain the following benefits:
+As a bonus action, you can call upon your internal conflicts, gaining a burst of confidence. For 1 minute, you gain the following benefits:
 
-Choose one: gain **Advantage** on Charisma-based ability checks or on Wisdom-based ability checks. During this time, you can switch the chosen ability (Charisma or Wisdom) at the start of your turn without expending another bonus action.
+Choose one:
 
-You can use this feature a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest.
+- Gain **Advantage** on Charisma-based ability checks.
+- Gain **Advantage** on Intelligence-based ability checks.
+- Gain **Advantage** on Wisdom-based ability checks.
+
+\page
+
+At the start of your turn you may chose a different option.
+
+You can use this feature a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest. Each time you change a choice expends one of your uses.
 
 ### The Mother
 _Steadfast hands, a voice of reason, and full of life_
@@ -687,8 +697,6 @@ Would you like another cup of tea, dear? I have a poultice for that and I won't 
 }}
 
 You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
-
-\page
 
 #### Level 3: Mother Spells
 
@@ -770,6 +778,8 @@ You can use this feature a number of times per long rest as shown in the _Terrif
 | 10 | 2 |
 | 17 | 3 |
 
+\page
+
 ### The Crone
 
 > _Flavorful quote, folklore fragment, or thematic tagline._
@@ -782,8 +792,6 @@ They are known for [2–3 traits or habits], and their magic leans toward [key t
 #### Level 3: Dark Intuition
 
 Your magic knowledge or commanding presence borders on the supernatural.
-
-\page
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
@@ -872,6 +880,8 @@ Others examining your body can make a DC 15 _Intelligence (Investigation)_ or _W
 
 You may use this feature once, and regain its use when you finish a long rest.
 
+\page
+
 **Returning**. When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. Borrowing ends immediately if the borrowed creature is reduced to 0 hit points.
 
 **Weariness**. _Your training and unnatural endurance allow you to remain in a borrowed body far longer than others could._
@@ -883,8 +893,6 @@ Borrowing a creature is a mental and physical challenge. As your mind inhabits a
 | 6 | 1 |
 | 10 | 4 |
 | 14 | 8 |
-
-\page
 
 #### Level 10: Greater Borrowing
 
