@@ -212,7 +212,7 @@ When your familiar makes an attack, it adds your proficiency bonus to its attack
 
 Your insight into fate and folly lets you tip the balance of events.
 
-When a creature you can see within 30 feet of you makes a **D20 Test**, you can use your reaction to spend 1 use of this feature and impose **advantage** or **disadvantage** on that test. You must choose to do so **before** the roll is made.
+When a creature you can see within 30 feet of you makes a **d20 Test**, you can use your reaction to spend 1 use of this feature and impose **advantage** or **disadvantage** on that test. You must choose to do so **before** the roll is made.
 
 You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
@@ -697,6 +697,8 @@ At the start of your turn you may chose a different option.
 
 You can use this feature a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest. Each time you change a choice expends one of your uses.
 
+#### Level 14: Singsong
+
 ### The Mother
 _Steadfast hands, a voice of reason, and full of life_
 
@@ -801,6 +803,14 @@ You can use this feature a number of times per long rest as shown in the _Terrif
 | 10 | 2 |
 | 17 | 3 |
 
+#### Level 14: Benison
+
+_I can't make them worse, but I can make you better._
+
+You speak words or think thoughts that twist fate.
+
+As a reaction when a creature you can see within 60 feet makes a **d20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
 ### The Crone
 
 > _Flavorful quote, folklore fragment, or thematic tagline._
@@ -876,6 +886,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Vampiric Touch** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
 
+\page
+
 #### Level 6: Borrowing
 
 _You inhabit the body of a natural creature for a limited time, and control it as your own._
@@ -885,8 +897,6 @@ Some call this unnatural. Some call it supernatural. You know it is the most nat
 }}
 
 You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation.
-
-\page
 
 The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer. The borrowed creature cannot be a sentient creature, and it must have an Intelligence score of 3 or lower. The target must have a Challenge Rating (CR) equal to or lower than your limit:
 
@@ -939,7 +949,7 @@ _I can't make you better, but I can make them worse._
 
 You speak words or think thoughts that twist fate.
 
-As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a reaction when a creature you can see within 60 feet makes a **d20 Test**, you can impose **disadvantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 \page
 
