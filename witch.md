@@ -350,6 +350,9 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Ray of Sickness** <br>
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
 
+- **Silvery Barbs** <br>
+  A Witch doesn't shout; she pricks with a word, a look, a laugh too sharp. Their hand falters, their courage curdles, and someone else steps into the opening.
+
 - **Snare** <br>
   Create a hidden magical trap that catches creatures unawares.
   A Witch's charm on a rope can hold faster than iron.
@@ -376,6 +379,12 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Ceremony** <br>
   As a community leader you are looked on.
+
+- **Detect Evil and Good** <br>
+  You notice things that other overlook &mdash; the wrongness of a place, the shiver in the air, or a smile hiding too many teeth.
+
+- **Detect Magic** <br>
+  Now why would anyone leave that laying around? Someone could hurt themselves.
 
 - **Detect Poison and Disease** <br>
   _&ldquo;Don&rsquo;t drink that.&rdquo;_ Essential village wisdom.
@@ -434,6 +443,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A witch&rsquo;s glare that paralyzes the body.
   Curse, freeze, or bind&mdash;your will obeys.
 
+\page
+
 - **Mind Spike** <br>
   A cursed thorn of thought searing with psychic pain and leaving a lingering connection.
 
@@ -446,8 +457,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Shatter** <br>
   A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
-
-\page
 
 - **Suggestion** <br>
   One whisper takes root and they obey before they&rsquo;ve thought it through.
@@ -484,6 +493,9 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Not all unseen things are harmless.
   _I know you're there. I can see you._
 
+- **Zone of Truth** <br>
+  I know when you are lying, you lying scoundrel.
+
 #### Level 3 Witch Spells
 
 > _This is the turning point. A third candle is lit. You may now call lightning, bind fate, or vanish with a scream. People begin to fear you&mdash;or seek you out._
@@ -504,6 +516,9 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Magic Circle** <br>
   A circle of safety. Not only a circle on the ground, but above you as well.
+
+- **Nondetection** <br>
+  When a Witch wants to hide someone, they stay that way.
 
 - **Remove Curse** <br>
   Undo the harmful words of others.
@@ -550,11 +565,10 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Feign Death** <br>
   It or you appear dead.
 
-- **Nondetection** <br>
-  Hide from pyring magical eyes for a time.
-
 - **Sending** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
+
+\page
 
 #### Level 4 Witch Spells
 
@@ -570,8 +584,6 @@ at each other and smooths social situations.
 
 - **Banishment** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
-
-\page
 
 - **Sickening Radiance** <br>
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
@@ -662,6 +674,8 @@ You gain advantage on Charisma (Performance or Persuasion) checks when using son
 
 You can use your voice as a focus to cast a spell with only verbal components, even if it normally requires material or somatic components.
 
+\page
+
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
 
 #### Level 10: Voice and Vision
@@ -678,8 +692,6 @@ Choose one:
 - Gain **Advantage** on Charisma-based ability checks.
 - Gain **Advantage** on Intelligence-based ability checks.
 - Gain **Advantage** on Wisdom-based ability checks.
-
-\page
 
 At the start of your turn you may chose a different option.
 
@@ -704,7 +716,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Aid*, *Comprehend Languages* |
+| 3           | *Aid*, *Ceremony*, *Comprehend Languages*, *Haste*, *Slow* |
 | 5           | *Create Food and Water*, *Leomund&rsquo;s Tiny Hut*, *Life Transference*, *Tongues* |
 | 7           | *Mordenkainen's Private Sanctum* |
 | 9           | *Aura of Life*, *Greater Restoration* |
@@ -721,6 +733,9 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A Witch doesn't just recognize the words &mdash; she knows what that person
 meant.
 
+- **Ceremony** <br>
+  A Witch does only births, deaths, and weddings. You can do others, but up to them what happens.
+
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
   No one goes without when with a proper witch in their company.
@@ -728,6 +743,9 @@ meant.
 - **Greater Restoration** <br>
   Fixes most serious ailments and cursed magic items.
   Now doesn&rsquo;t that feel better?
+
+- **Haste** <br>
+  Hurry another creature along but it'll cost them.
 
 - **Leomund&rsquo;s Tiny Hut** <br>
   A safe space from magic and the natural elements.
@@ -742,6 +760,9 @@ meant.
   Within these wards, your guests and secrets are safe.
   A Witch keeps her hearth protected from scrying eyes.
 
+- **Slow** <br>
+  Others are in such a rush. Maybe they should take their time about it.
+
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
 
@@ -755,9 +776,11 @@ Some witches win fights by smiling, speaking softly, and watching the world rear
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
 
-You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know.  
+You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know.
 
 You can cast _Aura of Calm_ without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
+
+\page
 
 #### Level 10: Terrifying Familiar
 
@@ -777,8 +800,6 @@ You can use this feature a number of times per long rest as shown in the _Terrif
 |:--:|:--|
 | 10 | 2 |
 | 17 | 3 |
-
-\page
 
 ### The Crone
 
@@ -865,6 +886,8 @@ Some call this unnatural. Some call it supernatural. You know it is the most nat
 
 You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation.
 
+\page
+
 The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer. The borrowed creature cannot be a sentient creature, and it must have an Intelligence score of 3 or lower. The target must have a Challenge Rating (CR) equal to or lower than your limit:
 
 | Witch Level | Maximum Borrowing Challenge Rating (CR) |
@@ -879,8 +902,6 @@ If the creature is already borrowed or is protected by *Protection from Evil and
 Others examining your body can make a DC 15 _Intelligence (Investigation)_ or _Wisdom (Medicine or Perception)_ check to realize you are not dead, only absent.
 
 You may use this feature once, and regain its use when you finish a long rest.
-
-\page
 
 **Returning**. When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. Borrowing ends immediately if the borrowed creature is reduced to 0 hit points.
 
@@ -962,7 +983,7 @@ You emanate an aura of supernatural charm by your words and presence that draws 
 
 On a failed save, choose one of the following effects for that creature:
 
-- **Charm and Fear Suppression.** The creature has immunity to the _Charmed_ and _Frightened_ conditions until the spell ends. If the creature is already _Charmed_ or _Frightened_, those conditions are suppressed for the duration.  
+- **Charm and Fear Suppression.** The creature has immunity to the _Charmed_ and _Frightened_ conditions until the spell ends. If the creature is already _Charmed_ or _Frightened_, those conditions are suppressed for the duration.
 - **Attitude Shift.** The creature’s attitude toward you and creatures you choose shifts one step friendlier (_Hostile_ &rarr; _Indifferent_, _Indifferent_ &rarr; _Friendly_) for as long as the effect lasts. This change happens even if the creature is currently engaged in combat.
 - **Word to the Wise.** For any Charisma check you make with the affected creatures you can substitute a Wisdom check if appropriate.
 
