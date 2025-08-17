@@ -614,8 +614,9 @@ at each other and smooths social situations.
 
 You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass&rsquo;s features that are of your Witch level or lower.
 
-### The Maiden
-_Bright-eyed, underestimated, and full of wild potential_
+### The Maiden Calling
+
+_Bright-eyed, underestimated, and full of wild potential._
 
 #### Level 3: Inner Discovery
 
@@ -668,15 +669,18 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
 
-#### Level 6: Inner Voice
 
-You gain advantage on Charisma (Performance or Persuasion) checks when using song, storytelling, or commanding tone, provided you are not in combat.
+#### Level 6: Third Thoughts
 
-You can use your voice as a focus to cast a spell with only verbal components, even if it normally requires material or somatic components.
+_You hear the voice beneath the voice, and your own words do more than expected._
+
+**Eye for Reality.** You gain **advantage** on _Wisdom (Insight and Perception)_ checks.
 
 \page
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a Long Rest.
+**Spotting Trouble.** As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this reaction a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
+
+**Strong Voice.** You can ignore somatic and non-costly material components when casting. You can cast this way a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
 
 #### Level 10: Voice and Vision
 
@@ -699,7 +703,8 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 #### Level 14: Singsong
 
-### The Mother
+### The Mother Calling
+
 _Steadfast hands, a voice of reason, and full of life_
 
 #### Level 3: Trusted Wisdom
@@ -768,6 +773,8 @@ meant.
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
 
+\page
+
 #### Level 10: Charm Offensive
 
 _You wade into battle or soirees to lower tensions._
@@ -781,8 +788,6 @@ Your presence is a campaign in itself a deliberate act of charm and influence th
 You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know.
 
 You can cast _Aura of Calm_ without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
-
-\page
 
 #### Level 10: Terrifying Familiar
 
@@ -811,7 +816,7 @@ You speak words or think thoughts that twist fate.
 
 As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-### The Crone
+### The Crone Calling
 
 > _Flavorful quote, folklore fragment, or thematic tagline._
 
@@ -871,7 +876,9 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   You catch their attention and hold it fast; a story, a look, or a song makes the world fall away for them.
 
 - **Speak with Plants** <br>
-  Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they&rsquo;ve seen.
+  Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
+
+\page
 
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
@@ -885,8 +892,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Vampiric Touch** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
-
-\page
 
 #### Level 6: Borrowing
 
