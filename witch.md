@@ -365,7 +365,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
 
 - **Silvery Barbs** <br>
-  A Witch doesn't shout; she pricks with a word, a look, a laugh too sharp. Their hand falters, their courage curdles, and someone else steps into the opening.
+  A harsh word, a sharp look, or the sting of irony can trip a foot just enough to stumble.
 
 - **Snare** <br>
   Create a hidden magical trap that catches creatures unawares.
@@ -395,7 +395,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   As a community leader you are looked on.
 
 - **Detect Evil and Good** <br>
-  You notice things that other overlook &mdash; the wrongness of a place, the shiver in the air, or a smile hiding too many teeth.
+  Something foul lingers in the air, or maybe something holy. Either way, you
+notice when others don't.
 
 - **Detect Magic** <br>
   Now why would anyone leave that laying around? Someone could hurt themselves.
@@ -591,8 +592,10 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 ##### 🛡️ Ally Buffs &amp; Wards
 
 - **Aura of Calm** <br>
-  Your presences as you move around others turns combatants into those looking
-at each other and smooths social situations.
+  Your presences as you move around others turns combatants into those looking at each other and smooths social situations.
+
+- **Freedom of Movement** <br>
+  No chain nor charm nor tangle holds long. Witches walk free and bow to no king.
 
 ##### 📌 Damage &amp; Control
 
@@ -620,9 +623,7 @@ at each other and smooths social situations.
 ##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Dream** <br>
-  Communicate or frighten others in their dreams through yourself or someone you touch.
-  I had the most odd dream last night.
-  I&rsquo;m certain I was talking with the king and he talked back.
+  Stories slip easier into sleeping minds. Sometimes a Witch whispers truth in a dream when it won’t be heard awake.
 
 ## Witch Subclasses
 
