@@ -644,10 +644,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 | Witch Level | Spell |
 |:--:|:--|
-| 3           | *Chaos Bolt*, *Color Spray*, *Faerie Fire*, *Moonbeam* |
-| 5           | *Major Image* |
+| 3           | *Color Spray*, *Faerie Fire*, *Moonbeam* |
+| 5           | *Detect Thoughts*, *Major Image*, *See Invisibility* |
 | 7           | *Greater Invisibility*, *Hallucinatory Terrain* |
-| 9           | *Aura of Purity*, *Fount of Moonlight* |
+| 9           | *Aura of Purity*, *Dream*, *Fount of Moonlight* |
 
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
@@ -657,11 +657,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Flair, chaos, and a touch of drama can be more potent than blades.
 
 \page
-
-- **Chaos Bolt** <br>
-  A damaging spell with magical results; sometimes it jumps to others.
-  You are not sure quite what you cast.
-  _(Xanathar&rsquo;s Guide to Everything, WotC)_
 
 - **Faerie Fire** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
