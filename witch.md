@@ -917,13 +917,15 @@ You may use this feature once, and regain its use when you finish a long rest.
 
 **Weariness**. _Your training and unnatural endurance allow you to remain in a borrowed body far longer than others could._
 
-Borrowing a creature is a mental and physical challenge. As your mind inhabits a creature&rsquo;s body and your own body lies dormant, the strain grows and you gain 1 level of _Exhaustion_ when you reach the listed duration, and 1 additional level for each further period of that length thereafter.
+Borrowing a creature is a strain on mind and body. As your mind inhabits a creature&rsquo;s body and your own body lies dormant, the strain grows and you gain 1 level of _Exhaustion_ when you reach the listed duration, and 1 additional level for each further period of that length thereafter.
 
 | Witch Level | Hours to Exhaustion |
 |:--:|:--:|
 | 6 | 1 |
 | 10 | 4 |
 | 14 | 8 |
+
+**Permanency.** If while borrowing you reach 6 levels of _Exhaustion_ from any source, your own body dies, your separate mind is lost, and you become permanently that creature in all respects. Your new body immediately loses 1 level of _Exhaustion_.
 
 #### Level 10: Greater Borrowing
 
