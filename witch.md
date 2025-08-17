@@ -682,24 +682,24 @@ _You hear the voice beneath the voice, and your own words do more than expected.
 
 **Strong Voice.** You can ignore somatic and non-costly material components when casting. You can cast this way a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
 
-#### Level 10: Voice and Vision
+#### Level 10: Vine, Vision and Voice
 
-**TODO**: Consider "Inner Harmony" <br>
-**TODO**: Consider "Twyfold"
+_You are never just one thing. Your strength lies contradiction, and people hear you out._
 
-_You are never just one thing &mdash; your strength is in contradictions. And people hear you out._
+As a bonus action, you can call upon one of three auras of presence, which extend 10 feet from you in all directions. The aura moves with you, lasts for 1 minute, and requires your concentration, as if concentrating on a spell.
 
-As a bonus action, you can call upon your internal conflicts, gaining a burst of confidence. For 1 minute, you gain the following benefits:
+- **Entangling Aura.** When a creature enters the aura for the first time on a turn or starts its turn there, it must succeed on a Strength saving throw against your Witch spell save DC or its speed is halved until the start of its next turn.
 
-Choose one:
+- **Revealing Aura.** Creatures affected by the aura cannot benefit from the _Invisible_ condition and have disadvantage on _Charisma (Deception)_ checks.
 
-- Gain **Advantage** on Charisma-based ability checks.
-- Gain **Advantage** on Intelligence-based ability checks.
-- Gain **Advantage** on Wisdom-based ability checks.
+- **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
 
-At the start of your turn you may chose a different option.
+You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
-You can use this feature a number of times equal to your proficiency bonus, and regain all expended uses when you finish a long rest. Each time you change a choice expends one of your uses.
+| Witch Level | Aura Uses |
+|:--:|:--|
+| 10 | 2 |
+| 17 | 3 |
 
 #### Level 14: Singsong
 
