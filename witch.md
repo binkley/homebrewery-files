@@ -703,6 +703,12 @@ You can activate one of these auras a number of times per long rest as shown in 
 
 #### Level 14: Singsong
 
+_Your voice weaves a binding harmony that steadies hearts and wards off hostile magic._
+
+As an action, you begin a mystical singsong that lasts for 1 minute, requiring concentration as though you were concentrating on a spell. While it lasts, each ally of your choice within 30 feet of you has advantage on saving throws against spells and other magical effects.
+
+Once you use this feature, you can’t do so again until you finish a long rest.
+
 ### The Mother Calling
 
 _Steadfast hands, a voice of reason, and full of life_
@@ -767,13 +773,13 @@ meant.
   Within these wards, your guests and secrets are safe.
   A Witch keeps her hearth protected from scrying eyes.
 
+\page
+
 - **Slow** <br>
   Others are in such a rush. Maybe they should take their time about it.
 
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
-
-\page
 
 #### Level 6: Balm of Willow-weed
 
@@ -866,6 +872,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   See or hear from afar through a chosen point.
   A bowl of water, a raven&rsquo;s eyes, a knot in the tree, all spy for you.
 
+\page
+
 - **Command** <br>
   A single word for others to obey: sit, flee, drop, grovel.
   Respect of you is manifest.
@@ -875,8 +883,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Death Ward** <br>
   I had a quiet conversation with Death, and they must come twice for you this time.
-
-\page
 
 - **Dominate Beast** <br>
   Strongly control a _beast_.
@@ -956,9 +962,9 @@ You gain these benefits in addition to those of the _Borrowing_ feature:
 
 _**Dangerous Creatures**._ You can take the **Attack** action while borrowing, using the creature&rsquo;s attack actions.
 
-_**Greater Form**._ You can now borrow a creature with the **Swarm** trait (such as a _Swarm of Insects_), as long as it meets the other requirements of the _Borrowing_ feature. While borrowing a swarm, you perceive through all of its component creatures simultaneously, though you act as if you were a single creature.
-
 \page
+
+_**Greater Form**._ You can now borrow a creature with the **Swarm** trait (such as a _Swarm of Insects_), as long as it meets the other requirements of the _Borrowing_ feature. While borrowing a swarm, you perceive through all of its component creatures simultaneously, though you act as if you were a single creature.
 
 _**Spellcasting**._ You can cast a cantrip without material components. The borrowed creature supplies verbal or somatic components such as buzz of wings, chirps, pawing at the ground, and similar natural sounds or motions if they are capable. You may concentrate on a spell cast this way, as your mind is fully present in the borrowed form. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
@@ -976,9 +982,9 @@ As a reaction when a creature you can see within 60 feet makes a **D20 Test**, y
 
 The Witch has spells exclusive to them unless some Bard picks them up.
 
-## Harsh Glare _(Cantrip enchantment)_
-
-> _A glare that bites deeper than words._
+## Harsh Glare
+_(Cantrip enchantment)_ {font-size:larger} <br>
+_A glare that bites deeper than words._
 
 {{note
 Commonly known as the _Evil Eye_, this spell channels your will into a piercing glance to one or others.
@@ -999,14 +1005,16 @@ If you cast this spell, you can't take a _Magic Action_ on the same turn.
 
 You may target additional creatures when you reach levels 5 (up to 2 creatures), 11 (up to 3 creatures), and 17 (up to 4 creatures).
 
-## Aura of Calm _(4th-level enchantment)_
-
-_Your words and presence lower hostilities for now._ This is a greater version of the _Calm Emotions_ spell.
+## Aura of Calm
+_(4th-level enchantment)_ {font-size:larger} <br>
+_Your words and presence lower hostilities for now._
 
 - **Casting Time:** 1 action
 - **Range:** Self (20-foot radius)
 - **Components:** V
 - **Duration:** Concentration, up to 1 minute
+
+This is a greater version of the _Calm Emotions_ spell.
 
 You emanate an aura of supernatural charm by your words and presence that draws attention and softens hearts. Each creature of your choice that starts its turn within 20 feet of you, or enters the area for the first time on a turn, must make a Wisdom saving throw. Once the effect no longer applies to a creature &mdash; such as after a successful saving throw or the effect ending &mdash; it is immune for the rest of this casting of the spell.
 
