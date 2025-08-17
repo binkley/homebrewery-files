@@ -853,7 +853,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 |:--:|:--|
 | 3           | *Beast Sense*, *Command*, *Counterspell*, *Enthrall*, *Phantasmal Force* |
 | 5           | *Clairvoyance*, *Speak with Plants*, *Vampiric Touch* |
-| 7           | *Blight*, *Death Ward*, *Polymorph* |
+| 7           | *Blight*, *Death Ward* |
 | 9           | *Compulsion*, *Dominate Beast*, *Phantasmal Killer* |
 
 - **Beast Sense** <br>
@@ -900,73 +900,56 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Phantasmal Killer** <br>
   You unearth the deepest terror in a creature&rsquo;s mind, and give it shape so it stalks them from within.
 
-- **Polymorph** <br>
-  You take the form of another creature for a time with your mind and their body.
-  Why _borrow_ when you can steal?
-
 - **Vampiric Touch** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
 
 #### Level 6: Borrowing
 
-**TODO**. Rationalize this and "Greater Borrowing" with "Magic Jar". Remove redundancy, make it more clear that this special form of the spell treats the creature'&rsquo;s body as the _container_ for the spell, etc.
-
-::
-
-_You inhabit the body of a natural creature for a limited time, and control it as your own._
+_You inhabit the body of a natural creature for a time, controlling it as your own._
 
 {{note
-Some call this unnatural. Some call it supernatural. You know it is the most natural if you respect limits.
+Some call this unnatural. Some call it supernatural. You know it is quite natural as long as you show respect.
 }}
 
-You can cast a special form of **Magic Jar** on a non-hostile natural creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation.
+You can cast a special form of **Magic Jar** on a non-hostile _Beast_ or _Plant_ creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation. The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer.
 
-The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer. The borrowed creature cannot be a sentient creature, and it must have an Intelligence score of 3 or lower. The target must have a Challenge Rating (CR) equal to or lower than your limit:
+The creature must lack the **Swarm** trait, cannot be sentient, and it must have an Intelligence score of 3 or lower. The target must have a Challenge Rating (CR) equal to or lower than your limit:
 
-| Witch Level | Maximum Borrowing Challenge Rating (CR) |
+| Witch Level | Maximum Borrowing CR |
 |:--:|:--:|
-| 6 | 1 |
-| 12 | 2 |
+| 6  | 1/4 |
+| 10 | 1 |
+| 14 | 2 |
 
-You are limited to non-hostile _Beast_ or _Plant_ creatures lacking the **Swarm** trait. While in the borrowed form, you cannot use the **Attack** action or a **Magic Action**.
+**Restrictions.** While in the borrowed form, you cannot use the **Attack** action or take a **Magic** action, except to end the effect and return to your body.
 
-If the creature is already borrowed or is protected by *Protection from Evil and Good*, *Magic Circle*, or similar magic, the borrowing fails.
-
-Others examining your body can make a DC 15 _Intelligence (Investigation)_ or _Wisdom (Medicine or Perception)_ check to realize you are not dead, only absent.
-
-You may use this feature once, and regain its use when you finish a long rest.
-
-**Returning**. When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. Borrowing ends immediately if the borrowed creature is reduced to 0 hit points.
-
-**Weariness**. _Your training and unnatural endurance allow you to remain in a borrowed body far longer than others could._
-
-Borrowing a creature is a strain on mind and body. As your mind inhabits a creature&rsquo;s body and your own body lies dormant, the strain grows and you gain 1 level of _Exhaustion_ when you reach the listed duration, and 1 additional level for each further period of that length thereafter.
+**Weariness.** Borrowing a creature is a mental and physical strain. While borrowing, you gain levels of *Exhaustion* as shown in the Weariness table. You also gain 1 additional level for each further period of that length you remain in the borrowed form.
 
 | Witch Level | Hours to Exhaustion |
 |:--:|:--:|
-| 6 | 1 |
+| 6  | 1 |
 | 10 | 4 |
 | 14 | 8 |
 
-**Permanency.** If while borrowing you reach 6 levels of _Exhaustion_ from any source, your own body dies, your separate mind is lost, and you become permanently that creature in all respects. Your new body immediately loses 1 level of _Exhaustion_.
+**Permanency.** If while borrowing you reach 6 levels of *Exhaustion* from any source, your own body dies, your separate mind is lost, and you permanently become that creature in all respects. Your new body immediately loses 1 level of *Exhaustion*.
+
+**Returning.** When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. The attitude of the borrowed creature towards you remains unchanged.
+
+You can borrow a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
 #### Level 10: Greater Borrowing
 
-_Your powers of borrowing grow stronger as your skills deepen._
+_Your magic infuses the forms you inhabit, your will seeping through their voices and motions._
 
-{{note
-Your borrowing shocks even other witches. You're not quite sure your boundaries and match some witches of lore.
-}}
+You can now borrow creatures with the **Swarm** trait.
 
-You gain these benefits in addition to those of the _Borrowing_ feature:
+While borrowing a creature, you can take the **Magic** action to cast Witch spells, with the following restrictions:
 
-_**Dangerous Creatures**._ You can take the **Attack** action while borrowing, using the creature&rsquo;s attack actions.
+- You can only cast spells of **4th level or lower**.
+- You cannot cast spells that require material components.
+- You do not need a spellcasting focus while borrowing; the creature&rsquo;s body serves as your spellcasting focus, shaping its natural motions and sounds into the spell&rsquo;s expression.
 
-\page
-
-_**Greater Form**._ You can now borrow a creature with the **Swarm** trait (such as a _Swarm of Insects_), as long as it meets the other requirements of the _Borrowing_ feature. While borrowing a swarm, you perceive through all of its component creatures simultaneously, though you act as if you were a single creature.
-
-_**Spellcasting**._ You can cast a cantrip without material components. The borrowed creature supplies verbal or somatic components such as buzz of wings, chirps, pawing at the ground, and similar natural sounds or motions if they are capable. You may concentrate on a spell cast this way, as your mind is fully present in the borrowed form. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+**Limits to Power.** You still cannot take the **Attack** action while borrowing.
 
 #### Level 14: Malison
 
