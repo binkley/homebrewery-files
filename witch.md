@@ -775,6 +775,14 @@ meant.
 
 \page
 
+#### Level 6: Balm of Willow-weed
+
+_A steady hand soothes the worst hurts._
+
+Whenever a creature of your choice (including you) rolls one or more Hit Dice to regain hit points at the end of a Short Rest, that creature regains additional hit points equal to your Wisdom modifier.
+
+In addition, once per long rest, you can tend to one creature during a Short Rest. That creature regains hit points by rolling one additional Hit Die without expending their current Hit Dice.
+
 #### Level 10: Charm Offensive
 
 _You wade into battle or soirees to lower tensions._
@@ -868,6 +876,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Death Ward** <br>
   I had a quiet conversation with Death, and they must come twice for you this time.
 
+\page
+
 - **Dominate Beast** <br>
   Strongly control a _beast_.
   You will pay the cost later, but right now your goals are all that matter.
@@ -877,8 +887,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
-
-\page
 
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
@@ -949,6 +957,8 @@ You gain these benefits in addition to those of the _Borrowing_ feature:
 _**Dangerous Creatures**._ You can take the **Attack** action while borrowing, using the creature&rsquo;s attack actions.
 
 _**Greater Form**._ You can now borrow a creature with the **Swarm** trait (such as a _Swarm of Insects_), as long as it meets the other requirements of the _Borrowing_ feature. While borrowing a swarm, you perceive through all of its component creatures simultaneously, though you act as if you were a single creature.
+
+\page
 
 _**Spellcasting**._ You can cast a cantrip without material components. The borrowed creature supplies verbal or somatic components such as buzz of wings, chirps, pawing at the ground, and similar natural sounds or motions if they are capable. You may concentrate on a spell cast this way, as your mind is fully present in the borrowed form. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
