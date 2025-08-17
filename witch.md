@@ -212,7 +212,7 @@ When your familiar makes an attack, it adds your proficiency bonus to its attack
 
 Your insight into fate and folly lets you tip the balance of events.
 
-When a creature you can see within 30 feet of you makes a **d20 Test**, you can use your reaction to spend 1 use of this feature and impose **advantage** or **disadvantage** on that test. You must choose to do so **before** the roll is made.
+When a creature you can see within 30 feet of you makes a **D20 Test**, you can use your reaction to spend 1 use of this feature and impose **advantage** or **disadvantage** on that test. You must choose to do so **before** the roll is made.
 
 You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
@@ -809,7 +809,7 @@ _I can't make them worse, but I can make you better._
 
 You speak words or think thoughts that twist fate.
 
-As a reaction when a creature you can see within 60 feet makes a **d20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### The Crone
 
@@ -949,7 +949,7 @@ _I can't make you better, but I can make them worse._
 
 You speak words or think thoughts that twist fate.
 
-As a reaction when a creature you can see within 60 feet makes a **d20 Test**, you can impose **disadvantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can impose **disadvantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 \page
 
