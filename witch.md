@@ -60,9 +60,9 @@ _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that 
 ##### Witch Features
 | Level | Proficiency Bonus | Class Features | Cross Words Uses | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | +2 | Spellcasting, Harsh Glare, Herbal Sage | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 2 | +2 | Cross Words, Witch&rsquo;s Familiar, Witch Armor | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 3 | +2 | Witch Subclass, Second Sight | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 1 | +2 | Spellcasting, Harsh Glare, Witch Armor | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2 | +2 | Cross Words, Second Sight, Witch&rsquo;s Familiar | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 3 | +2 | Witch Subclass, Herbal Sage | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4 | +2 | ASI, Cantrips | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 5 | +3 | Coven Magic, Cross Words | 3 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -94,17 +94,19 @@ Wisdom is your spellcasting ability for your Witch spells.
 _**Spellcasting Focus.**_
 You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Spellcasting Focus for your Witch spells.
 
-#### Level 1: Witch Glare
+#### Level 1: Harsh Glare
 
 Witches say the eyes speak before the mouth does. A curse carried in a glance, stopping hearts, thoughts, and hands.
 
 You learn the **Harsh Glare** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
 
-#### Level 1: Herbal Sage
+#### Level 1: Witch Armor
 
-Your understanding of animals, plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies.
+A new witch learns self-protection. A subtle curse sends ill luck to your foes, causing blows to falter and spells to misfire.
 
-You gain **expertise** with the _herbalism kit_ and double your proficiency bonus for any check using this tool.
+When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
+
+You can use this feature a number of times equal to your Wisdom bonus, and you regain all expended uses when you finish a Long Rest.
 
 #### Level 2: Cross Words
 
@@ -119,6 +121,12 @@ You begin with 2 uses and gain additional uses when you reach certain Witch leve
 
 \page
 
+#### Level 2: Second Sight
+
+Your insight into others borders on the supernatural.
+
+You gain proficiency in the _Insight_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
+
 #### Level 2: Witch&rsquo;s Familiar
 
 You learn the _Find Familiar_ spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
@@ -130,23 +138,29 @@ You learn the _Find Familiar_ spell. It is always prepared for you and doesn&rsq
 
 _**Fearless**._ Your familiar gains immunity to the Charmed and Frightened conditions.
 
-#### Level 2: Witch Armor
+#### Level 3: Herbal Sage
 
-You could avoid fate this time. A subtle curse sends ill luck to your foes, causing blows to falter and spells to misfire.
+Your understanding of animals, plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies.
 
-When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
-
-You can use this feature a number of times equal to your Wisdom bonus, and you regain all expended uses when you finish a Long Rest.
+You gain **expertise** with the _herbalism kit_ and double your proficiency bonus for any check using this tool.
 
 #### Level 3: Witch Subclass
 
 You gain a Witch subclass of your choice.
 
-#### Level 3: Second Sight
+##### Choosing Your Calling
 
-Your insight into others borders on the supernatural.
+Every Witch walks their own path, and each Calling reflects not only choices in magic and powers, but also your talents and attitudes towards the world.
 
-If you are already proficient in _Insight_, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
+**The Maiden.** Curious, sharp-eyed, and strong of voice. If you enjoy uncovering truths, shaping social encounters, and carrying a versatile set of tricks, the Maiden suits you. This calling plays most like a Bard, with features that reward clever timing and sharp insight.
+
+**The Mother.** Nurturing, protective, and steadfast. If you like bolstering allies, soothing wounds, and keeping the hearth warm even in the wild, the Mother will feel natural. This calling is closest to the Cleric, with more obvious but potent magic, support and healing.
+
+**The Crone.** Mysterious, relentless, and rooted in deep lore. If you want to inhabit strange forms, command uncanny forces, and take on the risk of great power, the Crone is your path. This calling may be likened to a Moon Druid with a touch of Wizard, for players who relish mechanical depth.
+
+{{note
+**Player Tip.** If you’re new to the Witch, consider beginning with the **Mother** Calling. Its straightforward features will let you focus on learning the class before diving into the more intricate Maiden or Crone.
+}}
 
 #### Level 5: Coven Magic
 
@@ -187,6 +201,8 @@ When you gain this feature, choose one magic item that is Uncommon and requires 
 
 If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means &mdash; it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
+\page
+
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
 
 #### Level 9: Dangerous Familiar
@@ -203,8 +219,6 @@ In combat, your familiar acts during your turn. A familiar can&rsquo;t attack, b
 
 - Use a **Bonus Action** to mentally command it to take an action from its stat block.
 - When you take the **Attack** action, you can forgo one of your own attacks to command the familiar to make one attack.
-
-\page
 
 When your familiar makes an attack, it adds your proficiency bonus to its attack roll and damage roll. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
 
@@ -286,6 +300,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
   A lie made visible or heard. A whisper in the dark, a fake door where none exists.
 
+\page
+
 - **Mold Earth** <br>
   Shape loose soil or reveal buried things with a gesture.
   Witches use it to tend gardens, trace circles, or uncover what others tried to hide.
@@ -314,8 +330,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Heroism** <br>
   Temp HP and fear immunity &mdash; courage brewed in a teacup.
-
-\page
 
 - **Longstrider** <br>
   A blessing for swift feet, whether on errands or escapes.
@@ -413,6 +427,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Lower fear, anger, and turmoil in a group.
   A Witch's presence steadies hearts, whether by soft words, stern looks, or a shared cup of tea.
 
+\page
+
 - **Enhance Ability** <br>
   A blessing of ability tailored to the task, or the tale.
   _I&rsquo;m sure you can do it, dearie._
@@ -442,8 +458,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Hold Person** <br>
   A witch&rsquo;s glare that paralyzes the body.
   Curse, freeze, or bind&mdash;your will obeys.
-
-\page
 
 - **Mind Spike** <br>
   A cursed thorn of thought searing with psychic pain and leaving a lingering connection.
@@ -542,6 +556,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A lingering malediction tailored to your spite.
   _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
 
+\page
+
 - **Call Lightning** <br>
   Under a stormy sky, your wrath becomes thunder made flesh.
   _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
@@ -567,8 +583,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Sending** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
-
-\page
 
 #### Level 4 Witch Spells
 
@@ -642,6 +656,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A dazzling burst of multicolored light overwhelms the senses.
   Flair, chaos, and a touch of drama can be more potent than blades.
 
+\page
+
 - **Chaos Bolt** <br>
   A damaging spell with magical results; sometimes it jumps to others.
   You are not sure quite what you cast.
@@ -675,8 +691,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 _You hear the voice beneath the voice, and your own words do more than expected._
 
 **Eye for Reality.** You gain **advantage** on _Wisdom (Insight and Perception)_ checks.
-
-\page
 
 **Spotting Trouble.** As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this reaction a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
 
@@ -741,6 +755,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
+\page
+
 - **Comprehend Languages** <br>
   You understand the meaning of spoken and written words, though your replies may be more creative than correct.
   A Witch doesn't just recognize the words &mdash; she knows what that person
@@ -772,8 +788,6 @@ meant.
 - **Mordenkainen&rsquo;s Private Sanctum** <br>
   Within these wards, your guests and secrets are safe.
   A Witch keeps her hearth protected from scrying eyes.
-
-\page
 
 - **Slow** <br>
   Others are in such a rush. Maybe they should take their time about it.
@@ -845,6 +859,8 @@ Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
+\page
+
 #### Level 3: Crone Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -871,8 +887,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
   A bowl of water, a raven&rsquo;s eyes, a knot in the tree, all spy for you.
-
-\page
 
 - **Command** <br>
   A single word for others to obey: sit, flee, drop, grovel.
@@ -942,6 +956,8 @@ You can borrow a number of times equal to your **proficiency bonus**, and you re
 _Your magic infuses the forms you inhabit, your will seeping through their voices and motions._
 
 You can now borrow creatures with the **Swarm** trait.
+
+\page
 
 While borrowing a creature, you can take the **Magic** action to cast Witch spells, with the following restrictions:
 
