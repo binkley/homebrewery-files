@@ -110,7 +110,7 @@ You can use this feature a number of times equal to your Wisdom bonus, and you r
 
 #### Level 2: Cross Words
 
-You learn the *Hex* spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare.
+You learn the *Hex* spell. It is always prepared for you and doesn't count against the number of spells you can prepare.
 
 You can cast *Hex* without expending a spell slot using only verbal components. You can do so twice, and you regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
@@ -119,11 +119,11 @@ You begin with 2 uses and gain additional uses when you reach certain Witch leve
 - **11th level**: 4 uses
 - **17th level**: 5 uses
 
-\page
-
 #### Level 2: Second Sight
 
 Your insight into others borders on the supernatural.
+
+\page
 
 You gain proficiency in the _Insight_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
 
@@ -201,9 +201,9 @@ When you gain this feature, choose one magic item that is Uncommon and requires 
 
 If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means &mdash; it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
-\page
-
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
+
+\page
 
 #### Level 9: Dangerous Familiar
 
@@ -300,8 +300,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
   A lie made visible or heard. A whisper in the dark, a fake door where none exists.
 
-\page
-
 - **Mold Earth** <br>
   Shape loose soil or reveal buried things with a gesture.
   Witches use it to tend gardens, trace circles, or uncover what others tried to hide.
@@ -309,6 +307,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Prestidigitation** <br>
   Tiny, harmless magical tricks—cleaning, soiling, lighting, or adding flavor.
   Witches know a little magic goes a long way for first impressions.
+
+\page
 
 - **Produce Flame** <br>
   Conjure fire for light or attack.
@@ -392,7 +392,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   An unseen tripwire of bells and thread.
 
 - **Ceremony** <br>
-  As a community leader you are looked on.
+  A Witch does only births, deaths, and weddings. You can do others, but up to them what happens.
 
 - **Detect Evil and Good** <br>
   Something foul lingers in the air, or maybe something holy. Either way, you
@@ -428,14 +428,14 @@ notice when others don't.
   Lower fear, anger, and turmoil in a group.
   A Witch's presence steadies hearts, whether by soft words, stern looks, or a shared cup of tea.
 
-\page
-
 - **Enhance Ability** <br>
   A blessing of ability tailored to the task, or the tale.
   _I&rsquo;m sure you can do it, dearie._
 
 - **Gentle Repose** <br>
   Death comes but no need to hurry it along. Let the body remain for a while.
+
+\page
 
 - **Lesser Restoration** <br>
   You miracously feel better from a life-altering condition.
@@ -557,15 +557,15 @@ notice when others don't.
   A lingering malediction tailored to your spite.
   _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
 
-\page
-
 - **Call Lightning** <br>
   Under a stormy sky, your wrath becomes thunder made flesh.
   _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
 
 - **Enemies Abound** <br>
-  Confuse a creature&rsquo;s mind so it sees all as threats and let them fight amongst themselves.
+  Confuse a creature&rsquo;s mind so it sees allies and enemies alike as threats.
   _Did you hear what they called you?_
+
+\page
 
 - **Fear** <br>
   A vision sends foes fleeing. Your shadow stretches farther than your body, and recalls their worst terrors.
@@ -591,9 +591,6 @@ notice when others don't.
 
 ##### 🛡️ Ally Buffs &amp; Wards
 
-- **Aura of Calm** <br>
-  Your presences as you move around others turns combatants into those looking at each other and smooths social situations.
-
 - **Freedom of Movement** <br>
   No chain nor charm nor tangle holds long. Witches walk free and bow to no king.
 
@@ -614,7 +611,7 @@ notice when others don't.
   Smoke curling, bones rattling, or a hated mirror reflecting your true self.
   The future speaks if you open your senses.
 
-#### Leve 5 Witch Spells
+#### Level 5 Witch Spells
 
 ##### 🛡️ Ally Buffs &amp; Wards
 
@@ -657,8 +654,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A dazzling burst of multicolored light overwhelms the senses.
   Flair, chaos, and a touch of drama can be more potent than blades.
 
-\page
-
 - **Faerie Fire** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
 
@@ -673,6 +668,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A forest, a graveyard glade, a marsh a sunlit shore, up to your imagination.
   You rewrite the world for targets.
 
+\page
+
 - **Major Image** <br>
   Craft full illusions that speak, move, and mislead.
   Convince the senses and the soul may follow.
@@ -680,7 +677,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Moonbeam** <br>
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
-
 
 #### Level 6: Third Thoughts
 
@@ -741,7 +737,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 |:--:|:--|
 | 3           | *Aid*, *Ceremony*, *Comprehend Languages*, *Haste*, *Slow* |
 | 5           | *Create Food and Water*, *Leomund&rsquo;s Tiny Hut*, *Life Transference*, *Tongues* |
-| 7           | *Mordenkainen's Private Sanctum* |
+| 7           | *Mordenkainen&rsquo;s Private Sanctum* |
 | 9           | *Aura of Life*, *Greater Restoration* |
 
 - **Aid** <br>
@@ -751,15 +747,9 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
-\page
-
 - **Comprehend Languages** <br>
   You understand the meaning of spoken and written words, though your replies may be more creative than correct.
-  A Witch doesn't just recognize the words &mdash; she knows what that person
-meant.
-
-- **Ceremony** <br>
-  A Witch does only births, deaths, and weddings. You can do others, but up to them what happens.
+  A Witch doesn't just recognize the words &mdash; she knows what that person meant.
 
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
@@ -767,15 +757,14 @@ meant.
 
 - **Greater Restoration** <br>
   Fixes most serious ailments and cursed magic items.
-  Now doesn&rsquo;t that feel better?
-
-- **Haste** <br>
-  Hurry another creature along but it'll cost them.
+  _Now doesn't that feel better?_
 
 - **Leomund&rsquo;s Tiny Hut** <br>
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
-  Would you pass the biscuits?
+  _Would you pass the biscuits?_
+
+\page
 
 - **Life Transference** <br>
   Give your some of your life force to heal another.
@@ -783,7 +772,7 @@ meant.
 
 - **Mordenkainen&rsquo;s Private Sanctum** <br>
   Within these wards, your guests and secrets are safe.
-  A Witch keeps her hearth protected from scrying eyes.
+  This "Mordenkainen" needs talking to about what "private" means.
 
 - **Slow** <br>
   Others are in such a rush. Maybe they should take their time about it.
@@ -809,9 +798,7 @@ Some witches win fights by smiling, speaking softly, and watching the world rear
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
 
-You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know.
-
-You can cast _Aura of Calm_ without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
+You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. (The spell is described at the end.)
 
 #### Level 10: Terrifying Familiar
 
@@ -855,8 +842,6 @@ Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
-\page
-
 #### Level 3: Crone Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -875,6 +860,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Blight** <br>
   Destroy plant life or strongly damage a foe.
   Witches save their folk and are woe to those against.
+
+\page
 
 - **Counterspell** <br>
   A stern gesture and harsher word unravels enemy magic mid-cast.
@@ -952,8 +939,6 @@ You can borrow a number of times equal to your **proficiency bonus**, and you re
 _Your magic infuses the forms you inhabit, your will seeping through their voices and motions._
 
 You can now borrow creatures with the **Swarm** trait.
-
-\page
 
 While borrowing a creature, you can take the **Magic** action to cast Witch spells, with the following restrictions:
 
