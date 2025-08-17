@@ -1,5 +1,5 @@
 # The Witch
-A D&D 5e (2024) spellcasting class. <br>
+A D&D 5e (2024) full-caster class. <br>
 Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. Someone to respect, listen to, and fear in confrontations.
 
 The Witch is **High** in _complexity_ akin to Bard, Druid, Monk, Sorcerer, or Warlock.
@@ -187,7 +187,7 @@ When you gain this feature, choose one magic item that is Uncommon and requires 
 
 If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means &mdash; it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
-Example items include those evoking respect, mobility, protection, or nature&rsquo;s power such as _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These items represent different powers and aspects of witches.
+Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
 
 #### Level 9: Dangerous Familiar
 
