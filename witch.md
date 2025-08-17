@@ -890,6 +890,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 #### Level 6: Borrowing
 
+**TODO**. Rationalize this and "Greater Borrowing" with "Magic Jar". Remove redundancy, make it more clear that this special form of the spell treats the creature'&rsquo;s body as the _container_ for the spell, etc.
+
+::
+
 _You inhabit the body of a natural creature for a limited time, and control it as your own._
 
 {{note
@@ -936,8 +940,6 @@ Your borrowing shocks even other witches. You're not quite sure your boundaries 
 }}
 
 You gain these benefits in addition to those of the _Borrowing_ feature:
-
-_**Borrowed Instinct**._ While borrowing, you can choose to use your own Intelligence or Wisdom scores or bonuses in place of the creature&rsquo;s.
 
 _**Dangerous Creatures**._ You can take the **Attack** action while borrowing, using the creature&rsquo;s attack actions.
 
