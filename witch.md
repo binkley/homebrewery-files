@@ -115,9 +115,13 @@ You learn the *Hex* spell. It is always prepared for you and doesn't count again
 You can cast *Hex* without expending a spell slot using only verbal components. You can do so twice, and you regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
 You begin with 2 uses and gain additional uses when you reach certain Witch levels:
-- **5th level**: 3 uses
-- **11th level**: 4 uses
-- **17th level**: 5 uses
+
+| Witch Level | Cross Words Uses |
+|:--:|:--:|
+| 2 | 2 |
+| 5 | 3 |
+| 11 | 4 |
+| 17 | 5 |
 
 #### Level 2: Second Sight
 
@@ -703,7 +707,7 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
 | Witch Level | Aura Uses |
-|:--:|:--|
+|:--:|:--:|
 | 10 | 2 |
 | 17 | 3 |
 
@@ -815,7 +819,7 @@ Creatures immune to the **Frightened** condition are unaffected.
 You can use this feature a number of times per long rest as shown in the _Terrifying Familiar Uses_ table. You regain all expended uses when you finish a long rest.
 
 | Witch Level | Terrifying Familiar Uses |
-|:--:|:--|
+|:--:|:--:|
 | 10 | 2 |
 | 17 | 3 |
 
