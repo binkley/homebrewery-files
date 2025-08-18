@@ -76,7 +76,7 @@ _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that 
 | 14 | +5 | Subclass feature | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 15 | +5 | &mdash; | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
 | 16 | +5 | ASI | 4 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
-| 17 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 17 | +6 | Final Words | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19 | +6 | ASI | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
@@ -96,13 +96,13 @@ You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Sp
 
 #### Level 1: Harsh Glare
 
-Witches say the eyes speak before the mouth does. A curse carried in a glance, stopping hearts, thoughts, and hands.
+_Witches say the eyes speak before the mouth does._
 
 You learn the **Harsh Glare** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
 
 #### Level 1: Witch Armor
 
-A new witch learns self-protection. A subtle curse sends ill luck to your foes, causing blows to falter and spells to misfire.
+_A new witch learns self-protection._
 
 When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
@@ -110,7 +110,7 @@ You can use this feature a number of times equal to your Wisdom bonus, and you r
 
 #### Level 2: Cross Words
 
-You learn the _Hex_ spell. It is always prepared for you and doesn't count against the number of spells you can prepare.
+You learn the _Hex_ spell. It is always prepared for you and doesn't count against the number of spells you can prepare. When you cast _Hex_, the extra damage it deals is **psychic** instead of **necrotic**.
 
 You can cast _Hex_ without expending a spell slot, using only verbal components. When you do so, you use one of your Cross Words uses. You regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
@@ -120,9 +120,13 @@ You begin with 2 uses, and the number of uses increases as you gain Witch levels
 
 Your insight into others borders on the supernatural.
 
-You gain proficiency in the _Insight_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
+{{note
+_Most folk have first sight, and often not even then. A Witch has **second** sight to see what is actually there._
+}}
 
 \page
+
+You gain proficiency in the _Insight_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
 
 #### Level 2: Witch&rsquo;s Familiar
 
@@ -159,17 +163,19 @@ Every Witch walks their own path, and each Calling reflects not only choices in 
 **Player Tip.** If you’re new to the Witch, consider beginning with the **Mother** Calling. Its straightforward features will let you focus on learning the class before diving into the more intricate Maiden or Crone.
 }}
 
+\column
+
 #### Level 5: Coven Magic
 
-> _Three stand beneath the moon. The spell is cast not alone, but in echo and accord._
+_Three stand beneath the moon. The spell is cast not alone, but echoes in accord._
+
+{{note
+_Birds flock, tea leaves, cards lay &mdash; those auspices don't lie, they're only misread._
+}}
 
 Starting at 5th level, your connection to your coven &mdash; real or imagined &mdash; grants you insight into deeper rituals.
 
 You automatically learn **Augury**, and it counts as a Witch spell for you. You can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
-
-{note}
-Bird flocks, tea leaves, lay of the cards &mdash;the auspices don't lie, they're only misread.
-{note}
 
 In addition, choose one other ritual spell from any full caster&rsquo;s spell list (Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) of 3rd level or lower. This spell counts as a Witch spell for you, and you can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
 
@@ -191,7 +197,7 @@ When casting one of these rituals, may use your **spell focus** in place of any 
 #### Level 7: Token of Respect
 
 {{note
-Others know witches not just for their stare but for the magic they have and the items associated with them.
+Some recognize witches for their stare, some for the magic they bear.
 }}
 
 When you gain this feature, choose one magic item that is Uncommon and requires attunement, or one that is Rare and does not require attunement. The item must be a Ring, Wand, or Wondrous Item and should suit your witchy theme. Your DM has final say on which items are available for this feature.
@@ -200,6 +206,8 @@ If the item requires attunement, it does not count against your maximum number o
 
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
 
+\page
+
 #### Level 9: Dangerous Familiar
 
 Your familiar is stronger and unusually willful and assertive.
@@ -207,8 +215,6 @@ Your familiar is stronger and unusually willful and assertive.
 {{note
 That Witch&rsquo;s creature gave me a wicked stare, and I knew it was not to be messed with.
 }}
-
-\page
 
 When you cast *Find Familiar*, you can choose any creature of Challenge Rating (CR) 1 or lower.
 
@@ -226,6 +232,14 @@ Your insight into fate and folly lets you tip the balance of events.
 When a creature you can see within 30 feet of you makes a **D20 Test**, you can use your reaction to spend 1 use of this feature and impose **advantage** or **disadvantage** on that test. You must choose to do so **before** the roll is made.
 
 You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
+
+#### Level 17: Final Words
+
+_Your curses cut even deeper than before. No more playing nice._
+
+When you use **Cross Words** to cast _Hex_ without a spell slot, the curse lingers for all who strike. Until the spell ends, whenever **any creature** deals damage to the target with an attack roll, the target also takes the extra psychic damage from your _Hex_.  
+
+This damage is applied only once per attack, regardless of the number of hits or damage dice rolled.
 
 ## Witch Spell List
 
@@ -293,6 +307,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Whisper across distance. Ideal for conspiracies and quiet warnings.
   _&ldquo;Don&rsquo;t turn around.&rdquo;_
 
+\page
+
 - **Minor Illusion** <br>
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
   A lie made visible or heard. A whisper in the dark, a fake door where none exists.
@@ -312,8 +328,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Shape Water** <br>
   Command a small amount of water, freezing, coloring, or moving it around.
   A stream listens to a Witch better than most people.
-
-\page
 
 - **Thaumaturgy** <br>
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
@@ -421,6 +435,8 @@ notice when others don't.
   Witches and their odd knacks surprise others, and the Witch doesn&rsquo;t tell.
   _(Strixhaven: Curriculum of Chaos, WotC)_
 
+\page
+
 - **Calm Emotions** <br>
   Lower fear, anger, and turmoil in a group.
   A Witch's presence steadies hearts, whether by soft words, stern looks, or a shared cup of tea.
@@ -438,8 +454,6 @@ notice when others don't.
 
 - **Protection from Poison** <br>
   Draws the venom out with smoke, salt, and an old rhyme.
-
-\page
 
 ##### 📌 Damage &amp; Control
 
@@ -544,6 +558,8 @@ notice when others don't.
   Protective spirits circle you, harming enemies and shielding allies.
   Witches call on the shades of old friends and long-dead kin.
 
+\page
+
 ##### 📌 Damage &amp; Control
 
 - **Antagonize** <br>
@@ -564,8 +580,6 @@ notice when others don't.
 
 - **Fear** <br>
   A vision sends foes fleeing. Your shadow stretches farther than your body, and recalls their worst terrors.
-
-\page
 
 - **Hypnotic Pattern** <br>
   A swirling, mind-drowning display that pacifies the mind.
@@ -647,6 +661,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
 
+\page
+
 - **Color Spray** <br>
   A dazzling burst of multicolored light overwhelms the senses.
   Flair, chaos, and a touch of drama can be more potent than blades.
@@ -672,8 +688,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Moonbeam** <br>
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
-
-\page
 
 #### Level 6: Third Thoughts
 
@@ -741,6 +755,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
 
+\page
+
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
@@ -768,8 +784,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Mordenkainen&rsquo;s Private Sanctum** <br>
   Within these wards, your guests and secrets are safe.
   _This "Mordenkainen" needs talking to about what_ private _means._
-
-\page
 
 - **Slow** <br>
   Others are in such a rush. Maybe they should take their time about it.
@@ -839,6 +853,8 @@ Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
+\page
+
 #### Level 3: Crone Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -869,8 +885,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Command** <br>
   A single word for others to obey: sit, flee, drop, grovel.
   Respect of you is manifest.
-
-\page
 
 - **Compulsion** <br>
   An irresistible pull—your voice bends the target&rsquo;s will, driving them to move in the path you choose.
@@ -939,6 +953,8 @@ You can now borrow creatures with the **Swarm** trait.
 
 While borrowing a creature, you can take the **Magic** action to cast Witch spells, with the following restrictions:
 
+\page
+
 - You can only cast spells of **4th level or lower**.
 - You cannot cast spells that require material components.
 - You do not need a spellcasting focus while borrowing; the creature&rsquo;s body serves as your spellcasting focus, shaping its natural motions and sounds into the spell&rsquo;s expression.
@@ -959,7 +975,7 @@ As a reaction when a creature you can see within 60 feet makes a **D20 Test**, y
 
 The Witch has spells exclusive to them unless some Bard picks them up.
 
-## Harsh Glare
+### Harsh Glare
 _(Cantrip enchantment)_ {font-size:larger} <br>
 _A glare that bites deeper than words._
 
@@ -978,11 +994,11 @@ This spell has no effect on targets that you cannot see or that cannot see you, 
 
 If you cast this spell, you can't take a _Magic Action_ on the same turn.
 
-### Cantrip Upgrade
+#### Cantrip Upgrade
 
 You may target additional creatures when you reach levels 5 (up to 2 creatures), 11 (up to 3 creatures), and 17 (up to 4 creatures).
 
-## Aura of Calm
+### Aura of Calm
 _(4th-level enchantment)_ {font-size:larger} <br>
 _Your words and presence lower hostilities for now._
 
