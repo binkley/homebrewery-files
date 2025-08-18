@@ -5,6 +5,7 @@ Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. So
 The Witch is **High** in _complexity_ akin to Bard, Druid, Monk, Sorcerer, or Warlock.
 
 ##### Core Witch Traits
+
 |||
 |--|--|
 | **Primary Ability** | Wisdom |
@@ -167,32 +168,25 @@ Every Witch walks their own path, and each Calling reflects not only choices in 
 
 #### Level 5: Coven Magic
 
-_Three stand beneath the moon. The spell is cast not alone, but echoes in accord._
+_Three stand beneath the moon. The spell is cast not alone, but in accord. Birds flock, tea leaves, cards lay. The auspices don't lie, they're only misread._
 
-{{note
-_Birds flock, tea leaves, cards lay &mdash; those auspices don't lie, they're only misread._
-}}
+Your bond with a coven &mdash; real or not &mdash; grants you insight into deeper rituals.
 
-Starting at 5th level, your connection to your coven &mdash; real or imagined &mdash; grants you insight into deeper rituals.
+- You learn the _Augury_ spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual.
+- In addition, you learn one ritual spell of 3rd level or lower from any class&rsquo;s spell list, as approved by your DM. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual. Each time you gain a Witch level, you may replace any chosen spells with other ritual spells, subject to the maximum level you can know.
 
-You automatically learn **Augury**, and it counts as a Witch spell for you. You can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
+These spells do not count against the number of spells you can prepare.
 
-In addition, choose one other ritual spell from any full caster&rsquo;s spell list (Bard, Cleric, Druid, Sorcerer, Warlock, or Wizard) of 3rd level or lower. This spell counts as a Witch spell for you, and you can cast it **as a ritual only**, even if you don&rsquo;t have it prepared.
+At higher levels, your coven&rsquo;s lore deepens and you can learn additional ritual spells:
 
-You may change this spell whenever you gain a level in this class, reflecting a shift in your coven&rsquo;s knowledge or priorities.
+| Witch Level | Additional Spells  | Max Spell Level |
+|:-----------:|:------------------:|:---------------:|
+| 5 | 1 | 3 |
+| 9 | 2 | 4 |
+| 13 | 3 | 5 |
+| 17 | 4 | 6 |
 
-At higher levels, your coven&rsquo;s lore deepens:
-
-| Witch Level | Ritual Spells Known | Max Spell Level |
-|:-----------:|:-------------------:|:---------------:|
-| 5           | 1                   | 3rd             |
-| 9           | 2                   | 4th             |
-| 13          | 3                   | 5th             |
-| 17          | 4                   | 6th             |
-
-You may only cast these spells as rituals. They do not count against your spells prepared.
-
-When casting one of these rituals, may use your **spell focus** in place of any material component that lacks a listed gold cost.
+When casting one of these ritual spells, you may use your **spell focus** in place of any material components lacking a listed gold cost.
 
 #### Level 7: Token of Respect
 
@@ -235,11 +229,11 @@ You can use this feature a number of times equal to your **proficiency bonus**, 
 
 #### Level 17: Final Words
 
-When you use **Cross Words** to cast _Hex_ without expending a spell slot, you can choose to empower it with Final Words.  
+When you use **Cross Words** to cast _Hex_ without expending a spell slot, you can choose to empower it with Final Words.
 
-While empowered in this way, until the spell ends, whenever you or an **ally within 30 feet of you** deals damage to the cursed target with an attack roll, the target also takes the extra psychic damage from your _Hex_.  
+While empowered in this way, until the spell ends, whenever you or an **ally within 30 feet of you** deals damage to the cursed target with an attack roll, the target also takes the extra psychic damage from your _Hex_.
 
-This damage is applied only once per attack, regardless of the number of hits or damage dice rolled.  
+This damage is applied only once per attack, regardless of the number of hits or damage dice rolled.
 
 You can empower your _Hex_ with Final Words twice, and you regain all expended uses when you finish a long rest.
 
@@ -699,7 +693,7 @@ _You hear the voice beneath the voice, and your own words do more than expected.
 
 **Spotting Trouble.** As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this reaction a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
 
-**Strong Voice.** You can ignore somatic and non-costly material components when casting. You can cast this way a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
+**Strong Voice.** When casting you can ignore somatic components and material components lacking a listed gold cost. You can cast this way a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
 
 #### Level 10: Vine, Vision and Voice
 
