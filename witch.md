@@ -110,26 +110,19 @@ You can use this feature a number of times equal to your Wisdom bonus, and you r
 
 #### Level 2: Cross Words
 
-You learn the *Hex* spell. It is always prepared for you and doesn't count against the number of spells you can prepare.
+You learn the _Hex_ spell. It is always prepared for you and doesn't count against the number of spells you can prepare.
 
-You can cast *Hex* without expending a spell slot using only verbal components. You can do so twice, and you regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
+You can cast _Hex_ without expending a spell slot, using only verbal components. When you do so, you use one of your Cross Words uses. You regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
-You begin with 2 uses and gain additional uses when you reach certain Witch levels:
-
-| Witch Level | Cross Words Uses |
-|:--:|:--:|
-| 2 | 2 |
-| 5 | 3 |
-| 11 | 4 |
-| 17 | 5 |
+You begin with 2 uses, and the number of uses increases as you gain Witch levels, as shown in the Cross Words column of the Witch Features table.
 
 #### Level 2: Second Sight
 
 Your insight into others borders on the supernatural.
 
-\page
-
 You gain proficiency in the _Insight_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
+
+\page
 
 #### Level 2: Witch&rsquo;s Familiar
 
@@ -207,8 +200,6 @@ If the item requires attunement, it does not count against your maximum number o
 
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
 
-\page
-
 #### Level 9: Dangerous Familiar
 
 Your familiar is stronger and unusually willful and assertive.
@@ -216,6 +207,8 @@ Your familiar is stronger and unusually willful and assertive.
 {{note
 That Witch&rsquo;s creature gave me a wicked stare, and I knew it was not to be messed with.
 }}
+
+\page
 
 When you cast *Find Familiar*, you can choose any creature of Challenge Rating (CR) 1 or lower.
 
@@ -312,8 +305,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Tiny, harmless magical tricks—cleaning, soiling, lighting, or adding flavor.
   Witches know a little magic goes a long way for first impressions.
 
-\page
-
 - **Produce Flame** <br>
   Conjure fire for light or attack.
   A bit of flame for hearth or hex.
@@ -321,6 +312,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Shape Water** <br>
   Command a small amount of water, freezing, coloring, or moving it around.
   A stream listens to a Witch better than most people.
+
+\page
 
 - **Thaumaturgy** <br>
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
@@ -439,14 +432,14 @@ notice when others don't.
 - **Gentle Repose** <br>
   Death comes but no need to hurry it along. Let the body remain for a while.
 
-\page
-
 - **Lesser Restoration** <br>
   You miracously feel better from a life-altering condition.
   _You&rsquo;ll be right up in no time, I&rsquo;m sure._
 
 - **Protection from Poison** <br>
   Draws the venom out with smoke, salt, and an old rhyme.
+
+\page
 
 ##### 📌 Damage &amp; Control
 
@@ -569,10 +562,10 @@ notice when others don't.
   Confuse a creature&rsquo;s mind so it sees allies and enemies alike as threats.
   _Did you hear what they called you?_
 
-\page
-
 - **Fear** <br>
   A vision sends foes fleeing. Your shadow stretches farther than your body, and recalls their worst terrors.
+
+\page
 
 - **Hypnotic Pattern** <br>
   A swirling, mind-drowning display that pacifies the mind.
@@ -672,8 +665,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A forest, a graveyard glade, a marsh a sunlit shore, up to your imagination.
   You rewrite the world for targets.
 
-\page
-
 - **Major Image** <br>
   Craft full illusions that speak, move, and mislead.
   Convince the senses and the soul may follow.
@@ -681,6 +672,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Moonbeam** <br>
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
+
+\page
 
 #### Level 6: Third Thoughts
 
@@ -768,15 +761,15 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   It&rsquo;s not much, but better than nothing and a fireball.
   _Would you pass the biscuits?_
 
-\page
-
 - **Life Transference** <br>
   Give your some of your life force to heal another.
   _This hurts; it really hurts. It hurts me more than it does you._
 
 - **Mordenkainen&rsquo;s Private Sanctum** <br>
   Within these wards, your guests and secrets are safe.
-  This "Mordenkainen" needs talking to about what "private" means.
+  _This "Mordenkainen" needs talking to about what_ private _means._
+
+\page
 
 - **Slow** <br>
   Others are in such a rush. Maybe they should take their time about it.
@@ -865,8 +858,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Destroy plant life or strongly damage a foe.
   Witches save their folk and are woe to those against.
 
-\page
-
 - **Counterspell** <br>
   A stern gesture and harsher word unravels enemy magic mid-cast.
   _Take that!_
@@ -878,6 +869,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Command** <br>
   A single word for others to obey: sit, flee, drop, grovel.
   Respect of you is manifest.
+
+\page
 
 - **Compulsion** <br>
   An irresistible pull—your voice bends the target&rsquo;s will, driving them to move in the path you choose.
