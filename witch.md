@@ -235,11 +235,13 @@ You can use this feature a number of times equal to your **proficiency bonus**, 
 
 #### Level 17: Final Words
 
-_Your curses cut even deeper than before. No more playing nice._
+When you use **Cross Words** to cast _Hex_ without expending a spell slot, you can choose to empower it with Final Words.  
 
-When you use **Cross Words** to cast _Hex_ without a spell slot, the curse lingers for all who strike. Until the spell ends, whenever **any creature** deals damage to the target with an attack roll, the target also takes the extra psychic damage from your _Hex_.  
+While empowered in this way, until the spell ends, whenever you or an **ally within 30 feet of you** deals damage to the cursed target with an attack roll, the target also takes the extra psychic damage from your _Hex_.  
 
-This damage is applied only once per attack, regardless of the number of hits or damage dice rolled.
+This damage is applied only once per attack, regardless of the number of hits or damage dice rolled.  
+
+You can empower your _Hex_ with Final Words twice, and you regain all expended uses when you finish a long rest.
 
 ## Witch Spell List
 
@@ -303,11 +305,11 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A witch&rsquo;s breath made manifest.
   _(Xanathar’s Guide to Everything, WotC)_
 
+\page
+
 - **Message** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
   _&ldquo;Don&rsquo;t turn around.&rdquo;_
-
-\page
 
 - **Minor Illusion** <br>
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
@@ -428,14 +430,14 @@ notice when others don't.
 
 > _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
 
+\page
+
 ##### 🛡️ Ally Buffs &amp; Wards
 
 - **Borrowed Knowledge** <br>
   You are for a time better at something.
   Witches and their odd knacks surprise others, and the Witch doesn&rsquo;t tell.
   _(Strixhaven: Curriculum of Chaos, WotC)_
-
-\page
 
 - **Calm Emotions** <br>
   Lower fear, anger, and turmoil in a group.
@@ -951,9 +953,9 @@ _Your magic infuses the forms you inhabit, your will seeping through their voice
 
 You can now borrow creatures with the **Swarm** trait.
 
-While borrowing a creature, you can take the **Magic** action to cast Witch spells, with the following restrictions:
-
 \page
+
+While borrowing a creature, you can take the **Magic** action to cast Witch spells, with the following restrictions:
 
 - You can only cast spells of **4th level or lower**.
 - You cannot cast spells that require material components.
