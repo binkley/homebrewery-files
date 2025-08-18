@@ -63,20 +63,20 @@ _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that 
 | 1 | +2 | Spellcasting, Harsh Glare, Witch Armor | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2 | +2 | Cross Words, Second Sight, Witch&rsquo;s Familiar | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Herbal Sage | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 4 | +2 | ASI, Cantrips | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5 | +3 | Coven Magic, Cross Words | 3 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 4 | +2 | ASI | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | Coven Magic | 3 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 6 | +3 | Subclass feature | 3 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7 | +3 | Token of Respect | 3 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8 | +3 | ASI | 3 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 9 | +4 | Dangerous Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 10 | +4 | Subclass feature, Cantrips | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 11 | +4 | ???, Cross Words | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 10 | +4 | Subclass feature | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
+| 11 | +4 | &mdash; | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
 | 12 | +4 | Witch&rsquo;s Insight | 4 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
-| 13 | +4 | ??? | 4 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
+| 13 | +4 | &mdash; | 4 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 14 | +5 | Subclass feature | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
-| 15 | +5 | ??? | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
-| 16 | +5 | ASI, Cantrips | 4 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
-| 17 | +6 | ???, Cross Words | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 15 | +5 | &mdash; | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
+| 16 | +5 | ASI | 4 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
+| 17 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
 | 18 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19 | +6 | ASI | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
