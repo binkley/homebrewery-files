@@ -103,14 +103,18 @@ _Witches say the eyes speak before the mouth does._
 
 You learn the **Harsh Glare** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
 
+\column
+
 #### Level 1: Home Territory
+
+_Now that's a lovely new garden. I wonder what they're growing in it? Let's go find out._
 
 Every Witch has a place they call their own: a valley, village, forest, coast, sea, or patch of moorland. It may be no more than a day&rsquo;s walk across, but you belong to it and it belongs to you.
 
 - While within your home territory, **difficult terrain does not slow your group’s travel**.  
 - You also gain advantage on _Wisdom (Survival)_ and _Intelligence (Nature)_ checks made to forage, track, or recall lore about this land.  
 
-The DM and player should decide together what constitutes your home territory when becoming a Witch suitable to your background and backstory.
+The DM and player should decide together what constitutes your home territory when becoming a Witch suitable to your background and backstory. Over a lifetime, a Witch may come to belong to more than one place. Each time you live and work in a new community for a year or more, your DM may let you claim it as an additional home territory.
 
 #### Level 1: Witch Armor
 
@@ -120,11 +124,11 @@ When a creature you can see makes an attack roll or casts a spell that targets o
 
 You can use this feature a number of times equal to your Wisdom bonus (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
+\page
+
 #### Level 2: Cross Words
 
 You learn the _Hex_ spell. It is always prepared for you and doesn't count against the number of spells you can prepare. When you cast _Hex_, the extra damage it deals is **psychic** instead of **necrotic**.
-
-\page
 
 You can cast _Hex_ without expending a spell slot, using only verbal components. When you do so, you use one of your Cross Words uses. You regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
@@ -195,6 +199,8 @@ At higher levels, your coven&rsquo;s lore deepens and you can learn additional r
 | 13 | 3 | 5 |
 | 17 | 4 | 6 |
 
+\page
+
 #### Level 7: Token of Respect
 
 {{note
@@ -202,8 +208,6 @@ Some recognize witches for their stare, some for the magic they bear.
 }}
 
 When you gain this feature, choose one magic item that is Uncommon and requires attunement, or one that is Rare and does not require attunement. The item must be a Ring, Wand, or Wondrous Item and should suit your witchy theme. Your DM has final say on which items are available for this feature.
-
-\page
 
 If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means &mdash; it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
@@ -260,9 +264,11 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 #### Cantrips (Level 0 Witch Spells)
 
-> _A word in your ear, a flower in your pocket, and flame or a cold wind in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
+_A word in your ear, a flower in your pocket, and flame or a cold wind in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
 
 ##### 🛡️ Ally Buffs & Wards
+
+_What are you prattling on about? I kept you alive, didn't I?_
 
 - **Guidance** <br>
   Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement.
@@ -278,9 +284,13 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 ##### 📌 Damage & Control
 
+_Well you take care of them already. I've other things to attend to._
+
 - **Chill Touch** <br>
   A ghostly hand that deals necrotic damage and halts healing.
   Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
+
+\page
 
 - **Harsh Glare** <br>
   A glare sharp enough to still the bold and curdle milk.
@@ -291,13 +301,13 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A knell for the wicked; deals more damage if the target is wounded.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
-\page
-
 - **Vicious Mockery** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
   Laughter can be crueler than claws.
 
 ##### 🔍 Utility, Ritual & Trickery
+
+_See how the flowers are? Now that is witchy no matter what others say._
 
 - **Dancing Lights** <br>
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
@@ -348,9 +358,11 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 #### Level 1 Witch Spells
 
-> _A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
+_A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
 
 ##### 🛡️ Ally Buffs & Wards
+
+_A little help never hurt nobody, I always say._
 
 - **Heroism** <br>
   Temp HP and fear immunity &mdash; courage brewed in a teacup.
@@ -396,10 +408,14 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A Witch's charm on a rope can hold faster than iron.
   _(Xanathar&rsquo;s Guide to Everything, WotC)_
 
+\page
+
 - **Tasha&rsquo;s Caustic Brew** <br>
   A jet of hissing, caustic acid sprays from your hand, eating through armor and pride alike.
   More potion than spell &mdash; it smells like a witch&rsquo;s kitchen gone wrong.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
+
+- **Tasha&rsquo;s Hideous Laughter** <br>
 
 - **Thunderwave** <br>
   A forceful burst for those moments when subtlety fails.
@@ -414,8 +430,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 - **Alarm** <br>
   An unseen tripwire of bells and thread.
-
-\page
 
 - **Ceremony** <br>
   A Witch does only births, deaths, and weddings. You can do others, but up to them what happens.
@@ -671,6 +685,9 @@ notice when others don't.
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Tasha&rsquo;s Bubbling Cauldron** <br>
+  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
+
 - **True Seeing** <br>
 
 ##### 📌 Damage & Control
@@ -678,6 +695,9 @@ notice when others don't.
 - **Circle of Death** <br>
 
 - **Eyebite** <br>
+
+- **Tasha&rsquo;s Otherworldly Guise** <br>
+  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -692,6 +712,8 @@ notice when others don't.
 - **Symbol** <br>
 
 ##### 📌 Damage & Control
+
+- **Prismatic Spray** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -716,6 +738,8 @@ notice when others don't.
 #### Level 9 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
+
+- **Prismatic Wall** <br>
 
 ##### 📌 Damage & Control
 
