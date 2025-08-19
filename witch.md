@@ -264,7 +264,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 #### Cantrips (Level 0 Witch Spells)
 
-_A word in your ear, a flower in your pocket, and flame or a cold wind in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
+_Some smoke from your hearth, a word in your ear, a flower in your vase makes you a Witch. And a good stare._
 
 ##### 🛡️ Ally Buffs & Wards
 
@@ -282,15 +282,17 @@ _What are you prattling on about? I kept you alive, didn't I?_
   Stabilize a dying creature. Especially suited to the _Mother_ Witch.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
+\page
+
 ##### 📌 Damage & Control
 
-_Well you take care of them already. I've other things to attend to._
+_Well, you folks take care of them already. I've other things to attend to._
 
 - **Chill Touch** <br>
   A ghostly hand that deals necrotic damage and halts healing.
   Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
 
-\page
+- **Frostbite** <br>
 
 - **Harsh Glare** <br>
   A glare sharp enough to still the bold and curdle milk.
@@ -358,7 +360,7 @@ _See how the flowers are? Now that is witchy no matter what others say._
 
 #### Level 1 Witch Spells
 
-_A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
+_You light the candle &mdash; witches don't waste on fireworks. Unless they're pretty, or in haste._
 
 ##### 🛡️ Ally Buffs & Wards
 
@@ -379,6 +381,8 @@ _A little help never hurt nobody, I always say._
 
 ##### 📌 Damage & Control
 
+_Maybe they'll be reasonable if restrained a little, enough time to talk things out._
+
 - **Cause Fear** <br>
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
 
@@ -391,8 +395,10 @@ _A little help never hurt nobody, I always say._
 - **Hex** <br>
   A spiteful curse that saps strength and fuels further harm.
 
+\page
+
 - **Ice Knife** <br>
-  A frost-edged blade that explodes into icy shards.
+  _Cold as a witch&rsquo;s teat_ they said. Let's prove them right.
 
 - **Inflict Wounds** <br>
   A brutal, unassuming touch that rots flesh.
@@ -408,8 +414,6 @@ _A little help never hurt nobody, I always say._
   A Witch's charm on a rope can hold faster than iron.
   _(Xanathar&rsquo;s Guide to Everything, WotC)_
 
-\page
-
 - **Tasha&rsquo;s Caustic Brew** <br>
   A jet of hissing, caustic acid sprays from your hand, eating through armor and pride alike.
   More potion than spell &mdash; it smells like a witch&rsquo;s kitchen gone wrong.
@@ -424,6 +428,8 @@ _A little help never hurt nobody, I always say._
   A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
 
 ##### 🔍 Utility, Ritual & Trickery
+
+_We witches do so many things. It takes skill and judgment to pick the right ones._
 
 - **Animal Friendship** <br>
   Beasts of field, forest, air or waters recognize you.
@@ -453,11 +459,15 @@ notice when others don't.
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
 
+\column
+
 #### Level 2 Witch Spells
 
-> _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
+_Now the real work begins. Two candles lit, the tea is brewed._
 
 ##### 🛡️ Ally Buffs & Wards
+
+_Did that snake really bite you unprovoked &mdash; sure you weren't poking at it with a stick?_
 
 - **Borrowed Knowledge** <br>
   You are for a time better at something.
@@ -486,6 +496,8 @@ notice when others don't.
 
 ##### 📌 Damage & Control
 
+_Respect. Always show a Witch respect. And we don't bow._
+
 - **Blindness/Deafness** <br>
   Salt in the eyes, a whispered jinx&mdash;the senses fail under the Witch&rsquo;s curse.
 
@@ -510,6 +522,8 @@ notice when others don't.
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
 
+\page
+
 - **Shatter** <br>
   A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
 
@@ -522,6 +536,8 @@ notice when others don't.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 ##### 🔍 Utility, Ritual & Trickery
+
+_Even if it's not your fault, you're responsibility. So fix it._
 
 - **Animal Messenger** <br>
   A bird, squirrel, or other small critter carries your whispered words where no person could go.
@@ -556,11 +572,11 @@ notice when others don't.
 
 #### Level 3 Witch Spells
 
-> _This is the turning point. A third candle is lit. You may now call lightning, bind fate, or vanish with a scream. People begin to fear you&mdash;or seek you out._
-
-\page
+_You light the third candle. People show respect and seek you out._
 
 ##### 🛡️ Ally Buffs & Wards
+
+_Crying may help, no shame there. But let's not get too soon to crying._
 
 - **Beacon of Hope** <br>
   Healing heals you more than usual.
@@ -590,6 +606,8 @@ notice when others don't.
 
 ##### 📌 Damage & Control
 
+_&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rdquo; We'll see about that._
+
 - **Antagonize** <br>
   A sharp word and a colder glare &mdash; your enemy lashes out recklessly, unable to ignore the sting.
   _(The Book of Many Things, WotC)_
@@ -617,18 +635,22 @@ notice when others don't.
 
 ##### 🔍 Utility, Ritual & Trickery
 
+_You smooth out living, especially for those too close to the edge._
+
 - **Dispel Magic** <br>
-  A sweeping charmbreaker&mdash;sometimes with a broom, sometimes with bilewort.
+  A sweeping arm breaks a spell &mdash; sometimes with bile and bladderwort.
 
 - **Feign Death** <br>
-  It or you appear dead.
+  It or you appear dead. _You ate'nt dead yet._
 
 - **Sending** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
 
+\page
+
 #### Level 4 Witch Spells
 
-> _The fourth candle is lit in solitude. Your powers now walk ahead of you, sent through storm, shadow, or a silent eye._
+_Woe and weal the Witch grants them friend or foe._
 
 ##### 🛡️ Ally Buffs & Wards
 
@@ -679,8 +701,6 @@ notice when others don't.
 
 - **Scrying** <br>
 
-\page
-
 #### Level 6 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
@@ -727,6 +747,8 @@ notice when others don't.
 
 ##### 📌 Damage & Control
 
+- **Abi-Dalzim&rsquo;s Horrid Wilting** <br>
+
 - **Antimagic Field** <br>
 
 - **Feeblemind** <br>
@@ -762,6 +784,8 @@ _Bright-eyed, underestimated, and full of wild potential._
 #### Level 3: Inner Discovery
 
 Your herbal knowledge or your voice borders on the supernatural.
+
+\page
 
 You gain proficiency in your choice of the _Nature_ or _Performance_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
 
@@ -815,8 +839,6 @@ _**Spotting Trouble.**_ As a reaction, when a creature within 30 feet makes a _C
 
 _**Strong Voice.**_ When you cast a spell, you can ignore its somatic component and any material component that lacks a listed gold cost. You can cast this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-\page
-
 #### Level 10: Vine, Vision and Voice
 
 _You are never just one thing. Your strength lies contradiction, and people hear you out._
@@ -857,6 +879,8 @@ Would you like another cup of tea, dear? I have a poultice for that and I won't 
 }}
 
 You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
+
+\page
 
 #### Level 3: Mother Spells
 
@@ -915,8 +939,6 @@ Whenever a creature of your choice (including you) rolls one or more Hit Dice to
 
 In addition, once per long rest, you can tend to one creature during a Short Rest. That creature regains hit points by rolling one additional Hit Die without expending their current Hit Dice.
 
-\page
-
 #### Level 10: Charm Offensive
 
 _You wade into battle or soirees to lower tensions._
@@ -955,6 +977,8 @@ _I can't make them worse, but I can make you better._
 You speak words or think thoughts that twist fate.
 
 As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+\page
 
 ### The Crone Calling
 
@@ -1017,8 +1041,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
 
-\page
-
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
@@ -1055,6 +1077,8 @@ The creature must lack the **Swarm** trait, cannot be sentient, and it must have
 | 6  | 1 |
 | 10 | 4 |
 | 14 | 8 |
+
+\page
 
 **Permanency.** If while borrowing you reach 6 levels of *Exhaustion* from any source, your own body dies, your separate mind is lost, and you permanently become that creature in all respects. Your new body immediately loses 1 level of *Exhaustion*.
 
