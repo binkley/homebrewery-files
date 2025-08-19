@@ -87,7 +87,7 @@ The number of spells on your list increases as you gain Witch levels, as shown i
 
 If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
 
-_**Changing Your Prepared Spells.**_ Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with spells that you know.
+_**Changing Your Prepared Spells.**_ Whenever you finish a Long Rest, you can change your list of prepared spells, replacing any of the spells there with other Witch spells from the Witch spell list of levels for which you have spell slots.
 
 _**Spellcasting Ability.**_
 Wisdom is your spellcasting ability for your Witch spells.
@@ -107,7 +107,7 @@ _A new witch learns self-protection._
 
 When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
-You can use this feature a number of times equal to your Wisdom bonus, and you regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your Wisdom bonus (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 #### Level 2: Cross Words
 
@@ -173,7 +173,7 @@ _Three stand beneath the moon. The spell is cast not alone, but in accord. Birds
 Your bond with a coven &mdash; real or not &mdash; grants you insight into deeper rituals.
 
 - You learn the _Augury_ spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual.
-- In addition, you learn one ritual spell of 3rd level or lower from any class&rsquo;s spell list, as approved by your DM. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual. Each time you gain a Witch level, you may replace any chosen spells with other ritual spells, subject to the maximum level you can know.
+- In addition, you learn one ritual spell of 3rd level or lower from any class&rsquo;s spell list, as approved by your DM. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual. Each time you gain a Witch level, you may replace any ritual spell learned from this feature (not including _Augury_) with another ritual spell, subject to the maximum level you can know.
 
 These spells do not count against the number of spells you can prepare.
 
@@ -185,8 +185,6 @@ At higher levels, your coven&rsquo;s lore deepens and you can learn additional r
 | 9 | 2 | 4 |
 | 13 | 3 | 5 |
 | 17 | 4 | 6 |
-
-When casting one of these ritual spells, you may use your **spell focus** in place of any material components lacking a listed gold cost.
 
 #### Level 7: Token of Respect
 
@@ -212,7 +210,7 @@ That Witch&rsquo;s creature gave me a wicked stare, and I knew it was not to be 
 
 When you cast *Find Familiar*, you can choose any creature of Challenge Rating (CR) 1 or lower.
 
-In combat, your familiar acts during your turn. A familiar can&rsquo;t attack, but it can move and take other actions. If you do one of the following your familiar may use the **Attack** action:
+It can’t attack unless you direct it as follows:
 
 - Use a **Bonus Action** to mentally command it to take an action from its stat block.
 - When you take the **Attack** action, you can forgo one of your own attacks to command the familiar to make one attack.
@@ -223,7 +221,7 @@ When your familiar makes an attack, it adds your proficiency bonus to its attack
 
 Your insight into fate and folly lets you tip the balance of events.
 
-When a creature you can see within 30 feet of you makes a **D20 Test**, you can use your reaction to spend 1 use of this feature and impose **advantage** or **disadvantage** on that test. You must choose to do so **before** the roll is made.
+When a creature you can see within 30 feet of you makes a **D20 Test**, you can you can use your reaction after the creature rolls but before the outcome is determined to impose **advantage** or **disadvantage** on that test.
 
 You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
@@ -699,17 +697,17 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 _You hear the voice beneath the voice, and your own words do more than expected._
 
-**Eye for Reality.** You gain **advantage** on _Wisdom (Insight and Perception)_ checks.
+_**Eye for Reality.**_ You gain **advantage** on _Wisdom (Insight and Perception)_ checks.
 
-**Spotting Trouble.** As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this reaction a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
+_**Spotting Trouble.**_ As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this reaction a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
 
-**Strong Voice.** When casting you can ignore somatic components and material components lacking a listed gold cost. You can cast this way a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
+_**Strong Voice.**_ When you cast a spell, you can ignore its somatic component and any material component that lacks a listed gold cost. You can cast this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 #### Level 10: Vine, Vision and Voice
 
 _You are never just one thing. Your strength lies contradiction, and people hear you out._
 
-As a bonus action, you can call upon one of three auras of presence, which extend 10 feet from you in all directions. The aura moves with you, lasts for 1 minute, and requires your concentration, as if concentrating on a spell.
+As a bonus action, you can call upon one of three auras of presence, which extend 10 feet from you in all directions. The aura moves with you, lasts for 1 minute, and requires your concentration.
 
 - **Entangling Aura.** When a creature enters the aura for the first time on a turn or starts its turn there, it must succeed on a Strength saving throw against your Witch spell save DC or its speed is halved until the start of its next turn.
 
@@ -995,9 +993,7 @@ Commonly known as the _Evil Eye_, this spell channels your will into a piercing 
 
 You fix your gaze on a creature you can see within range. The target must succeed on a Wisdom saving throw or take 1d8 psychic damage and be unable to take a reaction until the start of your next turn. On a successful save, the creature takes no damage and suffers no additional effect.
 
-This spell has no effect on targets that you cannot see or that cannot see you, such as yourself or targets blinded, invisible, or lacking visual senses. You must be within a target&rsquo;s line of sight; if you can see a target, you can discern whether it can see you. The force of your gaze when casting is sufficient to briefly turn their glance to you as you cast this spell.
-
-If you cast this spell, you can't take a _Magic Action_ on the same turn.
+This spell has no effect on targets you can't see or that can't see you.  The force of your gaze when casting is sufficient to briefly turn their glance to you as you cast this spell.
 
 #### Cantrip Upgrade
 
