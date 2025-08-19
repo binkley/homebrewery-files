@@ -630,12 +630,73 @@ notice when others don't.
 
 ##### 🛡️ Ally Buffs &amp; Wards
 
+- **Greater Restoration** (Mother subclass free, but still broadly Witchy)
+
 ##### 📌 Damage &amp; Control
+
+- **Geas**
+
+- **Insect Plague**
 
 ##### 🔍 Utility, Ritual, &amp; Trickery
 
 - **Dream** <br>
   Stories slip easier into sleeping minds. Sometimes a Witch whispers truth in a dream when it won’t be heard awake.
+
+- **Scrying**
+
+#### Level 6 Witch Spells
+
+##### 🛡️ Ally Buffs &amp; Wards
+
+- **Circle of Power**
+
+- **True Seeing**
+
+##### 📌 Damage &amp; Control
+
+- **Circle of Death**
+
+- **Eyebite**
+
+- ~~Flesh to Stone~~ (tentative — curse-like, but might lean too Wizard)
+
+##### 🔍 Utility, Ritual, &amp; Trickery
+
+#### Level 7 Witch Spells
+
+##### 🛡️ Ally Buffs &amp; Wards
+
+- **Regenerate**
+
+- **Symbol** (tentative — very ritualistic, but on the fence)
+
+##### 📌 Damage &amp; Control
+
+##### 🔍 Utility, Ritual, &amp; Trickery
+
+#### Level 8 Witch Spells
+
+##### 🛡️ Ally Buffs &amp; Wards
+
+##### 📌 Damage &amp; Control
+
+- ~~Antimagic Field~~ (tentative — only if we flavor it as “Witch’s Circle of Denial”)
+
+- **Control Weather**
+
+##### 🔍 Utility, Ritual, & Trickery
+
+#### Level 9 Witch Spells
+
+##### 🛡️ Ally Buffs &amp; Wards
+
+##### 📌 Damage &amp; Control
+- **Weird**
+
+##### 🔍 Utility, Ritual, &amp; Trickery
+
+- **Foresight**
 
 ## Witch Subclasses
 
