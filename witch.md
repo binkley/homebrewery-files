@@ -17,7 +17,9 @@ The Witch is **High** in _complexity_ akin to Bard, Druid, Monk, Sorcerer, or Wa
 | **Armor Training** | None |
 | **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch&rsquo;s hat); a component pouch or druidic focus; a sickle or quarterstaff; a _healer&rsquo;s kit_; an _herbalism kit_; _cook&rsquo;s utensils_; four candles; a pouch with 10 gp; and an explorer&rsquo;s pack; (B) 50 gp |
 
-Witches rarely choose the path of magic so much as they are chosen by it. Signs of a witch&rsquo;s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
+Witches live in boundaries and edges: life and death, success and failure, fear and love. They live "in the now" while also seeing past and future. They are more interested in what is real than what might have been.
+
+Rarely do witches choose this path so much as they are born innately to it. Signs of a witch&rsquo;s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
 
 A Witch&rsquo;s powers sway crowds and kingdoms, glimpse the future, drive creatures of field, forest, and water, and protect those around them. There is whimsy and unreality in their actions and spells. A witch&rsquo;s curse is _terrible_.
 
@@ -452,6 +454,8 @@ notice when others don't.
 - **Gentle Repose** <br>
   Death comes but no need to hurry it along. Let the body remain for a while.
 
+- **Healing Spirit** <br>
+
 - **Lesser Restoration** <br>
   You miracously feel better from a life-altering condition.
   _You&rsquo;ll be right up in no time, I&rsquo;m sure._
@@ -589,6 +593,8 @@ notice when others don't.
   A swirling, mind-drowning display that pacifies the mind.
   They seem stupid now, but will remember you after with the hand-waving and the confetti.
 
+- **Spirit Shroud** <br>
+
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Dispel Magic** <br>
@@ -614,6 +620,9 @@ notice when others don't.
 - **Banishment** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
 
+- **Spirit of Death** <br>
+  A witch knows death as a friend and rival. Your spell takes a form of your choosing.
+
 - **Sickening Radiance** <br>
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
 
@@ -630,36 +639,34 @@ notice when others don't.
 
 ##### 🛡️ Ally Buffs & Wards
 
-- **Greater Restoration** (Mother subclass free, but still broadly Witchy)
+- **Greater Restoration** <br>
 
 ##### 📌 Damage & Control
 
-- **Geas**
+- **Geas** <br>
 
-- **Insect Plague**
+- **Insect Plague** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Dream** <br>
   Stories slip easier into sleeping minds. Sometimes a Witch whispers truth in a dream when it won’t be heard awake.
 
-- **Scrying**
+- **Scrying** <br>
 
 #### Level 6 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
-- **Circle of Power**
+- **Circle of Power** <br>
 
-- **True Seeing**
+- **True Seeing** <br>
 
 ##### 📌 Damage & Control
 
-- **Circle of Death**
+- **Circle of Death** <br>
 
-- **Eyebite**
-
-- ~~Flesh to Stone~~ (tentative — curse-like, but might lean too Wizard)
+- **Eyebite** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -667,9 +674,9 @@ notice when others don't.
 
 ##### 🛡️ Ally Buffs & Wards
 
-- **Regenerate**
+- **Regenerate** <br>
 
-- **Symbol** (tentative — very ritualistic, but on the fence)
+- **Symbol** <br>
 
 ##### 📌 Damage & Control
 
@@ -681,9 +688,9 @@ notice when others don't.
 
 ##### 📌 Damage & Control
 
-- ~~Antimagic Field~~ (tentative — only if we flavor it as “Witch’s Circle of Denial”)
+- **Antimagic Field** <br>
 
-- **Control Weather**
+- **Control Weather** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -692,11 +699,12 @@ notice when others don't.
 ##### 🛡️ Ally Buffs & Wards
 
 ##### 📌 Damage & Control
-- **Weird**
+
+- **Weird** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Foresight**
+- **Foresight** <br>
 
 ## Witch Subclasses
 
