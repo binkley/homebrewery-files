@@ -35,7 +35,7 @@ Most Witches are not taught in academies but by fellow Witches or through unexpe
 #### As a Multiclass Character
 
 - Gain the following traits from the Core Witch Traits table: Hit Point Die, proficiency in one skill of your choice, and proficiency with the _herbalism kit_.
-- Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table. See the multiclassing rules in the D&amp;D _Player&rsquo;s Handbook_ to determine your available spell slots.
+- Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table. See the multiclassing rules in the D&D _Player&rsquo;s Handbook_ to determine your available spell slots.
 
 ### Witch Class Features
 
@@ -43,7 +43,7 @@ As a Witch, you gain the following class features when you reach the specified W
 
 #### Level 1: Spellcasting
 
-You have learned to cast spells by drawing from people and the land, necessity and the teaching of other witches. See the D&amp;D _Player&rsquo;s Handbook_ for the rules on spellcasting. The information below details how you use those rules with Witch spell, which appear in the Witch spell list later in the class&rsquo;s description.
+You have learned to cast spells by drawing from people and the land, necessity and the teaching of other witches. See the D&D _Player&rsquo;s Handbook_ for the rules on spellcasting. The information below details how you use those rules with Witch spell, which appear in the Witch spell list later in the class&rsquo;s description.
 
 Every spell includes a brief note on how Witches tend to use it. These notes don't change the spell&rsquo;s mechanics but suggest tone and roleplay. A Witch often adds a personal flavor to a spell without changing the magic.
 
@@ -253,7 +253,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 > _A word in your ear, a flower in your pocket, and flame or a cold wind in your hand &mdash; that&rsquo;s all a Witch needs. And a good stare._
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
 - **Guidance** <br>
   Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement.
@@ -267,7 +267,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Stabilize a dying creature. Especially suited to the _Mother_ Witch.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
 - **Chill Touch** <br>
   A ghostly hand that deals necrotic damage and halts healing.
@@ -286,7 +286,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
   Laughter can be crueler than claws.
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 - **Dancing Lights** <br>
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
@@ -341,7 +341,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 > _A Witch does not waste magic on fireworks. She rattles nerves, twists fates, and keeps her folk safe._
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
 - **Heroism** <br>
   Temp HP and fear immunity &mdash; courage brewed in a teacup.
@@ -356,7 +356,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   An attacker must choose a different target if they cannot oppose your willpower.
   A Witch stands up for those who cannot stand for themselves.
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
 - **Cause Fear** <br>
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
@@ -398,7 +398,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Witch Bolt** <br>
   A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 - **Animal Friendship** <br>
   Beasts of field, forest, air or waters recognize you.
@@ -434,7 +434,7 @@ notice when others don't.
 
 > _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
 - **Borrowed Knowledge** <br>
   You are for a time better at something.
@@ -459,7 +459,7 @@ notice when others don't.
 - **Protection from Poison** <br>
   Draws the venom out with smoke, salt, and an old rhyme.
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
 - **Blindness/Deafness** <br>
   Salt in the eyes, a whispered jinx&mdash;the senses fail under the Witch&rsquo;s curse.
@@ -496,7 +496,7 @@ notice when others don't.
   Cruel, precise, and deeply unsettling.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 - **Animal Messenger** <br>
   A bird, squirrel, or other small critter carries your whispered words where no person could go.
@@ -530,7 +530,7 @@ notice when others don't.
 
 > _This is the turning point. A third candle is lit. You may now call lightning, bind fate, or vanish with a scream. People begin to fear you&mdash;or seek you out._
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
 - **Beacon of Hope** <br>
   Healing heals you more than usual.
@@ -564,7 +564,7 @@ notice when others don't.
   Protective spirits circle you, harming enemies and shielding allies.
   Witches call on the shades of old friends and long-dead kin.
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
 - **Antagonize** <br>
   A sharp word and a colder glare &mdash; your enemy lashes out recklessly, unable to ignore the sting.
@@ -589,7 +589,7 @@ notice when others don't.
   A swirling, mind-drowning display that pacifies the mind.
   They seem stupid now, but will remember you after with the hand-waving and the confetti.
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 - **Dispel Magic** <br>
   A sweeping charmbreaker&mdash;sometimes with a broom, sometimes with bilewort.
@@ -604,12 +604,12 @@ notice when others don't.
 
 > _The fourth candle is lit in solitude. Your powers now walk ahead of you, sent through storm, shadow, or a silent eye._
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
 - **Freedom of Movement** <br>
   No chain nor charm nor tangle holds long. Witches walk free and bow to no king.
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
 - **Banishment** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
@@ -617,7 +617,7 @@ notice when others don't.
 - **Sickening Radiance** <br>
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 - **Arcane Eye** <br>
   You send forth an invisible scout &mdash; a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven&rsquo;s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
@@ -628,17 +628,17 @@ notice when others don't.
 
 #### Level 5 Witch Spells
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
 - **Greater Restoration** (Mother subclass free, but still broadly Witchy)
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
 - **Geas**
 
 - **Insect Plague**
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 - **Dream** <br>
   Stories slip easier into sleeping minds. Sometimes a Witch whispers truth in a dream when it won’t be heard awake.
@@ -647,13 +647,13 @@ notice when others don't.
 
 #### Level 6 Witch Spells
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
 - **Circle of Power**
 
 - **True Seeing**
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
 - **Circle of Death**
 
@@ -661,40 +661,40 @@ notice when others don't.
 
 - ~~Flesh to Stone~~ (tentative — curse-like, but might lean too Wizard)
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 #### Level 7 Witch Spells
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
 - **Regenerate**
 
 - **Symbol** (tentative — very ritualistic, but on the fence)
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 #### Level 8 Witch Spells
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 
 - ~~Antimagic Field~~ (tentative — only if we flavor it as “Witch’s Circle of Denial”)
 
 - **Control Weather**
 
-##### 🔍 Utility, Ritual, & Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 #### Level 9 Witch Spells
 
-##### 🛡️ Ally Buffs &amp; Wards
+##### 🛡️ Ally Buffs & Wards
 
-##### 📌 Damage &amp; Control
+##### 📌 Damage & Control
 - **Weird**
 
-##### 🔍 Utility, Ritual, &amp; Trickery
+##### 🔍 Utility, Ritual & Trickery
 
 - **Foresight**
 
