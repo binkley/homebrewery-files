@@ -78,9 +78,9 @@ _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that 
 | 15 | +5 | &mdash; | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
 | 16 | +5 | ASI | 4 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
 | 17 | +6 | Final Words | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 18 | +6 | &mdash; | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19 | +6 | ASI | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
-| 20 | +6 | ??? | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+| 20 | +6 | Indomitable Will | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
 The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include four spells of levels 1 and 2 in any combination.
@@ -237,6 +237,16 @@ This damage is applied only once per attack, regardless of the number of hits or
 
 You can empower your _Hex_ with Final Words twice, and you regain all expended uses when you finish a long rest.
 
+#### Level 20: Indomitable Will
+
+_A Witch masters their own mind, bows to no king, fears no shadow, and bends to no enchantments._
+
+Your wisdom and presence have reached their fullest strength.
+
+- Your Wisdom score increases by 2, to a maximum of 23.
+- You are immune to the **Charmed** and **Frightened** conditions.
+- You have **advantage on all saving throws** against Enchantment spells and effects. On a successful save, you ignore the effect entirely, as if it never touched your mind.
+
 ## Witch Spell List
 
 Not just a plain list, but some description how to use, and why a Witch knows these.
@@ -284,6 +294,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
   A flickering circle for rituals, or the glimmer of will-o'-wisps to draw in the foolish.
 
+\page
+
 - **Druidcraft** <br>
   Predict the weather, make flowers bloom, leaves fall, or summon other natural effects.
   The old ways, still strong.
@@ -298,8 +310,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   Shape a puff of air &mdash; slam a door, push a foe, ruffle robes, or carry a whispered word.
   A witch&rsquo;s breath made manifest.
   _(Xanathar’s Guide to Everything, WotC)_
-
-\page
 
 - **Message** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
@@ -408,6 +418,8 @@ notice when others don't.
 - **Detect Magic** <br>
   Now why would anyone leave that laying around? Someone could hurt themselves.
 
+\page
+
 - **Detect Poison and Disease** <br>
   _&ldquo;Don&rsquo;t drink that.&rdquo;_ Essential village wisdom.
 
@@ -423,8 +435,6 @@ notice when others don't.
 #### Level 2 Witch Spells
 
 > _Now the real work begins. Two candles, one whisper, and an herb for memory &hellip;_
-
-\page
 
 ##### 🛡️ Ally Buffs &amp; Wards
 
@@ -539,6 +549,8 @@ notice when others don't.
 - **Magic Circle** <br>
   A circle of safety. Not only a circle on the ground, but above you as well.
 
+\page
+
 - **Nondetection** <br>
   When a Witch wants to hide someone, they stay that way.
 
@@ -553,8 +565,6 @@ notice when others don't.
 - **Spirit Guardians** <br>
   Protective spirits circle you, harming enemies and shielding allies.
   Witches call on the shades of old friends and long-dead kin.
-
-\page
 
 ##### 📌 Damage &amp; Control
 
@@ -647,6 +657,8 @@ You gain proficiency in your choice of the _Nature_ or _Performance_ skill. If y
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the wild, bright magic of youthful witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
+\page
+
 | Witch Level | Spell |
 |:--:|:--|
 | 3           | *Color Spray*, *Faerie Fire*, *Moonbeam* |
@@ -656,8 +668,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
-
-\page
 
 - **Color Spray** <br>
   A dazzling burst of multicolored light overwhelms the senses.
@@ -740,6 +750,8 @@ You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If 
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
+\page
+
 | Witch Level | Spell |
 |:--:|:--|
 | 3           | *Aid*, *Ceremony*, *Comprehend Languages*, *Haste*, *Slow* |
@@ -750,8 +762,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aid** <br>
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
-
-\page
 
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
@@ -842,14 +852,13 @@ Witches of the C aspect channel the power of the [Maiden / Mother / Crone] —
 [brief flavor text about philosophy, role, or magical outlook].
 They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
 
+\page
 
 #### Level 3: Dark Intuition
 
 Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
-
-\page
 
 #### Level 3: Crone Spells
 
@@ -939,6 +948,8 @@ The creature must lack the **Swarm** trait, cannot be sentient, and it must have
 
 **Returning.** When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. The attitude of the borrowed creature towards you remains unchanged.
 
+\page
+
 You can borrow a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
 #### Level 10: Greater Borrowing
@@ -946,8 +957,6 @@ You can borrow a number of times equal to your **proficiency bonus**, and you re
 _Your magic infuses the forms you inhabit, your will seeping through their voices and motions._
 
 You can now borrow creatures with the **Swarm** trait.
-
-\page
 
 While borrowing a creature, you can take the **Magic** action to cast Witch spells, with the following restrictions:
 
