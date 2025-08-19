@@ -63,7 +63,7 @@ _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that 
 ##### Witch Features
 | Level | Proficiency Bonus | Class Features | Cross Words Uses | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 1 | +2 | Spellcasting, Harsh Glare, Witch Armor | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 1 | +2 | Spellcasting, Harsh Glare, Home Territory, Witch Armor | 2 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 2 | +2 | Cross Words, Second Sight, Witch&rsquo;s Familiar | 2 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Herbal Sage | 2 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4 | +2 | ASI | 2 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -103,6 +103,15 @@ _Witches say the eyes speak before the mouth does._
 
 You learn the **Harsh Glare** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
 
+#### Level 1: Home Territory
+
+Every Witch has a place they call their own: a valley, village, forest, coast, sea, or patch of moorland. It may be no more than a day&rsquo;s walk across, but you belong to it and it belongs to you.
+
+- While within your home territory, **difficult terrain does not slow your group’s travel**.  
+- You also gain advantage on _Wisdom (Survival)_ and _Intelligence (Nature)_ checks made to forage, track, or recall lore about this land.  
+
+The DM and player should decide together what constitutes your home territory when becoming a Witch suitable to your background and backstory.
+
 #### Level 1: Witch Armor
 
 _A new witch learns self-protection._
@@ -115,6 +124,8 @@ You can use this feature a number of times equal to your Wisdom bonus (minimum o
 
 You learn the _Hex_ spell. It is always prepared for you and doesn't count against the number of spells you can prepare. When you cast _Hex_, the extra damage it deals is **psychic** instead of **necrotic**.
 
+\page
+
 You can cast _Hex_ without expending a spell slot, using only verbal components. When you do so, you use one of your Cross Words uses. You regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
 You begin with 2 uses, and the number of uses increases as you gain Witch levels, as shown in the Cross Words column of the Witch Features table.
@@ -126,8 +137,6 @@ Your insight into others borders on the supernatural.
 {{note
 _Most folk have first sight, and often not even then. A Witch has **second** sight to see what is actually there._
 }}
-
-\page
 
 You gain proficiency in the _Insight_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
 
@@ -166,8 +175,6 @@ Every Witch walks their own path, and each Calling reflects not only choices in 
 **Player Tip.** If you’re new to the Witch, consider beginning with the **Mother** Calling. Its straightforward features will let you focus on learning the class before diving into the more intricate Maiden or Crone.
 }}
 
-\column
-
 #### Level 5: Coven Magic
 
 _Three stand beneath the moon. The spell is cast not alone, but in accord. Birds flock, tea leaves, cards lay. The auspices don't lie, they're only misread._
@@ -196,11 +203,11 @@ Some recognize witches for their stare, some for the magic they bear.
 
 When you gain this feature, choose one magic item that is Uncommon and requires attunement, or one that is Rare and does not require attunement. The item must be a Ring, Wand, or Wondrous Item and should suit your witchy theme. Your DM has final say on which items are available for this feature.
 
+\page
+
 If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means &mdash; it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
-
-\page
 
 #### Level 9: Dangerous Familiar
 
@@ -284,6 +291,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
   A knell for the wicked; deals more damage if the target is wounded.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
+\page
+
 - **Vicious Mockery** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
   Laughter can be crueler than claws.
@@ -293,8 +302,6 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Dancing Lights** <br>
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
   A flickering circle for rituals, or the glimmer of will-o'-wisps to draw in the foolish.
-
-\page
 
 - **Druidcraft** <br>
   Predict the weather, make flowers bloom, leaves fall, or summon other natural effects.
@@ -408,6 +415,8 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 - **Alarm** <br>
   An unseen tripwire of bells and thread.
 
+\page
+
 - **Ceremony** <br>
   A Witch does only births, deaths, and weddings. You can do others, but up to them what happens.
 
@@ -417,8 +426,6 @@ notice when others don't.
 
 - **Detect Magic** <br>
   Now why would anyone leave that laying around? Someone could hurt themselves.
-
-\page
 
 - **Detect Poison and Disease** <br>
   _&ldquo;Don&rsquo;t drink that.&rdquo;_ Essential village wisdom.
@@ -515,6 +522,9 @@ notice when others don't.
 - **Locate Animals or Plants** <br>
   Close your eyes, touch the earth, and the land itself tells you where a beast roams or a plant grows.
 
+- **Locate Object** <br>
+  You seem to always head in the right direction. Call it intuition, reading people, or an innate skill.
+
 - **Pass without Trace** <br>
   A veil of shadows cloaks your allies.
   Witches slip unseen across hedges and hollow ways.
@@ -534,6 +544,8 @@ notice when others don't.
 
 > _This is the turning point. A third candle is lit. You may now call lightning, bind fate, or vanish with a scream. People begin to fear you&mdash;or seek you out._
 
+\page
+
 ##### 🛡️ Ally Buffs & Wards
 
 - **Beacon of Hope** <br>
@@ -551,8 +563,6 @@ notice when others don't.
 - **Magic Circle** <br>
   A circle of safety. Not only a circle on the ground, but above you as well.
 
-\page
-
 - **Nondetection** <br>
   When a Witch wants to hide someone, they stay that way.
 
@@ -563,10 +573,6 @@ notice when others don't.
 - **Revivify** <br>
   A soul still warm may be coaxed back.
   _Get up you lazy bones! Death is no excuse._
-
-- **Spirit Guardians** <br>
-  Protective spirits circle you, harming enemies and shielding allies.
-  Witches call on the shades of old friends and long-dead kin.
 
 ##### 📌 Damage & Control
 
@@ -626,6 +632,9 @@ notice when others don't.
 - **Sickening Radiance** <br>
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
 
+- **Storm Sphere** <br>
+  _(Elemental Evil Player&rsquo;s Companion, WotC)_
+
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Arcane Eye** <br>
@@ -638,6 +647,8 @@ notice when others don't.
 #### Level 5 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
+
+- **Circle of Power** <br>
 
 - **Greater Restoration** <br>
 
@@ -654,11 +665,11 @@ notice when others don't.
 
 - **Scrying** <br>
 
+\page
+
 #### Level 6 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
-
-- **Circle of Power** <br>
 
 - **True Seeing** <br>
 
@@ -669,6 +680,8 @@ notice when others don't.
 - **Eyebite** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
+
+- **Trueseeing** <br>
 
 #### Level 7 Witch Spells
 
@@ -682,6 +695,10 @@ notice when others don't.
 
 ##### 🔍 Utility, Ritual & Trickery
 
+- **Plane Shift** <br>
+
+- **Etherealness** <br>
+
 #### Level 8 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
@@ -690,15 +707,19 @@ notice when others don't.
 
 - **Antimagic Field** <br>
 
-- **Control Weather** <br>
+- **Feeblemind** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
+
+- **Control Weather** <br>
 
 #### Level 9 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
 ##### 📌 Damage & Control
+
+- **Imprisonment** <br>
 
 - **Weird** <br>
 
@@ -723,8 +744,6 @@ You gain proficiency in your choice of the _Nature_ or _Performance_ skill. If y
 #### Level 3: Maiden Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the wild, bright magic of youthful witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
-
-\page
 
 | Witch Level | Spell |
 |:--:|:--|
@@ -772,6 +791,8 @@ _**Spotting Trouble.**_ As a reaction, when a creature within 30 feet makes a _C
 
 _**Strong Voice.**_ When you cast a spell, you can ignore its somatic component and any material component that lacks a listed gold cost. You can cast this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
+\page
+
 #### Level 10: Vine, Vision and Voice
 
 _You are never just one thing. Your strength lies contradiction, and people hear you out._
@@ -816,8 +837,6 @@ You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If 
 #### Level 3: Mother Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
-
-\page
 
 | Witch Level | Spell |
 |:--:|:--|
@@ -872,6 +891,8 @@ Whenever a creature of your choice (including you) rolls one or more Hit Dice to
 
 In addition, once per long rest, you can tend to one creature during a Short Rest. That creature regains hit points by rolling one additional Hit Die without expending their current Hit Dice.
 
+\page
+
 #### Level 10: Charm Offensive
 
 _You wade into battle or soirees to lower tensions._
@@ -918,8 +939,6 @@ As a reaction when a creature you can see within 60 feet makes a **D20 Test**, y
 Witches of the C aspect channel the power of the [Maiden / Mother / Crone] —
 [brief flavor text about philosophy, role, or magical outlook].
 They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
-
-\page
 
 #### Level 3: Dark Intuition
 
@@ -974,6 +993,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
 
+\page
+
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
@@ -1014,8 +1035,6 @@ The creature must lack the **Swarm** trait, cannot be sentient, and it must have
 **Permanency.** If while borrowing you reach 6 levels of *Exhaustion* from any source, your own body dies, your separate mind is lost, and you permanently become that creature in all respects. Your new body immediately loses 1 level of *Exhaustion*.
 
 **Returning.** When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. The attitude of the borrowed creature towards you remains unchanged.
-
-\page
 
 You can borrow a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
