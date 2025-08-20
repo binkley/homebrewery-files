@@ -111,10 +111,14 @@ _Now that's a lovely new garden. I wonder what they're growing in it? Let's go f
 
 Every Witch has a place they call their own: a valley, village, forest, coast, sea, or patch of moorland. It may be no more than a day&rsquo;s walk across, but you belong to it and it belongs to you.
 
-- While within your home territory, **difficult terrain does not slow your group’s travel**.  
-- You also gain advantage on _Wisdom (Survival)_ and _Intelligence (Nature)_ checks made to forage, track, or recall lore about this land.  
+While in your home territory:
 
-The DM and player should decide together what constitutes your home territory when becoming a Witch suitable to your background and backstory. Over a lifetime, a Witch may come to belong to more than one place. Each time you live and work in a new community for a year or more, your DM may let you claim it as an additional home territory.
+- **Difficult terrain** does not slow your group&rsquo;s travel.
+- When you make _Intelligence (History)_, _Intelligence (Nature)_, or _Wisdom (Survival)_ checks related to your home territory, you can replace the d20 roll with a 20.
+
+You can use this feature two times, and you regain all expended uses when you finish a long rest.
+:
+The DM and player should decide together what constitutes your home territory when becoming a Witch suitable to your background and backstory. Over a lifetime, a Witch may find more than one place to call home. Each time you live and work in a new area for a year or more, your DM may let you claim that new area as an additional home territory for this feature.
 
 #### Level 1: Witch Armor
 
@@ -122,9 +126,9 @@ _A new witch learns self-protection._
 
 When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
-You can use this feature a number of times equal to your Wisdom bonus (minimum of once), and you regain all expended uses when you finish a Long Rest.
-
 \page
+
+You can use this feature a number of times equal to your Wisdom bonus (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 #### Level 2: Cross Words
 
@@ -199,13 +203,13 @@ At higher levels, your coven&rsquo;s lore deepens and you can learn additional r
 | 13 | 3 | 5 |
 | 17 | 4 | 6 |
 
-\page
-
 #### Level 7: Token of Respect
 
 {{note
 Some recognize witches for their stare, some for the magic they bear.
 }}
+
+\page
 
 When you gain this feature, choose one magic item that is Uncommon and requires attunement, or one that is Rare and does not require attunement. The item must be a Ring, Wand, or Wondrous Item and should suit your witchy theme. Your DM has final say on which items are available for this feature.
 
@@ -282,8 +286,6 @@ _What are you prattling on about? I kept you alive, didn't I?_
   Stabilize a dying creature. Especially suited to the _Mother_ Witch.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
 
-\page
-
 ##### 📌 Damage & Control
 
 _Well, you folks take care of them already. I've other things to attend to._
@@ -291,6 +293,8 @@ _Well, you folks take care of them already. I've other things to attend to._
 - **Chill Touch** <br>
   A ghostly hand that deals necrotic damage and halts healing.
   Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
+
+\page
 
 - **Frostbite** <br>
 
@@ -302,6 +306,9 @@ _Well, you folks take care of them already. I've other things to attend to._
 - **Toll the Dead** <br>
   A knell for the wicked; deals more damage if the target is wounded.
   _Spare the Dying_ and _Toll the Dead_ are natural companions.
+
+- **True Strike** <br>
+  Your witch thoughts guide your strike. Best not be in combat, but if found there, strike true.
 
 - **Vicious Mockery** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
@@ -395,8 +402,6 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 - **Hex** <br>
   A spiteful curse that saps strength and fuels further harm.
 
-\page
-
 - **Ice Knife** <br>
   Did you really say, "cold as a witch&rsquo;s teat?" I'll show you what cold is like.
 
@@ -405,6 +410,8 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 
 - **Ray of Sickness** <br>
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
+
+\page
 
 - **Silvery Barbs** <br>
   A harsh word, a sharp look, or the sting of irony can trip a foot just enough to stumble.
@@ -460,8 +467,6 @@ notice when others don't.
 
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
-
-\column
 
 #### Level 2 Witch Spells
 
@@ -524,13 +529,13 @@ _Respect. Always show a Witch respect. And we don't bow._
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
 
-\page
-
 - **Shatter** <br>
   A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
 
 - **Suggestion** <br>
   One whisper takes root and they obey before they&rsquo;ve thought it through.
+
+\page
 
 - **Tasha&rsquo;s Mind Whip** <br>
   A lash of psychic force unravels the mind and disrupts action.
@@ -623,8 +628,7 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
 
 - **Counterspell** <br>
-  A stern gesture and harsher word unravels enemy magic mid-cast.
-  _Take that!_
+  A stern gesture and stronger word unravels enemy magic mid-cast. _Take that!_
 
 - **Enemies Abound** <br>
   Confuse a creature&rsquo;s mind so it sees allies and enemies alike as threats.
@@ -700,8 +704,6 @@ _Woe and weal the Witch grants them friend or foe._
 - **Circle of Power** <br>
 
 - **Greater Restoration** <br>
-  Fixes most serious ailments and cursed magic items.
-  _Now doesn't that feel better?_
 
 ##### 📌 Damage & Control
 
@@ -731,13 +733,13 @@ _Woe and weal the Witch grants them friend or foe._
 - **Tasha&rsquo;s Bubbling Cauldron** <br>
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
-- **True Seeing** <br>
-
 ##### 📌 Damage & Control
 
 - **Circle of Death** <br>
 
 - **Eyebite** <br>
+
+- **Mass Suggestion** <br>
 
 - **Tasha&rsquo;s Otherworldly Guise** <br>
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
@@ -746,11 +748,13 @@ _Woe and weal the Witch grants them friend or foe._
 
 - **Heroes&rsquo; Feast** <br>
 
-- **True Seeing** <br>
+- **Trueseeing** <br>
 
 #### Level 7 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
+
+- **Power Word Fortify** <br>
 
 - **Regenerate** <br>
 
@@ -758,7 +762,12 @@ _Woe and weal the Witch grants them friend or foe._
 
 ##### 📌 Damage & Control
 
+- **Antipathy/Sympathy** <br>
+  With a word you twist hearts of a kind. Some may aid, others flee.
+
 - **Prismatic Spray** <br>
+
+- **Power Word Pain** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -770,6 +779,9 @@ _Woe and weal the Witch grants them friend or foe._
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Mind Blank** <br>
+  Even wishing it were so does not reach their mind. Fear might.
+
 ##### 📌 Damage & Control
 
 - **Abi-Dalzim&rsquo;s Horrid Wilting** <br>
@@ -778,21 +790,29 @@ _Woe and weal the Witch grants them friend or foe._
 
 - **Feeblemind** <br>
 
+- **Power Word Stun** <br>
+
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Control Weather** <br>
 
 - **Telepathy** <br>
 
+\page
+
 #### Level 9 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
+
+- **Power Word Heal** <br>
 
 - **Prismatic Wall** <br>
 
 ##### 📌 Damage & Control
 
 - **Imprisonment** <br>
+
+- **Power Word Kill** <br>
 
 - **Weird** <br>
 
@@ -813,8 +833,6 @@ _Bright-eyed, underestimated, and full of wild potential._
 #### Level 3: Inner Discovery
 
 Your herbal knowledge or your voice borders on the supernatural.
-
-\page
 
 You gain proficiency in your choice of the _Nature_ or _Performance_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
 
@@ -880,6 +898,8 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
 
+\page
+
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
 | Witch Level | Aura Uses |
@@ -909,8 +929,6 @@ Would you like another cup of tea, dear? I have a poultice for that and I won't 
 
 You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
-\page
-
 #### Level 3: Mother Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -936,6 +954,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
   No one goes without when with a proper witch in their company.
+
+- **Greater Restoration** <br>
+  Fixes most serious ailments and cursed magic items.
+  _Now doesn't that feel better?_
 
 - **Leomund&rsquo;s Tiny Hut** <br>
   A safe space from magic and the natural elements.
@@ -974,6 +996,8 @@ Some witches win fights by smiling, speaking softly, and watching the world rear
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
 
+\page
+
 You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. (The spell is described at the end.)
 
 #### Level 10: Terrifying Familiar
@@ -1003,8 +1027,6 @@ You speak words or think thoughts that twist fate.
 
 As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-\page
-
 ### The Crone Calling
 
 > _Flavorful quote, folklore fragment, or thematic tagline._
@@ -1018,6 +1040,8 @@ They are known for [2–3 traits or habits], and their magic leans toward [key t
 Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
+
+\column
 
 #### Level 3: Crone Spells
 
@@ -1033,6 +1057,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
   One step from _Borrowing_ them.
+
+- **Counterspell** <br>
+  A stern gesture and harsher word unravels enemy magic mid-cast.
+  _Take that!_
 
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
@@ -1067,6 +1095,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Vampiric Touch** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
 
+\page
+
 #### Level 6: Borrowing
 
 _You inhabit the body of a natural creature for a time, controlling it as your own._
@@ -1094,8 +1124,6 @@ The creature must lack the **Swarm** trait, cannot be sentient, and it must have
 | 6  | 1 |
 | 10 | 4 |
 | 14 | 8 |
-
-\page
 
 **Permanency.** If while borrowing you reach 6 levels of *Exhaustion* from any source, your own body dies, your separate mind is lost, and you permanently become that creature in all respects. Your new body immediately loses 1 level of *Exhaustion*.
 
