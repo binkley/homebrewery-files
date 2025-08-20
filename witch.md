@@ -1,8 +1,8 @@
 # The Witch
 A D&D 5e (2024) full-caster class. <br>
-Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a martial. Someone to respect, listen to, and fear in confrontations.
+Your Witch is a full caster rooted in willpower, wisdom, and presence. Not a Bard, Cleric, Druid, Sorcerer, Warlock, nor Wizard &mdash; and certainly not martial. Respected and listened to, allies seek you, and enemies fear you.
 
-The Witch is **High** in _complexity_ akin to Bard, Druid, Monk, Sorcerer, or Warlock.
+Your Witch is **high** in complexity for player classes. You are distinct and can echo other casters in a witchy way without multiclassing. 
 
 ##### Core Witch Traits
 
@@ -17,15 +17,13 @@ The Witch is **High** in _complexity_ akin to Bard, Druid, Monk, Sorcerer, or Wa
 | **Armor Training** | None |
 | **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch&rsquo;s hat); a component pouch or druidic focus; a sickle or quarterstaff; a _healer&rsquo;s kit_; an _herbalism kit_; _cook&rsquo;s utensils_; four candles; a pouch with 10 gp; and an explorer&rsquo;s pack; (B) 50 gp |
 
-Witches live in boundaries and edges: life and death, success and failure, fear and love. They live "in the now" while also seeing past and future. They are more interested in what is real than what might have been.
+The Witch archetype is persistent across all cultures. Named examples include _Tasha_, the _Discworld_ witches, _Baba Yaga_, _Louhi_, _Chedipe_, _Yama-uga_, _Shuima_, _La Lechuza_, _Medea_, and others. They live in boundaries and edges: life and death, success and failure, fear and love. They live "in the now" while also seeing past and future. They are more interested in what is real than what might have been.
 
 Rarely do witches choose this path so much as they are born innately to it. Signs of a witch&rsquo;s calling can appear early: an uncanny knack for spotting soon breaking storms, animals treating you as an old friend, or your stubborn refusal to be overawed regardless of station. You may have lived apart from others but still in the community — learning, watching, and earning respect (or fear). Your magic comes from knowing people and the world as it actually is, and intuition and willpower.
 
 A Witch&rsquo;s powers sway crowds and kingdoms, glimpse the future, drive creatures of field, forest, and water, and protect those around them. There is whimsy and unreality in their actions and spells. A witch&rsquo;s curse is _terrible_.
 
 Most Witches are not taught in academies but by fellow Witches or through unexpected callings. Many live apart from the world, as village healers, wandering seers, or craggy hermits. Others hold court as matriarchs, midwives, folk queens, or figures of local legend. Above all, a Witch seeks _respect_.
-
-\column
 
 ### Becoming a Witch ...
 
