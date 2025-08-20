@@ -398,7 +398,7 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 \page
 
 - **Ice Knife** <br>
-  _Cold as a witch&rsquo;s teat_ they said. Let's prove them right.
+  Did you really say, "cold as a witch&rsquo;s teat?" I'll show you what cold is like.
 
 - **Inflict Wounds** <br>
   A brutal, unassuming touch that rots flesh.
@@ -455,6 +455,8 @@ notice when others don't.
 
 - **Fog Cloud** <br>
   Smoke, steam, or morning mist &mdash; whatever hides the Witch&rsquo;s work.
+
+- **Purify Food and Drink** <br>
 
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
@@ -620,6 +622,10 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   Under a stormy sky, your wrath becomes thunder made flesh.
   _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
 
+- **Counterspell** <br>
+  A stern gesture and harsher word unravels enemy magic mid-cast.
+  _Take that!_
+
 - **Enemies Abound** <br>
   Confuse a creature&rsquo;s mind so it sees allies and enemies alike as threats.
   _Did you hear what they called you?_
@@ -662,6 +668,13 @@ _Woe and weal the Witch grants them friend or foe._
 - **Banishment** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
 
+- **Blight** <br>
+  Destroy plant life or strongly damage a foe.
+  Witches save their folk and are woe to those against.
+
+- **Confusion** <br>
+  Words twisted, gestures doubled, foes toil with thoughts of trouble.
+
 - **Spirit of Death** <br>
   A witch knows death as a friend and rival. Your spell takes a form of your choosing.
 
@@ -687,14 +700,24 @@ _Woe and weal the Witch grants them friend or foe._
 - **Circle of Power** <br>
 
 - **Greater Restoration** <br>
+  Fixes most serious ailments and cursed magic items.
+  _Now doesn't that feel better?_
 
 ##### 📌 Damage & Control
 
+- **Contagion** <br>
+
 - **Geas** <br>
+
+- **Hold Monster** <br>
 
 - **Insect Plague** <br>
 
+- **Synaptic Static** <br>
+
 ##### 🔍 Utility, Ritual & Trickery
+
+- **Contact Other Plane** <br>
 
 - **Dream** <br>
   Stories slip easier into sleeping minds. Sometimes a Witch whispers truth in a dream when it won’t be heard awake.
@@ -721,7 +744,9 @@ _Woe and weal the Witch grants them friend or foe._
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Trueseeing** <br>
+- **Heroes&rsquo; Feast** <br>
+
+- **True Seeing** <br>
 
 #### Level 7 Witch Spells
 
@@ -757,6 +782,8 @@ _Woe and weal the Witch grants them friend or foe._
 
 - **Control Weather** <br>
 
+- **Telepathy** <br>
+
 #### Level 9 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
@@ -772,6 +799,8 @@ _Woe and weal the Witch grants them friend or foe._
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Foresight** <br>
+
+- **Time Stop** <br>
 
 ## Witch Subclasses
 
@@ -908,10 +937,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
   No one goes without when with a proper witch in their company.
 
-- **Greater Restoration** <br>
-  Fixes most serious ailments and cursed magic items.
-  _Now doesn't that feel better?_
-
 - **Leomund&rsquo;s Tiny Hut** <br>
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
@@ -1008,14 +1033,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
   One step from _Borrowing_ them.
-
-- **Blight** <br>
-  Destroy plant life or strongly damage a foe.
-  Witches save their folk and are woe to those against.
-
-- **Counterspell** <br>
-  A stern gesture and harsher word unravels enemy magic mid-cast.
-  _Take that!_
 
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
