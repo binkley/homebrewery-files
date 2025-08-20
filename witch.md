@@ -295,6 +295,7 @@ _Well, you folks take care of them already. I've other things to attend to._
 \page
 
 - **Frostbite** <br>
+  Your words may freeze their courage to fumble their next attack.
 
 - **Harsh Glare** <br>
   A glare sharp enough to still the bold and curdle milk.
@@ -314,7 +315,7 @@ _Well, you folks take care of them already. I've other things to attend to._
 
 ##### 🔍 Utility, Ritual & Trickery
 
-_See how the flowers are? Now that is witchy no matter what others say._
+_See how the flowers are? Now that is witchy no matter what others may say._
 
 - **Dancing Lights** <br>
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
@@ -406,10 +407,10 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 - **Inflict Wounds** <br>
   A brutal, unassuming touch that rots flesh.
 
+\page
+
 - **Ray of Sickness** <br>
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
-
-\page
 
 - **Silvery Barbs** <br>
   A harsh word, a sharp look, or the sting of irony can trip a foot just enough to stumble.
@@ -425,6 +426,7 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 - **Tasha&rsquo;s Hideous Laughter** <br>
+  Why are they spitting on themselves? They seem down after you sung "A Wizard&rsquo;s Staff Has A Knob On The End".
 
 - **Thunderwave** <br>
   A forceful burst for those moments when subtlety fails.
@@ -462,9 +464,12 @@ notice when others don't.
   Smoke, steam, or morning mist &mdash; whatever hides the Witch&rsquo;s work.
 
 - **Purify Food and Drink** <br>
+  What's that you're eating? Don't look right to me.
 
 - **Silent Image** <br>
   For illusions too delicate for _Minor Illusion_.
+
+\column
 
 #### Level 2 Witch Spells
 
@@ -491,10 +496,15 @@ _Did that snake really bite you unprovoked &mdash; sure you weren't poking at it
   Death comes but no need to hurry it along. Let the body remain for a while.
 
 - **Healing Spirit** <br>
+  That's it, recover for a moment. Don't mind the beastie; it's here for you.
 
 - **Lesser Restoration** <br>
   You miracously feel better from a life-altering condition.
-  _You&rsquo;ll be right up in no time, I&rsquo;m sure._
+  _You&rsquo;ll be right up in no time, I&rsquo;m pretty sure._
+
+- **Mirror Image** <br>
+  You split into shimmering duplicates that confuse enemies.
+  Witches are hard to pin down when three of them glare at you.
 
 - **Protection from Poison** <br>
   Draws the venom out with smoke, salt, and an old rhyme.
@@ -520,6 +530,8 @@ _Respect. Always show a Witch respect. And we don't bow._
 - **Mind Spike** <br>
   A cursed thorn of thought searing with psychic pain and leaving a lingering connection.
 
+\page
+
 - **Mirror Image** <br>
   You split into shimmering duplicates that confuse enemies.
   Witches are hard to pin down when three of them glare at you.
@@ -532,8 +544,6 @@ _Respect. Always show a Witch respect. And we don't bow._
 
 - **Suggestion** <br>
   One whisper takes root and they obey before they&rsquo;ve thought it through.
-
-\page
 
 - **Tasha&rsquo;s Mind Whip** <br>
   A lash of psychic force unravels the mind and disrupts action.
@@ -640,6 +650,9 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   They seem stupid now, but will remember you after with the hand-waving and the confetti.
 
 - **Spirit Shroud** <br>
+  Your enemy knows who they sent to the grave. You encourage those souls to get revenge a little early.
+
+\page
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -653,8 +666,6 @@ _You smooth out living, especially for those too close to the edge._
 
 - **Sending** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
-
-\page
 
 #### Level 4 Witch Spells
 
@@ -700,8 +711,10 @@ _Woe and weal the Witch grants them friend or foe._
 ##### 🛡️ Ally Buffs & Wards
 
 - **Circle of Power** <br>
+  Power is what all of you want? Let's knock off bad things first.
 
 - **Greater Restoration** <br>
+  Better now &mdash; why'd you get yourself into that mess in the first place? And what a mess.
 
 ##### 📌 Damage & Control
 
@@ -773,6 +786,8 @@ _Woe and weal the Witch grants them friend or foe._
 
 - **Etherealness** <br>
 
+\page
+
 #### Level 8 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
@@ -795,8 +810,6 @@ _Woe and weal the Witch grants them friend or foe._
 - **Control Weather** <br>
 
 - **Telepathy** <br>
-
-\page
 
 #### Level 9 Witch Spells
 
@@ -888,6 +901,8 @@ _**Strong Voice.**_ When you cast a spell, you can ignore its somatic component 
 
 _You are never just one thing. Your strength lies contradiction, and people hear you out._
 
+\page
+
 As a bonus action, you can call upon one of three auras of presence, which extend 10 feet from you in all directions. The aura moves with you, lasts for 1 minute, and requires your concentration.
 
 - **Entangling Aura.** When a creature enters the aura for the first time on a turn or starts its turn there, it must succeed on a Strength saving throw against your Witch spell save DC or its speed is halved until the start of its next turn.
@@ -895,8 +910,6 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 - **Revealing Aura.** Creatures affected by the aura cannot benefit from the _Invisible_ condition and have disadvantage on _Charisma (Deception)_ checks.
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
-
-\page
 
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
@@ -988,13 +1001,13 @@ In addition, once per long rest, you can tend to one creature during a Short Res
 
 _You wade into battle or soirees to lower tensions._
 
+\page
+
 {{note
 Some witches win fights by smiling, speaking softly, and watching the world rearrange around them. They had better respect you, and stop this nonsense.
 }}
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
-
-\page
 
 You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. (The spell is described at the end.)
 
@@ -1033,13 +1046,13 @@ Witches of the C aspect channel the power of the [Maiden / Mother / Crone] —
 [brief flavor text about philosophy, role, or magical outlook].
 They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
 
+\column
+
 #### Level 3: Dark Intuition
 
 Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
-
-\column
 
 #### Level 3: Crone Spells
 
@@ -1084,6 +1097,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
 
+\page
+
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
@@ -1092,8 +1107,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Vampiric Touch** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
-
-\page
 
 #### Level 6: Borrowing
 
