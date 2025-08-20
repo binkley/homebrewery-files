@@ -15,7 +15,7 @@ Your Witch is **high** in complexity for player classes. You are distinct and ca
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
 | **Armor Training** | None |
-| **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch&rsquo;s hat); a component pouch or druidic focus; a sickle or quarterstaff; a _healer&rsquo;s kit_; an _herbalism kit_; _cook&rsquo;s utensils_; four candles; a pouch with 10 gp; and an explorer&rsquo;s pack; (B) 50 gp |
+| **Starting Equipment** | Choose A or B: (A) Traveler's clothes (including a witch&rsquo;s hat); a component pouch or druidic focus; a sickle or quarterstaff; a _healer&rsquo;s kit_; an _herbalism kit_; _cook&rsquo;s utensils_; ten candles; a pouch with 10 gp; and an explorer&rsquo;s pack; (B) 50 gp |
 
 The Witch archetype is persistent across all cultures. Named examples include _Tasha_, the _Discworld_ witches, _Baba Yaga_, _Louhi_, _Chedipe_, _Yama-uga_, _Shuima_, _La Lechuza_, _Medea_, and others. They live in boundaries and edges: life and death, success and failure, fear and love. They live "in the now" while also seeing past and future. They are more interested in what is real than what might have been.
 
@@ -273,24 +273,20 @@ _Some smoke from your hearth, a word in your ear, a flower in your vase makes yo
 _What are you prattling on about? I kept you alive, didn't I?_
 
 - **Guidance** <br>
-  Help an ally with a task &mdash; a Witch&rsquo;s quiet encouragement.
-  _Guidance_ and _Resistance_ are natural companions.
+  _Resistance_ is a natural companion to this cantrip.
 
 - **Resistance** <br>
-  Bolster an ally&rsquo;s saving throw against a single threat.
-  _Guidance_ and _Resistance_ are natural companions.
+  _Guidance_ is a natural companion to this cantrip.
 
 - **Spare the Dying** <br>
-  Stabilize a dying creature. Especially suited to the _Mother_ Witch.
-  _Spare the Dying_ and _Toll the Dead_ are natural companions.
+  _Toll the Dead_  is a natural compation to this cantrip.
 
 ##### 📌 Damage & Control
 
 _Well, you folks take care of them already. I've other things to attend to._
 
 - **Chill Touch** <br>
-  A ghostly hand that deals necrotic damage and halts healing.
-  Cold bones and lingering spite &mdash; a Crone&rsquo;s blessing.
+  You remind them of what they regret and nothing heals that thought.
 
 \page
 
@@ -303,8 +299,7 @@ _Well, you folks take care of them already. I've other things to attend to._
   _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
 
 - **Toll the Dead** <br>
-  A knell for the wicked; deals more damage if the target is wounded.
-  _Spare the Dying_ and _Toll the Dead_ are natural companions.
+  _Spare the Dying_ is a natural companion to this cantrip.
 
 - **True Strike** <br>
   Your witch thoughts guide your strike. Best not be in combat, but if found there, strike true.
@@ -338,7 +333,6 @@ _See how the flowers are? Now that is witchy no matter what others may say._
 
 - **Message** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
-  _&ldquo;Don&rsquo;t turn around.&rdquo;_
 
 - **Minor Illusion** <br>
   Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
@@ -353,8 +347,7 @@ _See how the flowers are? Now that is witchy no matter what others may say._
   Witches know a little magic goes a long way for first impressions.
 
 - **Produce Flame** <br>
-  Conjure fire for light or attack.
-  A bit of flame for hearth or hex.
+  Conjure fire for light or attack. A bit of flame for hearth and hex.
 
 - **Shape Water** <br>
   Command a small amount of water, freezing, coloring, or moving it around.
@@ -373,10 +366,10 @@ _You light the candle &mdash; witches don't waste on fireworks. Unless they're p
 _A little help never hurt nobody, I always say._
 
 - **Heroism** <br>
-  Temp HP and fear immunity &mdash; courage brewed in a teacup.
+  Drink your tea, it'll give you courage. I knew I could count on you.
 
 - **Longstrider** <br>
-  A blessing for swift feet, whether on errands or escapes.
+  A blessing for swift feet, errands, escapes, or escapades.
 
 - **Protection from Evil and Good** <br>
   Iron pins, salt circles, and stern words keep the otherworld at bay.
@@ -448,26 +441,25 @@ _We witches do so many things. It takes skill and judgment to pick the right one
   A Witch does only births, deaths, and weddings. You can do others, but up to them what happens.
 
 - **Detect Evil and Good** <br>
-  Something foul lingers in the air, or maybe something holy. Either way, you
-notice when others don't.
+  Something foul lingers in the air, or maybe something holy. Either way, you notice when others don't.
 
 - **Detect Magic** <br>
   Now why would anyone leave that laying around? Someone could hurt themselves.
 
 - **Detect Poison and Disease** <br>
-  _&ldquo;Don&rsquo;t drink that.&rdquo;_ Essential village wisdom.
+  So that wine you're eyeing, it ain't good for you. And there may be a bad snake under your foot. Just so you know.
 
 - **Disguise Self** <br>
   A dab of glamour for clandestine errands.
 
 - **Fog Cloud** <br>
-  Smoke, steam, or morning mist &mdash; whatever hides the Witch&rsquo;s work.
+  Strong pipe smoke, steam from the vats, or morning mist &mdash; whatever hides you and mine.
 
 - **Purify Food and Drink** <br>
-  What's that you're eating? Don't look right to me.
+  What's that you're holding &mdash; did you really mean to put that in your mouth?
 
 - **Silent Image** <br>
-  For illusions too delicate for _Minor Illusion_.
+  For illusions too delicate with _Minor Illusion_.
 
 \column
 
@@ -480,17 +472,14 @@ _Now the real work begins. Two candles lit, the tea is brewed._
 _Did that snake really bite you unprovoked &mdash; sure you weren't poking at it with a stick?_
 
 - **Borrowed Knowledge** <br>
-  You are for a time better at something.
-  Witches and their odd knacks surprise others, and the Witch doesn&rsquo;t tell.
+  Witches and their odd knacks surprise others, and a Witch doesn&rsquo;t tell.
   _(Strixhaven: Curriculum of Chaos, WotC)_
 
 - **Calm Emotions** <br>
   Lower fear, anger, and turmoil in a group.
-  A Witch's presence steadies hearts, whether by soft words, stern looks, or a shared cup of tea.
 
 - **Enhance Ability** <br>
-  A blessing of ability tailored to the task, or the tale.
-  _I&rsquo;m sure you can do it, dearie._
+  I&rsquo;m sure you can do it. Now get on with it.
 
 - **Gentle Repose** <br>
   Death comes but no need to hurry it along. Let the body remain for a while.
@@ -499,42 +488,34 @@ _Did that snake really bite you unprovoked &mdash; sure you weren't poking at it
   That's it, recover for a moment. Don't mind the beastie; it's here for you.
 
 - **Lesser Restoration** <br>
-  You miracously feel better from a life-altering condition.
-  _You&rsquo;ll be right up in no time, I&rsquo;m pretty sure._
+  You&rsquo;ll be right up in no time, I&rsquo;m pretty sure.
 
 - **Mirror Image** <br>
-  You split into shimmering duplicates that confuse enemies.
-  Witches are hard to pin down when three of them glare at you.
+  You're not sure which to attack? Good, I like it that way.
 
 - **Protection from Poison** <br>
-  Draws the venom out with smoke, salt, and an old rhyme.
+  Draw out the venom, smoke, salt, and old rhyme.
 
 ##### 📌 Damage & Control
 
 _Respect. Always show a Witch respect. And we don't bow._
 
 - **Blindness/Deafness** <br>
-  Salt in the eyes, a whispered jinx&mdash;the senses fail under the Witch&rsquo;s curse.
+  Salt in the eyes, cotton in the ears, and their senses fall under your curse.
 
 - **Crown of Madness** <br>
-  A jagged charm of influence&mdash;cruel, theatrical, and thoroughly Witchy.
+  Not a Wizard&rsquo;s crown but a Witch&rsquo;s. Theirs takes too long, and mine is more practical.
 
 - **Heat Metal** <br>
-  Curse a blade or armor with burning heat.
-  _Feel that? That's what comes of crossing me._
+  Feel that? That's what comes of crossing me.
 
 - **Hold Person** <br>
-  A witch&rsquo;s glare that paralyzes the body.
-  Curse, freeze, or bind&mdash;your will obeys.
+  Just stay there a bit, would you? Just like that. Hold still.
 
 - **Mind Spike** <br>
   A cursed thorn of thought searing with psychic pain and leaving a lingering connection.
 
 \page
-
-- **Mirror Image** <br>
-  You split into shimmering duplicates that confuse enemies.
-  Witches are hard to pin down when three of them glare at you.
 
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
@@ -611,6 +592,8 @@ _Crying may help, no shame there. But let's not get too soon to crying._
 - **Nondetection** <br>
   When a Witch wants to hide someone, they stay that way.
 
+- **Protection from Energy** <br>
+
 - **Remove Curse** <br>
   Undo the harmful words of others.
   _So they cursed you? Curse them back; it&rsquo;s just words._
@@ -669,7 +652,7 @@ _You smooth out living, especially for those too close to the edge._
 
 #### Level 4 Witch Spells
 
-_Woe and weal the Witch grants them friend or foe._
+_Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 ##### 🛡️ Ally Buffs & Wards
 
