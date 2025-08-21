@@ -778,6 +778,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Etherealness** <br>
 
+\page
+
 #### Level 8 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
@@ -796,8 +798,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Maze** <br>
 
 - **Power Word Stun** <br>
-
-\page
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -892,6 +892,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 _You hear the voice beneath the voice, and your own words do more than expected._
 
+You gain these benefits:
+
+\page
+
 _**Eye for Reality.**_ You gain **advantage** on _Wisdom (Insight and Perception)_ checks.
 
 _**Spotting Trouble.**_ As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this reaction a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
@@ -901,8 +905,6 @@ _**Strong Voice.**_ When you cast a spell, you can ignore its somatic component 
 #### Level 10: Vine, Vision and Voice
 
 _You are never just one thing. Your strength lies contradiction, and people hear you out._
-
-\page
 
 As a bonus action, you can call upon one of three auras of presence, which extend 10 feet from you in all directions. The aura moves with you, lasts for 1 minute, and requires your concentration.
 
@@ -975,6 +977,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Fixes most serious ailments and cursed magic items.
   _Now doesn't that feel better?_
 
+\page
+
 - **Leomund&rsquo;s Tiny Hut** <br>
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
@@ -993,8 +997,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
-
-\page
 
 #### Level 6: Balm of Willow-weed
 
@@ -1057,6 +1059,8 @@ Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
+\page
+
 #### Level 3: Crone Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -1078,8 +1082,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Compulsion** <br>
   An irresistible pull&mdash;your voice bends the target&rsquo;s will, driving them to move in the path you choose.
-
-\page
 
 - **Death Ward** <br>
   I had a quiet conversation with Death, and they must come twice for you this time.
@@ -1149,6 +1151,8 @@ While borrowing a creature, you can take the **Magic** action to cast Witch spel
 - You cannot cast spells that require material components.
 - You do not need a spellcasting focus while borrowing; the creature&rsquo;s body serves as your spellcasting focus, shaping its natural motions and sounds into the spell&rsquo;s expression.
 
+\page
+
 **Limits to Power.** You still cannot take the **Attack** action while borrowing.
 
 #### Level 14: Malison
@@ -1159,11 +1163,7 @@ You speak words or think thoughts that twist fate.
 
 As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can impose **disadvantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-\page
-
 # New Spells
-
-The Witch has spells exclusive to them unless some Bard picks them up.
 
 ### Harsh Glare
 _(Cantrip enchantment)_ {font-size:larger} <br>
