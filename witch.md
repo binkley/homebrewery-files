@@ -288,10 +288,10 @@ _Well, you folks take care of them already. I've other things to attend to._
 - **Chill Touch** <br>
   You remind them of what they regret and nothing heals that thought.
 
-\page
-
 - **Frostbite** <br>
   Your words may freeze their courage to fumble their next attack.
+
+\page
 
 - **Harsh Glare** <br>
   A glare sharp enough to still the bold and curdle milk.
@@ -400,10 +400,10 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 - **Inflict Wounds** <br>
   A brutal, unassuming touch that rots flesh.
 
-\page
-
 - **Ray of Sickness** <br>
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
+
+\page
 
 - **Silvery Barbs** <br>
   A harsh word, a sharp look, or the sting of irony can trip a foot just enough to stumble.
@@ -515,8 +515,6 @@ _Respect. Always show a Witch respect. And we don't bow._
 - **Mind Spike** <br>
   A cursed thorn of thought searing with psychic pain and leaving a lingering connection.
 
-\page
-
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
 
@@ -525,6 +523,8 @@ _Respect. Always show a Witch respect. And we don't bow._
 
 - **Suggestion** <br>
   One whisper takes root and they obey before they&rsquo;ve thought it through.
+
+\page
 
 - **Tasha&rsquo;s Mind Whip** <br>
   A lash of psychic force unravels the mind and disrupts action.
@@ -593,6 +593,7 @@ _Crying may help, no shame there. But let's not get too soon to crying._
   When a Witch wants to hide someone, they stay that way.
 
 - **Protection from Energy** <br>
+  The storm broke, the fire flared, the frost bit, but you'll be a little safer.
 
 - **Remove Curse** <br>
   Undo the harmful words of others.
@@ -619,7 +620,8 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
 
 - **Counterspell** <br>
-  A stern gesture and stronger word unravels enemy magic mid-cast. _Take that!_
+  A stern gesture and stronger word unravels enemy magic mid-cast.
+  _Take that!_
 
 - **Enemies Abound** <br>
   Confuse a creature&rsquo;s mind so it sees allies and enemies alike as threats.
@@ -635,8 +637,6 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 - **Spirit Shroud** <br>
   Your enemy knows who they sent to the grave. You encourage those souls to get revenge a little early.
 
-\page
-
 ##### 🔍 Utility, Ritual & Trickery
 
 _You smooth out living, especially for those too close to the edge._
@@ -646,6 +646,8 @@ _You smooth out living, especially for those too close to the edge._
 
 - **Feign Death** <br>
   It or you appear dead. _You ate'nt dead yet._
+
+\page
 
 - **Sending** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
@@ -769,8 +771,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Etherealness** <br>
 
-\page
-
 #### Level 8 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
@@ -787,6 +787,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Feeblemind** <br>
 
 - **Power Word Stun** <br>
+
+\page
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -884,8 +886,6 @@ _**Strong Voice.**_ When you cast a spell, you can ignore its somatic component 
 
 _You are never just one thing. Your strength lies contradiction, and people hear you out._
 
-\page
-
 As a bonus action, you can call upon one of three auras of presence, which extend 10 feet from you in all directions. The aura moves with you, lasts for 1 minute, and requires your concentration.
 
 - **Entangling Aura.** When a creature enters the aura for the first time on a turn or starts its turn there, it must succeed on a Strength saving throw against your Witch spell save DC or its speed is halved until the start of its next turn.
@@ -893,6 +893,8 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 - **Revealing Aura.** Creatures affected by the aura cannot benefit from the _Invisible_ condition and have disadvantage on _Charisma (Deception)_ checks.
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
+
+\page
 
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
@@ -984,13 +986,13 @@ In addition, once per long rest, you can tend to one creature during a Short Res
 
 _You wade into battle or soirees to lower tensions._
 
-\page
-
 {{note
 Some witches win fights by smiling, speaking softly, and watching the world rearrange around them. They had better respect you, and stop this nonsense.
 }}
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
+
+\page
 
 You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. (The spell is described at the end.)
 
@@ -1023,13 +1025,7 @@ As a reaction when a creature you can see within 60 feet makes a **D20 Test**, y
 
 ### The Crone Calling
 
-> _Flavorful quote, folklore fragment, or thematic tagline._
-
-Witches of the C aspect channel the power of the [Maiden / Mother / Crone] —
-[brief flavor text about philosophy, role, or magical outlook].
-They are known for [2–3 traits or habits], and their magic leans toward [key theme or mechanics: e.g., curses, healing, foresight].
-
-\column
+_Even other witches fear the Crone, especially Borrowing._
 
 #### Level 3: Dark Intuition
 
@@ -1051,10 +1047,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
   One step from _Borrowing_ them.
-
-- **Counterspell** <br>
-  A stern gesture and harsher word unravels enemy magic mid-cast.
-  _Take that!_
 
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
@@ -1080,8 +1072,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
 
-\page
-
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
@@ -1098,6 +1088,8 @@ _You inhabit the body of a natural creature for a time, controlling it as your o
 {{note
 Some call this unnatural. Some call it supernatural. You know it is quite natural as long as you show respect.
 }}
+
+\page
 
 You can cast a special form of **Magic Jar** on a non-hostile _Beast_ or _Plant_ creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation. The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer.
 
