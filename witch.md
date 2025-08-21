@@ -1,6 +1,6 @@
 # The Witch
 A D&D 5e (2024) full-caster class. <br>
-Your Witch is a full caster rooted in willpower, wisdom, and presence. Not a Bard, Cleric, Druid, Sorcerer, Warlock, nor Wizard &mdash; and certainly not martial. Respected and listened to, allies seek you, and enemies fear you.
+Your Witch is a full caster rooted in willpower, wisdom, and presence. Not a Bard, Cleric, Druid, Sorcerer, Warlock, nor Wizard&mdash;and certainly not martial. Respected and listened to, allies seek you, and enemies fear you.
 
 Your Witch is **high** in complexity for player classes. You are distinct and can echo other casters in a witchy way without multiclassing. 
 
@@ -185,7 +185,7 @@ Every Witch walks their own path, and each Calling reflects not only choices in 
 
 _Three stand beneath the moon. The spell is cast not alone, but in accord. Birds flock, tea leaves, cards lay. The auspices don't lie, they're only misread._
 
-Your bond with a coven &mdash; real or not &mdash; grants you insight into deeper rituals.
+Your bond with a coven&mdash;real or not&mdash;grants you insight into deeper rituals.
 
 - You learn the _Augury_ spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual.
 - In addition, you learn one ritual spell of 3rd level or lower from any class&rsquo;s spell list, as approved by your DM. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual. Each time you gain a Witch level, you may replace any ritual spell learned from this feature (not including _Augury_) with another ritual spell, subject to the maximum level you can know.
@@ -211,7 +211,7 @@ Some recognize witches for their stare, some for the magic they bear.
 
 When you gain this feature, choose one magic item that is Uncommon and requires attunement, or one that is Rare and does not require attunement. The item must be a Ring, Wand, or Wondrous Item and should suit your witchy theme. Your DM has final say on which items are available for this feature.
 
-If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means &mdash; it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
+If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means&mdash;it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
 
@@ -324,10 +324,10 @@ _See how the flowers are? Now that is witchy no matter what others may say._
   Rustle the leaves, scratch the dirt, crackle the fire, fill the cup.
 
 - **Friends** <br>
-  Briefly charm a creature to gain advantage on social checks. The charm is short &mdash; they remember.
+  Briefly charm a creature to gain advantage on social checks. The charm is short&mdash;they remember.
 
 - **Gust** <br>
-  Shape a puff of air &mdash; slam a door, push a foe, ruffle robes, or carry a whispered word.
+  Shape a puff of air&mdash;slam a door, push a foe, ruffle robes, or carry a whispered word.
   A witch&rsquo;s breath made manifest.
   _(Xanathar’s Guide to Everything, WotC)_
 
@@ -335,7 +335,7 @@ _See how the flowers are? Now that is witchy no matter what others may say._
   Whisper across distance. Ideal for conspiracies and quiet warnings.
 
 - **Minor Illusion** <br>
-  Create a sound or an image within range &mdash; perfect for tricks and stagecraft.
+  Create a sound or an image within range&mdash;perfect for tricks and stagecraft.
   A lie made visible or heard. A whisper in the dark, a fake door where none exists.
 
 - **Mold Earth** <br>
@@ -359,7 +359,7 @@ _See how the flowers are? Now that is witchy no matter what others may say._
 
 #### Level 1 Witch Spells
 
-_You light the candle &mdash; witches don't waste on fireworks. Unless they're pretty, or in haste._
+_You light the candle&mdash;witches don't waste on fireworks. Unless they're pretty, or in haste._
 
 ##### 🛡️ Ally Buffs & Wards
 
@@ -415,7 +415,7 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 
 - **Tasha&rsquo;s Caustic Brew** <br>
   A jet of hissing, caustic acid sprays from your hand, eating through armor and pride alike.
-  More potion than spell &mdash; it smells like a witch&rsquo;s kitchen gone wrong.
+  More potion than spell&mdash;it smells like a witch&rsquo;s kitchen gone wrong.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 - **Tasha&rsquo;s Hideous Laughter** <br>
@@ -425,7 +425,7 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
   A forceful burst for those moments when subtlety fails.
 
 - **Witch Bolt** <br>
-  A sustained arc of crackling energy &mdash; hold your glare, and the magic holds too.
+  A sustained arc of crackling energy&mdash;hold your glare, and the magic holds too.
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -453,10 +453,10 @@ _We witches do so many things. It takes skill and judgment to pick the right one
   A dab of glamour for clandestine errands.
 
 - **Fog Cloud** <br>
-  Strong pipe smoke, steam from the vats, or morning mist &mdash; whatever hides you and mine.
+  Strong pipe smoke, steam from the vats, or morning mist&mdash;whatever hides you and mine.
 
 - **Purify Food and Drink** <br>
-  What's that you're holding &mdash; did you really mean to put that in your mouth?
+  What's that you're holding&mdash;did you really mean to put that in your mouth?
 
 - **Silent Image** <br>
   For illusions too delicate with _Minor Illusion_.
@@ -469,7 +469,7 @@ _Now the real work begins. Two candles lit, the tea is brewed._
 
 ##### 🛡️ Ally Buffs & Wards
 
-_Did that snake really bite you unprovoked &mdash; sure you weren't poking at it with a stick?_
+_Did that snake really bite you unprovoked&mdash;sure you weren't poking at it with a stick?_
 
 - **Borrowed Knowledge** <br>
   Witches and their odd knacks surprise others, and a Witch doesn&rsquo;t tell.
@@ -608,7 +608,7 @@ _Crying may help, no shame there. But let's not get too soon to crying._
 _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rdquo; We'll see about that._
 
 - **Antagonize** <br>
-  A sharp word and a colder glare &mdash; your enemy lashes out recklessly, unable to ignore the sting.
+  A sharp word and a colder glare&mdash;your enemy lashes out recklessly, unable to ignore the sting.
   _(The Book of Many Things, WotC)_
 
 - **Bestow Curse** <br>
@@ -642,7 +642,7 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 _You smooth out living, especially for those too close to the edge._
 
 - **Dispel Magic** <br>
-  A sweeping arm breaks a spell &mdash; sometimes with bile and bladderwort.
+  A sweeping arm breaks a spell&mdash;sometimes with bile and bladderwort.
 
 - **Feign Death** <br>
   It or you appear dead. _You ate'nt dead yet._
@@ -664,7 +664,7 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 ##### 📌 Damage & Control
 
 - **Banishment** <br>
-  With a word of dismissal and a cruel bit of salt, you send a creature elsewhere &mdash; far from where it wants to be.
+  With a word of dismissal and a cruel bit of salt, you send a creature elsewhere&mdash;far from where it wants to be.
 
 - **Blight** <br>
   Destroy plant life or strongly damage a foe.
@@ -680,12 +680,13 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   A pale, eerie glow that chills the bones, saps strength, and reveals what hides in darkness.
 
 - **Storm Sphere** <br>
+  You call roiling knots of wind and fling lightning where you point.
   _(Elemental Evil Player&rsquo;s Companion, WotC)_
 
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Arcane Eye** <br>
-  You send forth an invisible scout &mdash; a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven&rsquo;s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
+  You send forth an invisible scout&mdash;a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven&rsquo;s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
 
 - **Divination** <br>
   Smoke curling, bones rattling, or a hated mirror reflecting your true self.
@@ -699,11 +700,12 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   Power is what all of you want? Let's knock off bad things first.
 
 - **Greater Restoration** <br>
-  Better now &mdash; why'd you get yourself into that mess in the first place? And what a mess.
+  Better now&mdash;why'd you get yourself into that mess in the first place? And what a mess.
 
 ##### 📌 Damage & Control
 
 - **Contagion** <br>
+  Sickness is an old friend&mdash;cured or caused&mdash;and a touch by you poisons.
 
 - **Geas** <br>
 
@@ -921,7 +923,7 @@ _Guard Hearth, Heal Hurts and Bind Oaths_
 
 The Mother Calling embodies protection, resilience, and the binding power of oaths. She heals with one hand and curses with the other, knowing that true guardianship sometimes demands sternness. In her presence, communities stand stronger, and her allies find courage drawn from her steady will.
 
-Playing a Mother Witch often means balancing nurture with discipline. You may restore vitality, shield allies from harm, or place geas and bindings on those who break their word. Your magic creates trust, but also obligation &mdash; making you a figure both of comfort and authority. The Mother thrives in players who enjoy being the moral compass or anchor of their party.
+Playing a Mother Witch often means balancing nurture with discipline. You may restore vitality, shield allies from harm, or place geas and bindings on those who break their word. Your magic creates trust, but also obligation&mdash;making you a figure both of comfort and authority. The Mother thrives in players who enjoy being the moral compass or anchor of their party.
 
 #### Level 3: Trusted Wisdom
 
@@ -953,7 +955,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Comprehend Languages** <br>
   You understand the meaning of spoken and written words, though your replies may be more creative than correct.
-  A Witch doesn't just recognize the words &mdash; she knows what that person meant.
+  A Witch doesn't just recognize the words&mdash;she knows what that person meant.
 
 - **Create Food and Water** <br>
   Conjure simple but nourishing meals and clean water, and sometimes stronger beverages.
@@ -1069,7 +1071,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Respect of you is manifest.
 
 - **Compulsion** <br>
-  An irresistible pull &mdash; your voice bends the target&rsquo;s will, driving them to move in the path you choose.
+  An irresistible pull&mdash;your voice bends the target&rsquo;s will, driving them to move in the path you choose.
 
 \page
 
@@ -1189,7 +1191,7 @@ _Your words and presence lower hostilities for now._
 
 This is a greater version of the _Calm Emotions_ spell.
 
-You emanate an aura of supernatural charm by your words and presence that draws attention and softens hearts. Each creature of your choice that starts its turn within 20 feet of you, or enters the area for the first time on a turn, must make a Wisdom saving throw. Once the effect no longer applies to a creature &mdash; such as after a successful saving throw or the effect ending &mdash; it is immune for the rest of this casting of the spell.
+You emanate an aura of supernatural charm by your words and presence that draws attention and softens hearts. Each creature of your choice that starts its turn within 20 feet of you, or enters the area for the first time on a turn, must make a Wisdom saving throw. Once the effect no longer applies to a creature&mdash;such as after a successful saving throw or the effect ending&mdash;it is immune for the rest of this casting of the spell.
 
 On a failed save, choose one of the following effects for that creature:
 
