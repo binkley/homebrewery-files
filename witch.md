@@ -824,7 +824,11 @@ You gain a Witch subclass of your choice. A subclass is a specialization that gr
 
 ### The Maiden Calling
 
-_Bright-eyed, underestimated, and full of wild potential._
+_Weave Light, Song and Hidden Truths_
+
+The Maiden Calling represents renewal and charm, a figure of brightness who bends hearts and perception with equal ease. She is youth&rsquo;s courage, whimsy, and allure, standing at the threshold between innocence and cunning. The Maiden&rsquo;s power turns foes against themselves, shields companions, and cloaks truth in illusions that delight or confound.
+
+Playing a Maiden Witch means embracing versatility and performance. You may weave illusions, manipulate emotions, or shield companions with spells that feel as much like dance as war. Your role is often to influence the field without brute force, creating openings for others. The Maiden thrives in players who enjoy creativity and social subtlety as much as combat tactics.
 
 #### Level 3: Inner Discovery
 
@@ -886,6 +890,8 @@ _**Strong Voice.**_ When you cast a spell, you can ignore its somatic component 
 
 _You are never just one thing. Your strength lies contradiction, and people hear you out._
 
+\page
+
 As a bonus action, you can call upon one of three auras of presence, which extend 10 feet from you in all directions. The aura moves with you, lasts for 1 minute, and requires your concentration.
 
 - **Entangling Aura.** When a creature enters the aura for the first time on a turn or starts its turn there, it must succeed on a Strength saving throw against your Witch spell save DC or its speed is halved until the start of its next turn.
@@ -893,8 +899,6 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 - **Revealing Aura.** Creatures affected by the aura cannot benefit from the _Invisible_ condition and have disadvantage on _Charisma (Deception)_ checks.
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
-
-\page
 
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
@@ -913,7 +917,11 @@ Once you use this feature, you can’t do so again until you finish a long rest.
 
 ### The Mother Calling
 
-_Steadfast hands, a voice of reason, and full of life_
+_Guard Hearth, Heal Hurts and Bind Oaths_
+
+The Mother Calling embodies protection, resilience, and the binding power of oaths. She heals with one hand and curses with the other, knowing that true guardianship sometimes demands sternness. In her presence, communities stand stronger, and her allies find courage drawn from her steady will.
+
+Playing a Mother Witch often means balancing nurture with discipline. You may restore vitality, shield allies from harm, or place geas and bindings on those who break their word. Your magic creates trust, but also obligation &mdash; making you a figure both of comfort and authority. The Mother thrives in players who enjoy being the moral compass or anchor of their party.
 
 #### Level 3: Trusted Wisdom
 
@@ -974,6 +982,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Tongues** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
 
+\page
+
 #### Level 6: Balm of Willow-weed
 
 _A steady hand soothes the worst hurts._
@@ -991,8 +1001,6 @@ Some witches win fights by smiling, speaking softly, and watching the world rear
 }}
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
-
-\page
 
 You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. (The spell is described at the end.)
 
@@ -1025,7 +1033,11 @@ As a reaction when a creature you can see within 60 feet makes a **D20 Test**, y
 
 ### The Crone Calling
 
-_Even other witches fear the Crone, especially Borrowing._
+_Turn Fear, Beasts and Minds into Power_
+
+The Crone Calling is wisdom sharpened into dread. She speaks with spirits, curses the arrogant, and sees paths others fear to tread. Even other witches keep their distance, for her Borrowing and baleful gaze unsettle all. The Crone is not cruelty for its own sake, but she ensures that fear teaches where gentler lessons fail.
+
+Playing a Crone Witch often means carrying the weight of difficult choices. You may be asked to risk your body and mind in Borrowing, to step beyond the mortal frame for answers others cannot reach. You wield magic that unnerves allies as much as enemies, and your power makes you a figure of awe or suspicion. The Crone thrives when played with care for her limits as well as her strengths.
 
 #### Level 3: Dark Intuition
 
@@ -1057,7 +1069,9 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Respect of you is manifest.
 
 - **Compulsion** <br>
-  An irresistible pull—your voice bends the target&rsquo;s will, driving them to move in the path you choose.
+  An irresistible pull &mdash; your voice bends the target&rsquo;s will, driving them to move in the path you choose.
+
+\page
 
 - **Death Ward** <br>
   I had a quiet conversation with Death, and they must come twice for you this time.
@@ -1088,8 +1102,6 @@ _You inhabit the body of a natural creature for a time, controlling it as your o
 {{note
 Some call this unnatural. Some call it supernatural. You know it is quite natural as long as you show respect.
 }}
-
-\page
 
 You can cast a special form of **Magic Jar** on a non-hostile _Beast_ or _Plant_ creature within range of your senses, and your body becomes motionless and unresponsive, appearing dead to casual observation. The target does not make a saving throw. Its own body serves as the container for the spell and remains aware as a silent, non-hostile observer.
 
