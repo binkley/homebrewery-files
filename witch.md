@@ -385,6 +385,9 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 - **Cause Fear** <br>
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
 
+- **Command** <br>
+  A sharp word is all it takes. Their respect is shown.
+
 - **Dissonant Whispers** <br>
   Psychic pain that drives enemies away and instills respect.
 
@@ -708,8 +711,10 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   Sickness is an old friend&mdash;cured or caused&mdash;and a touch by you poisons.
 
 - **Geas** <br>
+  Your words echo in their bones. They had better obey.
 
 - **Hold Monster** <br>
+  You freeze them in place. They are unsure when it is safe to move again in your presence.
 
 - **Insect Plague** <br>
 
@@ -788,6 +793,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Feeblemind** <br>
 
+- **Maze** <br>
+
 - **Power Word Stun** <br>
 
 \page
@@ -819,6 +826,9 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Foresight** <br>
 
 - **Time Stop** <br>
+
+- **Wish** <br>
+  You know "what is really real" so well that the universe shows respect and nudges a bit.
 
 ## Witch Subclasses
 
@@ -1065,10 +1075,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
   A bowl of water, a raven&rsquo;s eyes, a knot in the tree, all spy for you.
-
-- **Command** <br>
-  A single word for others to obey: sit, flee, drop, grovel.
-  Respect of you is manifest.
 
 - **Compulsion** <br>
   An irresistible pull&mdash;your voice bends the target&rsquo;s will, driving them to move in the path you choose.
