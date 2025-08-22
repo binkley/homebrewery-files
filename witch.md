@@ -762,6 +762,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Modify Memory** <br>
   What you remember and what I want happened are two different things. Let's fix that.
 
+\page
+
 - **Rary&rsquo;s Telepathic Bond** <br>
   This "Rary" was alright for a Wizard. Shorter time than _Telepathy_, but more folks in my circle.
 
@@ -783,8 +785,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Tasha&rsquo;s Bubbling Cauldron** <br>
   A handy Witch&rsquo;s cauldron when we're away from my cottage.
-
-\page
 
 ##### 📌 Damage & Control
 
@@ -882,6 +882,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Control Weather** <br>
   The Witch knows where they are and suits it to their liking &mdash; lightning or snow, hot or cold, or a fine day for a snack outside.
 
+\page
+
 - **Telepathy** <br>
   No matter how far let's have a chat. A pity I can't show you my garden.
 
@@ -920,8 +922,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Wish** <br>
   You know "what is really real" so well that the universe shows respect and nudges a bit.
-
-\page
 
 ## Witch Subclasses
 
@@ -986,6 +986,8 @@ _You hear the voice beneath the voice, and your own words do more than expected.
 
 You gain these benefits:
 
+\page
+
 _**Eye for Reality.**_ You gain **advantage** on _Wisdom (Insight and Perception)_ checks.
 
 _**Spotting Trouble.**_ As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this reaction a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
@@ -1003,8 +1005,6 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 - **Revealing Aura.** Creatures affected by the aura cannot benefit from the _Invisible_ condition and have disadvantage on _Charisma (Deception)_ checks.
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
-
-\page
 
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
@@ -1073,6 +1073,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   It&rsquo;s not much, but better than nothing and a fireball.
   _Would you pass the biscuits?_
 
+\page
+
 - **Life Transference** <br>
   Give your some of your life force to heal another.
   _This hurts; it really hurts. It hurts me more than it does you._
@@ -1094,8 +1096,6 @@ _A steady hand soothes the worst hurts._
 Whenever a creature of your choice (including you) rolls one or more Hit Dice to regain hit points at the end of a Short Rest, that creature regains additional hit points equal to your Wisdom modifier.
 
 In addition, once per long rest, you can tend to one creature during a Short Rest. That creature regains hit points by rolling one additional Hit Die without expending their current Hit Dice.
-
-\page
 
 #### Level 10: Charm Offensive
 
@@ -1164,6 +1164,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Compulsion** <br>
   An irresistible pull&mdash;your voice bends the target&rsquo;s will, driving them to move in the path you choose.
 
+\page
+
 - **Death Ward** <br>
   I had a quiet conversation with Death, and they must come twice for you this time.
 
@@ -1185,8 +1187,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Vampiric Touch** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
-
-\page
 
 #### Level 6: Borrowing
 
