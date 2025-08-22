@@ -810,6 +810,7 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   A Witch&rsquo;s grim voice is so strong that all but the strongest struggle to succeed.
 
 - **Symbol** <br>
+  A Witch&rsquo;s mark hard to spot. When you cross the boundary, you will know and wish you hadn't.
 
 ##### 🔍 Utility, Ritual & Trickery
 
