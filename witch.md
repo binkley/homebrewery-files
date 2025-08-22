@@ -164,7 +164,7 @@ You learn the _Find Familiar_ spell. It is always prepared for you and doesn&rsq
 | Witch Level | Maximum Familiar Challenge Rating (CR) |
 |:--:|:--:|
 | 2 | 0 |
-| 9 | 1 |
+| 9 | 1/2 |
 
 _**Fearless**._ Your familiar gains immunity to the Charmed and Frightened conditions.
 
@@ -223,16 +223,13 @@ Items should evoke respect, mobility, protection, or nature&rsquo;s power such a
 
 #### Level 9: Dangerous Familiar
 
-_Your familiar is stronger and unusually willful and assertive._
+_Your familiar is stronger and unusually willful._
 
-When you cast *Find Familiar*, you can choose any creature of Challenge Rating (CR) 1 or lower.
+When you cast _Find Familiar_, you can choose a creature of Challenge Rating (CR) 1/2 or lower for its form.
 
-It can’t attack unless you direct it as follows:
+When you take the **Attack** action, you can forgo one of your own attacks to allow your familiar to make one attack with its Reaction.
 
-- Use a **Bonus Action** to mentally command it to take an action from its stat block.
-- When you take the **Attack** action, you can forgo one of your own attacks to command the familiar to make one attack.
-
-When your familiar makes an attack, it adds your proficiency bonus to its attack roll and damage roll. On turns it attacks, the familiar can&rsquo;t cast spells or deliver your spells.
+When your familiar makes an attack, it adds your proficiency bonus to the attack roll and the damage roll, and can’t cast or deliver spells.
 
 #### Level 12: Witch&rsquo;s Insight
 
