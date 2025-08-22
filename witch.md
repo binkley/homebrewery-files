@@ -847,6 +847,9 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 ##### 🔍 Utility, Ritual & Trickery
 
+- **Mirage Arcane** <br>
+  Maybe Wizards know something after all. The land lies for you.
+
 - **Plane Shift** <br>
   _This is even harder. Let's all us go visit those places I've only spoken to._
 
