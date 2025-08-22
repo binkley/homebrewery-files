@@ -186,6 +186,7 @@ _Three stand beneath the moon. The spell is cast not alone, but in accord. Birds
 Your bond with a coven&mdash;real or not&mdash;grants you insight into deeper rituals.
 
 - You learn the _Augury_ spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual.
+- You learn the _Tasha&rsquo;s Bubbling Cauldron_ spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual even though it does not normally have the Ritual tag.
 - In addition, you learn one ritual spell of 3rd level or lower from any class&rsquo;s spell list, as approved by your DM. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual. Each time you gain a Witch level, you may replace any ritual spell learned from this feature (not including _Augury_) with another ritual spell, subject to the maximum level you can know.
 
 These spells do not count against the number of spells you can prepare.
@@ -695,18 +696,17 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Arcane Eye** <br>
-  You send forth an invisible scout&mdash;a wandering gaze that slips under doors and through darkness. It may look like a glimmering pupil, a raven&rsquo;s disembodied eye, or simply a floating mote that sees what you cannot. The Witch watches, even when she is not there.
+  An invisible eye slips under doors and through dark places. The Witch sees even when not there.
 
 - **Divination** <br>
-  Smoke curling, bones rattling, or a hated mirror reflecting your true self.
-  The future speaks if you open your senses.
+  Bones rattle, smoke curls, the mirror shimmers &mdash; the future speaks if you attend.
 
 #### Level 5 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
 - **Circle of Power** <br>
-  Power is what all of you want? Let's knock off bad things first.
+  My confidence follows me around if others stay near enough &mdash; I've enough confidence for all of us.
 
 - **Greater Restoration** <br>
   Better now&mdash;why'd you get yourself into that mess in the first place? And what a mess.
@@ -726,29 +726,42 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   You freeze them in place. They are unsure when it is safe to move again in your presence.
 
 - **Insect Plague** <br>
+  Locust swarms as in old tales &mdash; farmers dread them, and so should foes who don't flee far enough.
 
 - **Synaptic Static** <br>
+  Let enemies think twice &mdash; or only not at all &mdash; about crossing you. You give them a silence of the mind.
 
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Contact Other Plane** <br>
+  _This ain't easy. Talking to the powerful elsewhere is dangerous, but I need answers._
 
 - **Dream** <br>
-  Stories slip easier into sleeping minds. Sometimes a Witch whispers truth in a dream when it won’t be heard awake.
+  Step into another&rsquo;s dreams for a chat &mdash; good or bad as a Witch chooses.
 
 - **Scrying** <br>
+  _Is that what you're up to? I knew it wasn't up to anything good._
+
+- **Teleportation Circle** <br>
+  Witches and their allies get around.
 
 #### Level 6 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Heroes&rsquo; Feast** <br>
+  _What a good cook I am! You've got to love what I did with those monster bits you're chewing on._
+
 - **Tasha&rsquo;s Bubbling Cauldron** <br>
+  A handy Witch&rsquo;s cauldron when we're away from my cottage.
 
 ##### 📌 Damage & Control
 
 - **Circle of Death** <br>
+  I draw the circle and enemies take the consequences. Don't step inside.
 
 - **Eyebite** <br>
+  Look too long into a Witch&rsquo;s eyes and you find my will over yours.
 
 - **Flesh to Stone** <br>
   You'll regret this but left me no choice. Maybe someone will restore you.
@@ -757,15 +770,16 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   You really got on my wrong side. Don't do it again.
 
 - **Mass Suggestion** <br>
+  Your lingering suggestions affect friend and foe alike who do not stay away.
 
 - **Tasha&rsquo;s Otherworldly Guise** <br>
+  _Now I'm cross. You think I look like this every day? Give them what for and no two ways about it._
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Heroes&rsquo; Feast** <br>
-
 - **True Seeing** <br>
+  A Witch sees what is really there or not.
 
 \page
 
@@ -793,6 +807,7 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Plane Shift** <br>
+  _This is even harder. Let's all us go visit those places I've only spoken to._
 
 - **Etherealness** <br>
 
