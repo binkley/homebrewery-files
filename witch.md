@@ -33,12 +33,12 @@ The Witch class holds several themes together:
 - **Balance** &mdash; good, bad, or neutral as you pick
 - **Boundaries** &mdash; draw a line to cross or stay within
 - **Colors** &mdash; you know there are more than 7 colors
-- **Conditions** &mdash; make it better or worse
-- **Curses** &mdash; not just promises but warnings
-- **Cycles** &mdash; leverage the Moon
+- **Conditions** &mdash; you make them better or worse
+- **Curses** &mdash; not just your promises but warnings
+- **Cycles** &mdash; you alter the Almanac and moonlight
 - **Fate** &mdash; twist and turn outcomes
 - **Mind** &mdash; it's all in their head until you make it so
-- **Nature** &mdash; bringing storm or borrowing creatures
+- **Nature** &mdash; bring storms or borrow creatures
 - **Respect** &mdash; others should respect or fear you
 - **Thoughts** &mdash; who else would notice and reflect?
 - **Travel** &mdash; a broom is the best way to fly
@@ -53,6 +53,16 @@ The Witch class holds several themes together:
 
 - Gain the following traits from the Core Witch Traits table: Hit Point Die, proficiency in one skill of your choice, and proficiency with the _herbalism kit_.
 - Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table. See the multiclassing rules in the D&D _Player&rsquo;s Handbook_ to determine your available spell slots.
+
+### Witch Class Features
+
+As a Witch, you gain the following class features when you reach the specified Witch levels. These features are listed in the Witch Features table.
+
+#### Level 1: Spellcasting
+
+You have learned to cast spells by drawing from people and the land, necessity and the teaching of other witches. See the D&D _Player&rsquo;s Handbook_ for the rules on spellcasting. The information below details how you use those rules with Witch spell, which appear in the Witch spell list later in the class&rsquo;s description.
+
+Every spell includes a brief note on how Witches tend to use it. These notes don't change the spell&rsquo;s mechanics but suggest tone and roleplay. A Witch often adds a personal flavor to a spell without changing the magic.
 
 \page
 
@@ -82,16 +92,6 @@ The Witch class holds several themes together:
 | 20 | +6 | Indomitable Will | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
-### Witch Class Features
-
-As a Witch, you gain the following class features when you reach the specified Witch levels. These features are listed in the Witch Features table.
-
-#### Level 1: Spellcasting
-
-You have learned to cast spells by drawing from people and the land, necessity and the teaching of other witches. See the D&D _Player&rsquo;s Handbook_ for the rules on spellcasting. The information below details how you use those rules with Witch spell, which appear in the Witch spell list later in the class&rsquo;s description.
-
-Every spell includes a brief note on how Witches tend to use it. These notes don't change the spell&rsquo;s mechanics but suggest tone and roleplay. A Witch often adds a personal flavor to a spell without changing the magic.
-
 _**Cantrips.**_ You know three Witch cantrips of your choice. _Guidance_, _Thaumaturgy_, and _Toll the Dead_ are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
 
 When you reach Witch levels 4, 10 and 16, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
@@ -112,8 +112,6 @@ Wisdom is your spellcasting ability for your Witch spells.
 _**Spellcasting Focus.**_
 You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Spellcasting Focus for your Witch spells.
 
-\page
-
 #### Level 1: Harsh Glare
 
 _Witches say the eyes speak before the mouth does._
@@ -130,6 +128,8 @@ While in your home territory:
 
 - **Difficult terrain** does not slow your group&rsquo;s travel.
 - When you make _Intelligence (History)_, _Intelligence (Nature)_, or _Wisdom (Survival)_ checks related to your home territory, you can replace the d20 roll with a 20.
+
+\page
 
 You can use this feature two times, and you regain all expended uses when you finish a long rest.
 :
@@ -153,11 +153,7 @@ You begin with 2 uses, and the number of uses increases as you gain Witch levels
 
 #### Level 2: Second Sight
 
-Your insight into others borders on the supernatural.
-
-{{note
-_Most folk have first sight, and often not even then. A Witch has **second** sight to see what is actually there._
-}}
+_Your insight into others borders on the supernatural._
 
 You gain proficiency in the _Insight_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
 
@@ -182,21 +178,15 @@ You gain **expertise** with the _herbalism kit_ and double your proficiency bonu
 
 You gain a Witch subclass of your choice.
 
-{{note
-**Player Tip.** If you’re new to the Witch, consider beginning with the **Mother** Calling. Its straightforward features will let you focus on learning the class before diving into the more intricate Maiden or Crone.
-}}
-
 ##### Choosing Your Calling
 
-Every Witch walks their own path, and each Calling reflects not only choices in magic and powers, but also your talents and attitudes towards the world.
+Every Witch walks their own path, and each Calling reflects your talents and attitudes towards the world in features and magic.
 
-**The Maiden.** Curious, sharp-eyed, and strong of voice. If you enjoy uncovering truths, shaping social encounters, and carrying a versatile set of tricks, the Maiden suits you. This calling plays most like a Bard, with features that reward clever timing and sharp insight.
+**The Maiden.** Curious, strong-eyed, strong of voice, and thoughtful. If you enjoy uncovering truths, shaping social encounters, and a versatile set of tricks, the Maiden may suit you. This calling plays most similiar to a Bard, with features that reward clever timing and sharp insight.
 
 **The Mother.** Nurturing, protective, and steadfast. If you like bolstering allies, soothing wounds, and keeping the hearth warm even in the wild, the Mother will feel natural. This calling is closest to the Cleric, with more obvious but potent magic, support and healing.
 
 **The Crone.** Mysterious, relentless, and rooted in deep lore. If you want to inhabit strange forms, command uncanny forces, and take on the risk of great power, the Crone is your path. This calling may be likened to a Moon Druid with a touch of Wizard, for players who relish mechanical depth.
-
-\page
 
 #### Level 5: Coven Magic
 
@@ -212,6 +202,8 @@ These spells do not count against the number of spells you can prepare.
 
 At higher levels, your coven&rsquo;s lore deepens and you can learn additional ritual spells:
 
+\page
+
 | Witch Level | Additional Spells  | Max Spell Level |
 |:-----------:|:------------------:|:---------------:|
 | 5 | 1 | 3 |
@@ -221,9 +213,7 @@ At higher levels, your coven&rsquo;s lore deepens and you can learn additional r
 
 #### Level 7: Token of Respect
 
-{{note
-Some recognize witches for their stare, some for the magic they bear.
-}}
+_Some recognize witches for their stare, some for the magic they bear._
 
 When you gain this feature, choose one magic item that is Uncommon and requires attunement, or one that is Rare and does not require attunement. The item must be a Ring, Wand, or Wondrous Item and should suit your witchy theme. Your DM has final say on which items are available for this feature.
 
@@ -231,15 +221,9 @@ If the item requires attunement, it does not count against your maximum number o
 
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
 
-\column
-
 #### Level 9: Dangerous Familiar
 
-Your familiar is stronger and unusually willful and assertive.
-
-{{note
-That Witch&rsquo;s creature gave me a wicked stare, and I knew it was not to be messed with.
-}}
+_Your familiar is stronger and unusually willful and assertive._
 
 When you cast *Find Familiar*, you can choose any creature of Challenge Rating (CR) 1 or lower.
 
@@ -274,8 +258,6 @@ _A Witch masters their own mind, bows to no king, fears no shadow, and bends to 
 
 Your wisdom and presence have reached their fullest strength.
 
-\page
-
 - Your Wisdom score increases by 2, to a maximum of 23.
 - You are immune to the **Charmed** and **Frightened** conditions.
 - You have **advantage on all saving throws** against Enchantment spells and effects. On a successful save, you ignore the effect entirely, as if it never touched your mind.
@@ -307,6 +289,8 @@ _Well, you folks take care of them already. I've other things to attend to._
 
 - **Chill Touch** <br>
   You remind them of what they regret and nothing heals that thought.
+
+\page
 
 - **Frostbite** <br>
   Your words may freeze their courage to fumble their next attack.
@@ -379,8 +363,6 @@ _See how the flowers are? Now that is witchy no matter what others may say._
 
 _You light the candle&mdash;witches don't waste on fireworks. Unless they're pretty, or in haste._
 
-\page
-
 ##### 🛡️ Ally Buffs & Wards
 
 _A little help never hurt nobody, I always say._
@@ -420,8 +402,10 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 - **Hex** <br>
   A spiteful curse that saps strength and fuels further harm.
 
+\page
+
 - **Ice Knife** <br>
-  Did you really say, "cold as a witch&rsquo;s teat?" I'll show you what cold is like.
+  _Did you really say, "cold as a witch&rsquo;s teat?" I'll show you what cold is like._
 
 - **Inflict Wounds** <br>
   A brutal, unassuming touch that rots flesh.
@@ -499,8 +483,6 @@ _Did that snake really bite you unprovoked&mdash;sure you weren't poking at it w
 - **Calm Emotions** <br>
   Lower fear, anger, and turmoil in a group.
 
-\page
-
 - **Enhance Ability** <br>
   I&rsquo;m sure you can do it. Now get on with it.
 
@@ -539,7 +521,9 @@ _Respect. Always show a Witch respect. And we don't bow._
   Just stay there a bit, would you? Just like that. Hold still.
 
 - **Mind Spike** <br>
-  A cursed thorn of thought searing with psychic pain and leaving a lingering connection.
+  A cursed thorn of thought sears with psychic pain and leaves a lingering connection.
+
+\page
 
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
@@ -627,8 +611,6 @@ _Crying may help, no shame there. But let's not get too soon to crying._
   A soul still warm may be coaxed back.
   _Get up you lazy bones! Death is no excuse._
 
-\page
-
 ##### 📌 Damage & Control
 
 _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rdquo; We'll see about that._
@@ -659,6 +641,11 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 - **Hypnotic Pattern** <br>
   A swirling, mind-drowning display that pacifies the mind.
   They seem stupid now, but will remember you after with the hand-waving and the confetti.
+
+- **Plant Growth** <br>
+  You aid the local farmers. Maybe this is useful against enemies.
+
+\page
 
 - **Spirit Shroud** <br>
   Your enemy knows who they sent to the grave. You encourage those souls to get revenge a little early.
@@ -746,8 +733,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Insect Plague** <br>
   Locust swarms as in old tales&mdash;farmers dread them, and so should foes who don't flee far enough.
 
-\page
-
 - **Synaptic Static** <br>
   Let enemies think twice&mdash;or only not at all&mdash;about crossing you. You give them a silence of the mind.
 
@@ -774,6 +759,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Tasha&rsquo;s Bubbling Cauldron** <br>
   A handy Witch&rsquo;s cauldron when we're away from my cottage.
+
+\page
 
 ##### 📌 Damage & Control
 
@@ -885,8 +872,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Time Stop** <br>
 
-\page
-
 - **Wish** <br>
   You know "what is really real" so well that the universe shows respect and nudges a bit.
 
@@ -899,6 +884,8 @@ You gain a Witch subclass of your choice. A subclass is a specialization that gr
 _Weave Light, Song and Hidden Truths_
 
 The Maiden Calling represents renewal and charm, a figure of brightness who bends hearts and perception with equal ease. She is youth&rsquo;s courage, whimsy, and allure, standing at the threshold between innocence and cunning. The Maiden&rsquo;s power turns foes against themselves, shields companions, and cloaks truth in illusions that delight or confound.
+
+\page
 
 Playing a Maiden Witch means embracing versatility and performance. You may weave illusions, manipulate emotions, or shield companions with spells that feel as much like dance as war. Your role is often to influence the field without brute force, creating openings for others. The Maiden thrives in players who enjoy creativity and social subtlety as much as combat tactics.
 
@@ -971,8 +958,6 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
 
-\page
-
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
 | Witch Level | Aura Uses |
@@ -987,6 +972,8 @@ _Your voice weaves a binding harmony that steadies hearts and wards off hostile 
 As an action, you begin a mystical singsong that lasts for 1 minute, requiring concentration as though you were concentrating on a spell. While it lasts, each ally of your choice within 30 feet of you has advantage on saving throws against spells and other magical effects.
 
 Once you use this feature, you can’t do so again until you finish a long rest.
+
+\page
 
 ### The Mother Calling
 
@@ -1062,15 +1049,9 @@ Whenever a creature of your choice (including you) rolls one or more Hit Dice to
 
 In addition, once per long rest, you can tend to one creature during a Short Rest. That creature regains hit points by rolling one additional Hit Die without expending their current Hit Dice.
 
-\page
-
 #### Level 10: Charm Offensive
 
 _You wade into battle or soirees to lower tensions._
-
-{{note
-Some witches win fights by smiling, speaking softly, and watching the world rearrange around them. They had better respect you, and stop this nonsense.
-}}
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
 
@@ -1080,13 +1061,11 @@ You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn
 
 _Your familiar draws respect and frightens others._
 
-{{note
-A familiar is more than a cute companion. Its claws, mismatched eyes, croaks or aggressive stance puts fear in the hearts of most. Some run away.
-}}
-
 When you command your familiar to take the **Attack** action using the rules of your _Dangerous Familiar_ feature, its attacks can unnerve its foes. Until the end of your next turn, whenever your familiar hits a creature with an attack, that creature must succeed on a Wisdom saving throw against your Witch spell save DC or gain the **Frightened** condition until the end of its next turn.
 
 Creatures immune to the **Frightened** condition are unaffected.
+
+\page
 
 You can use this feature a number of times per long rest as shown in the _Terrifying Familiar Uses_ table. You regain all expended uses when you finish a long rest.
 
@@ -1152,8 +1131,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
 
-\page
-
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
@@ -1180,6 +1157,8 @@ The creature must lack the **Swarm** trait, cannot be sentient, and it must have
 | 6  | 1/4 |
 | 10 | 1 |
 | 14 | 2 |
+
+\page
 
 {{note
 **DM Guidance&mdash;Borrowing Targets.** Outside truly barren locales (airless void, deep astral, featureless demiplane), assume either no or one or more eligible Beasts or Plants nearby by narrative convenience. Favor creatures that fit the situation and CR limits; the witch chooses among the options you present.
