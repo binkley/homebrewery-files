@@ -419,7 +419,6 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
   _(Xanathar&rsquo;s Guide to Everything, WotC)_
 
 - **Tasha&rsquo;s Caustic Brew** <br>
-  A jet of hissing, caustic acid sprays from your hand, eating through armor and pride alike.
   More potion than spell&mdash;it smells like a witch&rsquo;s kitchen gone wrong.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
