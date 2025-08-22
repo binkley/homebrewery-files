@@ -775,6 +775,9 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Guards and Wards** <br>
+  A Witch&rsquo;s cottage is not a castle, but it is better safeguarded.
+
 - **Heroes&rsquo; Feast** <br>
   _What a good cook I am! You've got to love what I did with those monster bits you're chewing on._
 
@@ -804,7 +807,16 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   _Now I'm cross. You think I look like this every day? Give them what for and no two ways about it._
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
+- **Wall of Thorns** <br>
+  Enemies thought the terrain difficult. Now it's painful.
+
 ##### 🔍 Utility, Ritual & Trickery
+
+- **Contingency** <br>
+  A Witch is always prepared.
+
+- **Move Earth** <br>
+  You are not just attuned to the land, even the rocks listen to you.
 
 - **True Seeing** <br>
   A Witch sees what is really there or not.
