@@ -821,6 +821,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **True Seeing** <br>
   A Witch sees what is really there or not.
 
+\column
+
 #### Level 7 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
@@ -880,12 +882,12 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Power Word Stun** <br>
   A Witch&rsquo;s grim voice is so strong that it stuns and they struggle to act.
 
+\page
+
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Control Weather** <br>
   The Witch knows where they are and suits it to their liking &mdash; lightning or snow, hot or cold, or a fine day for a snack outside.
-
-\page
 
 - **Telepathy** <br>
   No matter how far let's have a chat. A pity I can't show you my garden.
@@ -983,13 +985,13 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
 
+\page
+
 #### Level 6: Third Thoughts
 
 _You hear the voice beneath the voice, and your own words do more than expected._
 
 You gain these benefits:
-
-\page
 
 _**Eye for Reality.**_ You gain **advantage** on _Wisdom (Insight and Perception)_ checks.
 
@@ -1067,6 +1069,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Create Food and Water** <br>
   No one goes without when a proper witch in their company.
 
+\page
+
 - **Greater Restoration** <br>
   Fixes most serious ailments and cursed magic items.
   _Now doesn't that feel better?_
@@ -1075,8 +1079,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
   _Would you pass the biscuits?_
-
-\page
 
 - **Life Transference** <br>
   Give your some of your life force to heal another.
@@ -1160,14 +1162,14 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   See though the eyes of a natural creature.
   One step from _Borrowing_ them.
 
+\page
+
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
   A bowl of water, a raven&rsquo;s eyes, a knot in the tree, all spy for you.
 
 - **Compulsion** <br>
   An irresistible pull&mdash;your voice bends the target&rsquo;s will, driving them to move in the path you choose.
-
-\page
 
 - **Death Ward** <br>
   I had a quiet conversation with Death, and they must come twice for you this time.
@@ -1242,6 +1244,8 @@ While borrowing a creature, you can take the **Magic** action to cast Witch spel
 - You can only cast spells of **4th level or lower**.
 - You cannot cast spells that require material components.
 - You do not need a spellcasting focus while borrowing; the creature&rsquo;s body serves as your spellcasting focus, shaping its natural motions and sounds into the spell&rsquo;s expression.
+
+\page
 
 _**Limits to Power.**_ You still cannot take the **Attack** action while borrowing.
 
