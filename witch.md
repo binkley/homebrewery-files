@@ -27,6 +27,22 @@ Most Witches are not taught in academies but by fellow Witches or through unexpe
 
 ### Becoming a Witch ...
 
+The Witch class holds several themes together:
+
+- Balance &mdash; good, bad, or neutral, but the Witch&rsquo;s choice
+- Boundaries &mdash; draw a circle: a line to cross or stay within
+- Colors &mdash; a Witch knows there are more than 7 colors
+- Conditions &mdash; a Witch can choose to help or make it worse
+- Curses &mdash; a Witch&rsquo;s statements aren't just promises, they're warnings
+- Cycles &mdash; a Witch leverages natural changes be it Moon or otherwise
+- Fate &mdash; a Witch twists and turns outcomes
+- Mind &mdash; it's all in your head until a Witch makes it so
+- Nature &mdash; bringing storm or borrowing creatures
+- Respect &mdash; the community looks to you, and others should respect or fear
+- Thoughts &mdash; who else but a Witch would notice and reflect?
+- Travel &mdash; a broom is the best way to fly
+- Voice &mdash; power from words and not just a pointy stick
+
 #### As a Level 1 Character
 
 - Gain all the tratis in the Core Witch Traits table.
@@ -790,8 +806,7 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   A Witch&rsquo;s soothing voice is so strong that it raises morale beyond their limits.
 
 - **Regenerate** <br>
-
-- **Symbol** <br>
+  About that arm, maybe this bit of Troll will help.
 
 ##### 📌 Damage & Control
 
@@ -799,9 +814,12 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   With a word you twist hearts of a kind. Some may aid, others flee.
 
 - **Prismatic Spray** <br>
+  You thought it was drama before. This is drama that disables and kills.
 
 - **Power Word Pain** <br>
   A Witch&rsquo;s grim voice is so strong that all but the strongest struggle to succeed.
+
+- **Symbol** <br>
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -902,8 +920,7 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 \page
 
 - **Color Spray** <br>
-  A dazzling burst of multicolored light overwhelms the senses.
-  Flair, chaos, and a touch of drama can be more potent than blades.
+  Flair, chaos, and a touch of drama can be as potent as blades.
 
 - **Faerie Fire** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
