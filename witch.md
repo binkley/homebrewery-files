@@ -1,4 +1,5 @@
 # The Witch
+
 A D&D 5e (2024) full-caster class. <br>
 Your Witch is a full caster rooted in willpower, wisdom, and presence. Not a Bard, Cleric, Druid, Sorcerer, Warlock, nor Wizard&mdash;and certainly not martial. Respected and listened to, allies seek you, and enemies fear you.
 
@@ -29,19 +30,19 @@ Most Witches are not taught in academies but by fellow Witches or through unexpe
 
 The Witch class holds several themes together:
 
-- Balance &mdash; good, bad, or neutral, but the Witch&rsquo;s choice
-- Boundaries &mdash; draw a circle: a line to cross or stay within
-- Colors &mdash; a Witch knows there are more than 7 colors
-- Conditions &mdash; a Witch can choose to help or make it worse
-- Curses &mdash; a Witch&rsquo;s statements aren't just promises, they're warnings
-- Cycles &mdash; a Witch leverages natural changes be it Moon or otherwise
-- Fate &mdash; a Witch twists and turns outcomes
-- Mind &mdash; it's all in your head until a Witch makes it so
-- Nature &mdash; bringing storm or borrowing creatures
-- Respect &mdash; the community looks to you, and others should respect or fear
-- Thoughts &mdash; who else but a Witch would notice and reflect?
-- Travel &mdash; a broom is the best way to fly
-- Voice &mdash; power from words and not just a pointy stick
+- **Balance** &mdash; good, bad, or neutral as you pick
+- **Boundaries** &mdash; draw a line to cross or stay within
+- **Colors** &mdash; you know there are more than 7 colors
+- **Conditions** &mdash; make it better or worse
+- **Curses** &mdash; not just promises but warnings
+- **Cycles** &mdash; leverage the Moon
+- **Fate** &mdash; twist and turn outcomes
+- **Mind** &mdash; it's all in their head until you make it so
+- **Nature** &mdash; bringing storm or borrowing creatures
+- **Respect** &mdash; others should respect or fear you
+- **Thoughts** &mdash; who else would notice and reflect?
+- **Travel** &mdash; a broom is the best way to fly
+- **Voice** &mdash; power from words not a pointy stick
 
 #### As a Level 1 Character
 
@@ -52,24 +53,6 @@ The Witch class holds several themes together:
 
 - Gain the following traits from the Core Witch Traits table: Hit Point Die, proficiency in one skill of your choice, and proficiency with the _herbalism kit_.
 - Gain the Witch&rsquo;s level 1 features, which are listed in the Witch Features table. See the multiclassing rules in the D&D _Player&rsquo;s Handbook_ to determine your available spell slots.
-
-### Witch Class Features
-
-As a Witch, you gain the following class features when you reach the specified Witch levels. These features are listed in the Witch Features table.
-
-#### Level 1: Spellcasting
-
-You have learned to cast spells by drawing from people and the land, necessity and the teaching of other witches. See the D&D _Player&rsquo;s Handbook_ for the rules on spellcasting. The information below details how you use those rules with Witch spell, which appear in the Witch spell list later in the class&rsquo;s description.
-
-Every spell includes a brief note on how Witches tend to use it. These notes don't change the spell&rsquo;s mechanics but suggest tone and roleplay. A Witch often adds a personal flavor to a spell without changing the magic.
-
-_**Cantrips.**_ You know three Witch cantrips of your choice. _Guidance_, _Thaumaturgy_, and _Toll the Dead_ are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
-
-When you reach Witch levels 4, 10 and 16, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
-
-_**Spell Slots.**_ The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
-
-_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose three level 1 spells from the Witch spell list. The chosen spells must be of a level for which you have spell slots.
 
 \page
 
@@ -99,6 +82,24 @@ _**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that 
 | 20 | +6 | Indomitable Will | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
+### Witch Class Features
+
+As a Witch, you gain the following class features when you reach the specified Witch levels. These features are listed in the Witch Features table.
+
+#### Level 1: Spellcasting
+
+You have learned to cast spells by drawing from people and the land, necessity and the teaching of other witches. See the D&D _Player&rsquo;s Handbook_ for the rules on spellcasting. The information below details how you use those rules with Witch spell, which appear in the Witch spell list later in the class&rsquo;s description.
+
+Every spell includes a brief note on how Witches tend to use it. These notes don't change the spell&rsquo;s mechanics but suggest tone and roleplay. A Witch often adds a personal flavor to a spell without changing the magic.
+
+_**Cantrips.**_ You know three Witch cantrips of your choice. _Guidance_, _Thaumaturgy_, and _Toll the Dead_ are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
+
+When you reach Witch levels 4, 10 and 16, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
+
+_**Spell Slots.**_ The Witch Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+
+_**Prepared Spells of Level 1+.**_ You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose three level 1 spells from the Witch spell list. The chosen spells must be of a level for which you have spell slots.
+
 The number of spells on your list increases as you gain Witch levels, as shown in the Prepared Spells column of the Witch Features table. Whenever that number increases, choose additional spells from the Witch spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you&rsquo;re a level 3 Witch, your list of prepared spells can include four spells of levels 1 and 2 in any combination.
 
 If another Witch feature gives you spells that you always have prepared, those spells don&rsquo;t count against the number of spells you can prepare with this feature, but those spells otherwise count as Witch spells for you.
@@ -110,6 +111,8 @@ Wisdom is your spellcasting ability for your Witch spells.
 
 _**Spellcasting Focus.**_
 You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Spellcasting Focus for your Witch spells.
+
+\page
 
 #### Level 1: Harsh Glare
 
@@ -139,8 +142,6 @@ _A new witch learns self-protection._
 When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
 You can use this feature a number of times equal to your Wisdom bonus (minimum of once), and you regain all expended uses when you finish a Long Rest.
-
-\page
 
 #### Level 2: Cross Words
 
@@ -181,6 +182,10 @@ You gain **expertise** with the _herbalism kit_ and double your proficiency bonu
 
 You gain a Witch subclass of your choice.
 
+{{note
+**Player Tip.** If you’re new to the Witch, consider beginning with the **Mother** Calling. Its straightforward features will let you focus on learning the class before diving into the more intricate Maiden or Crone.
+}}
+
 ##### Choosing Your Calling
 
 Every Witch walks their own path, and each Calling reflects not only choices in magic and powers, but also your talents and attitudes towards the world.
@@ -191,9 +196,7 @@ Every Witch walks their own path, and each Calling reflects not only choices in 
 
 **The Crone.** Mysterious, relentless, and rooted in deep lore. If you want to inhabit strange forms, command uncanny forces, and take on the risk of great power, the Crone is your path. This calling may be likened to a Moon Druid with a touch of Wizard, for players who relish mechanical depth.
 
-{{note
-**Player Tip.** If you’re new to the Witch, consider beginning with the **Mother** Calling. Its straightforward features will let you focus on learning the class before diving into the more intricate Maiden or Crone.
-}}
+\page
 
 #### Level 5: Coven Magic
 
@@ -216,8 +219,6 @@ At higher levels, your coven&rsquo;s lore deepens and you can learn additional r
 | 13 | 3 | 5 |
 | 17 | 4 | 6 |
 
-\page
-
 #### Level 7: Token of Respect
 
 {{note
@@ -229,6 +230,8 @@ When you gain this feature, choose one magic item that is Uncommon and requires 
 If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means&mdash;it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
+
+\column
 
 #### Level 9: Dangerous Familiar
 
@@ -271,6 +274,8 @@ _A Witch masters their own mind, bows to no king, fears no shadow, and bends to 
 
 Your wisdom and presence have reached their fullest strength.
 
+\page
+
 - Your Wisdom score increases by 2, to a maximum of 23.
 - You are immune to the **Charmed** and **Frightened** conditions.
 - You have **advantage on all saving throws** against Enchantment spells and effects. On a successful save, you ignore the effect entirely, as if it never touched your mind.
@@ -302,8 +307,6 @@ _Well, you folks take care of them already. I've other things to attend to._
 
 - **Chill Touch** <br>
   You remind them of what they regret and nothing heals that thought.
-
-\page
 
 - **Frostbite** <br>
   Your words may freeze their courage to fumble their next attack.
@@ -376,6 +379,8 @@ _See how the flowers are? Now that is witchy no matter what others may say._
 
 _You light the candle&mdash;witches don't waste on fireworks. Unless they're pretty, or in haste._
 
+\page
+
 ##### 🛡️ Ally Buffs & Wards
 
 _A little help never hurt nobody, I always say._
@@ -414,8 +419,6 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 
 - **Hex** <br>
   A spiteful curse that saps strength and fuels further harm.
-
-\page
 
 - **Ice Knife** <br>
   Did you really say, "cold as a witch&rsquo;s teat?" I'll show you what cold is like.
@@ -496,6 +499,8 @@ _Did that snake really bite you unprovoked&mdash;sure you weren't poking at it w
 - **Calm Emotions** <br>
   Lower fear, anger, and turmoil in a group.
 
+\page
+
 - **Enhance Ability** <br>
   I&rsquo;m sure you can do it. Now get on with it.
 
@@ -535,8 +540,6 @@ _Respect. Always show a Witch respect. And we don't bow._
 
 - **Mind Spike** <br>
   A cursed thorn of thought searing with psychic pain and leaving a lingering connection.
-
-\page
 
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
@@ -624,6 +627,8 @@ _Crying may help, no shame there. But let's not get too soon to crying._
   A soul still warm may be coaxed back.
   _Get up you lazy bones! Death is no excuse._
 
+\page
+
 ##### 📌 Damage & Control
 
 _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rdquo; We'll see about that._
@@ -657,8 +662,6 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 
 - **Spirit Shroud** <br>
   Your enemy knows who they sent to the grave. You encourage those souls to get revenge a little early.
-
-\page
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -743,6 +746,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Insect Plague** <br>
   Locust swarms as in old tales&mdash;farmers dread them, and so should foes who don't flee far enough.
 
+\page
+
 - **Synaptic Static** <br>
   Let enemies think twice&mdash;or only not at all&mdash;about crossing you. You give them a silence of the mind.
 
@@ -795,8 +800,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **True Seeing** <br>
   A Witch sees what is really there or not.
-
-\page
 
 #### Level 7 Witch Spells
 
@@ -882,6 +885,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Time Stop** <br>
 
+\page
+
 - **Wish** <br>
   You know "what is really real" so well that the universe shows respect and nudges a bit.
 
@@ -916,8 +921,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
-
-\page
 
 - **Color Spray** <br>
   Flair, chaos, and a touch of drama can be as potent as blades.
@@ -968,6 +971,8 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
 
+\page
+
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
 | Witch Level | Aura Uses |
@@ -1000,8 +1005,6 @@ Would you like another cup of tea, dear? I have a poultice for that and I won't 
 }}
 
 You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
-
-\page
 
 #### Level 3: Mother Spells
 
@@ -1059,6 +1062,8 @@ Whenever a creature of your choice (including you) rolls one or more Hit Dice to
 
 In addition, once per long rest, you can tend to one creature during a Short Rest. That creature regains hit points by rolling one additional Hit Die without expending their current Hit Dice.
 
+\page
+
 #### Level 10: Charm Offensive
 
 _You wade into battle or soirees to lower tensions._
@@ -1097,8 +1102,6 @@ _I can't make them worse, but I can make you better._
 You speak words or think thoughts that twist fate.
 
 As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-\page
 
 ### The Crone Calling
 
@@ -1149,6 +1152,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Speak with Plants** <br>
   Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
 
+\page
+
 - **Phantasmal Force** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
@@ -1181,8 +1186,6 @@ The creature must lack the **Swarm** trait, cannot be sentient, and it must have
 }}
 
 _**Availability.**_ In all but the most barren environments, suitable Beast or Plant creatures are typically present for you to borrow (DM&rsquo;s discretion). When multiple options exist, you choose the creature. Such forms may be inconvenient or unsuitable to your plans; you can decline to borrow without expending a use of this feature.
-
-\page
 
 _**Limits to Power.**_ While in the borrowed form, you cannot use the **Attack** action or take a **Magic** action, except to end the effect and return to your body.
 
