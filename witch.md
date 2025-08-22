@@ -719,13 +719,19 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Hallow** <br>
   You make a bond to a place as if it were yours.
 
+- **Skill Empowerment** <br>
+  _Think you're good at that? Let's see you even better._
+
 ##### 📌 Damage & Control
+
+- **Animate Objects** <br>
+  _Attack me here &mdash; what are they thinking? The whole room is on my side._
 
 - **Contagion** <br>
   Sickness is an old friend&mdash;cured or caused&mdash;and a touch by you poisons.
 
 - **Geas** <br>
-  Your words echo in their bones. They had better obey.
+  Your command echos in their bones. They had better obey.
 
 - **Hold Monster** <br>
   You freeze them in place. They are unsure when it is safe to move again in your presence.
@@ -738,14 +744,29 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 ##### 🔍 Utility, Ritual & Trickery
 
+- **Awaken** <br>
+  Costly, yes &mdash; but a _Beast_ or _Plant_ that speaks makes a fine ally.
+
+- **Commune with Nature** <br>
+  Druids and Rangers know their business. A Witch asks, and the land answers.
+
 - **Contact Other Plane** <br>
   _This ain't easy. Talking to the powerful elsewhere is dangerous, but I need answers._
 
 - **Dream** <br>
   Step into another&rsquo;s dreams for a chat&mdash;good or bad as a Witch chooses.
 
+- **Legend Lore** <br>
+  You know more about obscure topics than you show. Listen to a Witch&rsquo; knowledge.
+
+- **Modify Memory** <br>
+  What you remember and what I want happened are two different things. Let's fix that.
+
+- **Rary&rsquo;s Telepathic Bond** <br>
+  This "Rary" was alright for a Wizard. Shorter time than _Telepathy_, but more folks in my circle.
+
 - **Scrying** <br>
-  _Is that what you're up to? I knew it wasn't up to anything good._
+  Is that what you're up to? I knew it wasn't up to anything good.
 
 - **Teleportation Circle** <br>
   Witches and their allies get around.
