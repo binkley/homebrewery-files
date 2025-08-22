@@ -698,14 +698,14 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   An invisible eye slips under doors and through dark places. The Witch sees even when not there.
 
 - **Divination** <br>
-  Bones rattle, smoke curls, the mirror shimmers &mdash; the future speaks if you attend.
+  Bones rattle, smoke curls, the mirror shimmers&mdash;the future speaks if you attend.
 
 #### Level 5 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
 - **Circle of Power** <br>
-  My confidence follows me around if others stay near enough &mdash; I've enough confidence for all of us.
+  My confidence follows me around if others stay near enough&mdash;I've enough confidence for all of us.
 
 - **Greater Restoration** <br>
   Better now&mdash;why'd you get yourself into that mess in the first place? And what a mess.
@@ -725,10 +725,10 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   You freeze them in place. They are unsure when it is safe to move again in your presence.
 
 - **Insect Plague** <br>
-  Locust swarms as in old tales &mdash; farmers dread them, and so should foes who don't flee far enough.
+  Locust swarms as in old tales&mdash;farmers dread them, and so should foes who don't flee far enough.
 
 - **Synaptic Static** <br>
-  Let enemies think twice &mdash; or only not at all &mdash; about crossing you. You give them a silence of the mind.
+  Let enemies think twice&mdash;or only not at all&mdash;about crossing you. You give them a silence of the mind.
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -736,7 +736,7 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   _This ain't easy. Talking to the powerful elsewhere is dangerous, but I need answers._
 
 - **Dream** <br>
-  Step into another&rsquo;s dreams for a chat &mdash; good or bad as a Witch chooses.
+  Step into another&rsquo;s dreams for a chat&mdash;good or bad as a Witch chooses.
 
 - **Scrying** <br>
   _Is that what you're up to? I knew it wasn't up to anything good._
@@ -1160,7 +1160,7 @@ The creature must lack the **Swarm** trait, cannot be sentient, and it must have
 | 14 | 2 |
 
 {{note
-**DM Guidance &mdash; Borrowing Targets.** Outside truly barren locales (airless void, deep astral, featureless demiplane), assume either no or one or more eligible Beasts or Plants nearby by narrative convenience. Favor creatures that fit the situation and CR limits; the witch chooses among the options you present.
+**DM Guidance&mdash;Borrowing Targets.** Outside truly barren locales (airless void, deep astral, featureless demiplane), assume either no or one or more eligible Beasts or Plants nearby by narrative convenience. Favor creatures that fit the situation and CR limits; the witch chooses among the options you present.
 }}
 
 _**Availability.**_ In all but the most barren environments, suitable Beast or Plant creatures are typically present for you to borrow (DM&rsquo;s discretion). When multiple options exist, you choose the creature. Such forms may be inconvenient or unsuitable to your plans; you can decline to borrow without expending a use of this feature.
