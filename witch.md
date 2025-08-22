@@ -477,7 +477,7 @@ _Now the real work begins. Two candles lit, the tea is brewed._
 _Did that snake really bite you unprovoked&mdash;sure you weren't poking at it with a stick?_
 
 - **Borrowed Knowledge** <br>
-  Witches and their odd knacks surprise others, and a Witch doesn&rsquo;t tell.
+  The odd things you know surprise other, maybe you have other sources?
   _(Strixhaven: Curriculum of Chaos, WotC)_
 
 - **Calm Emotions** <br>
@@ -817,6 +817,7 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   _This is even harder. Let's all us go visit those places I've only spoken to._
 
 - **Etherealness** <br>
+  You alone step into the plane of witchy borders, edges, and nether regions. Higher casting may bring others.
 
 #### Level 8 Witch Spells
 
@@ -828,12 +829,16 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 ##### 📌 Damage & Control
 
 - **Abi-Dalzim&rsquo;s Horrid Wilting** <br>
+  Water you need, and water I withdraw.
 
 - **Antimagic Field** <br>
+  Me nor you can use magic. Let's find out how things truly are &mdash; I've got someone here good with a sharp blade.
 
-- **Feeblemind** <br>
+- **Befuddlement** <br>
+  _You're not so clever after all._
 
 - **Maze** <br>
+  Sends an enemy to elsewhere for a spell. Let them study this out.
 
 - **Power Word Stun** <br>
   A Witch&rsquo;s grim voice is so strong that it stuns and they struggle to act.
@@ -841,21 +846,28 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 ##### 🔍 Utility, Ritual & Trickery
 
 - **Control Weather** <br>
+  The Witch knows where they are and suits it to their liking &mdash; lightning or snow, hot or cold, or a fine day for a snack outside.
 
 - **Telepathy** <br>
+  No matter how far let's have a chat. A pity I can't show you my garden.
 
 #### Level 9 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Foresight** <br>
+  For a time as you see what is truly there or will be, you can share this insight with others.
+
 - **Power Word Heal** <br>
   A Witch&rsquo;s soothing voice is so strong that it leads to full recovery though you may feel tired.
 
 - **Prismatic Wall** <br>
+  Beyond drama, colors make a stout barrier that you direct.
 
 ##### 📌 Damage & Control
 
 - **Imprisonment** <br>
+  _What should I do with this statue of you? Not that you're going anywhere._
 
 - **Power Word Kill** <br>
   A Witch&rsquo;s grim voice is so strong that it can kill.
@@ -865,15 +877,17 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   _(Xanathar's Guide to Everything, WotC)_
 
 - **Weird** <br>
+  You don't just affect other minds, you inhabit them &mdash; and it is terrifying.
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Foresight** <br>
-
 - **Time Stop** <br>
+  Gain time to do the dishes, tidy up and polish the displays. They won't know what happened.
 
 - **Wish** <br>
   You know "what is really real" so well that the universe shows respect and nudges a bit.
+
+\page
 
 ## Witch Subclasses
 
@@ -884,8 +898,6 @@ You gain a Witch subclass of your choice. A subclass is a specialization that gr
 _Weave Light, Song and Hidden Truths_
 
 The Maiden Calling represents renewal and charm, a figure of brightness who bends hearts and perception with equal ease. She is youth&rsquo;s courage, whimsy, and allure, standing at the threshold between innocence and cunning. The Maiden&rsquo;s power turns foes against themselves, shields companions, and cloaks truth in illusions that delight or confound.
-
-\page
 
 Playing a Maiden Witch means embracing versatility and performance. You may weave illusions, manipulate emotions, or shield companions with spells that feel as much like dance as war. Your role is often to influence the field without brute force, creating openings for others. The Maiden thrives in players who enjoy creativity and social subtlety as much as combat tactics.
 
@@ -958,6 +970,8 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
 
+\page
+
 You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
 
 | Witch Level | Aura Uses |
@@ -972,8 +986,6 @@ _Your voice weaves a binding harmony that steadies hearts and wards off hostile 
 As an action, you begin a mystical singsong that lasts for 1 minute, requiring concentration as though you were concentrating on a spell. While it lasts, each ally of your choice within 30 feet of you has advantage on saving throws against spells and other magical effects.
 
 Once you use this feature, you can’t do so again until you finish a long rest.
-
-\page
 
 ### The Mother Calling
 
@@ -1049,6 +1061,8 @@ Whenever a creature of your choice (including you) rolls one or more Hit Dice to
 
 In addition, once per long rest, you can tend to one creature during a Short Rest. That creature regains hit points by rolling one additional Hit Die without expending their current Hit Dice.
 
+\page
+
 #### Level 10: Charm Offensive
 
 _You wade into battle or soirees to lower tensions._
@@ -1064,8 +1078,6 @@ _Your familiar draws respect and frightens others._
 When you command your familiar to take the **Attack** action using the rules of your _Dangerous Familiar_ feature, its attacks can unnerve its foes. Until the end of your next turn, whenever your familiar hits a creature with an attack, that creature must succeed on a Wisdom saving throw against your Witch spell save DC or gain the **Frightened** condition until the end of its next turn.
 
 Creatures immune to the **Frightened** condition are unaffected.
-
-\page
 
 You can use this feature a number of times per long rest as shown in the _Terrifying Familiar Uses_ table. You regain all expended uses when you finish a long rest.
 
@@ -1140,6 +1152,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Vampiric Touch** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
 
+\page
+
 #### Level 6: Borrowing
 
 _You inhabit the body of a natural creature for a time, controlling it as your own._
@@ -1157,8 +1171,6 @@ The creature must lack the **Swarm** trait, cannot be sentient, and it must have
 | 6  | 1/4 |
 | 10 | 1 |
 | 14 | 2 |
-
-\page
 
 {{note
 **DM Guidance&mdash;Borrowing Targets.** Outside truly barren locales (airless void, deep astral, featureless demiplane), assume either no or one or more eligible Beasts or Plants nearby by narrative convenience. Favor creatures that fit the situation and CR limits; the witch chooses among the options you present.
