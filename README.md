@@ -27,6 +27,8 @@
      Beyond](https://www.dndbeyond.com/feats/2092753-ettin-ancestry) or
      [Homebrewery](https://homebrewery.naturalcrit.com/edit/0rIVxQJVCTxD) for
      online rendering.
+   - [_Scribe&rsquo;s Supplies_](./scribes-supplies.md) &mdash; An improved
+     and magical version of _Calligrapher&rsquo;s Supplies_.
    - [_Troll Ancestry_](./troll-ancestry.md) &mdash; An alternative species
      for Goliath&rsquo;s _Giant Ancestry_ feature.
      Focus is on **self-healing through regeneration**.
