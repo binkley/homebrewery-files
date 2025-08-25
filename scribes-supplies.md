@@ -10,6 +10,14 @@ Different inks, quills and papers within the kit may carry magical properties. O
 
 The kit contains an ornate quill that never dulls and is attuned to the supplies. The magical properties of the inks and papers function only when you write with this quill or another quill from this kit.
 
+#### Combining Supplies
+
+You can use more than one type of supply (ink, quill, or paper) for a document, but you can't combine two supplies of the same type on the same page. For example, you might switch quills mid-document, or change inks when starting a new page, but you can't layer two magical inks on the same sheet.
+
+If a page is written with more than one magical supply of the same type, the DM decides which effect prevails, or whether the magic fails entirely.
+
+Casting _Detect Magic_ or similar effects on writings made with these supplies reveals a general sense of effects on each page from inks, quills or paper used.
+
 #### Rarity and Contents
 
 Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supplies: inks, quills, or paper. Roll on the _Supply_ table for which supply items are in this item.
@@ -18,36 +26,62 @@ Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of 
 |:- |:-|:-|
 | **Apprentice&rsquo;s Supplies** | Common | Roll 2 times on the _Common Supplies_ table |
 | **Journeyman&rsquo;s Supplies** | Uncommon | Roll 3 times on the _Common Supplies_ table, and 1 time on the _Uncommon Supplies_ table |
-| **Expert&rsquo;s Supplies** | Rare |
+| **Expert&rsquo;s Supplies** | Rare | Roll 3 times on the _Common Supplies_ table, 2 times on the _Uncommon Supply_ table, and 1 time on the _Rare Supply_ table |
 | **Master&rsquo;s Supplies** | Very Rare |
 | **Legendary Supplies** | Legendary |
 
 ##### Common Supplies
 
-Roll a d6 and reroll for duplicate supply items:
+You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6 and reroll for items you already have:
 
-| Roll | Supply |
+| Roll | Supply Item |
 |:-:|:-|
 | 1 | Bountiful Ink |
-| 2 | Hesitant Ink |
-| 3 | Invisible Ink |
-| 4&ndash;6 | Roll two more times ignoring this result |
+| 2 | Chameleon Quill |
+| 3 | Enduring Paper |
+| 4 | Hesitant Ink |
+| 5 | Invisible Ink |
+| 6 | Roll two more times ignoring this result |
 
-#### Inkpots
+##### Uncommon Supplies
 
-Every inkpot has different types of ink and refills after a long rest. Ink from an inkpot becomes ordinary unless drawn with a quill from these supplies.
+You gain an Uncommon supply item in your _Scribe&rsquo;s Supplies_. Roll a d6 and reroll for items you already have:
 
-- **Bountiful Ink.** This inkpot never runs dry and provides mundane ink in any color you choose.
-- **Hesitant Ink.** This inkpot is for tentative writing and runs dry after first use. As an action, you can erase mundane writing created with its ink since your last long rest. The chosen writing must be visible and within 30 feet of you. This feature can't erase magical writing, such as spell scrolls or glyphs.
-- **Interpreting Ink.** This inkpot is for translations and runs dry after first use. When read, the writng rearranges itself into the language of the reader.
-- **Invisible Ink.** This inkpot is for hidden writing and runs dry after first use. As an action, you can write invisibly with this ink though a faint lemony scent lingers. Writing made this way remains invisible until revealed by heat, such as being held near a flame. The effect applies only to mundane writing, not magical script such as spell scrolls or glyphs.
+| Roll | Supply Item |
+|:-:|:-|
+| 1 | Chameleon Quill |
+| 2 | Enduring Paper |
+| 3 | Interpreting Ink |
+| 4 | Vocal Paper |
+| 5&ndash;6 | Roll two more times ignoring this result |
+
+#### Inks
+
+Every inkpot refills after a Long Rest and each ink is in its own pot. Ink becomes mundane unless applied with a quill from this kit.
+
+- **Bountiful Ink.** _Favored by artists, students and novices, this ink is colorful._
+This inkpot never runs dry. It produces mundane ink in any color you choose. This is a common supply item.
+- **Hesitant Ink.** _Favored for drafts and revisions, this light ink is never truly final._
+This inkpot runs dry after first use. As an action, you can erase mundane writing created with it since your last Long Rest. The chosen writing must be visible and within 30 feet of you. Magical writing, such as spell scrolls or glyphs, is unaffected. This is a common supply item.
+- **Interpreting Ink.** _Favored by diplomats, this ink is universally understood._
+This inkpot runs dry after first use. Writing made with it rearranges itself into the language of the reader. This is an uncommon supply item.
+- **Invisible Ink.** _Favored by spies and pranksters, this ink leaves only a faint lemony scent._
+This inkpot runs dry after first use. As an action, you can write invisibly with this ink. Writing made this way remains invisible until revealed by heat, such as being held near a flame. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a common supply item.
 
 #### Quills
 
-- **Learned Quill.** This quill adds commentary. While you write, side annotations appear in the margins, automatically noting rumors or lore for subjects it finds interesting.
-- **Suggestive Quill.** This quill is compulsive. Text written with this quill can subtly compel a reader to follow its written instruction.
+- **Chameleon Quill.** _Favored by nobles and counterfeiters, this quill writes in another&rsquo;s hand._
+When you write with this quill, the handwriting matches the style of any sample you’ve seen within the last 24 hours. This is an uncommon supply item.
+- **Learned Quill.** _Favored by scholars and the curious, this quill adds commentary._
+When you write with this quill, margin notes appear, automatically recording rumors or lore related to subjects you mention. This is a rare supply item.
+- **Suggestive Quill.** _Favored by the bossy, this quill&rsquo;s words urge obedience._
+When you write with this quill, a short command can subtly compel a reader to follow its written instruction. This is a rare supply item.
 
 #### Paper
 
-- **Paired Paper.** This paper is for ranged communication. Writing on one sheet appears instantly on its paired sheet.
-- **Vocal Paper.** This paper is for the illetrate. When opened or touched, pages speaks their contents aloud in the language they were written in.
+- **Enduring Paper.** _Favored by archivists and travelers, this parchment mocks fire and flood._
+Writing on this paper can't be damaged by fire or water, and the sheet doesn’t deteriorate with age. This is an uncommon supply item.
+- **Paired Paper.** _Favored by remote penpals, these blue sheets reach to their twins._
+Writing on one sheet of this paper appears instantly on its paired sheet within the same plane. This is an uncommon supply item.
+- **Vocal Paper.** _Favored by illiterate readers, this paper speaks its words._
+When a sheet of this paper is opened or touched, it speaks its contents aloud in the language they were written in. This is an uncommon supply item.
