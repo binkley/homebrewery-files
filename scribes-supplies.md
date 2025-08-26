@@ -66,20 +66,12 @@ You gain an Rare supply item in your _Scribe&rsquo;s Supplies_. Roll a d10 and r
 | Roll | Supply Item |
 |:-:|:-|
 | 1 | Binding Paper |
-| 2 | Dream Ink |
-| 3 | Explosive Ink |
-| 4 | Illusory Ink |
-| 5 | Learned Quill |
+| 2 | Explosive Ink |
+| 3 | Illusory Ink |
+| 4 | Learned Quill |
+| 5 | Sleeping Ink |
 | 6 | Suggestive Quill |
 | 7&ndash;10 | Roll two more times ignoring this result |
-
-##### Vary Rare Supplies
-
-You gain an Very Rare supply item in your _Scribe&rsquo;s Supplies_. Roll a d12 and reroll for supply items you already have:
-
-| Roll | Supply Item |
-|:-:|:-|
-| 1&ndash;12 | Roll two more times ignoring this result |
 
 \page
 
@@ -89,11 +81,8 @@ Every inkpot refills after a Long Rest and each ink is in its own pot. Ink becom
 
 - **Bountiful Ink.** _Favored by artists, students and novices, this ink is colorful._
 This inkpot never runs dry. It produces mundane ink in any color you choose. This is a common supply item.
-- **Dream Ink.**
-Writing with this ink can appear in a possessor&rsquo;s dreams.
 - **Explosive Ink.** _Favored by assassins and saboteurs, this ink hides fiery secrets._
-This inkpot runs dry after first use. You can use it to inscribe a single page with explosive script. 
-The first creature to read the page must succeed on a DC 15 _Dexterity_ saving throw or take 4d8 fire damage in a 15-foot radius (half damage on a success). The page is destroyed in the explosion. This is a very rare supply item.
+This inkpot runs dry after first use. You can use it to inscribe a single page with explosive script.  The first creature to read the page must succeed on a DC 15 _Dexterity_ saving throw or take 4d8 fire damage in a 15-foot radius (half damage on a success). The page is destroyed in the explosion. This is a very rare supply item.
 - **Hesitant Ink.** _Favored for drafts and revisions, this light ink is never truly final._
 This inkpot runs dry after first use. As an action, you can erase mundane writing created with it since your last Long Rest. The chosen writing must be visible and within 30 feet of you. Magical writing, such as spell scrolls or glyphs, is unaffected. This is a common supply item.
 - **Illusory Ink.** _Favored by spies and conspirators, this ink hides one message within another._
@@ -102,10 +91,10 @@ This inkpot runs dry after first use. Writing with it allows you to create both 
 This inkpot runs dry after first use. Writing made with it rearranges itself into the language of the reader. This is an uncommon supply item.
 - **Invisible Ink.** _Favored by spies and pranksters, this ink leaves only a faint lemony scent._
 This inkpot runs dry after first use. As an action, you can write invisibly with this ink. Writing made this way remains invisible until revealed by heat, such as being held near a flame. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a common supply item.
+- **Sleeping Ink.** _Favored by mystics, this ink bleeds into dreams._
+This inkpot runs dry after first use. Writing made with this ink appears for 7 days in the dreams of any creature possessing the page each time it sleeps. These dreams are fully recalled upon waking. After 7 dreams, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dreams include visions of them. Dreams reflect the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, a dream may also produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting advantage on checks related to a place dreamt of, revealing hints to the location of an object, or similar results.
 - **Vanishing Ink.** _Favored by charlatans, scouts and smugglers, this ink goes away._
 This inkpot runs dry after first use. Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as _Detect Magic_). Magical writing, such as spell scrolls or glyphs, is unaffected. This is an uncommon supply item.
-
-\column
 
 #### Quills
 
@@ -115,6 +104,8 @@ When you write with this quill, the handwriting matches the style of any sample 
 When you write with this quill, margin notes appear, automatically recording rumors or lore related to subjects you mention. This is a rare supply item.
 - **Suggestive Quill.** _Favored by the bossy, this quill&rsquo;s words urge obedience._
 When you write with this quill, a short command can subtly compel a reader to follow its written instruction. This is a rare supply item.
+
+\page
 
 #### Paper
 
@@ -128,8 +119,6 @@ Writing on this paper can't be damaged by fire or water, and the sheet doesn’t
 As an action, the sheet folds into a Tiny paper creature of a form chosen by the writer (such as a flower, bird, or insect). The creature has AC 8, 1 hit point, and a Speed of 20 feet, fly 20 feet. The reader can direct the creature’s movement as a bonus action. The creature lasts for 1 hour, or until it is destroyed or unfolded, after which it becomes a mundane sheet of paper. This is an uncommon supply item.
 - **Paired Paper.** _Favored by remote penpals, these blue sheets reach to their twins._
 Writing on one sheet of this paper appears instantly on its paired sheet within the same plane. This is an uncommon supply item.
-
-\page
 
 - **Sealed Paper.** Favored for contracts and decrees, this parchment resists tampering.
 Writing on this paper can’t be erased, smudged, or altered by mundane means. Magical alterations (such as _Dispel Magic_ or _Wish_) may still affect it at DM discretion. This is an uncommon supply item.
