@@ -20,7 +20,7 @@ You can use more than one type of supply (ink, quill, or paper) for a document, 
 
 Specific supply items may be added to this kit through the rules for crafting magic items, provided the crafter has the necessary proficiency and resources. Each inkpot, quill, or sheet of paper lists its rarity. Adding a supply item does not change the rarity of the kit as a whole, and does not allow rerolls on the supply tables.
 
-#### Rarity and Contents
+### Rarity and Contents
 
 Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supplies: inks, quills, or paper. Roll 2 times on the supply table for the item rarity, and 2 times for each table of a lesser rarity:
 
@@ -32,7 +32,7 @@ Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of 
 
 ##### Common Supplies
 
-You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6 and reroll for supply items your kit already contains:
+You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6. If you roll a supply item your kit already contains, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -45,7 +45,7 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6 and r
 
 ##### Uncommon Supplies
 
-You gain an Uncommon supply item in your _Scribe&rsquo;s Supplies_. Roll a d8 and reroll for supply items your kit already contains:
+You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If you roll a supply item your kit already contains, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -60,7 +60,7 @@ You gain an Uncommon supply item in your _Scribe&rsquo;s Supplies_. Roll a d8 an
 
 ##### Rare Supplies
 
-You gain an Rare supply item in your _Scribe&rsquo;s Supplies_. Roll a d10 and reroll for supply items you already have:
+You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d10. If you roll a supply item your kit already contains, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -68,11 +68,12 @@ You gain an Rare supply item in your _Scribe&rsquo;s Supplies_. Roll a d10 and r
 | 2 | Explosive Ink |
 | 3 | Illusory Ink |
 | 4 | Learned Quill |
-| 5 | Sleeping Ink |
-| 6 | Sharp Quill |
-| 7 | Suggestive Quill |
-| 8 | Warped Paper |
-| 9&ndash;10 | Roll two more times ignoring this result |
+| 5 | Mirror Paper |
+| 6 | Sleeping Ink |
+| 7 | Sharp Quill |
+| 8 | Suggestive Quill |
+| 9 | Warped Paper |
+| 10 | Roll two more times ignoring this result |
 
 \page
 
@@ -80,51 +81,89 @@ You gain an Rare supply item in your _Scribe&rsquo;s Supplies_. Roll a d10 and r
 
 Every inkpot refills after a Long Rest and each ink is in its own pot. Ink becomes mundane unless applied with a quill from this kit.
 
-- **Bountiful Ink.** _Favored by artists, students and novices, this ink is colorful._
+_**Bountiful Ink.**_
+_Favored by artists, students and novices, this ink is colorful._
 This inkpot never runs dry. It produces mundane ink in any color you choose. This is a common supply item.
-- **Explosive Ink.** _Favored by assassins and saboteurs, this ink hides fiery secrets._
-This inkpot runs dry after first use. You can use it to inscribe a single page with explosive script.  The first creature to read the page must succeed on a DC 15 _Dexterity_ saving throw or take 4d8 fire damage in a 15-foot radius (half damage on a success). The page is destroyed in the explosion. This is a very rare supply item.
-- **Hesitant Ink.** _Favored for drafts and revisions, this light ink is never truly final._
+
+_**Explosive Ink.**_
+_Favored by saboteurs, this ink hides a trap in words._
+This inkpot runs dry after first use. When a creature reads the writing, the ink explodes in flame. The reader and all creatures within 10 feet of it must make a DC 15 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much on a successful one. The page is destroyed. This is a rare supply item.
+
+_**Hesitant Ink.**_
+_Favored for drafts and revisions, this light ink is never truly final._
 This inkpot runs dry after first use. As an action, you can erase mundane writing created with it since your last Long Rest. The chosen writing must be visible and within 30 feet of you. Magical writing, such as spell scrolls or glyphs, is unaffected. This is a common supply item.
-- **Illusory Ink.** _Favored by spies and conspirators, this ink hides one message within another._
-This inkpot runs dry after first use. Writing with it allows you to create both a false and a hidden message on the same page. A command word chosen by you or a DC 13 _Intelligence (Investigation)_ check reveals the hidden message. Both messages are mundane writing, not magical text such as spell scrolls or glyphs.
-- **Interpreting Ink.** _Favored by diplomats, this ink is universally understood._
+
+_**Illusory Ink.**_
+_Favored by deceivers, this ink one message within another._
+This inkpot runs dry after first use. Writing made with this ink creates the illusion of any text or image the writer describes. A creature that reads the page must succeed on a DC 15 Wisdom saving throw or believe the illusory writing is genuine. On a success, the creature recognizes the writing as illusory, and reads the true writing. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a rare supply item.
+
+_**Interpreting Ink.**_
+_Favored by diplomats, this ink is universally understood._
 This inkpot runs dry after first use. Writing made with it rearranges itself into the language of the reader. This is an uncommon supply item.
-- **Invisible Ink.** _Favored by spies and pranksters, this ink leaves only a faint lemony scent._
+
+_**Invisible Ink.**_
+_Favored by spies and pranksters, this ink leaves only a faint lemony scent._
 This inkpot runs dry after first use. As an action, you can write invisibly with this ink. Writing made this way remains invisible until revealed by heat, such as being held near a flame. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a common supply item.
-- **Sleeping Ink.** _Favored by mystics, this ink bleeds into dreams._
-This inkpot runs dry after first use. Writing made with this ink appears for 7 days in the dreams of any creature possessing the page each time it sleeps. These dreams are fully recalled upon waking. After 7 dreams, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dreams include visions of them. Dreams reflect the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, a dream may also produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting advantage on checks related to a place dreamt of, revealing hints to the location of an object, or similar results. This is a rare supply item.
-- **Vanishing Ink.** _Favored by charlatans, scouts and smugglers, this ink goes away._
+
+_**Sleeping Ink.**_
+_Favored by mystics, this ink bleeds into dreams._
+This inkpot runs dry after first use. Writing made with this ink appears in the dreams of any creature that possesses the page each time it sleeps for 7 nights. The dream is fully recalled upon waking. After 7 dreams by any creature, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dream includes visions of them. The dream reflects the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, dreams may produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting advantage on checks related to a place dreamt of, revealing hints toward the location of an object, or similar results. This is a rare supply item.
+
+_**Vanishing Ink.**_
+_Favored by charlatans, scouts and smugglers, this ink goes away._
 This inkpot runs dry after first use. Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as _Detect Magic_). Magical writing, such as spell scrolls or glyphs, is unaffected. This is an uncommon supply item.
 
 #### Quills
 
-- **Chameleon Quill.** _Favored by nobles and counterfeiters, this quill writes in another&rsquo;s hand._
+_**Chameleon Quill.**_
+_Favored by nobles and counterfeiters, this quill writes in another&rsquo;s hand._
 When you write with this quill, the handwriting matches the style of any sample you’ve seen within the last 24 hours. This is an uncommon supply item.
-- **Learned Quill.** _Favored by scholars and the curious, this quill adds commentary._
-When you write with this quill, margin notes appear, automatically recording rumors or lore related to subjects you mention. This is a rare supply item.
-- **Sharp Quill.** _Favored by duelists and assassins, this quill is mightier than the dagger._
-This quill functions as a mundane writing tool or as a magic dagger (1d4 piercing damage, finesse, light, thrown 20/60 ft.). While you are attuned to these _Scribe&rsquo;s Supplies_, you can command this quill to fly and fight as a _Dancing Sword_, except it uses the statistics of a dagger instead of a longsword.
-- **Suggestive Quill.** _Favored by the bossy, this quill&rsquo;s words urge obedience._
-When you write with this quill, a short command can subtly compel a reader to follow its written instruction. This is a rare supply item.
 
-\page
+_**Learned Quill.**_
+_Favored by scholars and the curious, this quill adds commentary._
+When you write with this quill, margin notes appear, automatically recording rumors or lore related to subjects you mention. This is a rare supply item.
+
+_**Sharp Quill.**_
+_Favored by duelists and assassins, this quill is mightier than the dagger._
+This quill functions as a mundane writing tool or as a magic dagger (1d4 piercing damage, finesse, light, thrown 20/60 ft.). While you are attuned to these _Scribe&rsquo;s Supplies_, you can command this quill to fly and fight as a _Dancing Sword_, except it uses the statistics of a dagger instead of a longsword.
+
+_**Suggestive Quill.**_
+_Favored by the bossy, this quill&rsquo;s words urge obedience._
+When you write with this quill, a short command can subtly compel a reader to follow its written instruction. This is a rare supply item.
 
 #### Paper
 
 Every sheaf of papers has 10 pages, restores after a Long Rest, and every paper type is in its own sheaf. Paper becomes mundane unless written on with a quill from this kit.
 
-- **Binding Paper.** *Favored by magistrates and devils alike, this parchment enforces oaths.*
-Any signed contract voluntarily signed on this paper is magically binding. A creature willingly breaking the contract suffers 2d6 psychic damage after each Long Rest until the terms are fulfilled or the paper is destroyed. The contract also ends when _Remove Curse_, _Greater Restoration_, or similar magic is cast on the signatory for this purpose. This paper is immune to mundane damage. It can be destroyed only by magical fire, acid, or spells that explicitly destroy magic items, such as _Disintegrate_ or _Wish_. This is a rare supply item.
-- **Enduring Paper.** _Favored by archivists and travelers, this parchment mocks fire and flood._
+_**Binding Paper.**_
+_Favored by magistrates and devils, this parchment enforces oaths._
+Any contract written on this paper becomes magically binding if all parties sign it voluntarily. A creature that knowingly breaks the terms must succeed on a DC 15 Wisdom saving throw at the end of each Long Rest or take 2d6 psychic damage. This damage continues each day until the terms are fulfilled or the page is destroyed. This paper resists mundane damage and can only be destroyed by powerful magic, such as *Disintegrate* or *Wish*. Casting *Remove Curse*, *Greater Restoration*, or similar magic ends the contract without harming the paper. This is a rare supply item.
+
+\page
+
+_**Enduring Paper.**_
+_Favored by archivists and travelers, this parchment mocks fire and flood._
 Writing on this paper can't be damaged by fire or water, and the sheet doesn’t deteriorate with age. This is an uncommon supply item.
-- **Origami Paper.** _Favored by entertainers and spies, this sheet folds itself into living shapes._
+
+_**Origami Paper.**_
+_Favored by entertainers and spies, this sheet folds itself into living shapes._
 As an action, the sheet folds into a Tiny paper creature of a form chosen by the writer (such as a flower, bird, or insect). The creature has AC 8, 1 hit point, and a Speed of 20 feet, fly 20 feet. The reader can direct the creature’s movement as a bonus action. The creature lasts for 1 hour, or until it is destroyed or unfolded, after which it becomes a mundane sheet of paper. This is an uncommon supply item.
-- **Paired Paper.** _Favored by remote penpals, these blue sheets reach to their twins._
+
+_**Mirror Paper.**_
+_Favored by the nosey, this glossy sheet reflects more than words._
+This sheet can be used once and becomes mundane afterward, keeping any writing on it. The first creature that reads the writing must succeed on a DC 15 Wisdom saving throw or be placed under the effect of the _Scrying_ spell, targeting the writer as the subject. The spell requires no components, lasts for 10 minutes, and doesn't use a spell slot. This is a rare supply item.
+_**Paired Paper.**_
+_Favored by remote penpals, these blue sheets reach to their twins._
 Writing on one sheet of this paper appears instantly on its paired sheet within the same plane. This is an uncommon supply item.
-- **Sealed Paper.** Favored for contracts and decrees, this parchment resists tampering.
+
+_**Sealed Paper.**_
+_Favored for contracts and decrees, this parchment resists tampering._
 Writing on this paper can’t be erased, smudged, or altered by mundane means. Magical alterations (such as _Dispel Magic_ or _Wish_) may still affect it at DM discretion. This is an uncommon supply item.
-- **Vocal Paper.** _Favored by illiterate readers, this paper speaks its words._
+
+_**Vocal Paper.**_
+_Favored by illiterate readers, this paper speaks its words._
 When a sheet of this paper is opened or touched, it speaks its contents aloud in the language they were written in. This is an uncommon supply item.
-- **Warped Paper.** _Favored by close allies and tricksters, this cockled sheet bends space and words._
-This sheet can be used once and then becomes mundane, keeping any writing on it. When a creature willingly reads the writing, the reader and the writer instantly swap places, provided they are on the same plane of existence and within 1 mile of each other. Both creatures arrive safely in each other&rsquo;s space. If the swap would place either creature into an occupied space too small for it, the swap fails and the paper crumbles to ash. Any grapple affecting either creature ends when the swap occurs. This is a rare supply item.
+
+_**Warped Paper.**_
+_Favored by close allies and tricksters, this cockled sheet bends space and words._
+This sheet can be used once and becomes mundane afterward, keeping any writing on it. When a creature willingly reads the writing, the reader and the writer instantly swap places, provided they are on the same plane of existence and within 1 mile of each other. Both creatures arrive safely in each other&rsquo;s space. If the swap would place either creature into an occupied space too small for it, the swap fails and the paper crumbles to ash. Any grapple affecting either creature ends when the swap occurs. This is a rare supply item.
