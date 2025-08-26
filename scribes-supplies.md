@@ -6,7 +6,7 @@ This lacquered case contains inkpots, quills, and sheets of paper. To most, it f
 
 Different inks, quills and papers within the kit may carry magical properties. Otherwise, the supplies function as **Calligrapher&rsquo;s Supplies** for all checks and crafting uses.
 
-Casting _Detect Magic_ or similar effects on writings made with these supplies reveals a general sense of effects on each page from inks, quills or paper used.
+Writings made with these supplies are magical for _Detect Magic_. Casting _Identify_ reveals effects for each page written using the supplies. This item, supplies it contains, or pages written using it resist mundane damage and can only be destroyed by powerful magic, such as _Disintegrate_ or _Wish_.
 
 #### Special Quill
 
@@ -22,13 +22,14 @@ Specific supply items may be added to this kit through the rules for crafting ma
 
 ### Rarity and Contents
 
-Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supplies: inks, quills, or paper. Roll 2 times on the supply table for the item rarity, and 2 times for each table of a lesser rarity:
+Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supplies: inks, quills or paper.
+The number of enchanted pages you can create each Long Rest also scales with rarity. Mundane writing does not have a limit.
 
-| Item | Rarity | Rolls |
-|:- |:-|:-|
-| **Apprentice&rsquo;s Supplies** | Common | Roll 2 times on the _Common Supplies_ table |
-| **Journeyman&rsquo;s Supplies** | Uncommon | Roll 2 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
-| **Expert&rsquo;s Supplies** | Rare | Roll 2 times on the _Common Supplies_ table, 2 times on the _Uncommon Supply_ table, and 2 time on the _Rare Supply_ table |
+| Item | Rarity | Daily Pages | Rolls |
+|:-|:-|:-:|:-|
+| **Apprentice’s Supplies** | Common | 1 | Roll 2 times on the _Common Supplies_ table |
+| **Journeyman’s Supplies** | Uncommon | 3 | Roll 3 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
+| **Expert’s Supplies** | Rare | 5 | Roll 3 times on the _Common Supplies_ table, 3 times on the _Uncommon Supplies_ table, and 2 times on the _Rare Supplies_ table |
 
 ##### Common Supplies
 
@@ -38,10 +39,9 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6. If y
 |:-:|:-|
 | 1 | Bountiful Ink |
 | 2 | Chameleon Quill |
-| 3 | Enduring Paper |
-| 4 | Hesitant Ink |
-| 5 | Invisible Ink |
-| 6 | Roll two more times ignoring this result |
+| 3 | Hesitant Ink |
+| 4 | Invisible Ink |
+| 5&ndash;6 | Roll two more times ignoring this result |
 
 ##### Uncommon Supplies
 
@@ -50,8 +50,8 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If y
 | Roll | Supply Item |
 |:-:|:-|
 | 1 | Chameleon Quill |
-| 2 | Enduring Paper |
-| 3 | Interpreting Ink |
+| 2 | Interpreting Ink |
+| 3 | Mimeograph Paper |
 | 4 | Origami Paper |
 | 5 | Sealed Paper |
 | 6 | Vanishing Ink |
@@ -61,6 +61,8 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If y
 ##### Rare Supplies
 
 You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d10. If you roll a supply item your kit already contains, reroll.
+
+\page
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -74,8 +76,6 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d10. If 
 | 8 | Suggestive Quill |
 | 9 | Warped Paper |
 | 10 | Roll two more times ignoring this result |
-
-\page
 
 #### Inks
 
@@ -133,25 +133,25 @@ When you write with this quill, a short command can subtly compel a reader to fo
 
 #### Paper
 
-Every sheaf of papers has 10 pages, restores after a Long Rest, and every paper type is in its own sheaf. Paper becomes mundane unless written on with a quill from this kit.
-
-_**Binding Paper.**_
-_Favored by magistrates and devils, this parchment enforces oaths._
-Any contract written on this paper becomes magically binding if all parties sign it voluntarily. A creature that knowingly breaks the terms must succeed on a DC 15 Wisdom saving throw at the end of each Long Rest or take 2d6 psychic damage. This damage continues each day until the terms are fulfilled or the page is destroyed. This paper resists mundane damage and can only be destroyed by powerful magic, such as *Disintegrate* or *Wish*. Casting *Remove Curse*, *Greater Restoration*, or similar magic ends the contract without harming the paper. This is a rare supply item.
+Every sheaf of paper contains 10 sheets. At the end of a Long Rest, each sheaf regains all expended sheets, restoring it to 10. Magical properties function only when the paper is written on with a quill from this kit. Any unused sheets beyond this number lose their magic and become mundane.
 
 \page
 
-_**Enduring Paper.**_
-_Favored by archivists and travelers, this parchment mocks fire and flood._
-Writing on this paper can't be damaged by fire or water, and the sheet doesn’t deteriorate with age. This is an uncommon supply item.
+_**Binding Paper.**_
+_Favored by magistrates and devils, this parchment enforces oaths._
+Any contract written on this paper becomes magically binding if all parties sign it voluntarily. A creature that knowingly breaks the terms must succeed on a DC 15 Wisdom saving throw at the end of each Long Rest or take 2d6 psychic damage. This damage continues each day until the terms are fulfilled or the page is destroyed. Casting *Remove Curse*, *Greater Restoration*, or similar magic ends the contract without harming the paper. This is a rare supply item.
+
+_**Mimeograph Paper.**_ _Favored by calligraphers and copyists, these blue sheets echo every stroke of the quill._
+When you write on a sheet of this paper, the writing simultaneously appear on up to 9 other sheets from the same sheaf within 5 feet of you. This is an uncommon supply item.
+
+_**Mirror Paper.**_
+_Favored by the nosey, this glossy sheet reflects more than words._
+This sheet can be used once and becomes mundane afterward, keeping any writing on it. The first creature that reads the writing must succeed on a DC 15 Wisdom saving throw or be placed under the effect of the _Scrying_ spell, targeting the writer as the subject. The spell requires no components, lasts for 10 minutes, and doesn't use a spell slot. This is a rare supply item.
 
 _**Origami Paper.**_
 _Favored by entertainers and spies, this sheet folds itself into living shapes._
 As an action, the sheet folds into a Tiny paper creature of a form chosen by the writer (such as a flower, bird, or insect). The creature has AC 8, 1 hit point, and a Speed of 20 feet, fly 20 feet. The reader can direct the creature’s movement as a bonus action. The creature lasts for 1 hour, or until it is destroyed or unfolded, after which it becomes a mundane sheet of paper. This is an uncommon supply item.
 
-_**Mirror Paper.**_
-_Favored by the nosey, this glossy sheet reflects more than words._
-This sheet can be used once and becomes mundane afterward, keeping any writing on it. The first creature that reads the writing must succeed on a DC 15 Wisdom saving throw or be placed under the effect of the _Scrying_ spell, targeting the writer as the subject. The spell requires no components, lasts for 10 minutes, and doesn't use a spell slot. This is a rare supply item.
 _**Paired Paper.**_
 _Favored by remote penpals, these blue sheets reach to their twins._
 Writing on one sheet of this paper appears instantly on its paired sheet within the same plane. This is an uncommon supply item.
