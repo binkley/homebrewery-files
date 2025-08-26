@@ -29,7 +29,6 @@ Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of 
 | **Apprentice&rsquo;s Supplies** | Common | Roll 2 times on the _Common Supplies_ table |
 | **Journeyman&rsquo;s Supplies** | Uncommon | Roll 2 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
 | **Expert&rsquo;s Supplies** | Rare | Roll 2 times on the _Common Supplies_ table, 2 times on the _Uncommon Supply_ table, and 2 time on the _Rare Supply_ table |
-| **Master&rsquo;s Supplies** | Very Rare | Roll 2 times on the _Common Supplies_ table, 2 times on the _Uncommon Supply_ table, 2 times on the _Rare Supply_ table, and 2 times on the _Very Rare Supply_ table |
 
 ##### Common Supplies
 
@@ -70,8 +69,9 @@ You gain an Rare supply item in your _Scribe&rsquo;s Supplies_. Roll a d10 and r
 | 3 | Illusory Ink |
 | 4 | Learned Quill |
 | 5 | Sleeping Ink |
-| 6 | Suggestive Quill |
-| 7&ndash;10 | Roll two more times ignoring this result |
+| 6 | Sharp Quill |
+| 7 | Suggestive Quill |
+| 8&ndash;10 | Roll two more times ignoring this result |
 
 \page
 
@@ -92,7 +92,7 @@ This inkpot runs dry after first use. Writing made with it rearranges itself int
 - **Invisible Ink.** _Favored by spies and pranksters, this ink leaves only a faint lemony scent._
 This inkpot runs dry after first use. As an action, you can write invisibly with this ink. Writing made this way remains invisible until revealed by heat, such as being held near a flame. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a common supply item.
 - **Sleeping Ink.** _Favored by mystics, this ink bleeds into dreams._
-This inkpot runs dry after first use. Writing made with this ink appears for 7 days in the dreams of any creature possessing the page each time it sleeps. These dreams are fully recalled upon waking. After 7 dreams, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dreams include visions of them. Dreams reflect the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, a dream may also produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting advantage on checks related to a place dreamt of, revealing hints to the location of an object, or similar results.
+This inkpot runs dry after first use. Writing made with this ink appears for 7 days in the dreams of any creature possessing the page each time it sleeps. These dreams are fully recalled upon waking. After 7 dreams, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dreams include visions of them. Dreams reflect the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, a dream may also produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting advantage on checks related to a place dreamt of, revealing hints to the location of an object, or similar results. This is a rare supply item.
 - **Vanishing Ink.** _Favored by charlatans, scouts and smugglers, this ink goes away._
 This inkpot runs dry after first use. Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as _Detect Magic_). Magical writing, such as spell scrolls or glyphs, is unaffected. This is an uncommon supply item.
 
@@ -102,6 +102,8 @@ This inkpot runs dry after first use. Writing made with this ink fades after 1 h
 When you write with this quill, the handwriting matches the style of any sample you’ve seen within the last 24 hours. This is an uncommon supply item.
 - **Learned Quill.** _Favored by scholars and the curious, this quill adds commentary._
 When you write with this quill, margin notes appear, automatically recording rumors or lore related to subjects you mention. This is a rare supply item.
+- **Sharp Quill.** _Favored by duelists and assassins, this quill is mightier than the dagger._
+This quill functions as a mundane writing tool or as a magic dagger (1d4 piercing damage, finesse, light, thrown 20/60 ft.). While you are attuned to these _Scribe&rsquo;s Supplies_, you can command this quill to fly and fight as a _Dancing Sword_, except it uses the statistics of a dagger instead of a longsword.
 - **Suggestive Quill.** _Favored by the bossy, this quill&rsquo;s words urge obedience._
 When you write with this quill, a short command can subtly compel a reader to follow its written instruction. This is a rare supply item.
 
