@@ -1,6 +1,6 @@
 # Scribe&rsquo;s Supplies
 
-*Wondrous Item, Varies (requires proficiency with Calligrapher&rsquo;s Supplies)*
+_Wondrous Item, varies (requires attunement by a Humanoid proficient with Calligrapher’s Supplies)_
 
 This lacquered case contains inkpots, quills, and sheets of paper. To most, it functions as ordinary **Calligrapher&rsquo;s Supplies**. To one proficient, however, the supply items reveal subtle magics and suggest there may be even better.
 
