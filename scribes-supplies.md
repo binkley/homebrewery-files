@@ -71,7 +71,8 @@ You gain an Rare supply item in your _Scribe&rsquo;s Supplies_. Roll a d10 and r
 | 5 | Sleeping Ink |
 | 6 | Sharp Quill |
 | 7 | Suggestive Quill |
-| 8&ndash;10 | Roll two more times ignoring this result |
+| 8 | Warped Paper |
+| 9&ndash;10 | Roll two more times ignoring this result |
 
 \page
 
@@ -121,8 +122,9 @@ Writing on this paper can't be damaged by fire or water, and the sheet doesn’t
 As an action, the sheet folds into a Tiny paper creature of a form chosen by the writer (such as a flower, bird, or insect). The creature has AC 8, 1 hit point, and a Speed of 20 feet, fly 20 feet. The reader can direct the creature’s movement as a bonus action. The creature lasts for 1 hour, or until it is destroyed or unfolded, after which it becomes a mundane sheet of paper. This is an uncommon supply item.
 - **Paired Paper.** _Favored by remote penpals, these blue sheets reach to their twins._
 Writing on one sheet of this paper appears instantly on its paired sheet within the same plane. This is an uncommon supply item.
-
 - **Sealed Paper.** Favored for contracts and decrees, this parchment resists tampering.
 Writing on this paper can’t be erased, smudged, or altered by mundane means. Magical alterations (such as _Dispel Magic_ or _Wish_) may still affect it at DM discretion. This is an uncommon supply item.
 - **Vocal Paper.** _Favored by illiterate readers, this paper speaks its words._
 When a sheet of this paper is opened or touched, it speaks its contents aloud in the language they were written in. This is an uncommon supply item.
+- **Warped Paper.** _Favored by close allies and tricksters, this cockled sheet bends space and words._
+This sheet can be used once and then becomes mundane, keeping any writing on it. When a creature willingly reads the writing, the reader and the writer instantly swap places, provided they are on the same plane of existence and within 1 mile of each other. Both creatures arrive safely in each other&rsquo;s space. If the swap would place either creature into an occupied space too small for it, the swap fails and the paper crumbles to ash. Any grapple affecting either creature ends when the swap occurs. This is a rare supply item.
