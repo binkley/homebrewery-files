@@ -4,27 +4,27 @@ _Wondrous Item, varies (requires attunement by a Humanoid proficient with Callig
 
 This black, red and gold ornamented lacquered case contains inkpots, quills, and sheaves of paper. To most, it functions as ordinary **Calligrapher&rsquo;s Supplies**. To one proficient and attuned, however, the tools reveal subtle magics and hint at greater secrets. These supplies can create magical pages, writings and markings.
 
-_**Magical Supplies.**_ Different inks, quills, and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as **Calligrapher&rsquo;s Supplies** for all checks and crafting.
+_**Magical Supplies.**_ Different inks, quills and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as **Calligrapher&rsquo;s Supplies** for all checks and crafting.
 
-_**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per Long Rest. After the effect occurs, the page, writing, or markings becomes mundane but retains any words or symbols you made.
+_**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per Long Rest. After the effect occurs, a page, writing or marking becomes mundane but retains any words or symbols you made.
 
 _**Time Spent.**_ Writing a page with these tools&mdash;whether magical or mundane&mdash;takes 1 minute of _Concentration_. If your concentration is broken, the page is mundane and ruined, and expends any supply items involved.
 
 #### Special Quill
 
-The kit contains an ornate quill that never dulls and is attuned to the supplies. The magical properties of the inks and papers function only when you write with this quill or another quill from this kit. If this quill is lost, stolen, or destroyed, you can replace it by spending a day with another suitable quill.
+The kit contains an ornate quill that never dulls and is attuned to the supplies. The magical properties of the inks and papers function only when you write with this quill or another quill from this kit. If this quill is lost, stolen or destroyed, you can replace it by spending a day with another suitable quill.
 
 #### Combining Supplies
 
-You can use more than one type of supply (ink, quill, or paper) in a document, but you can't combine two supplies of the same type on the same page. For example, you might switch quills mid-document or change inks when starting a new page, but you can't layer two magical inks on the same page. If a page is written with more than one magical supply of the same type, the DM decides which effect prevails, or whether the magic fails entirely.
+You can use more than one type of supply item for a document, but you can't combine two supplies of the same type on the same page. For example, you might switch quills mid-document or change inks for a new page, but you can't layer their effects on the same page.
 
 #### Adding Supplies
 
-Specific supply items can be added to this kit by following the rules for crafting magic items, provided the crafter has the necessary proficiency and resources. Each inkpot, quill, or page of parchment lists its rarity. Adding a supply item does not change the rarity of this item as a whole, and does not allow rerolls on the supply tables.
+Supply items can be added to these supplies by following the rules for crafting magic items, provided the crafter has the necessary proficiency and resources. Each inkpot, quill or page of parchment lists its rarity. Adding a supply item does not change the rarity of this item as a whole, and does not allow rerolls on the supply tables.
 
 ### Rarity and Contents
 
-Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supply items: inks, quills or paper. The number of magical pages or markings you can create each Long Rest also scales with rarity. Mundane uses are unlimited.
+Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supply items. The number of magical pages or markings you can create each Long Rest also scales with rarity. Mundane uses are unlimited.
 
 | Item | Rarity | Daily Uses | Rolls |
 |:-|:-|:-:|:-|
