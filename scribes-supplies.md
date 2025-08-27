@@ -4,7 +4,7 @@ _Wondrous Item, varies (requires attunement by a Humanoid proficient with Callig
 
 This lacquered case contains inkpots, quills, and sheets of paper. To most, it functions as ordinary **Calligrapher&rsquo;s Supplies**. To one proficient, however, the supply items reveal subtle magics and suggest there may be even better.
 
-Different inks, quills and papers within the kit may carry magical properties. Otherwise, the supplies function as **Calligrapher&rsquo;s Supplies** for all checks and crafting uses.
+Different inks, quills, and papers within the kit may carry magical properties. Otherwise, the supplies function as **Calligrapher&rsquo;s Supplies** for all checks and crafting uses. Writing a page with these supplies&mdash;whether magical or mundane&mdash;takes 1 minute of _Concentration_ per page. If your concentration is broken, the page is ruined and must be started again, and you expend any uses of supply items involved in writing that page.
 
 Writings made with these supplies are magical for _Detect Magic_. Casting _Identify_ reveals effects for each page written using the supplies. This item, supplies it contains, or pages written using it resist mundane damage and can only be destroyed by powerful magic, such as _Disintegrate_ or _Wish_.
 
