@@ -2,7 +2,7 @@
 
 _Wondrous Item, varies (requires attunement by a Humanoid proficient with Calligrapher&rsquo;s Supplies)_
 
-This black, red and gold oranamented lacquered case contains inkpots, quills, and sheaves of paper. To most, it functions as ordinary **Calligrapher&rsquo;s Supplies**. To one proficient and attuned, however, the tools reveal subtle magics and hint at greater secrets. These supplies can create magical pages, writings and markings.
+This black, red and gold ornamented lacquered case contains inkpots, quills, and sheaves of paper. To most, it functions as ordinary **Calligrapher&rsquo;s Supplies**. To one proficient and attuned, however, the tools reveal subtle magics and hint at greater secrets. These supplies can create magical pages, writings and markings.
 
 _**Magical Supplies.**_ Different inks, quills, and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as **Calligrapher&rsquo;s Supplies** for all checks and crafting.
 
@@ -26,7 +26,7 @@ Specific supply items can be added to this kit by following the rules for crafti
 
 Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supply items: inks, quills or paper. The number of magical pages or markings you can create each Long Rest also scales with rarity. Mundane uses are unlimited.
 
-| Item | Rarity | Daily Pages | Rolls |
+| Item | Rarity | Daily Uses | Rolls |
 |:-|:-|:-:|:-|
 | **Apprentice’s Supplies** | Common | 1 | Roll 2 times on the _Common Supplies_ table |
 | **Journeyman’s Supplies** | Uncommon | 3 | Roll 3 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
@@ -42,7 +42,8 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6. If y
 | 2 | Chameleon Quill |
 | 3 | Hesitant Ink |
 | 4 | Invisible Ink |
-| 5&ndash;6 | Roll two more times ignoring this result |
+| 5 | Research Paper |
+| 6 | Roll two more times ignoring this result |
 
 ##### Uncommon Supplies
 
@@ -161,7 +162,11 @@ Writing on one sheet of this paper appears instantly on its paired sheet within 
 
 _**Research Paper.**_
 _Favored by apprentices and investigators, this page distills insights into practice._
-When you write on this page, you must note an ability (such as Strength, Intelligence or any of the six). When a creature reads the page before making a related ability or skill check, it can roll a d4 and add it to the result. The benefit is lost once used, and the page becomes mundane, retaining the writing. This is a common supply item.
+When you write on this page, you must note an ability (such as Strength, Intelligence or any of the six). When a creature reads the page before making a related ability or skill check, it can roll a d4 and add it to the result. This is a common supply item.
+
+_**Research Paper.**_
+_Favored by apprentices and investigators, this page distills insights into practice._
+When you write on this page, you must specify one ability (such as Strength or others). When a creature reads the page before making a related ability check or skill check, it can roll a d4 and add it to the result. This is a common supply item.
 
 _**Sealed Paper.**_
 _Favored for contracts and decrees, this parchment resists tampering._
