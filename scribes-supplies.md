@@ -1,29 +1,30 @@
 # Scribe&rsquo;s Supplies
 
-_Wondrous Item, varies (requires attunement by a Humanoid proficient with Calligrapher’s Supplies)_
+_Wondrous Item, varies (requires attunement by a Humanoid proficient with Calligrapher&rsquo;s Supplies)_
 
-This lacquered case contains inkpots, quills, and sheets of paper. To most, it functions as ordinary **Calligrapher&rsquo;s Supplies**. To one proficient, however, the supply items reveal subtle magics and suggest there may be even better.
+This black, red and gold oranamented lacquered case contains inkpots, quills, and sheaves of paper. To most, it functions as ordinary **Calligrapher&rsquo;s Supplies**. To one proficient and attuned, however, the tools reveal subtle magics and hint at greater secrets. These supplies can create magical pages, writings and markings.
 
-Different inks, quills, and papers within the kit may carry magical properties. Otherwise, the supplies function as **Calligrapher&rsquo;s Supplies** for all checks and crafting uses. Writing a page with these supplies&mdash;whether magical or mundane&mdash;takes 1 minute of _Concentration_ per page. If your concentration is broken, the page is ruined and must be started again, and you expend any uses of supply items involved in writing that page.
+_**Magical Supplies.**_ Different inks, quills, and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as **Calligrapher&rsquo;s Supplies** for all checks and crafting.
 
-Writings made with these supplies are magical for _Detect Magic_. Casting _Identify_ reveals effects for each page written using the supplies. This item, supplies it contains, or pages written using it resist mundane damage and can only be destroyed by powerful magic, such as _Disintegrate_ or _Wish_.
+_**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per Long Rest. After the effect occurs, the page, writing, or markings becomes mundane but retains any words or symbols you made.
+
+_**Time Spent.**_ Writing a page with these tools&mdash;whether magical or mundane&mdash;takes 1 minute of _Concentration_. If your concentration is broken, the page is mundane and ruined, and expends any supply items involved.
 
 #### Special Quill
 
-The kit contains an ornate quill that never dulls and is attuned to the supplies. The magical properties of the inks and papers function only when you write with this quill or another quill from this kit. If this quill is lost, stolen or destroyed, you may replace it by spending a day with another suitable quill.
+The kit contains an ornate quill that never dulls and is attuned to the supplies. The magical properties of the inks and papers function only when you write with this quill or another quill from this kit. If this quill is lost, stolen, or destroyed, you can replace it by spending a day with another suitable quill.
 
 #### Combining Supplies
 
-You can use more than one type of supply (ink, quill, or paper) for a document, but you can't combine two supplies of the same type on the same page. For example, you might switch quills mid-document, or change inks when starting a new page, but you can't layer two magical inks on the same sheet. If a page is written with more than one magical supply of the same type, the DM decides which effect prevails, or whether the magic fails entirely.
+You can use more than one type of supply (ink, quill, or paper) in a document, but you can't combine two supplies of the same type on the same page. For example, you might switch quills mid-document or change inks when starting a new page, but you can't layer two magical inks on the same page. If a page is written with more than one magical supply of the same type, the DM decides which effect prevails, or whether the magic fails entirely.
 
 #### Adding Supplies
 
-Specific supply items may be added to this kit through the rules for crafting magic items, provided the crafter has the necessary proficiency and resources. Each inkpot, quill, or sheet of paper lists its rarity. Adding a supply item does not change the rarity of the kit as a whole, and does not allow rerolls on the supply tables.
+Specific supply items can be added to this kit by following the rules for crafting magic items, provided the crafter has the necessary proficiency and resources. Each inkpot, quill, or page of parchment lists its rarity. Adding a supply item does not change the rarity of this item as a whole, and does not allow rerolls on the supply tables.
 
 ### Rarity and Contents
 
-Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supplies: inks, quills or paper.
-The number of enchanted pages you can create each Long Rest also scales with rarity. Mundane writing does not have a limit.
+Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supply items: inks, quills or paper. The number of magical pages or markings you can create each Long Rest also scales with rarity. Mundane uses are unlimited.
 
 | Item | Rarity | Daily Pages | Rolls |
 |:-|:-|:-:|:-|
@@ -58,11 +59,11 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If y
 | 7 | Vocal Paper |
 | 8 | Roll two more times ignoring this result |
 
+\page
+
 ##### Rare Supplies
 
 You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d10. If you roll a supply item your kit already contains, reroll.
-
-\page
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -87,31 +88,33 @@ This inkpot never runs dry. It produces mundane ink in any color you choose. Thi
 
 _**Explosive Ink.**_
 _Favored by saboteurs, this ink hides a trap in words._
-This inkpot runs dry after first use. When a creature reads the writing, the ink explodes in flame. The reader and all creatures within 10 feet of it must make a DC 15 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much on a successful one. The page is destroyed. This is a rare supply item.
+When a creature reads the writing, the ink explodes in flame. The reader and all creatures within 10 feet of it must make a DC 15 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much on a successful one. The page is destroyed. This is a rare supply item.
 
 _**Hesitant Ink.**_
 _Favored for drafts and revisions, this light ink is never truly final._
-This inkpot runs dry after first use. As an action, you can erase mundane writing created with it since your last Long Rest. The chosen writing must be visible and within 30 feet of you. Magical writing, such as spell scrolls or glyphs, is unaffected. This is a common supply item.
+As an action, you can erase mundane writing created with it since your last Long Rest. The chosen writing must be visible and within 30 feet of you. Magical writing, such as spell scrolls or glyphs, is unaffected. This is a common supply item.
 
 _**Illusory Ink.**_
 _Favored by deceivers, this ink one message within another._
-This inkpot runs dry after first use. Writing made with this ink creates the illusion of any text or image the writer describes. A creature that reads the page must succeed on a DC 15 Wisdom saving throw or believe the illusory writing is genuine. On a success, the creature recognizes the writing as illusory, and reads the true writing. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a rare supply item.
+Writing made with this ink creates the illusion of any text or image the writer describes. A creature that reads the page must succeed on a DC 15 Wisdom saving throw or believe the illusory writing is genuine. On a success, the creature recognizes the writing as illusory, and reads the true writing. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a rare supply item.
 
 _**Interpreting Ink.**_
 _Favored by diplomats, this ink is universally understood._
-This inkpot runs dry after first use. Writing made with it rearranges itself into the language of the reader. This is an uncommon supply item.
+Writing made with it rearranges itself into the language of the reader. This is an uncommon supply item.
+
+\column
 
 _**Invisible Ink.**_
 _Favored by spies and pranksters, this ink leaves only a faint lemony scent._
-This inkpot runs dry after first use. As an action, you can write invisibly with this ink. Writing made this way remains invisible until revealed by heat, such as being held near a flame. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a common supply item.
+As an action, you can write invisibly with this ink. Writing made this way remains invisible until revealed by heat, such as being held near a flame. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a common supply item.
 
 _**Sleeping Ink.**_
 _Favored by mystics, this ink bleeds into dreams._
-This inkpot runs dry after first use. Writing made with this ink appears in the dreams of any creature that possesses the page each time it sleeps for 7 nights. The dream is fully recalled upon waking. After 7 dreams by any creature, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dream includes visions of them. The dream reflects the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, dreams may produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting advantage on checks related to a place dreamt of, revealing hints toward the location of an object, or similar results. This is a rare supply item.
+Writing made with this ink appears in the dreams of any creature that possesses the page each time it sleeps for 7 nights. The dream is fully recalled upon waking. After 7 dreams by any creature, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dream includes visions of them. The dream reflects the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, dreams may produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting advantage on checks related to a place dreamt of, revealing hints toward the location of an object, or similar results. This is a rare supply item.
 
 _**Vanishing Ink.**_
 _Favored by charlatans, scouts and smugglers, this ink goes away._
-This inkpot runs dry after first use. Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as _Detect Magic_). Magical writing, such as spell scrolls or glyphs, is unaffected. This is an uncommon supply item.
+Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as _Detect Magic_). Magical writing, such as spell scrolls or glyphs, is unaffected. This is an uncommon supply item.
 
 #### Quills
 
@@ -131,11 +134,11 @@ _**Suggestive Quill.**_
 _Favored by the bossy, this quill&rsquo;s words urge obedience._
 When you write with this quill, a short command can subtly compel a reader to follow its written instruction. This is a rare supply item.
 
+\page
+
 #### Paper
 
 Every sheaf of paper contains 10 sheets. At the end of a Long Rest, each sheaf regains all expended sheets, restoring it to 10. Magical properties function only when the paper is written on with a quill from this kit. Any unused sheets beyond this number lose their magic and become mundane.
-
-\page
 
 _**Binding Paper.**_
 _Favored by magistrates and devils, this parchment enforces oaths._
@@ -155,6 +158,10 @@ As an action, the sheet folds into a Tiny paper creature of a form chosen by the
 _**Paired Paper.**_
 _Favored by remote penpals, these blue sheets reach to their twins._
 Writing on one sheet of this paper appears instantly on its paired sheet within the same plane. This is an uncommon supply item.
+
+_**Research Paper.**_
+_Favored by apprentices and investigators, this page distills insights into practice._
+When you write on this page, you must note an ability (such as Strength, Intelligence or any of the six). When a creature reads the page before making a related ability or skill check, it can roll a d4 and add it to the result. The benefit is lost once used, and the page becomes mundane, retaining the writing. This is a common supply item.
 
 _**Sealed Paper.**_
 _Favored for contracts and decrees, this parchment resists tampering._
