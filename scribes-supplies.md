@@ -10,9 +10,11 @@ _**Limited Use.**_ Unless otherwise noted, each supply item can be used to creat
 
 _**Time Spent.**_ Writing a page with these tools&mdash;whether magical or mundane&mdash;takes 1 minute of _Concentration_. If your concentration is broken, the page is mundane and ruined, and expends any supply items involved.
 
-#### Special Quill
+#### Epistolist
 
-The kit contains an ornate quill that never dulls and is attuned to the supplies. The magical properties of the inks and papers function only when you write with this quill or another quill from this kit. If this quill is lost, stolen or destroyed, you can replace it by spending a day with another suitable quill.
+These supplies include a mundane inexhaustible inkpot, quill, and sheaf of paper. They are sufficient for crafting a _Spell Scroll_ following the normal rules for cost, time, and requirements. If any of these are lost, stolen, or destroyed, you can replace them by spending 1 day after adding suitable mundane tools to your supplies.
+
+When crafting a _Spell Scroll_, you may also incorporate magical supply items from these supplies. The maximum spell level allowed depends on the rarity of the supplies (see the _Rarity and Contents_ table). If magical supplies are combined with a scroll, their effects resolve first, in the order chosen by the writer, and then the spell itself is cast. The spell is always cast normally regardless of supply effects.
 
 #### Combining Supplies
 
@@ -24,13 +26,13 @@ Supply items can be added to these supplies by following the rules for crafting 
 
 ### Rarity and Contents
 
-Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of magical supply items. The number of magical pages or markings you can create each Long Rest also scales with rarity. Mundane uses are unlimited.
+Different rarities of _Scribe&rsquo;s Supplies_ increase in magical power while not restricting mundane use. Daily use of magical supplies is capped, and _Spell Scroll_ crafting is limited for incorporating unique inks, quills, or paper but not for mundane spell scribing with these supplies.
 
-| Item | Rarity | Daily Uses | Rolls |
-|:-|:-|:-:|:-|
-| **Apprentice’s Supplies** | Common | 1 | Roll 2 times on the _Common Supplies_ table |
-| **Journeyman’s Supplies** | Uncommon | 3 | Roll 3 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
-| **Expert’s Supplies** | Rare | 5 | Roll 3 times on the _Common Supplies_ table, 3 times on the _Uncommon Supplies_ table, and 2 times on the _Rare Supplies_ table |
+| Item | Rarity | Daily Uses | Spell Scribe | Rolls |
+|:-|:-|:-:|:-:|:-|
+| **Apprentice’s Supplies** | Common | 1 | Cantrip | Roll 2 times on the _Common Supplies_ table |
+| **Journeyman’s Supplies** | Uncommon | 3 | 1&ndash;2 | Roll 3 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
+| **Expert’s Supplies** | Rare | 5 | 3&ndash;4 | Roll 3 times on the _Common Supplies_ table, 3 times on the _Uncommon Supplies_ table, and 2 times on the _Rare Supplies_ table |
 
 ##### Common Supplies
 
@@ -141,14 +143,15 @@ When you write with this quill, a short command can subtly compel a reader to fo
 
 #### Paper
 
-Every sheaf of paper contains 10 sheets. At the end of a Long Rest, each sheaf regains all expended sheets, restoring it to 10. Magical properties function only when the paper is written on with a quill from this kit. Any unused sheets beyond this number lose their magic and become mundane.
+Every sheaf of paper contains 10 sheets. At the end of a Long Rest, each sheaf regains all expended sheets, restoring it to 10. Magical properties function only when the paper is written on with a quill from these supplies.
 
 _**Binding Paper.**_
 _Favored by magistrates and devils, this parchment enforces oaths._
 Any contract written on this paper becomes magically binding if all parties sign it voluntarily. A creature that knowingly breaks the terms must succeed on a DC 15 Wisdom saving throw at the end of each Long Rest or take 2d6 psychic damage. This damage continues each day until the terms are fulfilled or the page is destroyed. Casting *Remove Curse*, *Greater Restoration*, or similar magic ends the contract without harming the paper. This is a rare supply item.
 
-_**Mimeograph Paper.**_ _Favored by calligraphers and copyists, these blue sheets echo every stroke of the quill._
-When you write on a sheet of this paper, the writing simultaneously appear on up to 9 other sheets from the same sheaf within 5 feet of you. This is an uncommon supply item.
+_**Mimeograph Paper.**_
+_Favored by calligraphers and copyists, these blue sheets echo every stroke of the quill._
+When you write on a page of this paper, the same writing is duplicated simultaneously on as many unused pages from the same sheaf as you choose. These copies are aromatic and smudged blue, and each page used in this way is expended. All pages must be within 5 feet of you. Creating copies is a single use of the supplies regardless of copied page count. You cannot copy magical writings. This is an uncommon supply item.
 
 _**Mirror Paper.**_
 _Favored by the nosey, this glossy sheet reflects more than words._
