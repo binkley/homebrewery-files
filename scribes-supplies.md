@@ -34,20 +34,20 @@ Different rarities of _Scribe&rsquo;s Supplies_ contain an increasing number of 
 
 ##### Common Supplies
 
-You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6. If you roll a supply item your kit already contains, reroll.
+You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6. If you roll an item that your supplies already contain, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
 | 1 | Bountiful Ink |
-| 2 | Chameleon Quill |
-| 3 | Hesitant Ink |
-| 4 | Invisible Ink |
+| 2 | Hesitant Ink |
+| 3 | Invisible Ink |
+| 4 | Memory Quill |
 | 5 | Research Paper |
 | 6 | Roll two more times ignoring this result |
 
 ##### Uncommon Supplies
 
-You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If you roll a supply item your kit already contains, reroll.
+You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If you roll an item that your supplies already contain, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -64,7 +64,7 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If y
 
 ##### Rare Supplies
 
-You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d10. If you roll a supply item your kit already contains, reroll.
+You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d10. If you roll an item that your supplies already contain, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -103,8 +103,6 @@ _**Interpreting Ink.**_
 _Favored by diplomats, this ink is universally understood._
 Writing made with it rearranges itself into the language of the reader. This is an uncommon supply item.
 
-\column
-
 _**Invisible Ink.**_
 _Favored by spies and pranksters, this ink leaves only a faint lemony scent._
 As an action, you can write invisibly with this ink. Writing made this way remains invisible until revealed by heat, such as being held near a flame. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a common supply item.
@@ -126,6 +124,10 @@ When you write with this quill, the handwriting matches the style of any sample 
 _**Learned Quill.**_
 _Favored by scholars and the curious, this quill adds commentary._
 When you write with this quill, margin notes appear, automatically recording rumors or lore related to subjects you mention. This is a rare supply item.
+
+_**Memory Quill.**_
+_Favored by diarists and dreamers, this quill turns thoughts into recollections on the page._
+When you write with this quill, the words capture a memory or idea you focus on. A creature reading the page experiences faint images and sounds in their mind, as if recalling a dream, which lasts only while the page is read. This is a common supply item.
 
 _**Sharp Quill.**_
 _Favored by duelists and assassins, this quill is mightier than the dagger._
