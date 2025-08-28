@@ -36,3 +36,37 @@
      Beyond](https://www.dndbeyond.com/feats/2092667-troll-ancestry) or
      [Homebrewery](https://homebrewery.naturalcrit.com/edit/IeQ0kNxoqhVg) for
      online rendering.
+
+### Scribe&rsquo; Supplies
+
+```mermaid
+erDiagram
+    RARITY ||--o{ KIT : "has"
+    KIT ||--o{ SUPPLY_ITEM : "contains"
+    SUPPLY_ITEM ||--o{ INK : "is a"
+    SUPPLY_ITEM ||--o{ QUILL : "is a"
+    SUPPLY_ITEM ||--o{ PAPER : "is a"
+
+    RARITY {
+        string name
+    }
+    KIT {
+        string name
+        int daily_uses
+    }
+    SUPPLY_ITEM {
+        string name
+        string effect
+        string rarity
+        string type
+    }
+    INK {
+        string color
+    }
+    QUILL {
+        string style
+    }
+    PAPER {
+        int pages_per_sheaf
+    }
+```
