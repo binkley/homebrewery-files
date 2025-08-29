@@ -6,13 +6,13 @@ This black, red and gold ornamented lacquered case contains inkpots, quills, and
 
 _**Magical Supplies.**_ Different inks, quills and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as _Calligrapher&rsquo;s Supplies_ for all checks and crafting.
 
-_**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per Long Rest. After the effect occurs, a page, writing or marking becomes mundane but retains any words or symbols you made.
+_**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per [Long Rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest). After the effect occurs, a page, writing or marking becomes mundane but retains any words or symbols you made. After a Long Rest inkpots refill, quills resharpen, and sheaves of paper refill.
 
-_**Time Spent.**_ Writing a page with these tools&mdash;whether magical or mundane&mdash;takes 1 minute of _Concentration_. If your concentration is broken, the page is mundane and ruined, and expends any supply items involved.
+_**Time Spent.**_ Writing a page with these tools&mdash;whether magical or mundane&mdash;takes 1 minute of [_Concentration_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration). If your concentration is broken, the page is mundane and ruined, and expends any supply items involved.
 
 #### Epistolist
 
-These supplies include a mundane inexhaustible inkpot, quill, and sheaf of paper. They are sufficient for crafting a _Spell Scroll_ following the normal rules for cost, time, and requirements. If any of these are lost, stolen, or destroyed, you can replace them by spending 1 day after adding suitable mundane tools to your supplies.
+These supplies include a mundane inexhaustible inkpot, quill, and sheaf of paper. They are sufficient for crafting a [_Spell Scroll_](https://www.dndbeyond.com/magic-items/9229085-spell-scroll) following the normal rules for cost, time, and requirements. If any of these are lost, stolen, or destroyed, you can replace them by spending 1 day after adding suitable mundane tools to your supplies.
 
 When crafting a _Spell Scroll_, you may also incorporate magical supply items from these supplies. The maximum spell level allowed depends on the rarity of the supplies (see the _Rarity and Contents_ table). If magical supplies are combined with a scroll, their effects resolve first, in the order chosen by the writer, and then the spell itself is cast. The spell is always cast normally regardless of supply effects.
 
@@ -83,7 +83,7 @@ You gain a Rare supply item. Roll a d10. If you roll an item that your supplies 
 
 #### Inks
 
-Every inkpot refills after a Long Rest and each ink is in its own pot. Ink becomes mundane unless applied with a quill from this kit.
+Magical properties function only a quill from these supplies is used with the ink.
 
 _**Bountiful Ink.**_
 _Favored by artists, students and novices, this ink is colorful._
@@ -91,11 +91,11 @@ This inkpot never runs dry. It produces mundane ink in any color you choose. Thi
 
 _**Explosive Ink.**_
 _Favored by saboteurs, this ink hides a trap in words._
-When a creature reads the writing, the ink explodes in flame. The reader and all creatures within 10 feet of it must make a DC 15 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much on a successful one. The page is destroyed. This is a rare supply item.
+When a creature reads the writing, the ink explodes in flame. The reader and all creatures within 10 feet of it must make a DC 15 Dexterity [_saving throw_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SavingThrow), taking 4d6 fire damage on a failed save, or half as much on a successful one. The page is destroyed. This is a rare supply item.
 
 _**Illusory Ink.**_
 _Favored by deceivers, this ink one message within another._
-Writing made with this ink creates the illusion of any text or image the writer describes. A creature that reads the page must succeed on a DC 15 Wisdom saving throw or believe the illusory writing is genuine. On a success, the creature recognizes the writing as illusory, and reads the true writing. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a rare supply item.
+Writing made with this ink creates the illusion of any text or image the writer describes. A creature that reads the page must succeed on a DC 15 Wisdom [_saving throw_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SavingThrow) or believe the illusory writing is genuine. On a success, the creature recognizes the writing as illusory, and reads the true writing. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a rare supply item.
 
 _**Interpreting Ink.**_
 _Favored by diplomats, this ink is universally understood._
@@ -107,11 +107,11 @@ As an action, you can write invisibly with this ink. Writing made this way remai
 
 _**Sleeping Ink.**_
 _Favored by mystics, this ink bleeds into dreams._
-Writing made with this ink appears in the dreams of any creature that possesses the page each time it sleeps for 7 nights. The dream is fully recalled upon waking. After 7 dreams by any creature, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dream includes visions of them. The dream reflects the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, dreams may produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting _advantage_ on checks related to a place dreamt of, revealing hints toward the location of an object, or similar results. This is a rare supply item.
+Writing made with this ink appears in the dreams of any creature that possesses the page each time it sleeps for 7 nights. The dream is fully recalled upon waking. After 7 dreams by any creature, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dream includes visions of them. The dream reflects the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, dreams may produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom [_saving throw_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SavingThrow) against 1 level of [_Exhaustion_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition), granting [_advantage_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Advantage) on checks related to a place dreamt of, revealing hints toward the location of an object, or similar results. This is a rare supply item.
 
 _**Vanishing Ink.**_
 _Favored by charlatans, scouts and smugglers, this ink goes away._
-Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as _Detect Magic_). Magical writing, such as spell scrolls or glyphs, is unaffected. This is an uncommon supply item.
+Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as [_Detect Magic_](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectMagic)). Magical writing, such as spell scrolls or glyphs, is unaffected. This is an uncommon supply item.
 
 #### Quills
 
@@ -137,17 +137,17 @@ When you write with this quill, a short command can subtly compel a reader to fo
 
 #### Paper
 
-Every sheaf of paper contains 10 sheets. At the end of a Long Rest, each sheaf regains all expended sheets, restoring it to 10. Magical properties function only when the paper is written on with a quill from these supplies.
+Every sheaf of paper contains 10 sheets. Magical properties function only when the paper is marked on with a quill from these supplies.
 
 \page
 
 _**Binding Paper.**_
 _Favored by magistrates and devils, this parchment enforces oaths._
-Any contract written on this paper becomes magically binding if all parties sign it voluntarily. A creature that knowingly breaks the terms must succeed on a DC 15 Wisdom saving throw at the end of each Long Rest or take 2d6 psychic damage. This damage continues each day until the terms are fulfilled or the page is destroyed. Casting *Remove Curse*, *Greater Restoration*, or similar magic ends the contract without harming the paper. This is a rare supply item.
+Any contract written on this paper becomes magically binding if all parties sign it voluntarily. A creature that knowingly breaks the terms must succeed on a DC 15 Wisdom saving throw at the end of each Long Rest or take 2d6 psychic damage. This damage continues each day until the terms are fulfilled or the page is destroyed. Casting [_Remove Curse_](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#RemoveCurse), [_Greater Restoration_](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GreaterRestoration), or similar magic ends the contract without harming the paper. This is a rare supply item.
 
 _**Field Note.**_
 _Favored by scouts and sergeants, this brief page is meant for quick reference._
-When a creature uses a bonus action to read this page, it prepares to attack. Until the start of its next turn, it has _advantage_ on its first attack roll. This is a common supply item.
+When a creature uses a bonus action to read this page, it prepares to attack. Until the start of its next turn, it has [_advantage_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Advantage) on its first [_attack roll_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#AttackRoll). This is a common supply item.
 
 _**Mimeograph Paper.**_
 _Favored by calligraphers and copyists, these blue sheets echo every stroke of the quill._
@@ -167,7 +167,7 @@ Writing on one sheet of this paper appears instantly on its paired sheet within 
 
 _**Research Paper.**_
 _Favored by apprentices and investigators, this page distills insights into practice._
-When you write on this page, you must specify one ability (such as Strength or others). When a creature reads the page before making a related ability check or skill check, it can roll a d4 and add it to the result. This is a common supply item.
+When you write on this page, you must specify one [_Ability_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#AbilityScoreandModifier) (such as Strength or others). When a creature reads the page before making a related ability check or skill check, it can roll a d4 and add it to the result. This is a common supply item.
 
 _**Trailblazer Map.**_
 _Favored by scouts and couriers, these notes sketch the way forward._
