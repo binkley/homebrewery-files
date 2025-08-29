@@ -4,15 +4,16 @@ _Wondrous Item, varies (requires attunement by a Humanoid proficient with Callig
 
 This black, red and gold ornamented lacquered case contains inkpots, quills, and sheaves of paper. To most, it functions as ordinary _Calligrapher&rsquo;s Supplies_. To one proficient and attuned, however, the tools reveal subtle magics and hint at greater secrets. These supplies can create magical pages, writings and markings.
 
-_**Magical Supplies.**_ Different inks, quills and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as _Calligrapher&rsquo;s Supplies_ for all checks and crafting.
+_**Magical Supplies.**_ Different inks, quills and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as _Calligrapher&rsquo;s Supplies_ for all checks and crafting. If any supplies are lost, stolen, or destroyed, you can replace them by spending 1 day after adding suitable mundane tools to your supplies.
 
-_**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per [Long Rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest). After the effect occurs, a page, writing or marking becomes mundane but retains any words or symbols you made. After a Long Rest inkpots refill, quills resharpen, and sheaves of paper refill.
+_**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per [Long Rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest). After the effect occurs, pages, writings or markings become mundane but retain any words or symbols you made. After a Long Rest, the supplies restore themselves: inkpots refill, quills resharpen and sheaves of paper replenish. Magical effects do not function if you use inks, quills or papers from any source other than these supplies.
 
 _**Time Spent.**_ Writing a page with these tools&mdash;whether magical or mundane&mdash;takes 1 minute of [_Concentration_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration). If your concentration is broken, the page is mundane and ruined, and expends any supply items involved.
 
+
 #### Epistolist
 
-These supplies include a mundane inexhaustible inkpot, quill, and sheaf of paper. They are sufficient for crafting a [_Spell Scroll_](https://www.dndbeyond.com/magic-items/9229085-spell-scroll) following the normal rules for cost, time, and requirements. If any of these are lost, stolen, or destroyed, you can replace them by spending 1 day after adding suitable mundane tools to your supplies.
+These supplies include a mundane inexhaustible inkpot, quill, and sheaf of paper. They are sufficient for crafting a [_Spell Scroll_](https://www.dndbeyond.com/magic-items/9229085-spell-scroll) following the normal rules for cost, time, and requirements.
 
 When crafting a _Spell Scroll_, you may also incorporate magical supply items from these supplies. The maximum spell level allowed depends on the rarity of the supplies (see the _Rarity and Contents_ table). If magical supplies are combined with a scroll, their effects resolve first, in the order chosen by the writer, and then the spell itself is cast. The spell is always cast normally regardless of supply effects.
 
@@ -83,7 +84,7 @@ You gain a Rare supply item. Roll a d10. If you roll an item that your supplies 
 
 #### Inks
 
-Magical properties function only a quill from these supplies is used with the ink.
+Magical properties function only when the ink is used by a quill from these supplies.
 
 _**Bountiful Ink.**_
 _Favored by artists, students and novices, this ink is colorful._
@@ -137,7 +138,7 @@ When you write with this quill, a short command can subtly compel a reader to fo
 
 #### Paper
 
-Every sheaf of paper contains 10 sheets. Magical properties function only when the paper is marked on with a quill from these supplies.
+Every sheaf of paper contains 10 sheets. Magical properties function only when the paper is marked on with quill and ink from these supplies.
 
 \page
 
