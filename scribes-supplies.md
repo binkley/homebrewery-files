@@ -167,10 +167,6 @@ Writing on one sheet of this paper appears instantly on its paired sheet within 
 
 _**Research Paper.**_
 _Favored by apprentices and investigators, this page distills insights into practice._
-When you write on this page, you must note an ability (such as Strength, Intelligence or any of the six). When a creature reads the page before making a related ability or skill check, it can roll a d4 and add it to the result. This is a common supply item.
-
-_**Research Paper.**_
-_Favored by apprentices and investigators, this page distills insights into practice._
 When you write on this page, you must specify one ability (such as Strength or others). When a creature reads the page before making a related ability check or skill check, it can roll a d4 and add it to the result. This is a common supply item.
 
 _**Sealed Paper.**_
