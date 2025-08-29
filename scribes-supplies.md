@@ -57,7 +57,7 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If y
 | 2 | Interpreting Ink |
 | 3 | Mimeograph Paper |
 | 4 | Origami Paper |
-| 5 | Sealed Paper |
+| 5 | Trailblazer Map |
 | 6 | Vanishing Ink |
 | 7 | Vocal Paper |
 | 8 | Roll two more times ignoring this result |
@@ -169,9 +169,9 @@ _**Research Paper.**_
 _Favored by apprentices and investigators, this page distills insights into practice._
 When you write on this page, you must specify one ability (such as Strength or others). When a creature reads the page before making a related ability check or skill check, it can roll a d4 and add it to the result. This is a common supply item.
 
-_**Sealed Paper.**_
-_Favored for contracts and decrees, this parchment resists tampering._
-Writing on this paper can’t be erased, smudged, or altered by mundane means. Magical alterations (such as _Dispel Magic_ or _Wish_) may still affect it at DM discretion. This is an uncommon supply item.
+_**Trailblazer Map.**_
+_Favored by scouts and couriers, these notes sketch the way forward._
+When you write the name of a specific place or landmark within 3 miles (such as &ldquo;City of Greyhawk&rdquo; or &ldquo;Wizard&rsquo;s Tower&rdquo;), the page orients itself and draws a faint, shifting outline showing the quickest route considering terrain. The map is vague, hinting at direction rather than detail, and updates as you travel. This paper cannot locate creatures or unspecified objects (such as &ldquo;the nearest obelisk&rdquo;). It functions on land or sea, but not underground or across planar boundaries. This is an uncommon supply item.
 
 _**Vocal Paper.**_
 _Favored by illiterate readers, this paper speaks its words._
