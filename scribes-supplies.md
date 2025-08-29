@@ -41,7 +41,7 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6. If y
 | Roll | Supply Item |
 |:-:|:-|
 | 1 | Bountiful Ink |
-| 2 | Hesitant Ink |
+| 2 | Field Note |
 | 3 | Invisible Ink |
 | 4 | Memory Quill |
 | 5 | Research Paper |
@@ -93,10 +93,6 @@ _**Explosive Ink.**_
 _Favored by saboteurs, this ink hides a trap in words._
 When a creature reads the writing, the ink explodes in flame. The reader and all creatures within 10 feet of it must make a DC 15 Dexterity saving throw, taking 4d6 fire damage on a failed save, or half as much on a successful one. The page is destroyed. This is a rare supply item.
 
-_**Hesitant Ink.**_
-_Favored for drafts and revisions, this light ink is never truly final._
-As an action, you can erase mundane writing created with it since your last Long Rest. The chosen writing must be visible and within 30 feet of you. Magical writing, such as spell scrolls or glyphs, is unaffected. This is a common supply item.
-
 _**Illusory Ink.**_
 _Favored by deceivers, this ink one message within another._
 Writing made with this ink creates the illusion of any text or image the writer describes. A creature that reads the page must succeed on a DC 15 Wisdom saving throw or believe the illusory writing is genuine. On a success, the creature recognizes the writing as illusory, and reads the true writing. The effect applies only to mundane writing, not magical text such as spell scrolls or glyphs. This is a rare supply item.
@@ -139,15 +135,19 @@ _**Suggestive Quill.**_
 _Favored by the bossy, this quill&rsquo;s words urge obedience._
 When you write with this quill, a short command can subtly compel a reader to follow its written instruction. This is a rare supply item.
 
-\page
-
 #### Paper
 
 Every sheaf of paper contains 10 sheets. At the end of a Long Rest, each sheaf regains all expended sheets, restoring it to 10. Magical properties function only when the paper is written on with a quill from these supplies.
 
+\page
+
 _**Binding Paper.**_
 _Favored by magistrates and devils, this parchment enforces oaths._
 Any contract written on this paper becomes magically binding if all parties sign it voluntarily. A creature that knowingly breaks the terms must succeed on a DC 15 Wisdom saving throw at the end of each Long Rest or take 2d6 psychic damage. This damage continues each day until the terms are fulfilled or the page is destroyed. Casting *Remove Curse*, *Greater Restoration*, or similar magic ends the contract without harming the paper. This is a rare supply item.
+
+_**Field Note.**_
+_Favored by scouts and sergeants, this brief page is meant for quick reference._
+When a creature uses a bonus action to read this page, it prepares to attack. Until the start of its next turn, it has advantage on its first attack roll. This is a common supply item.
 
 _**Mimeograph Paper.**_
 _Favored by calligraphers and copyists, these blue sheets echo every stroke of the quill._
