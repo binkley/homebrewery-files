@@ -129,7 +129,7 @@ When you write with this quill, the words capture a memory or idea you focus on.
 
 _**Sharp Quill.**_
 _Favored by duelists and assassins, this quill is mightier than the dagger._
-This quill functions as a mundane writing tool or as a magic dagger (1d4 piercing damage, finesse, light, thrown 20/60 ft.). While you are attuned to these _Scribe&rsquo;s Supplies_, you can command this quill to fly and fight as a _Dancing Sword_, except it uses the statistics of a dagger instead of a longsword.
+This quill functions as a mundane writing tool or as a magic dagger (1d4 piercing damage, finesse, light, thrown 20/60 ft.). While you are attuned to these supplies, you can command this quill to fly and fight as a _Dancing Sword_, except it uses the statistics of a dagger instead of a longsword.
 
 _**Suggestive Quill.**_
 _Favored by the bossy, this quill&rsquo;s words urge obedience._
