@@ -2,9 +2,9 @@
 
 _Wondrous Item, varies (requires attunement by a Humanoid proficient with Calligrapher&rsquo;s Supplies)_
 
-This black, red and gold ornamented lacquered case contains inkpots, quills, and sheaves of paper. To most, it functions as ordinary **Calligrapher&rsquo;s Supplies**. To one proficient and attuned, however, the tools reveal subtle magics and hint at greater secrets. These supplies can create magical pages, writings and markings.
+This black, red and gold ornamented lacquered case contains inkpots, quills, and sheaves of paper. To most, it functions as ordinary _Calligrapher&rsquo;s Supplies_. To one proficient and attuned, however, the tools reveal subtle magics and hint at greater secrets. These supplies can create magical pages, writings and markings.
 
-_**Magical Supplies.**_ Different inks, quills and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as **Calligrapher&rsquo;s Supplies** for all checks and crafting.
+_**Magical Supplies.**_ Different inks, quills and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as _Calligrapher&rsquo;s Supplies_ for all checks and crafting.
 
 _**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per Long Rest. After the effect occurs, a page, writing or marking becomes mundane but retains any words or symbols you made.
 
@@ -30,13 +30,13 @@ Different rarities of _Scribe&rsquo;s Supplies_ increase in magical power while 
 
 | Item | Rarity | Daily Uses | Spell Scribe | Rolls |
 |:-|:-|:-:|:-:|:-|
-| **Apprentice’s Supplies** | Common | 1 | Cantrip | Roll 2 times on the _Common Supplies_ table |
-| **Journeyman’s Supplies** | Uncommon | 3 | 1&ndash;2 | Roll 3 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
-| **Expert’s Supplies** | Rare | 5 | 3&ndash;4 | Roll 3 times on the _Common Supplies_ table, 3 times on the _Uncommon Supplies_ table, and 2 times on the _Rare Supplies_ table |
+| **Apprentice Supplies** | Common | 1 | Cantrip | Roll 2 times on the _Common Supplies_ table |
+| **Journeyman Supplies** | Uncommon | 3 | 1&ndash;2 | Roll 3 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
+| **Expert Supplies** | Rare | 5 | 3&ndash;4 | Roll 3 times on the _Common Supplies_ table, 3 times on the _Uncommon Supplies_ table, and 2 times on the _Rare Supplies_ table |
 
 ##### Common Supplies
 
-You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6. If you roll an item that your supplies already contain, reroll.
+You gain a Common supply item. Roll a d6. If you roll an item that your supplies already contain, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -49,7 +49,7 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d6. If y
 
 ##### Uncommon Supplies
 
-You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If you roll an item that your supplies already contain, reroll.
+You gain an Uncommon supply item. Roll a d8. If you roll an item that your supplies already contain, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -66,7 +66,7 @@ You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d8. If y
 
 ##### Rare Supplies
 
-You gain a Common supply item in your _Scribe&rsquo;s Supplies_. Roll a d10. If you roll an item that your supplies already contain, reroll.
+You gain a Rare supply item. Roll a d10. If you roll an item that your supplies already contain, reroll.
 
 | Roll | Supply Item |
 |:-:|:-|
@@ -107,7 +107,7 @@ As an action, you can write invisibly with this ink. Writing made this way remai
 
 _**Sleeping Ink.**_
 _Favored by mystics, this ink bleeds into dreams._
-Writing made with this ink appears in the dreams of any creature that possesses the page each time it sleeps for 7 nights. The dream is fully recalled upon waking. After 7 dreams by any creature, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dream includes visions of them. The dream reflects the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, dreams may produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting advantage on checks related to a place dreamt of, revealing hints toward the location of an object, or similar results. This is a rare supply item.
+Writing made with this ink appears in the dreams of any creature that possesses the page each time it sleeps for 7 nights. The dream is fully recalled upon waking. After 7 dreams by any creature, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dream includes visions of them. The dream reflects the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, dreams may produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom saving throw against 1 level of Exhaustion, granting _advantage_ on checks related to a place dreamt of, revealing hints toward the location of an object, or similar results. This is a rare supply item.
 
 _**Vanishing Ink.**_
 _Favored by charlatans, scouts and smugglers, this ink goes away._
@@ -147,7 +147,7 @@ Any contract written on this paper becomes magically binding if all parties sign
 
 _**Field Note.**_
 _Favored by scouts and sergeants, this brief page is meant for quick reference._
-When a creature uses a bonus action to read this page, it prepares to attack. Until the start of its next turn, it has advantage on its first attack roll. This is a common supply item.
+When a creature uses a bonus action to read this page, it prepares to attack. Until the start of its next turn, it has _advantage_ on its first attack roll. This is a common supply item.
 
 _**Mimeograph Paper.**_
 _Favored by calligraphers and copyists, these blue sheets echo every stroke of the quill._
