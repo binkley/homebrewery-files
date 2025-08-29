@@ -2,19 +2,21 @@
 
 _Wondrous Item, varies (requires attunement by a Humanoid proficient with Calligrapher&rsquo;s Supplies)_
 
-This black, red and gold ornamented lacquered case contains inkpots, quills, and sheaves of paper. To most, it functions as ordinary _Calligrapher&rsquo;s Supplies_. To one proficient and attuned, however, the tools reveal subtle magics and hint at greater secrets. These supplies can create magical pages, writings and markings.
+{{note
+##### More Than One Item
 
-_**Magical Supplies.**_ Different inks, quills and papers in these supplies carry magical properties in addition to their mundane use. Otherwise, the item functions as _Calligrapher&rsquo;s Supplies_ for all checks and crafting. If any supplies are lost, stolen, or destroyed, you can replace them by spending 1 day after adding suitable mundane tools to your supplies.
+This black, red and gold ornamented lacquered case marked as _Scribe’s Supplies_ is never quite the same as another. One might hold inks that vanish, papers that sing, quills that cut. This item comes in multiple rarities, and rolls on supply tables for inks, quills or papers. Apprentice, Journeyman and Expert Supplies are kin, no two likely the same.
+}}
 
-_**Limited Use.**_ Unless otherwise noted, each supply item can be used to create a magical effect once per [Long Rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest). After the effect occurs, pages, writings or markings become mundane but retain any words or symbols you made. After a Long Rest, the supplies restore themselves: inkpots refill, quills resharpen and sheaves of paper replenish. Magical effects do not function if you use inks, quills or papers from any source other than these supplies.
+_**Magical Supplies.**_ The inks, quills and papers in these supplies carry magical properties beyond their mundane use. Otherwise, they function as _Calligrapher&rsquo;s Supplies_ for checks and crafting. If lost, stolen or destroyed, they can be replaced with suitable mundane tools and waiting 1 day.
 
-_**Time Spent.**_ Writing a page with these tools&mdash;whether magical or mundane&mdash;takes 1 minute of [_Concentration_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration). If your concentration is broken, the page is mundane and ruined, and expends any supply items involved.
+_**Limited Use.**_ Unless noted, each supply item can create one magical effect per [Long Rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest). Afterward, pages, writings or markings become mundane but keep any words or symbols you made. After a Long Rest the supplies restore themselves: inkpots refill, quills resharpen, and sheaves replenish. Magical effects don't function with inks, quills or papers from other sources.
+
+_**Time Spent.**_ Writing a page&mdash;magical or mundane&mdash;takes 1 minute of [_Concentration_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration). If your concentration is broken, the page becomes mundane and ruined, and any supply items used are expended.
 
 #### Epistolist
 
-These supplies include a mundane inexhaustible inkpot, quill, and sheaf of paper. They are sufficient for crafting a [_Spell Scroll_](https://www.dndbeyond.com/magic-items/9229085-spell-scroll) following the normal rules for cost, time, and requirements.
-
-When crafting a _Spell Scroll_, you may also incorporate magical supply items from these supplies. The maximum spell level allowed depends on the rarity of the supplies (see the _Rarity and Contents_ table). If magical supplies are combined with a scroll, their effects resolve first, in the order chosen by the writer, and then the spell itself is cast. The spell is always cast normally regardless of supply effects.
+These supplies include a mundane inexhaustible inkpot, quill and sheaf of paper, sufficient for writing letters or crafting a [_Spell Scroll_](https://www.dndbeyond.com/magic-items/9229085-spell-scroll) by the normal rules. When doing so, you may add magical supply items. The maximum spell level depends on rarity (see the _Rarity and Contents_ table). Using supply items to craft resolves first to the writer&rsquo;s order of supplies, then the spell. The spell itself is always cast normally.
 
 #### Combining Supplies
 
@@ -135,11 +137,11 @@ _**Suggestive Quill.**_
 _Favored by the bossy, this quill&rsquo;s words urge obedience._
 When you write with this quill, a short command can subtly compel a reader to follow its written instruction. This is a rare supply item.
 
+\page
+
 #### Paper
 
 Every sheaf of paper contains 10 sheets. Magical properties function only when the paper is marked on with quill and ink from these supplies.
-
-\page
 
 _**Binding Paper.**_
 _Favored by magistrates and devils, this parchment enforces oaths._
