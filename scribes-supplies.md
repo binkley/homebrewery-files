@@ -10,7 +10,6 @@ _**Limited Use.**_ Unless otherwise noted, each supply item can be used to creat
 
 _**Time Spent.**_ Writing a page with these tools&mdash;whether magical or mundane&mdash;takes 1 minute of [_Concentration_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration). If your concentration is broken, the page is mundane and ruined, and expends any supply items involved.
 
-
 #### Epistolist
 
 These supplies include a mundane inexhaustible inkpot, quill, and sheaf of paper. They are sufficient for crafting a [_Spell Scroll_](https://www.dndbeyond.com/magic-items/9229085-spell-scroll) following the normal rules for cost, time, and requirements.
@@ -19,7 +18,7 @@ When crafting a _Spell Scroll_, you may also incorporate magical supply items fr
 
 #### Combining Supplies
 
-You can use more than one type of supply item for a document, but you can't combine two supplies of the same type on the same page. For example, you might switch quills mid-document or change inks for a new page, but you can't layer their effects on the same page.
+You can use more than one type of supply item on a page, but you can't combine two of the same type. For example, if you switch quills mid-page, the second is mundane for that page and doesn't expend a use.
 
 #### Adding Supplies
 
