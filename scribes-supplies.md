@@ -30,9 +30,9 @@ Different rarities of _Scribe&rsquo;s Supplies_ increase in magical power while 
 
 | Item | Rarity | Daily Uses | Spell Scribe | Rolls |
 |:-|:-|:-:|:-:|:-|
-| **Apprentice Supplies** | Common | 1 | Cantrip | Roll 2 times on the _Common Supplies_ table |
-| **Journeyman Supplies** | Uncommon | 3 | 1&ndash;2 | Roll 3 times on the _Common Supplies_ table, and 2 times on the _Uncommon Supplies_ table |
-| **Expert Supplies** | Rare | 5 | 3&ndash;4 | Roll 3 times on the _Common Supplies_ table, 3 times on the _Uncommon Supplies_ table, and 2 times on the _Rare Supplies_ table |
+| **Apprentice Supplies** | Common | 1 | Cantrip | &bull; Roll 2 times on the _Common Supplies_ table |
+| **Journeyman Supplies** | Uncommon | 3 | 1&ndash;2 | &bull; Roll 2 times on the _Uncommon Supplies_ table. <br> &bull; Roll 3 times on the _Common Supplies_ table. |
+| **Expert Supplies** | Rare | 5 | 3&ndash;4 | &bull; Roll 2 times on the _Rare Supplies_ table. <br> &bull; Roll 3 times on the _Uncommon Supplies_ table. <br> &bull; Roll 3 times on the _Common Supplies_ table |
 
 ##### Common Supplies
 
