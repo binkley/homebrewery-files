@@ -167,7 +167,7 @@ _**Mirror Paper (Rare).**_
 _Favored by the nosey, this glossy sheet reflects more than words._
 This sheet can be used once and becomes mundane afterward, keeping any writing on it. The first creature that reads the writing must succeed on a DC 15 Wisdom saving throw or be placed under the effect of the _Scrying_ spell, targeting the writer as the subject. The spell requires no components, lasts for 10 minutes, and doesn't use a spell slot.
 
-_**Origami Paper (Uncmmon).**_
+_**Origami Paper (Uncommon).**_
 _Favored by entertainers and spies, this sheet folds itself into living shapes._
 As an action, the sheet folds into a Tiny paper creature of a form chosen by the writer (such as a flower, bird, or insect). The creature has AC 8, 1 hit point, and a Speed of 20 feet, fly 20 feet. The reader can direct the creature’s movement as a bonus action. The creature lasts for 1 hour, or until it is destroyed or unfolded, after which it becomes a mundane sheet of paper.
 
