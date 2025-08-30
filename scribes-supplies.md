@@ -14,6 +14,8 @@ _**Limited Use.**_ Unless noted, each supply item can create one magical effect 
 
 _**Time Spent.**_ Writing a page&mdash;magical or mundane&mdash;takes 1 minute of [_Concentration_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration). If your concentration is broken, the page becomes mundane and ruined, and any supply items used are expended.
 
+\column
+
 #### Epistolist
 
 These supplies include a mundane inexhaustible inkpot, quill and sheaf of paper, sufficient for writing letters or crafting a [_Spell Scroll_](https://www.dndbeyond.com/magic-items/9229085-spell-scroll) by the normal rules. When doing so, you may add magical supply items. The maximum spell level depends on rarity (see the _Rarity and Contents_ table). Using supply items to craft resolves first to the writer&rsquo;s order of supplies, then the spell. The spell itself is always cast normally.
@@ -30,11 +32,15 @@ Supply items can be added to these supplies by following the rules for crafting 
 
 Different rarities of _Scribe&rsquo;s Supplies_ increase in magical power while not restricting mundane use. Daily use of magical supplies is capped, and _Spell Scroll_ crafting is limited for incorporating unique inks, quills, or paper but not for mundane spell scribing with these supplies.
 
-| Item | Rarity | Daily Uses | Spell Scribe | Rolls |
-|:-|:-|:-:|:-:|:-|
-| **Apprentice Supplies** | Common | 1 | Cantrip | &bull; Roll 2 times on the _Common Supplies_ table |
-| **Journeyman Supplies** | Uncommon | 3 | 1&ndash;2 | &bull; Roll 2 times on the _Uncommon Supplies_ table. <br> &bull; Roll 3 times on the _Common Supplies_ table. |
-| **Expert Supplies** | Rare | 5 | 3&ndash;4 | &bull; Roll 2 times on the _Rare Supplies_ table. <br> &bull; Roll 3 times on the _Uncommon Supplies_ table. <br> &bull; Roll 3 times on the _Common Supplies_ table |
+Roll the listed number for _Common Supplies_, _Uncommon Supplies_ and _Rare Supplies_:
+
+{{wide
+| Item | Rarity | Daily Uses | Spell Scribe | Common Rolls | Uncommon Rolls | Rare Rolls |
+|:-|:-|:-:|:-:|:-:|:-:|:-:|
+| **Apprentice Supplies** | Common | 1 | Cantrip | 2 | &mdash; | &mdash; |
+| **Journeyman Supplies** | Uncommon | 3 | 1&ndash;2 | 3 | 2 | &mdash; |
+| **Expert Supplies** | Rare | 5 | 3&ndash;4 | 3 | 3 | 2 |
+}}
 
 ##### Common Supplies
 
@@ -48,6 +54,8 @@ You gain a Common supply item. Roll a d6. If you roll an item that your supplies
 | 4 | Memory Quill |
 | 5 | Research Paper |
 | 6 | Roll two more times ignoring this result |
+
+\column
 
 ##### Uncommon Supplies
 
