@@ -164,7 +164,7 @@ You learn the _Find Familiar_ spell. It is always prepared for you and doesn&rsq
 | Witch Level | Maximum Familiar Challenge Rating (CR) |
 |:--:|:--:|
 | 2 | 0 |
-| 9 | 1/2 |
+| 9 | 1 |
 
 _**Fearless**._ Your familiar gains immunity to the Charmed and Frightened conditions.
 
@@ -263,6 +263,16 @@ Your wisdom and presence have reached their fullest strength.
 
 Not just a plain list, but some description how to use, and why a Witch knows these.
 
+{{note
+##### Spells from Outside the PHB (2024)
+Most Witch spells are listed in the _Player&rsquo;s Handbook_ (2024).  
+A few come from other published sources. DMs should decide which non-core sourcebooks are included for their campaign:
+
+- **Psychic Scream** &mdash; _Xanathar&rsquo;s Guide to Everything_
+- **Silvery Barbs** &mdash; _Strixhaven: A Curriculum of Chaos_
+- **Tasha’s Otherworldly Guise** &mdash; _Tasha&rsquo;s Cauldron of Everything_
+}}
+
 #### Cantrips (Level 0 Witch Spells)
 
 _Some smoke from your hearth, a word in your ear, a flower in your vase makes you a Witch. And a good stare._
@@ -284,10 +294,10 @@ _What are you prattling on about? I kept you alive, didn't I?_
 
 _Well, you folks take care of them already. I've other things to attend to._
 
+\page
+
 - **Chill Touch** <br>
   You remind them of what they regret and nothing heals that thought.
-
-\page
 
 - **Frostbite** <br>
   Your words may freeze their courage to fumble their next attack.
@@ -377,6 +387,9 @@ _A little help never hurt nobody, I always say._
   An attacker must choose a different target if they cannot oppose your willpower.
   A Witch stands up for those who cannot stand for themselves.
 
+- **Silvery Barbs** <br>
+  A witch&rsquo;s words alter fate before "what happened" becomes "what really is".
+
 ##### 📌 Damage & Control
 
 _Maybe they'll be reasonable if restrained a little, enough time to talk things out._
@@ -396,10 +409,10 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 - **Entangle** <br>
   Roots rise up to imprison those who overstep.
 
+\page
+
 - **Hex** <br>
   A spiteful curse that saps strength and fuels further harm.
-
-\page
 
 - **Ice Knife** <br>
   _Did you really say, "cold as a witch&rsquo;s teat?" I'll show you what cold is like._
@@ -517,10 +530,10 @@ _Respect. Always show a Witch respect. And we don't bow._
 - **Hold Person** <br>
   Just stay there a bit, would you? Just like that. Hold still.
 
+\page
+
 - **Mind Spike** <br>
   A cursed thorn of thought sears with psychic pain and leaves a lingering connection.
-
-\page
 
 - **Ray of Enfeeblement** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
@@ -639,10 +652,10 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   A swirling, mind-drowning display that pacifies the mind.
   They seem stupid now, but will remember you after with the hand-waving and the confetti.
 
+\page
+
 - **Plant Growth** <br>
   You aid the local farmers. Maybe this is useful against enemies.
-
-\page
 
 - **Spirit Shroud** <br>
   Your enemy knows who they sent to the grave. You encourage those souls to get revenge a little early.
@@ -756,10 +769,10 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Legend Lore** <br>
   You know more about obscure topics than you show. Listen to a Witch&rsquo; knowledge.
 
+\page
+
 - **Modify Memory** <br>
   What you remember and what I want happened are two different things. Let's fix that.
-
-\page
 
 - **Rary&rsquo;s Telepathic Bond** <br>
   This "Rary" was alright for a Wizard. Shorter time than _Telepathy_, but more folks in my circle.
@@ -802,7 +815,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Tasha&rsquo;s Otherworldly Guise** <br>
   _Now I'm cross. You think I look like this every day? Give them what for and no two ways about it._
-  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 - **Wall of Thorns** <br>
   Enemies thought the terrain difficult. Now it's painful.
@@ -912,7 +924,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   
 - **Psychic Scream** <br>
   Enough. Let's see you get up from this.
-  _(Xanathar's Guide to Everything, WotC)_
 
 - **Weird** <br>
   You don't just affect other minds, you inhabit them &mdash; and it is terrifying.
