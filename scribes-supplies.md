@@ -119,9 +119,9 @@ _**Sleeping Ink (Rare).**_
 _Favored by mystics, this ink bleeds into dreams._
 Writing made with this ink appears in the dreams of any creature that possesses the page each time it sleeps for 7 nights. The dream is fully recalled upon waking. After 7 dreams by any creature, the ink becomes mundane and no longer causes dreams. If the writing describes creatures, places, or objects, the dream includes visions of them. The dream reflects the tone of the writing&mdash;pleasant dreams for pleasant words, harsh words lead to nightmares. At the DM&rsquo;s discretion, dreams may produce minor effects upon waking, such as granting 5 temporary hit points, imposing a DC 13 Wisdom [_saving throw_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SavingThrow) against 1 level of [_Exhaustion_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition), granting [_advantage_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Advantage) on checks related to a place dreamt of, revealing hints toward the location of an object, or similar results.
 
-_**Vanishing Ink (Common).**_
+_**Vanishing Ink (Uncommon).**_
 _Favored by charlatans, scouts and smugglers, this ink goes away._
-Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as [_Detect Magic_](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectMagic)). Magical writing, such as spell scrolls or glyphs, is unaffected. This is an uncommon supply item.
+Writing made with this ink fades after 1 hour. The text reappears only under moonlight or with magical detection (such as [_Detect Magic_](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectMagic)). Magical writing, such as spell scrolls or glyphs, is unaffected.
 
 #### Quills
 
@@ -160,20 +160,20 @@ _Favored by scouts and sergeants, this brief page is meant for quick reference._
 When a creature uses a bonus action to read this page, it prepares to attack. Until the start of its next turn, it has [_advantage_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Advantage) on its first [_attack roll_](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#AttackRoll).
 
 _**Mimeograph Paper (Uncommon).**_
-_Favored by calligraphers and copyists, these blue sheets echo every stroke of the quill._
+_Favored by calligraphers and copyists, these blue pages echo every stroke of the quill._
 When you write on a page of this paper, the same writing is duplicated simultaneously on as many unused pages from the same sheaf as you choose. These copies are aromatic and smudged blue, and each page used in this way is expended. All pages must be within 5 feet of you. Creating copies is a single use of the supplies regardless of copied page count. You cannot copy magical writings.
 
 _**Mirror Paper (Rare).**_
-_Favored by the nosey, this glossy sheet reflects more than words._
-This sheet can be used once and becomes mundane afterward, keeping any writing on it. The first creature that reads the writing must succeed on a DC 15 Wisdom saving throw or be placed under the effect of the _Scrying_ spell, targeting the writer as the subject. The spell requires no components, lasts for 10 minutes, and doesn't use a spell slot.
+_Favored by the nosy, this glossy page reflects more than words._
+The first creature that reads the writing or markings on a page must succeed on a DC 15 Wisdom saving throw or it becomes the subject of the _Scrying_ spell. The spell requires no components, lasts for 10 minutes, and doesn't use a spell slot.
 
 _**Origami Paper (Uncommon).**_
-_Favored by entertainers and spies, this sheet folds itself into living shapes._
-As an action, the sheet folds into a Tiny paper creature of a form chosen by the writer (such as a flower, bird, or insect). The creature has AC 8, 1 hit point, and a Speed of 20 feet, fly 20 feet. The reader can direct the creature’s movement as a bonus action. The creature lasts for 1 hour, or until it is destroyed or unfolded, after which it becomes a mundane sheet of paper.
+_Favored by entertainers and spies, this page folds itself into living shapes._
+As an action, the page folds into a Tiny paper creature of a form chosen by the writer (such as a flower, bird, or insect). The creature has AC 8, 1 hit point, and a Speed of 20 feet, fly 20 feet. The reader can direct the creature’s movement as a bonus action. The creature lasts for 1 hour, or until it is destroyed or unfolded, after which it becomes a mundane sheet of paper.
 
 _**Paired Paper (Uncommon).**_
-_Favored by remote penpals, these blue sheets reach to their twins._
-Writing on one sheet of this paper appears instantly on its paired sheet within the same plane.
+_Favored by remote penpals, these pale pages reach to their twins._
+This sheaf is 5 sets of paired pages. When you write or mark on a page of this paper, those appears instantly on its paired page within the same plane.
 
 _**Research Paper (Common).**_
 _Favored by apprentices and investigators, this page distills insights into practice._
@@ -185,8 +185,8 @@ When you write the name of a specific place or landmark within 3 miles (such as 
 
 _**Vocal Paper (Uncommon).**_
 _Favored by illiterate readers, this paper speaks its words._
-When a sheet of this paper is opened or touched, it speaks its contents aloud in the language they were written in.
+When a page is opened or touched, it speaks its contents aloud in the language it was written in.
 
 _**Warped Paper (Rare).**_
 _Favored by close allies and tricksters, this cockled sheet bends space and words._
-This sheet can be used once and becomes mundane afterward, keeping any writing on it. When a creature willingly reads the writing, the reader and the writer instantly swap places, provided they are on the same plane of existence and within 1 mile of each other. Both creatures arrive safely in each other&rsquo;s space. If the swap would place either creature into an occupied space too small for it, the swap fails and the paper crumbles to ash. Any grapple affecting either creature ends when the swap occurs.
+When a creature willingly reads a page, the reader and the writer instantly swap places, provided they are on the same plane of existence and within 1 mile of each other. Both creatures arrive safely in each other&rsquo;s space. If the swap would place either creature into an occupied space too small for it, the swap fails and the paper crumbles to ash. Any grapple affecting either creature ends when the swap occurs.
