@@ -6,7 +6,7 @@ Wretched Regeneration (Troll)
 In addition to other feats taken at 1st level, as a Goliath you may take this feat as a replacement for the _Giant Ancestry_ feature.
 
 {{note
-Your ancestry includes Troll, warped kin of true Giants, and you carry their unsettling gift for regeneration. Wounds knit shut and fade away, leaving few scars. Some with this heritage are shunned; others are feared or respected for surviving what should have killed them.
+Your ancestry includes Troll&mdash;warped kin of true Giants&mdash;and you carry their unsettling gift for regeneration. Wounds knit shut and fade away, leaving few scars. Some with this heritage are shunned; others are feared or respected for surviving what should have killed them.
 }}
 
 #### Giant Ancestry
