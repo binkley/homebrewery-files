@@ -296,6 +296,9 @@ _Well, you folks take care of them already. I've other things to attend to._
 
 \page
 
+- **Acid Splash** <br>
+  An enemy interrupts home brewing and finds what was bubbling.
+
 - **Chill Touch** <br>
   You remind them of what they regret and nothing heals that thought.
 
@@ -306,6 +309,9 @@ _Well, you folks take care of them already. I've other things to attend to._
   A glare sharp enough to still the bold and curdle milk.
   One hard look and their courage falters, their hands forget what they meant to do.
   _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
+
+- **Poison Spray** <br>
+  Words for vermin and weeds work as well on creatures.
 
 - **Toll the Dead** <br>
   _Spare the Dying_ is a natural companion to this cantrip.
@@ -400,6 +406,8 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 - **Cause Fear** <br>
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
 
+\page
+
 - **Command** <br>
   A sharp word is all it takes. Their respect is shown.
 
@@ -408,8 +416,6 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 
 - **Entangle** <br>
   Roots rise up to imprison those who overstep.
-
-\page
 
 - **Hex** <br>
   A spiteful curse that saps strength and fuels further harm.
@@ -524,13 +530,13 @@ _Respect. Always show a Witch respect. And we don't bow._
 - **Earthbind** <br>
   _Come down from there where I can see you better._
 
+\page
+
 - **Heat Metal** <br>
   Feel that? That's what comes of crossing me.
 
 - **Hold Person** <br>
   Just stay there a bit, would you? Just like that. Hold still.
-
-\page
 
 - **Mind Spike** <br>
   A cursed thorn of thought sears with psychic pain and leaves a lingering connection.
@@ -648,11 +654,11 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 - **Fear** <br>
   A vision sends foes fleeing. Your shadow stretches farther than your body, and recalls their worst terrors.
 
+\page
+
 - **Hypnotic Pattern** <br>
   A swirling, mind-drowning display that pacifies the mind.
   They seem stupid now, but will remember you after with the hand-waving and the confetti.
-
-\page
 
 - **Plant Growth** <br>
   You aid the local farmers. Maybe this is useful against enemies.
