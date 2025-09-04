@@ -777,9 +777,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 \page
 
-- **Modify Memory** <br>
-  What you remember and what I want happened are two different things. Let's fix that.
-
 - **Rary&rsquo;s Telepathic Bond** <br>
   This "Rary" was alright for a Wizard. Shorter time than _Telepathy_, but more folks in my circle.
 
@@ -835,8 +832,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **True Seeing** <br>
   A Witch sees what is really there or not.
-
-\column
 
 #### Level 7 Witch Spells
 
