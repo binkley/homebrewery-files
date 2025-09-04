@@ -877,6 +877,9 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 ##### 🛡️ Ally Buffs & Wards
 
+- **Antimagic Field** <br>
+  Me nor you can use magic. Let's find out how things truly are &mdash; I've got someone here good with a sharp blade.
+
 - **Mind Blank** <br>
   Even wishing it were so does not reach their mind. Fear might.
 
@@ -885,14 +888,11 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Abi-Dalzim&rsquo;s Horrid Wilting** <br>
   Water you need, and water I withdraw.
 
-- **Antimagic Field** <br>
-  Me nor you can use magic. Let's find out how things truly are &mdash; I've got someone here good with a sharp blade.
-
 - **Befuddlement** <br>
   _You're not so clever after all._
 
-- **Maze** <br>
-  Sends an enemy to elsewhere for a spell. Let them study this out.
+- **Earthquake** <br>
+  The Witch gives rage to the land, hindering all and felling the unlucky.
 
 - **Power Word Stun** <br>
   A Witch&rsquo;s grim voice is so strong that it stuns and they struggle to act.
