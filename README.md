@@ -34,6 +34,13 @@
      Beyond](https://www.dndbeyond.com/feats/2092667-troll-ancestry) or
      [Homebrewery](https://homebrewery.naturalcrit.com/share/EVewjLg8mQWV) for
      online rendering.
+- [_Peasant Greatflail_](./peasant-greatflail.md) &mdash; A _simple_
+  two-handed version of the martial
+  [flail](https://en.wikipedia.org/wiki/Flail).
+  See [D&amp;D
+  Beyond](https://www.dndbeyond.com/magic-items/10557376-peasant-greatflail)
+  and [Homebrewery](https://homebrewery.naturalcrit.com/share/HmP6sGXemkeF) for
+  online rendering.
 - [_Scribe&rsquo;s Supplies_](./scribes-supplies.md) &mdash; An improved
   and magical version of _Calligrapher&rsquo;s Supplies_.
   See [D&amp;D
