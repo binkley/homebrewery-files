@@ -53,3 +53,9 @@
   Beyond](https://www.dndbeyond.com/magic-items/10515219-scribes-supplies) or
   [Homebrewery](https://homebrewery.naturalcrit.com/share/js0JPW4UlOyw) for
   online rendering.
+
+## Usage Rights
+
+&copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse these in your campaigns and free projects. For commercial use, please contact the author.
+
+These works reference spells and game terms from the _System Reference Document 5.2_ (SRD) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also name works of theirs not included in the SRD.
