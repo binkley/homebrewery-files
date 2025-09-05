@@ -1,3 +1,13 @@
+<a href="./LICENSE.md">
+    <img src="./images/nc.svg" title="CC BY-NC 4.0" align="right" width="6%"/>
+</a>
+<a href="./LICENSE.md">
+    <img src="./images/by.svg" title="CC BY-NC 4.0" align="right" width="6%"/>
+</a>
+<a href="./LICENSE.md">
+    <img src="./images/cc.svg" title="CC BY-NC 4.0" align="right" width="6%"/>
+</a>
+
 # A collection of Markdown for Homebrewery
 
 - [_The Witch_](./witch.md) &mdash; A D&amp;D 5e (2024) spellcasting class.

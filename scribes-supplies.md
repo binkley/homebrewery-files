@@ -1,6 +1,6 @@
 # Scribe&rsquo;s Supplies
 
-_Wondrous ![alt-text](https://raw.githubusercontent.com/binkley/homebrewery-files/main/quill-and-inkpot.png) {width:6em,float:right} Item, varies (requires attunement by a Humanoid proficient with Calligrapher&rsquo;s Supplies)_
+_Wondrous ![alt-text](https://raw.githubusercontent.com/binkley/homebrewery-files/main/images/quill-and-inkpot.png) {width:6em,float:right} Item, varies (requires attunement by a Humanoid proficient with Calligrapher&rsquo;s Supplies)_
 
 {{note
 ##### More Than One Item
