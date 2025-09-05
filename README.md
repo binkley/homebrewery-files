@@ -1,7 +1,7 @@
 <a href="./LICENSE.md" aria-label="Creative Commons BY-NC 4.0 License" title="CC BY-NC 4.0">
-  <img src="./images/nc.svg" alt="" align="right" width="6%" />
-  <img src="./images/by.svg" alt="" align="right" width="6%" />
-  <img src="./images/cc.svg" alt="" align="right" width="6%" />
+  <img src="./images/nc.svg" alt="" align="right" width="3em" />
+  <img src="./images/by.svg" alt="" align="right" width="3em" />
+  <img src="./images/cc.svg" alt="" align="right" width="3em" />
 </a>
 
 # A collection of Markdown for Homebrewery
