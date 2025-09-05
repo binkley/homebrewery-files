@@ -190,3 +190,9 @@ When read it speaks its contents aloud in the language it was written in.
 _**Warped Paper (Rare).**_
 _Favored by close allies and tricksters, this cockled paper bends space and words._
 When a creature willingly reads a page, the reader and the writer instantly swap places, provided they are on the same plane of existence and within 1 mile of each other. Both creatures arrive safely in each other&rsquo;s space. If the swap would place either creature into an space too small for it, the swap fails and the paper crumbles to ashes. Any grapple affecting either creature ends when the swap occurs.
+
+## Usage Rights
+
+&copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this in your campaigns and free projects. For commercial use, please contact the author.
+
+This work references spells and game terms from the _System Reference Document 5.2_ (SRD) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.

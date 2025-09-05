@@ -3,7 +3,7 @@
 A D&D 5e (2024) full-caster class. <br>
 Your Witch is a full caster rooted in willpower, wisdom, and presence. Not a Bard, Cleric, Druid, Sorcerer, Warlock, nor Wizard&mdash;and certainly not martial. Respected and listened to, allies seek you, and enemies fear you.
 
-Your Witch is **high** in complexity for player classes. You are distinct and can echo other casters in a witchy way without multiclassing. 
+Your Witch is **high** in complexity for player classes. You are distinct and can echo other casters in a witchy way without multiclassing.
 
 ##### Core Witch Traits
 
@@ -265,7 +265,7 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 {{note
 ##### Spells from Outside the PHB (2024)
-Most Witch spells are listed in the _Player&rsquo;s Handbook_ (2024).  
+Most Witch spells are listed in the _Player&rsquo;s Handbook_ (2024).
 A few come from other published sources. DMs should decide which non-core sourcebooks are included for their campaign:
 
 - **Psychic Scream** &mdash; _Xanathar&rsquo;s Guide to Everything_
@@ -922,7 +922,7 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Power Word Kill** <br>
   A Witch&rsquo;s grim voice is so strong that it can kill.
-  
+
 - **Psychic Scream** <br>
   Enough. Let's see you get up from this.
 
@@ -1315,3 +1315,9 @@ If an affected creature within your aura is attacked by you or your companions, 
 When the effect ends for a creature (including when the spell ends), the improved attitude persists unless a significant event changes their mind, such as continuing combat with them or their allies (DM&rsquo;s discretion).
 
 _The aura moves with you, remaining centered on you for the spell’s duration._
+
+## Usage Rights
+
+&copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this in your campaigns and free projects. For commercial use, please contact the author.
+
+This work references spells and game terms from the _System Reference Document 5.2_ (SRD) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.

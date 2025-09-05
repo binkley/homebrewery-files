@@ -19,3 +19,9 @@ You add your Proficiency Bonus to attack rolls you make with the _Peasant Greatf
 #### Weapon Mastery
 
 **Sap.** If you hit a creature with this weapon, that creature has [Disadvantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Disadvantage) on its next attack roll before the start of your next turn.  
+
+## Usage Rights
+
+&copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this in your campaigns and free projects. For commercial use, please contact the author.
+
+This work references spells and game terms from the _System Reference Document 5.2_ (SRD) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.

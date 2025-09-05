@@ -20,3 +20,9 @@ If an affected creature within your aura is attacked by you or your companions, 
 When the effect ends for a creature (including when the spell ends), the improved attitude persists unless a significant event changes their mind, such as continuing combat with them or their allies (DM&rsquo;s discretion).
 
 _The aura moves with you, remaining centered on you for the spell’s duration._
+
+## Usage Rights
+
+&copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this in your campaigns and free projects. For commercial use, please contact the author.
+
+This work references spells and game terms from the _System Reference Document 5.2_ (SRD) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.

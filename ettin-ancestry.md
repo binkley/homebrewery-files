@@ -18,3 +18,9 @@ When you use this feature, choose one of the following benefits:
 - **Twin Resolve.** _Two minds to affect, not one._ When you make a saving throw against an Intelligence, Wisdom, or Charisma effect, or against a spell from the Enchantment school, you can use your reaction to gain advantage on the saving throw.
 - **Twin Strike.** _Both minds strike as one._ When you hit a target with a weapon or spell attack and deal damage to it, you can use this feature (no action required) to deal an extra 1d4 psychic damage to that target, or change the damage type of that attack to psychic.
 - **Twin Will.** _One mind protects the other._ When you take psychic damage, you can use your reaction to have resistance to that instance of damage.
+
+## Usage Rights
+
+&copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this in your campaigns and free projects. For commercial use, please contact the author.
+
+This work references spells and game terms from the _System Reference Document 5.2_ (SRD) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.

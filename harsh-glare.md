@@ -20,3 +20,9 @@ If you cast this spell, you can't take a _Magic Action_ on the same turn.
 ### Cantrip Upgrade
 
 You may target additional creatures when you reach levels 5 (up to 2 creatures), 11 (up to 3 creatures), and 17 (up to 4 creatures).
+
+## Usage Rights
+
+&copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this in your campaigns and free projects. For commercial use, please contact the author.
+
+This work references spells and game terms from the _System Reference Document 5.2_ (SRD) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.
