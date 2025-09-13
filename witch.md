@@ -8,10 +8,10 @@ Your Witch is **high** in complexity for player classes. You are distinct and ca
 ##### Core Witch Traits
 
 |||
-|--|--|
+|:-|:-|
 | **Primary Ability** | Wisdom |
 | **Hit Point Die** | D6 per Witch level |
-| **Saving Throw Proficiencies** | Charisma and Wisdom |
+| **Saving Throw Proficiencies** | Intelligence and Wisdom |
 | **Skill Proficiencies** | _Choose 2:_ Arcana, Insight, Investigation, Medicine, Nature, Perception, Persuasion |
 | **Weapon Proficiencies** | Simple weapons |
 | **Tool Proficiencies** | Cook&rsquo;s Utensils, Herbalism Kit |
@@ -217,7 +217,7 @@ _Some recognize witches for their stare, some for the magic they bear._
 
 When you gain this feature, choose one magic item that is Uncommon and requires attunement, or one that is Rare and does not require attunement. The item must be a Ring, Wand, or Wondrous Item and should suit your witchy theme. Your DM has final say on which items are available for this feature.
 
-If the item requires attunement, it does not count against your maximum number of attuned items. You cannot transfer, sell, or destroy the item except by extraordinary means&mdash;it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
+You cannot transfer, sell, or destroy the item except by extraordinary means&mdash;it is specific to you. If the item is stolen, lost, or destroyed it becomes a non-magical mundane item for others, and you can use a 1 hour ritual to return it undamaged.
 
 Items should evoke respect, mobility, protection, or nature&rsquo;s power such as _Bag of Beans_, _Broom of Flying_, _Cauldron of Plenty_, _Periapt of Wound Closure_, _Ring of Mind Shielding_, or _Wand of Entangle_. These examples represent different powers and aspects of witches.
 
