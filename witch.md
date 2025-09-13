@@ -81,13 +81,13 @@ Every spell includes a brief note on how Witches tend to use it. These notes don
 | 9 | +4 | Dangerous Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass feature | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 11 | +4 | &mdash; | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
-| 12 | +4 | Witch&rsquo;s Insight | 4 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 12 | +4 | Pointing Curse | 4 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
 | 13 | +4 | &mdash; | 4 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 14 | +5 | Subclass feature | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 15 | +5 | &mdash; | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
 | 16 | +5 | ASI | 4 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | &mdash; |
 | 17 | +6 | Final Words | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
-| 18 | +6 | &mdash; | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 18 | +6 | Witch&rsquo;s Insight | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19 | +6 | ASI | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20 | +6 | Indomitable Will | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
@@ -231,13 +231,11 @@ When you take the **Attack** action, you can forgo one of your own attacks to al
 
 When your familiar makes an attack, it adds your proficiency bonus to the attack roll and the damage roll, and can’t cast or deliver spells.
 
-#### Level 12: Witch&rsquo;s Insight
+#### Level 12: Pointing Curse
 
-Your insight into fate and folly lets you tip the balance of events.
+At 12th level, your curses leave an indelible mark on victims. When a creature is under the effect of your _Hex_ spell cast with the **Cross Words** feature, you have a constant sense of the their general direction and distance from you, as long as are both on the same plane of existence. This appears as an invisible pointing hand that only you can perceive.
 
-When a creature you can see within 30 feet of you makes a **D20 Test**, you can you can use your reaction after the creature rolls but before the outcome is determined to impose **advantage** or **disadvantage** on that test.
-
-You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
+Additionally, that creature has disadvantage on saving throws against scrying or location spells that you cast against them while the hex lasts.
 
 #### Level 17: Final Words
 
@@ -248,6 +246,14 @@ While empowered in this way, until the spell ends, whenever you or an **ally wit
 This damage is applied only once per attack, regardless of the number of hits or damage dice rolled.
 
 You can empower your _Hex_ with Final Words twice, and you regain all expended uses when you finish a long rest.
+
+#### Level 18: Witch&rsquo;s Insight
+
+Your insight into fate and folly lets you tip the balance of events.
+
+When a creature you can see within 30 feet of you makes a **D20 Test**, you can you can use your reaction after the creature rolls but before the outcome is determined to impose **advantage** or **disadvantage** on that test.
+
+You can use this feature a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
 #### Level 20: Indomitable Will
 
@@ -281,6 +287,8 @@ _Some smoke from your hearth, a word in your ear, a flower in your vase makes yo
 
 _What are you prattling on about? I kept you alive, didn't I?_
 
+\page
+
 - **Guidance** <br>
   _Resistance_ is a natural companion to this cantrip.
 
@@ -293,8 +301,6 @@ _What are you prattling on about? I kept you alive, didn't I?_
 ##### 📌 Damage & Control
 
 _Well, you folks take care of them already. I've other things to attend to._
-
-\page
 
 - **Acid Splash** <br>
   An enemy interrupts home brewing and finds what was bubbling.
@@ -396,6 +402,8 @@ _A little help never hurt nobody, I always say._
 - **Silvery Barbs** <br>
   A witch&rsquo;s words alter fate before "what happened" becomes "what really is".
 
+\page
+
 ##### 📌 Damage & Control
 
 _Maybe they'll be reasonable if restrained a little, enough time to talk things out._
@@ -405,8 +413,6 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 
 - **Cause Fear** <br>
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
-
-\page
 
 - **Command** <br>
   A sharp word is all it takes. Their respect is shown.
@@ -517,6 +523,8 @@ _Did that snake really bite you unprovoked&mdash;sure you weren't poking at it w
 - **Protection from Poison** <br>
   Draw out the venom, smoke, salt, and old rhyme.
 
+\page
+
 ##### 📌 Damage & Control
 
 _Respect. Always show a Witch respect. And we don't bow._
@@ -529,8 +537,6 @@ _Respect. Always show a Witch respect. And we don't bow._
 
 - **Earthbind** <br>
   _Come down from there where I can see you better._
-
-\page
 
 - **Heat Metal** <br>
   Feel that? That's what comes of crossing me.
@@ -640,8 +646,10 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
 
 - **Call Lightning** <br>
-  Under a stormy sky, your wrath becomes thunder made flesh.
-  _Let&rsquo;s see &hellip; this finger calls lightning, this one calls fire &hellip; let&rsquo;s use the finger when I'm angry._
+  Under a stormy sky, your wrath is shocking.
+  _This finger calls friends, this one calls fire &hellip; this one when I'm angry._
+
+\page
 
 - **Counterspell** <br>
   A stern gesture and stronger word unravels enemy magic mid-cast.
@@ -653,8 +661,6 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 
 - **Fear** <br>
   A vision sends foes fleeing. Your shadow stretches farther than your body, and recalls their worst terrors.
-
-\page
 
 - **Hypnotic Pattern** <br>
   A swirling, mind-drowning display that pacifies the mind.
@@ -763,6 +769,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Awaken** <br>
   Costly, yes &mdash; but a _Beast_ or _Plant_ that speaks makes a fine ally.
 
+\page
+
 - **Commune with Nature** <br>
   Druids and Rangers know their business. A Witch asks, and the land answers.
 
@@ -774,8 +782,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Legend Lore** <br>
   You know more about obscure topics than you show. Listen to a Witch&rsquo; knowledge.
-
-\page
 
 - **Rary&rsquo;s Telepathic Bond** <br>
   This "Rary" was alright for a Wizard. Shorter time than _Telepathy_, but more folks in my circle.
@@ -887,12 +893,12 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
   _You're not so clever after all._
 
 - **Earthquake** <br>
-  The Witch gives rage to the land, hindering all and felling the unlucky.
+  The land listens to me.
+
+\page
 
 - **Power Word Stun** <br>
   A Witch&rsquo;s grim voice is so strong that it stuns and they struggle to act.
-
-\page
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -990,11 +996,11 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Craft full illusions that speak, move, and mislead.
   Convince the senses and the soul may follow.
 
+\page
+
 - **Moonbeam** <br>
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
-
-\page
 
 #### Level 6: Third Thoughts
 
@@ -1075,10 +1081,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   You understand the meaning of spoken and written words, though your replies may be more creative than correct.
   A Witch doesn't just recognize the words&mdash;she knows what that person meant.
 
+\page
+
 - **Create Food and Water** <br>
   No one goes without when a proper witch in their company.
-
-\page
 
 - **Greater Restoration** <br>
   Fixes most serious ailments and cursed magic items.
@@ -1167,11 +1173,11 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 7 | *Blight*, *Death Ward* |
 | 9 | *Compulsion*, *Dominate Beast*, *Phantasmal Killer* |
 
+\page
+
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
   One step from _Borrowing_ them.
-
-\page
 
 - **Clairvoyance** <br>
   See or hear from afar through a chosen point.
