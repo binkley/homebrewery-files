@@ -1,8 +1,9 @@
 # Arcane Autography, Introduction
+_Wonderous item, Uncommon_
 
-This thin volume serves both as a _spellbook_ and a [spellcasting focus](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SpellcastingFocus). It and any spells written in its pages or notes therein can't be damaged by fire or immersion in water. In addition, the book doesn't deteriorate with age or use. This _Uncommon_ item functions similarly to an [Enduring Spellbook](https://www.dndbeyond.com/magic-items/27047-enduring-spellbook), and grants additional magical features. This is the first volume of a set.
+This thin volume serves both as a _spellbook_ and a [spellcasting focus](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SpellcastingFocus). It and any spells written in its pages or notes therein can't be damaged by fire or immersion in water. In addition, the book doesn't deteriorate with age or use. This item functions similarly to an _[Enduring Spellbook](https://www.dndbeyond.com/magic-items/27047-enduring-spellbook)_, and grants additional magical features. This is the first volume of a set.
 
-The well-used tome smells faintly of ozone and lilac ink and is a cornucopia of magic history. Each page reveals arcane history that changed the world and refers to other volumes. The author of this compendium is unknown, and styles themself as "Q". Under the front cover is pressed one perfect rose permanently affixed.
+The well-used tome smells faintly of ozone and lilac ink and is a cornucopia of magic history. Each page reveals arcane history that changed the world and refers to other volumes. The author of this compendium is unknown and styles themself as "Q". Under the front cover is pressed one perfect rose, permanently affixed.
 
 Copying a new spell into blank pages takes the same time and gold cost as writing it into a normal spellbook.
 
@@ -11,7 +12,7 @@ Copying a new spell into blank pages takes the same time and gold cost as writin
 {{note
 Of course I write this for myself. I like a good author, and I appreciate an intelligent reader. A spellbook page, like good tailoring, should reveal just enough.
 
-The only cure for boredom is curiosity. As _curiosity has no cure_. If you have young friends aspring to wizardship, the second-greatest favor you can do is present them with _Elminster&rsquo;s Biography_, the full series. The first-greatest, of course, is to [fire bolt](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FireBolt) them now while they're happy.
+The only cure for boredom is curiosity. _Curiosity has no cure_. If you have young friends aspring to wizardship, the second-greatest favor to them is to give _Elminster&rsquo;s Biography_, the full series. The first-greatest &mdash; of course &mdash; is to [fire bolt](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FireBolt) them now while they're still happy.
 
 If I had a silver for every self-proclaimed archmage, I'd buy them all a mirror. Each volume of mine is useful. See _L&ndash;M_ if you wonder how _acidic geometry_ kills you. Watch out for _Rary_ or _Elminster_ or _Mordenkainen_ unless you enjoy that sort of thing. They do tempt.
 
@@ -80,9 +81,9 @@ I hesitate to write this volume. You could be cut, burned, pierced, hung. Might 
 #### Arcane Lore
 
 The writings in this book enhance your thirst for more.
-- You have advantage on [Arcana](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Skills) checks, and on [History](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Skills) checks related to magical lore, wizard lineages, ancient spells, and arcane traditions.
-- Once per day, you can cast [Locate Object](https://www.dndbeyond.com/spells/2619002-locate-object) without expending a spell slot, but only to locate a nearest volume of the set if any.
-- Once per week, you can cast [Legend Lore](https://www.dndbeyond.com/spells/2619010-legend-lore) without expending a spell slot, but only for information about a person appearing in volumes of this series &mdash; and trust me, everyone worth writing about is famous.
+- You have **advantage on [Arcana](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Skills) checks**, and on **[History](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Skills) checks** related to magical lore, wizard lineages, ancient spells, and arcane traditions.
+- Once per day, **you can cast [Locate Object](https://www.dndbeyond.com/spells/2619002-locate-object)** without expending a spell slot, but only to locate a nearest volume of the set if any.
+- Once per week, **you can cast [Legend Lore](https://www.dndbeyond.com/spells/2619010-legend-lore)** without expending a spell slot, but only for information about a person appearing in volumes of this series &mdash; and trust me, everyone worth writing about is famous.
 
 {{note
 Secondhand spells, like secondhand shoes, don't tell where they've been, but fit for now. Don't think about where they've been.<br />&mdash; Q.

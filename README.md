@@ -6,6 +6,9 @@
 
 # A collection of Markdown for Homebrewery
 
+- _Arcane Autography_ &mdash; A series of D&amp;D 5e (2024) magic item spell
+  books.
+   - [_Introdution_](./arcane-autography-introduction.md)
 - [_The Witch_](./witch.md) &mdash; A D&amp;D 5e (2024) spellcasting class.
   Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a
   martial.
