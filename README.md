@@ -43,6 +43,8 @@
      Beyond](https://www.dndbeyond.com/feats/2092667-troll-ancestry) or
      [Homebrewery](https://homebrewery.naturalcrit.com/share/EVewjLg8mQWV) for
      online rendering.
+- [_Greater Pendant of Warning_](./greater-pendant-of-warning.md) &mdash; An
+  improved "Weapon of Warning" as a miscellaneous magic item.
 - [_Peasant Greatflail_](./peasant-greatflail.md) &mdash; A _simple_
   two-handed version of the martial
   [flail](https://en.wikipedia.org/wiki/Flail).
