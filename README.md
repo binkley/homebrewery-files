@@ -47,7 +47,9 @@
   improved "Weapon of Warning" as a miscellaneous magic item.
 - [_Investigator&rsquo;s Case_](./investigators-case.md) &mdash; A compact
   toolkit for the nosey in the field.
-  See [Homebrewery](https://homebrewery.naturalcrit.com/share/tnytpgwJZEfV)
+  See [D&amp;D
+Beyond](https://www.dndbeyond.com/magic-items/10629318-investigators-case) or
+  [Homebrewery](https://homebrewery.naturalcrit.com/share/tnytpgwJZEfV)
   for online rendering.
 - [_Peasant Greatflail_](./peasant-greatflail.md) &mdash; A _simple_
   two-handed version of the martial
