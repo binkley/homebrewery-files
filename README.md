@@ -45,6 +45,10 @@
      online rendering.
 - [_Greater Pendant of Warning_](./greater-pendant-of-warning.md) &mdash; An
   improved "Weapon of Warning" as a miscellaneous magic item.
+- [_Investigator&rsquo;s Case_](./investigators-case.md) &mdash; A compact
+  toolkit for the nosey in the field.
+  See [Homebrewery](https://homebrewery.naturalcrit.com/share/tnytpgwJZEfV)
+  for online rendering.
 - [_Peasant Greatflail_](./peasant-greatflail.md) &mdash; A _simple_
   two-handed version of the martial
   [flail](https://en.wikipedia.org/wiki/Flail).
