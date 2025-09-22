@@ -22,7 +22,7 @@ _**Charges.**_ In addition, the case has 2 charges and regains all expended char
 - **Expend 2 charges.** You can cast _[Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock)_.
 - **Expend 2 charges.** You can cast _[Locate Object](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LocateObject)_.
 
-_**Find Secret Doors.**_ As an action, you sense the presence of any secret door or hidden compartment within 120 feet of you that is also within your line of sight. A secret door, for the purpose of this feature, includes any hidden passage or container intended to be concealed, such as a sliding wall, a concealed lever, or a false-bottomed chest. This feature reveals that such a secret is present, but does not reveal its exact location. You do, however, learn the general nature of its construction (such as 'stone panel' or 'hidden latch').
+_**Find Secret Doors.**_ As an action, you sense the presence of any secret door or hidden compartment within 120 feet of you that is also _within your line of sight_. A secret door, for the purpose of this feature, includes any hidden passage or container intended to be concealed, such as a sliding wall or a false-bottomed chest. This feature reveals that such a secret is present, but does not reveal its exact location. You do, however, learn the general nature of its construction but not specifics of its operation.
 
 ## Usage Rights
 
