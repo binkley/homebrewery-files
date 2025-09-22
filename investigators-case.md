@@ -10,7 +10,7 @@ _**Expert Analysis.**_ If you have proficiency with _Alchemist&rsquo;s Supplies_
 
 _**Handy Tool.**_ You can use an action to identify a substance (DC 15), or to start a fire (DC 15).
 
-_**Hidden Pocket.**_ A secret pocket is hidden withing the case&rsquo;s lining, which can only be found with a successful DC 20 Intelligence (_Investigation_) check. The pocket can hold a tiny object such as a key or folded parchment.
+_**Hidden Pocket.**_ A secret pocket is hidden within the case&rsquo;s lining, which can only be found with a successful DC 20 Intelligence (_Investigation_) check. The pocket can hold a tiny object such as a key or folded parchment.
 
 _**Specialized Tools.**_ The case includes a _[magnifying glass](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#MagnifyingGlass100GP)_, a bottle of [ink](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Candle1CP), an [ink pen](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#InkPen2CP), two sheets of [parchment](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Parchment1SP), four [candles](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Candle1CP), two pieces of [string](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#String1SP), a pouch of dusting powder, a folding 5-foot measuring rod, and two [vials](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Vial1GP). After you finish a [Long Rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest), any of these items that are missing are magically replenished inside the case.
 
