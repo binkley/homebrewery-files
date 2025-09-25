@@ -944,6 +944,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Wish** <br>
   You know "what is really real" so well that the universe shows respect and nudges a bit.
 
+\column
+
 ## Witch Subclasses
 
 You gain a Witch subclass of your choice. A subclass is a specialization that grants you features at certain Witch levels. For the rest of your career, you gain each of your subclass&rsquo;s features that are of your Witch level or lower.
@@ -982,10 +984,10 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Faerie Fire** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
 
+\page
+
 - **Fount of Moonlight** <br>
   You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
-
-\page
 
 - **Greater Invisibility** <br>
   You or another you touch _stay_ invisible.
@@ -1071,11 +1073,11 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 7 | *Mordenkainen&rsquo;s Private Sanctum* |
 | 9 | *Aura of Life*, *Greater Restoration* |
 
+\page
+
 - **Aid** <br>
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
-
-\page
 
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
