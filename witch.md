@@ -142,11 +142,11 @@ You can use this feature a number of times equal to your _proficiency bonus_. Yo
 
 #### Level 2: Cross Words
 
-You learn the _Hex_ spell. It is always prepared for you and doesn't count against the number of spells you can prepare. When you cast _Hex_, the extra damage it deals is **psychic** instead of **necrotic**.
+You learn the [Hex](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Hex) spell. It is always prepared for you and doesn't count against the number of spells you can prepare. When you cast _Hex_, the extra damage it deals is **psychic** instead of **necrotic**.
 
 You can cast _Hex_ without expending a spell slot, using only verbal components. When you do so, you use one of your Cross Words uses. You regain all expended uses when you finish a long rest. Casting with spell slots follows the normal rules for spell components.
 
-You begin with 2 uses, and the number of uses increases as you gain Witch levels, as shown in the Cross Words column of the Witch Features table.
+You begin with 1 use, and the number of uses increases as you gain Witch levels, as shown in the Cross Words Uses column of the Witch Features table.
 
 #### Level 2: Second Sight
 
