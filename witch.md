@@ -110,13 +110,13 @@ _**Spellcasting Ability.**_
 Wisdom is your spellcasting ability for your Witch spells.
 
 _**Spellcasting Focus.**_
-You can use a Druidic Focus, _herbalism kit_, or _cook&rsquo;s utensils_ as a Spellcasting Focus for your Witch spells.
+You can use a [druidic focus](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#DruidicFocusVaries), _herbalism kit_, or _cook&rsquo;s utensils_ as a [spellcasting focus](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SpellcastingFocus) for your Witch spells.
 
 #### Level 1: Harsh Glare
 
 _Witches say the eyes speak before the mouth does._
 
-You learn the **Harsh Glare** cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
+You learn the _Harsh Glare_ cantrip. It counts as a Witch cantrip for you and doesn't count against the number of cantrips you know. (The cantrip is described at the end.)
 
 #### Level 1: Home Territory
 
@@ -124,11 +124,11 @@ _Now that's a lovely new garden. I wonder what they're growing in it? Let's go f
 
 Every Witch has a place they call their own: a valley, village, forest, coast, sea, or patch of moorland. It may be no more than a day&rsquo;s walk across, but you belong to it and it belongs to you.
 
-_**Homebody.**_ While in your home territory, _difficult terrain_ does not slow you or your group.
+_**Homebody.**_ While in your home territory, [difficult terrain](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DifficultTerrain) does not slow you or your group.
 
 \page
 
-_**There&rsquo;s No Place Like Home.**_ When you make _Intelligence (History)_, _Intelligence (Nature)_, or _Wisdom (Survival)_ checks related to your home territory, you can replace the d20 roll with a 20. You can use this feature two times, and you regain all expended uses when you finish a long rest.
+_**There&rsquo;s No Place Like Home.**_ When you make _Intelligence ([History](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Skills))_, _Intelligence ([Nature](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Skills))_, or _Wisdom ([Survival](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Skills))_ checks related to your home territory, you can replace the d20 roll with a 20. You can use this feature two times, and you regain all expended uses when you finish a long rest.
 
 The DM and player should decide together what constitutes your home territory when becoming a Witch suitable to your background and backstory. Over a lifetime, a Witch may find more than one place to call home. Each time you live and work in a new area for a year or more, your DM may let you claim that new area as an additional home territory for this feature.
 
@@ -136,9 +136,9 @@ The DM and player should decide together what constitutes your home territory wh
 
 _A new witch learns self-protection._
 
-When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
+When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose [disadvantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Disadvantage) on that roll.
 
-You can use this feature a number of times equal to your _proficiency bonus_. You regain all expended uses when you finish a _long rest_.
+You can use this feature a number of times equal to your _proficiency bonus_. You regain all expended uses when you finish a [long rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest).
 
 #### Level 2: Cross Words
 
