@@ -124,15 +124,12 @@ _Now that's a lovely new garden. I wonder what they're growing in it? Let's go f
 
 Every Witch has a place they call their own: a valley, village, forest, coast, sea, or patch of moorland. It may be no more than a day&rsquo;s walk across, but you belong to it and it belongs to you.
 
-While in your home territory:
-
-- **Difficult terrain** does not slow your group&rsquo;s travel.
-- When you make _Intelligence (History)_, _Intelligence (Nature)_, or _Wisdom (Survival)_ checks related to your home territory, you can replace the d20 roll with a 20.
+_**Homebody.**_ While in your home territory, _difficult terrain_ does not slow you or your group.
 
 \page
 
-You can use this feature two times, and you regain all expended uses when you finish a long rest.
-:
+_**There&rsquo;s No Place Like Home.**_ When you make _Intelligence (History)_, _Intelligence (Nature)_, or _Wisdom (Survival)_ checks related to your home territory, you can replace the d20 roll with a 20. You can use this feature two times, and you regain all expended uses when you finish a long rest.
+
 The DM and player should decide together what constitutes your home territory when becoming a Witch suitable to your background and backstory. Over a lifetime, a Witch may find more than one place to call home. Each time you live and work in a new area for a year or more, your DM may let you claim that new area as an additional home territory for this feature.
 
 #### Level 1: Witch Armor
@@ -141,7 +138,7 @@ _A new witch learns self-protection._
 
 When a creature you can see makes an attack roll or casts a spell that targets only you, you can use your reaction to impose **disadvantage** on that roll.
 
-You can use this feature a number of times equal to your Wisdom bonus (minimum of once), and you regain all expended uses when you finish a Long Rest.
+You can use this feature a number of times equal to your _proficiency bonus_. You regain all expended uses when you finish a _long rest_.
 
 #### Level 2: Cross Words
 
@@ -172,7 +169,7 @@ _**Fearless**._ Your familiar gains immunity to the Charmed and Frightened condi
 
 Your understanding of animals, plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies.
 
-You gain **expertise** with the _herbalism kit_ and double your proficiency bonus for any check using this tool.
+You gain **expertise** with the _herbalism kit_ and double your proficiency bonus for any check using this tool. Additionally, when you use your herbalism kit to brew a _Potion of Healing_, the time and cost required are halved for you.
 
 #### Level 3: Witch Subclass
 
@@ -201,14 +198,14 @@ These spells do not count against the number of spells you can prepare.
 
 At higher levels, your coven&rsquo;s lore deepens and you can learn additional ritual spells:
 
+\page
+
 | Witch Level | Additional Spells  | Max Spell Level |
 |:-----------:|:------------------:|:---------------:|
 | 5 | 1 | 3 |
 | 9 | 2 | 4 |
 | 13 | 3 | 5 |
 | 17 | 4 | 6 |
-
-\page
 
 #### Level 7: Token of Respect
 
@@ -236,9 +233,9 @@ You learn the _Tasha&rsquo;s Bubbling Cauldron_ spell. It is always prepared, co
 
 #### Level 12: Pointing Curse
 
-At 12th level, your curses leave an indelible mark on victims. When a creature is under the effect of your _Hex_ spell cast with the **Cross Words** feature, you have a constant sense of the their general direction and distance from you, as long as are both on the same plane of existence. This appears as an invisible pointing hand that only you can perceive.
+At 12th level, your curses leave an indelible mark on victims. When a creature is under the effect of your _Hex_ spell cast with the **Cross Words** feature, you have a constant sense of their general direction and distance from you, as long as are both on the same plane of existence. This appears as an invisible pointing hand that only you can perceive.
 
-Additionally, that creature has disadvantage on saving throws against scrying or location spells that you cast against them while the hex lasts.
+Additionally, that creature doesn’t benefit from half or three-quarters cover against any spell you cast that targets only it, and it has disadvantage on saving throws against scrying or location spells that you cast against it while the hex lasts.
 
 #### Level 17: Final Words
 
@@ -283,6 +280,8 @@ A few come from other published sources. DMs should decide which non-core source
 - **Tasha’s Otherworldly Guise** &mdash; _Tasha&rsquo;s Cauldron of Everything_
 }}
 
+\page
+
 #### Cantrips (Level 0 Witch Spells)
 
 _Some smoke from your hearth, a word in your ear, a flower in your vase makes you a Witch. And a good stare._
@@ -290,8 +289,6 @@ _Some smoke from your hearth, a word in your ear, a flower in your vase makes yo
 ##### 🛡️ Ally Buffs & Wards
 
 _What are you prattling on about? I kept you alive, didn't I?_
-
-\page
 
 - **[Guidance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Guidance)** <br>
   _Resistance_ is a natural companion to this cantrip.
@@ -359,7 +356,7 @@ _See how the flowers are? Now that is witchy no matter what others may say._
 - **[Message](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Message)** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
 
-- **Minor Illusion** <br>
+- **[Minor Illusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MinorIllusion)** <br>
   Create a sound or an image within range&mdash;perfect for tricks and stagecraft.
   A lie made visible or heard. A whisper in the dark, a fake door where none exists.
 
@@ -367,7 +364,7 @@ _See how the flowers are? Now that is witchy no matter what others may say._
   Shape loose soil or reveal buried things with a gesture.
   Witches use it to tend gardens, trace circles, or uncover what others tried to hide.
 
-- **Prestidigitation** <br>
+- **[Prestidigitation](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Prestidigitation)** <br>
   Tiny, harmless magical tricks—cleaning, soiling, lighting, or adding flavor.
   Witches know a little magic goes a long way for first impressions.
 
@@ -399,14 +396,14 @@ _A little help never hurt nobody, I always say._
 - **Protection from Evil and Good** <br>
   Iron pins, salt circles, and stern words keep the otherworld at bay.
 
+\page
+
 - **Sanctuary** <br>
   An attacker must choose a different target if they cannot oppose your willpower.
   A Witch stands up for those who cannot stand for themselves.
 
 - **Silvery Barbs** <br>
   A witch&rsquo;s words alter fate before "what happened" becomes "what really is".
-
-\page
 
 ##### 📌 Damage & Control
 
@@ -521,13 +518,13 @@ _Did that snake really bite you unprovoked&mdash;sure you weren't poking at it w
 - **Lesser Restoration** <br>
   You&rsquo;ll be right up in no time, I&rsquo;m pretty sure.
 
+\page
+
 - **Mirror Image** <br>
   You're not sure which to attack? Good, I like it that way.
 
 - **Protection from Poison** <br>
   Draw out the venom, smoke, salt, and old rhyme.
-
-\page
 
 ##### 📌 Damage & Control
 
@@ -645,6 +642,8 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   A sharp word and a colder glare&mdash;your enemy lashes out recklessly, unable to ignore the sting.
   _(The Book of Many Things, WotC)_
 
+\page
+
 - **Bestow Curse** <br>
   A lingering malediction tailored to your spite.
   _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
@@ -652,8 +651,6 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 - **Call Lightning** <br>
   Under a stormy sky, your wrath is shocking.
   _This finger calls friends, this one calls fire &hellip; this one when I'm angry._
-
-\page
 
 - **Counterspell** <br>
   A stern gesture and stronger word unravels enemy magic mid-cast.
@@ -765,6 +762,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Insect Plague** <br>
   Locust swarms as in old tales&mdash;farmers dread them, and so should foes who don't flee far enough.
 
+\page
+
 - **Synaptic Static** <br>
   Let enemies think twice&mdash;or only not at all&mdash;about crossing you. You give them a silence of the mind.
 
@@ -772,8 +771,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Awaken** <br>
   Costly, yes &mdash; but a _Beast_ or _Plant_ that speaks makes a fine ally.
-
-\page
 
 - **Commune with Nature** <br>
   Druids and Rangers know their business. A Witch asks, and the land answers.
@@ -885,6 +882,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Antimagic Field** <br>
   Me nor you can use magic. Let's find out how things truly are &mdash; I've got someone here good with a sharp blade.
 
+\page
+
 - **Mind Blank** <br>
   Even wishing it were so does not reach their mind. Fear might.
 
@@ -898,8 +897,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Earthquake** <br>
   The land listens to me.
-
-\page
 
 - **Power Word Stun** <br>
   A Witch&rsquo;s grim voice is so strong that it stuns and they struggle to act.
@@ -988,6 +985,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Fount of Moonlight** <br>
   You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
 
+\page
+
 - **Greater Invisibility** <br>
   You or another you touch _stay_ invisible.
   Perfect daggers or kisses slipped unseen.
@@ -999,8 +998,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Major Image** <br>
   Craft full illusions that speak, move, and mislead.
   Convince the senses and the soul may follow.
-
-\page
 
 - **Moonbeam** <br>
   A radiant pillar of lunar light burns away foes and blocks their egress.
@@ -1078,14 +1075,14 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
 
+\page
+
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
 - **Comprehend Languages** <br>
   You understand the meaning of spoken and written words, though your replies may be more creative than correct.
   A Witch doesn't just recognize the words&mdash;she knows what that person meant.
-
-\page
 
 - **Create Food and Water** <br>
   No one goes without when a proper witch in their company.
@@ -1120,6 +1117,8 @@ _A steady hand soothes the worst hurts._
 Whenever a creature of your choice (including you) rolls one or more Hit Dice to regain hit points at the end of a Short Rest, that creature regains additional hit points equal to your Wisdom modifier.
 
 In addition, once per long rest, you can tend to one creature during a Short Rest. That creature regains hit points by rolling one additional Hit Die without expending their current Hit Dice.
+
+When you craft a _Potion of Healing_ it produces instead a _Greater Potion of Healing_.
 
 #### Level 10: Charm Offensive
 
@@ -1166,6 +1165,8 @@ Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
+\page
+
 #### Level 3: Crone Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the uncanny foresight and hard wisdom of a Witch in her full power. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -1176,8 +1177,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 5 | *Clairvoyance*, *Speak with Plants*, *Vampiric Touch* |
 | 7 | *Blight*, *Death Ward* |
 | 9 | *Compulsion*, *Dominate Beast*, *Phantasmal Killer* |
-
-\page
 
 - **Beast Sense** <br>
   See though the eyes of a natural creature.
@@ -1252,6 +1251,8 @@ _**Returning.**_ When you return to your own body, voluntarily or otherwise, you
 
 You can borrow a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
+\page
+
 #### Level 10: Greater Borrowing
 
 _Your magic infuses the forms you inhabit, your will seeping through their voices and motions._
@@ -1264,8 +1265,6 @@ While borrowing a creature, you can take the **Magic** action to cast Witch spel
 - You cannot cast spells that require material components.
 - You do not need a spellcasting focus while borrowing; the creature&rsquo;s body serves as your spellcasting focus, shaping its natural motions and sounds into the spell&rsquo;s expression.
 
-\page
-
 _**Limits to Power.**_ You still cannot take the **Attack** action while borrowing.
 
 #### Level 14: Malison
@@ -1275,8 +1274,6 @@ _I can't make you better, but I can make them worse._
 You speak words or think thoughts that twist fate.
 
 As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can impose **disadvantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
-
-\page
 
 # New Spells
 
@@ -1325,6 +1322,8 @@ If an affected creature within your aura is attacked by you or your companions, 
 When the effect ends for a creature (including when the spell ends), the improved attitude persists unless a significant event changes their mind, such as continuing combat with them or their allies (DM&rsquo;s discretion).
 
 _The aura moves with you, remaining centered on you for the spell’s duration._
+
+\page
 
 ## Usage Rights
 
