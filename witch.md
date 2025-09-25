@@ -80,7 +80,7 @@ Every spell includes a brief note on how Witches tend to use it. These notes don
 | 8 | +3 | ASI | 3 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 9 | +4 | Dangerous Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
 | 10 | +4 | Subclass feature | 3 | 5 | 11 | 4 | 3 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; |
-| 11 | +4 | &mdash; | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
+| 11 | +4 | Cauldron Magic | 4 | 5 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
 | 12 | +4 | Pointing Curse | 4 | 5 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | &mdash; | &mdash; | &mdash; |
 | 13 | +4 | &mdash; | 4 | 5 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
 | 14 | +5 | Subclass feature | 4 | 5 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | &mdash; | &mdash; |
@@ -194,15 +194,12 @@ _Three stand beneath the moon. The spell is cast not alone, but in accord. Birds
 
 Your bond with a coven&mdash;real or not&mdash;grants you insight into deeper rituals.
 
-- You learn the _Augury_ spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual.
-- You learn the _Tasha&rsquo;s Bubbling Cauldron_ spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual even though it does not normally have the Ritual tag.
+- You learn the [Augury](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Augury) spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual.
 - In addition, you learn one ritual spell of 3rd level or lower from any class&rsquo;s spell list, as approved by your DM. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual. Each time you gain a Witch level, you may replace any ritual spell learned from this feature (not including _Augury_) with another ritual spell, subject to the maximum level you can know.
 
 These spells do not count against the number of spells you can prepare.
 
 At higher levels, your coven&rsquo;s lore deepens and you can learn additional ritual spells:
-
-\page
 
 | Witch Level | Additional Spells  | Max Spell Level |
 |:-----------:|:------------------:|:---------------:|
@@ -210,6 +207,8 @@ At higher levels, your coven&rsquo;s lore deepens and you can learn additional r
 | 9 | 2 | 4 |
 | 13 | 3 | 5 |
 | 17 | 4 | 6 |
+
+\page
 
 #### Level 7: Token of Respect
 
@@ -230,6 +229,10 @@ When you cast _Find Familiar_, you can choose a creature of Challenge Rating (CR
 When you take the **Attack** action, you can forgo one of your own attacks to allow your familiar to make one attack with its Reaction.
 
 When your familiar makes an attack, it adds your proficiency bonus to the attack roll and the damage roll, and can’t cast or deliver spells.
+
+#### Level 11: Cauldron Magic
+
+You learn the _Tasha&rsquo;s Bubbling Cauldron_ spell. It is always prepared, counts as a Witch spell for you, and can only be cast this way as a ritual even though it does not normally have the Ritual tag.
 
 #### Level 12: Pointing Curse
 
@@ -289,13 +292,13 @@ _What are you prattling on about? I kept you alive, didn't I?_
 
 \page
 
-- **Guidance** <br>
+- **[Guidance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Guidance)** <br>
   _Resistance_ is a natural companion to this cantrip.
 
-- **Resistance** <br>
+- **[Resistance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Resistance)** <br>
   _Guidance_ is a natural companion to this cantrip.
 
-- **Spare the Dying** <br>
+- **[Spare the Dying](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#SparetheDying)** <br>
   _Toll the Dead_  is a natural compation to this cantrip.
 
 ##### 📌 Damage & Control
@@ -478,8 +481,8 @@ _We witches do so many things. It takes skill and judgment to pick the right one
 - **Detect Poison and Disease** <br>
   So that wine you're eyeing, it ain't good for you. And there may be a bad snake under your foot. Just so you know.
 
-- **Disguise Self** <br>
-  A dab of glamour for clandestine errands.
+- **[Disguise Self](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DisguiseSelf)** <br>
+  A witch does not always appear as they are.
 
 - **Fog Cloud** <br>
   Strong pipe smoke, steam from the vats, or morning mist&mdash;whatever hides you and mine.
