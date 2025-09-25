@@ -6,7 +6,7 @@
 Commonly known among witches as the _Evil Eye_, this spell channels your will into a piercing glance to one or others.
 }}
 
-- **Casting Time:** 1 bonus action
+- **Casting Time:** 1 action
 - **Range:** 60 feet
 - **Components:** S
 - **Duration:** Instantaneous
