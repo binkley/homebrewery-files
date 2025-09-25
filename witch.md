@@ -274,9 +274,10 @@ Not just a plain list, but some description how to use, and why a Witch knows th
 
 {{note
 ##### Spells from Outside the PHB (2024)
-Most Witch spells are listed in the _Player&rsquo;s Handbook_ (2024).
-A few come from other published sources. DMs should decide which non-core sourcebooks are included for their campaign:
+Most Witch spells are listed in the Basic Rules (2024 with links) or in the _Player&rsquo;s Handbook_ (2024).
+A few come from other published sources. DMs should decide which non-core sourcebooks are included in their campaigns:
 
+- **Frostbite** &mdash; _Elemental Evil Player&rsquo;s Companion_
 - **Psychic Scream** &mdash; _Xanathar&rsquo;s Guide to Everything_
 - **Silvery Barbs** &mdash; _Strixhaven: A Curriculum of Chaos_
 - **Tasha’s Otherworldly Guise** &mdash; _Tasha&rsquo;s Cauldron of Everything_
@@ -305,10 +306,10 @@ _What are you prattling on about? I kept you alive, didn't I?_
 
 _Well, you folks take care of them already. I've other things to attend to._
 
-- **Acid Splash** <br>
+- **[Acid Splash](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AcidSplash)** <br>
   An enemy interrupts home brewing and finds what was bubbling.
 
-- **Chill Touch** <br>
+- **[Chill Touch](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ChillTouch)** <br>
   You remind them of what they regret and nothing heals that thought.
 
 - **Frostbite** <br>
@@ -319,16 +320,16 @@ _Well, you folks take care of them already. I've other things to attend to._
   One hard look and their courage falters, their hands forget what they meant to do.
   _You always have this cantrip prepared. It doesn't count against your number of cantrips known._
 
-- **Poison Spray** <br>
+- **[Poison Spray](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PoisonSpray)** <br>
   Words for vermin and weeds work as well on creatures.
 
 - **Toll the Dead** <br>
   _Spare the Dying_ is a natural companion to this cantrip.
 
-- **True Strike** <br>
+- **[True Strike](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#TrueStrike)** <br>
   Your witch thoughts guide your strike. Best not be in combat, but if found there, strike true.
 
-- **Vicious Mockery** <br>
+- **[Vicious Mockery](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ViciousMockery)** <br>
   Psychic damage with a cutting insult; imposes disadvantage on the next attack.
   Laughter can be crueler than claws.
 
@@ -336,26 +337,26 @@ _Well, you folks take care of them already. I've other things to attend to._
 
 _See how the flowers are? Now that is witchy no matter what others may say._
 
-- **Dancing Lights** <br>
+- **[Dancing Lights](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DancingLights)** <br>
   Conjure up to four glowing motes that drift at your will, or form a faintly humanoid shape.
   A flickering circle for rituals, or the glimmer of will-o'-wisps to draw in the foolish.
 
-- **Druidcraft** <br>
+- **[Druidcraft](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Druidcraft)** <br>
   Predict the weather, make flowers bloom, leaves fall, or summon other natural effects.
   The old ways, still strong.
 
-- **Elementalism** <br>
+- **[Elementalism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Elementalism)** <br>
   Rustle the leaves, scratch the dirt, crackle the fire, fill the cup.
 
 - **Friends** <br>
   Briefly charm a creature to gain advantage on social checks. The charm is short&mdash;they remember.
 
-- **Gust** <br>
+- **[Gust of Wind](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GustofWind)** <br>
   Shape a puff of air&mdash;slam a door, push a foe, ruffle robes, or carry a whispered word.
   A Witch&rsquo;s breath made manifest.
   _(Xanathar’s Guide to Everything, WotC)_
 
-- **Message** <br>
+- **[Message](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Message)** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
 
 - **Minor Illusion** <br>
