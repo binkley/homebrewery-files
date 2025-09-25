@@ -71,7 +71,7 @@ Every spell includes a brief note on how Witches tend to use it. These notes don
 | Level | Proficiency Bonus | Class Features | Cross Words Uses | Cantrips | Prepared Spells | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 |:--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 1 | +2 | Spellcasting, Harsh Glare, Home Territory, Witch Armor | 1 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 2 | +2 | Cross Words, Second Sight, Witch&rsquo;s Familiar | 1 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 2 | +2 | Cross Words, Second Thoughts, Witch&rsquo;s Familiar | 1 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Herbal Sage | 1 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4 | +2 | ASI | 1 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 5 | +3 | Coven Magic | 2 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -148,20 +148,20 @@ You can cast _Hex_ without expending a spell slot, using only verbal components.
 
 You begin with 1 use, and the number of uses increases as you gain Witch levels, as shown in the Cross Words Uses column of the Witch Features table.
 
-#### Level 2: Second Sight
+#### Level 2: Second Thoughts
 
 _Your insight into others borders on the supernatural._
 
-You gain proficiency in the _Insight_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
+You gain proficiency in the _Wisdom ([Insight](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Skills))_ skill. If you are already proficient, you instead gain **expertise**, doubling your proficiency bonus on Insight checks. If you already have expertise in Insight, choose another Wisdom skill; you gain proficiency in it, or expertise if you are already proficient.
 
 #### Level 2: Witch&rsquo;s Familiar
 
-You learn the _Find Familiar_ spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
+You learn the [Find Familiar](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FindFamiliar) spell. It is always prepared for you and doesn&rsquo;t count against the number of spells you can prepare. You can cast it once without expending a spell slot, and you regain the ability to do so when you finish a long rest.
 
 | Witch Level | Maximum Familiar Challenge Rating (CR) |
 |:--:|:--:|
 | 2 | 0 |
-| 9 | 1 |
+| 9 | 1/2 |
 
 _**Fearless**._ Your familiar gains immunity to the Charmed and Frightened conditions.
 
