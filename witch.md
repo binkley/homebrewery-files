@@ -368,14 +368,14 @@ _See how the flowers are? Now that is witchy no matter what others may say._
   Tiny, harmless magical tricks—cleaning, soiling, lighting, or adding flavor.
   Witches know a little magic goes a long way for first impressions.
 
-- **Produce Flame** <br>
+- **[Produce Flame](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProduceFlame)** <br>
   Conjure fire for light or attack. A bit of flame for hearth and hex.
 
 - **Shape Water** <br>
   Command a small amount of water, freezing, coloring, or moving it around.
   A stream listens to a Witch better than most people.
 
-- **Thaumaturgy** <br>
+- **[Thaumaturgy](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Thaumaturgy)** <br>
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
   A flair for storytelling, and a reason to respect a Witch.
 
@@ -387,18 +387,18 @@ _You light the candle&mdash;witches don't waste on fireworks. Unless they're pre
 
 _A little help never hurt nobody, I always say._
 
-- **Heroism** <br>
+- **[Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism)** <br>
   Drink your tea, it'll give you courage. I knew I could count on you.
 
-- **Longstrider** <br>
+- **[Longstrider](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Longstrider)** <br>
   A blessing for swift feet, errands, escapes, or escapades.
 
-- **Protection from Evil and Good** <br>
+- **[Protection from Evil and Good](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProtectionfromEvilandGood)** <br>
   Iron pins, salt circles, and stern words keep the otherworld at bay.
 
 \page
 
-- **Sanctuary** <br>
+- **[Sanctuary](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Sanctuary)** <br>
   An attacker must choose a different target if they cannot oppose your willpower.
   A Witch stands up for those who cannot stand for themselves.
 
@@ -409,25 +409,25 @@ _A little help never hurt nobody, I always say._
 
 _Maybe they'll be reasonable if restrained a little, enough time to talk things out._
 
-- **Bane** <br>
+- **[Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane)** <br>
   Make them think twice before tangling with you.
 
 - **Cause Fear** <br>
   Instills dread on a single foe; pairs naturally with the Witch&rsquo;s glare cantrip.
 
-- **Command** <br>
+- **[Command](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Command)** <br>
   A sharp word is all it takes. Their respect is shown.
 
-- **Dissonant Whispers** <br>
+- **[Dissonant Whispers](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DissonantWhispers)** <br>
   The Witch&rsquo; voice hurts the mind and drives your target away.
 
-- **Entangle** <br>
+- **[Entangle](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Entangle)** <br>
   Roots rise up to imprison those who overstep.
 
-- **Hex** <br>
+- **[Hex](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Hex)** <br>
   A spiteful curse that saps strength and fuels further harm.
 
-- **Ice Knife** <br>
+- **[Ice Knife](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#IceKnife)** <br>
   _Did you really say, "cold as a witch&rsquo;s teat?" I'll show you what cold is like._
 
 - **Inflict Wounds** <br>
@@ -493,7 +493,7 @@ _We witches do so many things. It takes skill and judgment to pick the right one
 
 #### Level 2 Witch Spells
 
-_Now the real work begins. Two candles lit, the tea is brewed._
+_Now the real work begins. Two candles lit, the tea is set._
 
 ##### 🛡️ Ally Buffs & Wards
 
