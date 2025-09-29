@@ -92,7 +92,7 @@ Every spell includes a brief note on how Witches tend to use it. These notes don
 | 20 | +6 | Indomitable Will | 5 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 }}
 
-_**Cantrips.**_ You know three Witch cantrips of your choice. _Guidance_, _Thaumaturgy_, and _Toll the Dead_ are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
+_**Cantrips.**_ You know three Witch cantrips of your choice. _[Guidance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Guidance)_, _[Thaumaturgy](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Thaumaturgy)_, and _Toll the Dead_ are recommended. Whenever you finish a Long Rest, you can replace one of your cantrips from this feature with another Witch cantrip of your choice.
 
 When you reach Witch levels 4, 10 and 16, you learn another Witch cantrip of your choice, as shown in the Cantrips column of the Witch Features table.
 
@@ -225,7 +225,7 @@ When you cast _Find Familiar_, you can choose a creature of Challenge Rating (CR
 
 When you take the **Attack** action, you can forgo one of your own attacks to allow your familiar to make one attack with its Reaction.
 
-When your familiar makes an attack, it adds your proficiency bonus to the attack roll and the damage roll, and can’t cast or deliver spells.
+When your familiar makes an attack, it adds your proficiency bonus to the attack roll and the damage roll, and can&rsquo;t cast or deliver spells.
 
 #### Level 11: Cauldron Magic
 
@@ -235,7 +235,7 @@ You learn the _Tasha&rsquo;s Bubbling Cauldron_ spell. It is always prepared, co
 
 At 12th level, your curses leave an indelible mark on victims. When a creature is under the effect of your _Hex_ spell cast with the **Cross Words** feature, you have a constant sense of their general direction and distance from you, as long as are both on the same plane of existence. This appears as an invisible pointing hand that only you can perceive.
 
-Additionally, that creature doesn’t benefit from half or three-quarters cover against any spell you cast that targets only it, and it has disadvantage on saving throws against scrying or location spells that you cast against it while the hex lasts.
+Additionally, that creature doesn&rsquo;t benefit from half or three-quarters cover against any spell you cast that targets only it, and it has disadvantage on saving throws against scrying or location spells that you cast against it while the hex lasts.
 
 #### Level 17: Final Words
 
@@ -269,18 +269,25 @@ Your wisdom and presence have reached their fullest strength.
 
 Not just a plain list, but some description how to use, and why a Witch knows these.
 
+\page
+
 {{note
 ##### Spells from Outside the PHB (2024)
-Most Witch spells are listed in the Basic Rules (2024 with links) or in the _Player&rsquo;s Handbook_ (2024).
+Most Witch spells are listed in the Basic Rules (2024 with links to SRD) or in the _Player&rsquo;s Handbook_ (2024).
 A few come from other published sources. DMs should decide which non-core sourcebooks are included in their campaigns:
 
+- **Antagonize** &mdash; _The Book of Many Things_
+- **Earthbind** &mdash; _Elemental Evil Player&rsquo;s Companion_
 - **Frostbite** &mdash; _Elemental Evil Player&rsquo;s Companion_
 - **Psychic Scream** &mdash; _Xanathar&rsquo;s Guide to Everything_
 - **Silvery Barbs** &mdash; _Strixhaven: A Curriculum of Chaos_
-- **Tasha’s Otherworldly Guise** &mdash; _Tasha&rsquo;s Cauldron of Everything_
+- **Spirit of Death** &mdash; _The Book of Many Things_
+- **Storm Sphere** _Elemental Evil Player&rsquo;s Companion_
+- **Tasha&rsquo;s Bubbling Cauldron** &mdash; _Tasha&rsquo;s Cauldron of Everything_
+- **Tasha&rsquo;s Caustic Brew** &mdash; _Tasha&rsquo;s Cauldron of Everything_
+- **Tasha&rsquo;s Mind Whip** &mdash; _Tasha&rsquo;s Cauldron of Everything_
+- **Tasha&rsquo;s Otherworldly Guise** &mdash; _Tasha&rsquo;s Cauldron of Everything_
 }}
-
-\page
 
 #### Cantrips (Level 0 Witch Spells)
 
@@ -291,10 +298,10 @@ _Some smoke from your hearth, a word in your ear, a flower in your vase makes yo
 _What are you prattling on about? I kept you alive, didn't I?_
 
 - **[Guidance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Guidance)** <br>
-  _Resistance_ is a natural companion to this cantrip.
+  _[Resistance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Resistance)_ is a natural companion to this cantrip.
 
 - **[Resistance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Resistance)** <br>
-  _Guidance_ is a natural companion to this cantrip.
+  _[Guidance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Guidance)_ is a natural companion to this cantrip.
 
 - **[Spare the Dying](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#SparetheDying)** <br>
   _Toll the Dead_  is a natural compation to this cantrip.
@@ -321,7 +328,7 @@ _Well, you folks take care of them already. I've other things to attend to._
   Words for vermin and weeds work as well on creatures.
 
 - **Toll the Dead** <br>
-  _Spare the Dying_ is a natural companion to this cantrip.
+  _[Spare the Dying](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#SparetheDying)_ is a natural companion to this cantrip.
 
 - **[True Strike](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#TrueStrike)** <br>
   Your witch thoughts guide your strike. Best not be in combat, but if found there, strike true.
@@ -349,9 +356,7 @@ _See how the flowers are? Now that is witchy no matter what others may say._
   Briefly charm a creature to gain advantage on social checks. The charm is short&mdash;they remember.
 
 - **[Gust of Wind](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GustofWind)** <br>
-  Shape a puff of air&mdash;slam a door, push a foe, ruffle robes, or carry a whispered word.
   A Witch&rsquo;s breath made manifest.
-  _(Xanathar’s Guide to Everything, WotC)_
 
 - **[Message](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Message)** <br>
   Whisper across distance. Ideal for conspiracies and quiet warnings.
@@ -379,6 +384,8 @@ _See how the flowers are? Now that is witchy no matter what others may say._
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
   A flair for storytelling, and a reason to respect a Witch.
 
+\page
+
 #### Level 1 Witch Spells
 
 _You light the candle&mdash;witches don't waste on fireworks. Unless they're pretty, or in haste._
@@ -395,8 +402,6 @@ _A little help never hurt nobody, I always say._
 
 - **[Protection from Evil and Good](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProtectionfromEvilandGood)** <br>
   Iron pins, salt circles, and stern words keep the otherworld at bay.
-
-\page
 
 - **[Sanctuary](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Sanctuary)** <br>
   An attacker must choose a different target if they cannot oppose your willpower.
@@ -430,10 +435,10 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 - **[Ice Knife](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#IceKnife)** <br>
   _Did you really say, "cold as a witch&rsquo;s teat?" I'll show you what cold is like._
 
-- **Inflict Wounds** <br>
+- **[Inflict Wounds](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#InflictWounds)** <br>
   A brutal, unassuming touch that rots flesh.
 
-- **Ray of Sickness** <br>
+- **[Ray of Sickness](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#RayofSickness)** <br>
   A noxious green beam, more curse than science, that makes foes reel with nausea and ill humors.
 
 - **Silvery Barbs** <br>
@@ -448,10 +453,10 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
   More potion than spell&mdash;it smells like a witch&rsquo;s kitchen gone wrong.
   _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
-- **Tasha&rsquo;s Hideous Laughter** <br>
+- **[Tasha&rsquo;s Hideous Laughter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#TashasHideousLaughter)** <br>
   Why are they spitting on themselves? They seem down after you sung "A Wizard&rsquo;s Staff Has A Knob On The End".
 
-- **Thunderwave** <br>
+- **[Thunderwave](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Thunderwave)** <br>
   A forceful burst for those moments when subtlety fails.
 
 - **Witch Bolt** <br>
@@ -461,35 +466,35 @@ _Maybe they'll be reasonable if restrained a little, enough time to talk things 
 
 _We witches do so many things. It takes skill and judgment to pick the right ones._
 
-- **Animal Friendship** <br>
+- **[Animal Friendship](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AnimalFriendship)** <br>
   Beasts of field, forest, air or waters recognize you.
 
-- **Alarm** <br>
+- **[Alarm](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Alarm)** <br>
   An unseen tripwire of bells and thread.
 
 - **Ceremony** <br>
   A Witch does only births, deaths, and weddings. You can do others, but up to them what happens.
 
-- **Detect Evil and Good** <br>
+- **[Detect Evil and Good](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectEvilandGood)** <br>
   Something foul lingers in the air, or maybe something holy. Either way, you notice when others don't.
 
-- **Detect Magic** <br>
+- **[Detect Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectMagic)** <br>
   Now why would anyone leave that laying around? Someone could hurt themselves.
 
-- **Detect Poison and Disease** <br>
+- **[Detect Poison and Disease](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectPoisonandDisease)** <br>
   So that wine you're eyeing, it ain't good for you. And there may be a bad snake under your foot. Just so you know.
 
 - **[Disguise Self](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DisguiseSelf)** <br>
   A witch does not always appear as they are.
 
-- **Fog Cloud** <br>
+- **[Fog Cloud](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FogCloud)** <br>
   Strong pipe smoke, steam from the vats, or morning mist&mdash;whatever hides you and mine.
 
-- **Purify Food and Drink** <br>
+- **[Purify Food and Drink](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PurifyFoodandDrink)** <br>
   What's that you're holding&mdash;did you really mean to put that in your mouth?
 
-- **Silent Image** <br>
-  For illusions too delicate with _Minor Illusion_.
+- **[Silent Image](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#SilentImage)** <br>
+  For illusions too delicate with _[Minor Illusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MinorIllusion)_.
 
 #### Level 2 Witch Spells
 
@@ -499,38 +504,38 @@ _Now the real work begins. Two candles lit, the tea is set._
 
 _Did that snake really bite you unprovoked&mdash;sure you weren't poking at it with a stick?_
 
+\page
+
 - **Borrowed Knowledge** <br>
   The odd things you know surprise other, maybe you have other sources?
   _(Strixhaven: Curriculum of Chaos, WotC)_
 
-- **Calm Emotions** <br>
+- **[Calm Emotions](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#CalmEmotions)** <br>
   Lower fear, anger, and turmoil in a group.
 
-- **Enhance Ability** <br>
+- **[Enhance Ability](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#EnhanceAbility)** <br>
   I&rsquo;m sure you can do it. Now get on with it.
 
-- **Gentle Repose** <br>
+- **[Gentle Repose](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GentleRepose)** <br>
   Death comes but no need to hurry it along. Let the body remain for a while.
 
 - **Healing Spirit** <br>
   That's it, recover for a moment. Don't mind the beastie; it's here for you.
 
-- **Lesser Restoration** <br>
+- **[Lesser Restoration](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LesserRestoration)** <br>
   You&rsquo;ll be right up in no time, I&rsquo;m pretty sure.
 
-\page
-
-- **Mirror Image** <br>
+- **[Mirror Image](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MirrorImage)** <br>
   You're not sure which to attack? Good, I like it that way.
 
-- **Protection from Poison** <br>
+- **[Protection from Poison](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProtectionfromPoison)** <br>
   Draw out the venom, smoke, salt, and old rhyme.
 
 ##### 📌 Damage & Control
 
 _Respect. Always show a Witch respect. And we don't bow._
 
-- **Blindness/Deafness** <br>
+- **[Blindness/Deafness](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#BlindnessDeafness)** <br>
   Salt in the eyes, cotton in the ears, and their senses fall under your curse.
 
 - **Crown of Madness** <br>
@@ -539,22 +544,22 @@ _Respect. Always show a Witch respect. And we don't bow._
 - **Earthbind** <br>
   _Come down from there where I can see you better._
 
-- **Heat Metal** <br>
+- **[Heat Metal](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#HeatMetal)** <br>
   Feel that? That's what comes of crossing me.
 
-- **Hold Person** <br>
+- **[Hold Person](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#HoldPerson)** <br>
   Just stay there a bit, would you? Just like that. Hold still.
 
-- **Mind Spike** <br>
+- **[Mind Spike](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MindSpike)** <br>
   A cursed thorn of thought sears with psychic pain and leaves a lingering connection.
 
-- **Ray of Enfeeblement** <br>
+- **[Ray of Enfeeblement](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#RayofEnfeeblement)** <br>
   A weakening hex that saps strength from arms and dulls the edge of steel.
 
-- **Shatter** <br>
+- **[Shatter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Shatter)** <br>
   A resonance of malice that cracks bone and glass. A Witch&rsquo;s rage given voice.
 
-- **Suggestion** <br>
+- **[Suggestion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Suggestion)** <br>
   One whisper takes root and they obey before they&rsquo;ve thought it through.
 
 - **Tasha&rsquo;s Mind Whip** <br>
@@ -566,35 +571,35 @@ _Respect. Always show a Witch respect. And we don't bow._
 
 _Even if it's not your fault, you're responsibility. So fix it._
 
-- **Animal Messenger** <br>
+- **[Animal Messenger](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AnimalMessenger)** <br>
   A bird, squirrel, or other small critter carries your whispered words where no person could go.
 
-- **Detect Thoughts** <br>
+- **[Detect Thoughts](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectThoughts)** <br>
   Read surface thoughts and probe deeper into a creature&rsquo;s mind.
   Few things hide from your knowing gaze.
 
-- **Invisibility** <br>
+- **[Invisibility](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Invisibility)** <br>
   A trick of breath and intention; the Witch is there, but not seen.
 
-- **Locate Animals or Plants** <br>
+- **[Locate Animals or Plants](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LocateAnimalsorPlants)** <br>
   Close your eyes, touch the earth, and the land itself tells you where a beast roams or a plant grows.
 
-- **Locate Object** <br>
+- **[Locate Object](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LocateObject)** <br>
   You seem to always head in the right direction. Call it intuition, reading people, or an innate skill.
 
-- **Pass without Trace** <br>
+- **[Pass without Trace](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PasswithoutTrace)** <br>
   A veil of shadows cloaks your allies.
   Witches slip unseen across hedges and hollow ways.
 
-- **Rope Trick** <br>
+- **[Rope Trick](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#RopeTrick)** <br>
   A hidden treehouse without a tree.
   A Witch can do surprising things with a bit of strong string.
 
-- **See Invisibility** <br>
+- **[See Invisibility](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#SeeInvisibility)** <br>
   Not all unseen things are harmless.
   _I know you're there. I can see you._
 
-- **Zone of Truth** <br>
+- **[Zone of Truth](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ZoneofTruth)** <br>
   I know when you are lying, you lying scoundrel.
 
 #### Level 3 Witch Spells
@@ -605,7 +610,7 @@ _You light the third candle. People show respect and seek you out._
 
 _Crying may help, no shame there. But let's not get too soon to crying._
 
-- **Beacon of Hope** <br>
+- **[Beacon of Hope](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#BeaconofHope)** <br>
   Healing heals you more than usual.
   _Not a substitute for a proper healer, but I do what I can._
 
@@ -613,24 +618,26 @@ _Crying may help, no shame there. But let's not get too soon to crying._
   Send up to three creatures into a magical slumber for a brief but deeply restful nap.
   _Harried familiars, tired allies: a good nap is all purpose._
 
-- **Haste** <br>
+- **[Haste](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Haste)** <br>
   Focus on speeding up a creature in your sight.
   _Better them than you, but if you, take a good meal after._
 
-- **Magic Circle** <br>
+- **[Magic Circle](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MagicCircle)** <br>
   A circle of safety. Not only a circle on the ground, but above you as well.
 
-- **Nondetection** <br>
+- **[Nondetection](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Nondetection)** <br>
   When a Witch wants to hide someone, they stay that way.
 
-- **Protection from Energy** <br>
+- **[Protection from Energy](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProtectionfromEnergy)** <br>
   The storm broke, the fire flared, the frost bit, but you'll be a little safer.
 
-- **Remove Curse** <br>
+- **[Remove Curse](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#RemoveCurse)** <br>
   Undo the harmful words of others.
   _So they cursed you? Curse them back; it&rsquo;s just words._
 
-- **Revivify** <br>
+\page
+
+- **[Revivify](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Revivify)** <br>
   A soul still warm may be coaxed back.
   _Get up you lazy bones! Death is no excuse._
 
@@ -642,17 +649,15 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   A sharp word and a colder glare&mdash;your enemy lashes out recklessly, unable to ignore the sting.
   _(The Book of Many Things, WotC)_
 
-\page
-
-- **Bestow Curse** <br>
+- **[Bestow Curse](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#BestowCurse)** <br>
   A lingering malediction tailored to your spite.
   _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
 
-- **Call Lightning** <br>
+- **[Call Lightning](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#CallLightning)** <br>
   Under a stormy sky, your wrath is shocking.
   _This finger calls friends, this one calls fire &hellip; this one when I'm angry._
 
-- **Counterspell** <br>
+- **[Counterspell](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Counterspell)** <br>
   A stern gesture and stronger word unravels enemy magic mid-cast.
   _Take that!_
 
@@ -660,14 +665,14 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
   Confuse a creature&rsquo;s mind so it sees allies and enemies alike as threats.
   _Did you hear what they called you?_
 
-- **Fear** <br>
+- **[Fear](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Fear)** <br>
   A vision sends foes fleeing. Your shadow stretches farther than your body, and recalls their worst terrors.
 
-- **Hypnotic Pattern** <br>
+- **[Hypnotic Pattern](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#HypnoticPattern)** <br>
   A swirling, mind-drowning display that pacifies the mind.
   They seem stupid now, but will remember you after with the hand-waving and the confetti.
 
-- **Plant Growth** <br>
+- **[Plant Growth](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PlantGrowth)** <br>
   You aid the local farmers. Maybe this is useful against enemies.
 
 - **Spirit Shroud** <br>
@@ -677,13 +682,13 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 
 _You smooth out living, especially for those too close to the edge._
 
-- **Dispel Magic** <br>
+- **[Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic)** <br>
   A sweeping arm breaks a spell&mdash;sometimes with bile and bladderwort.
 
 - **Feign Death** <br>
   It or you appear dead. _You ate'nt dead yet._
 
-- **Sending** <br>
+- **[Sending](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Sending)** <br>
   Speak across great distances. Your words ride wind, fire, or raven&rsquo;s wings.
 
 #### Level 4 Witch Spells
@@ -692,19 +697,19 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 ##### 🛡️ Ally Buffs & Wards
 
-- **Freedom of Movement** <br>
+- **[Freedom of Movement](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FreedomofMovement)** <br>
   No chain nor charm nor tangle holds long. Witches walk free and bow to no king.
 
 ##### 📌 Damage & Control
 
-- **Banishment** <br>
+- **[Banishment](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Banishment)** <br>
   With a word of dismissal and a cruel bit of salt, you send a creature elsewhere&mdash;far from where it wants to be.
 
-- **Blight** <br>
+- **[Blight](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Blight)** <br>
   Destroy plant life or strongly damage a foe.
   Witches save their folk and are woe to those against.
 
-- **Confusion** <br>
+- **[Confusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Confusion)** <br>
   Words twisted, gestures doubled, foes toil with thoughts of trouble.
 
 - **Elemental Bane** <br>
@@ -723,10 +728,10 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Arcane Eye** <br>
+- **[Arcane Eye](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ArcaneEye)** <br>
   An invisible eye slips under doors and through dark places. The Witch sees even when not there.
 
-- **Divination** <br>
+- **[Divination](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Divination)** <br>
   Bones rattle, smoke curls, the mirror shimmers&mdash;the future speaks if you attend.
 
 #### Level 5 Witch Spells
@@ -736,108 +741,110 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Circle of Power** <br>
   My confidence follows me around if others stay near enough&mdash;I've enough confidence for all of us.
 
-- **Greater Restoration** <br>
+- **[Greater Restoration](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GreaterRestoration)** <br>
   Better now&mdash;why'd you get yourself into that mess in the first place? And what a mess.
 
-- **Hallow** <br>
+- **[Hallow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Hallow)** <br>
   You make a bond to a place as if it were yours.
 
 - **Skill Empowerment** <br>
-  _Think you're good at that? Let's see you even better._
+  _Think you're good at that?_
 
 ##### 📌 Damage & Control
 
-- **Animate Objects** <br>
+- **[Animate Objects](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AnimateObjects)** <br>
   _Attack me here &mdash; what are they thinking? The whole room is on my side._
-
-- **Contagion** <br>
-  Sickness is an old friend&mdash;cured or caused&mdash;and a touch by you poisons.
-
-- **Geas** <br>
-  Your command echos in their bones. They had better obey.
-
-- **Hold Monster** <br>
-  You freeze them in place. They are unsure when it is safe to move again in your presence.
-
-- **Insect Plague** <br>
-  Locust swarms as in old tales&mdash;farmers dread them, and so should foes who don't flee far enough.
 
 \page
 
+- **[Contagion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Contagion)** <br>
+  Sickness is an old friend&mdash;cured or caused&mdash;and a touch by you poisons.
+
+- **[Geas](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Geas)** <br>
+  Your command echos in their bones. They had better obey.
+
+- **[Hold Monster](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#HoldMonster)** <br>
+  You freeze them in place. They are unsure when it is safe to move again in your presence.
+
+- **[Insect Plague](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#InsectPlague)** <br>
+  Locust swarms as in old tales&mdash;farmers dread them, and so should foes who don't flee far enough.
+
 - **Synaptic Static** <br>
-  Let enemies think twice&mdash;or only not at all&mdash;about crossing you. You give them a silence of the mind.
+  _What were they thinking of?_
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Awaken** <br>
+- **[Awaken](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Awaken)** <br>
   Costly, yes &mdash; but a _Beast_ or _Plant_ that speaks makes a fine ally.
 
-- **Commune with Nature** <br>
+- **[Commune with Nature](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#CommunewithNature)** <br>
   Druids and Rangers know their business. A Witch asks, and the land answers.
 
-- **Contact Other Plane** <br>
+- **[Contact Other Plane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ContactOtherPlane)** <br>
   _This ain't easy. Talking to the powerful elsewhere is dangerous, but I need answers._
 
-- **Dream** <br>
+- **[Dream](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Dream)** <br>
   Step into another&rsquo;s dreams for a chat&mdash;good or bad as a Witch chooses.
 
-- **Legend Lore** <br>
+- **[Legend Lore](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LegendLore)** <br>
   You know more about obscure topics than you show. Listen to a Witch&rsquo; knowledge.
 
-- **Rary&rsquo;s Telepathic Bond** <br>
+- **[Rary&rsquo;s Telepathic Bond](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#RarysTelepathicBond)** <br>
   This "Rary" was alright for a Wizard. Shorter time than _Telepathy_, but more folks in my circle.
 
-- **Scrying** <br>
+- **[Scrying](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Scrying)** <br>
   Is that what you're up to? I knew it wasn't up to anything good.
 
-- **Teleportation Circle** <br>
+- **[Teleportation Circle](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#TeleportationCircle)** <br>
   Witches and their allies get around.
 
 #### Level 6 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
-- **Guards and Wards** <br>
+- **[Guards and Wards](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GuardsandWards)** <br>
   A Witch&rsquo;s cottage is not a castle, but it is better safeguarded.
 
-- **Heroes&rsquo; Feast** <br>
+- **[Heroes&rsquo; Feast](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#HeroesFeast)** <br>
   _What a good cook I am! You've got to love what I did with those monster bits you're chewing on._
 
 - **Tasha&rsquo;s Bubbling Cauldron** <br>
-  A handy Witch&rsquo;s cauldron when we're away from my cottage.
+  _What&rsquo;s a witch for, dearie, if I cannot brew up a nice cuppa?_
+  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
 ##### 📌 Damage & Control
 
-- **Circle of Death** <br>
+- **[Circle of Death](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#CircleofDeath)** <br>
   I draw the circle and enemies take the consequences. Don't step inside.
 
-- **Eyebite** <br>
+- **[Eyebite](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Eyebite)** <br>
   Look too long into a Witch&rsquo;s eyes and you find my will over yours.
 
-- **Flesh to Stone** <br>
+- **[Flesh to Stone](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FleshtoStone)** <br>
   You'll regret this but left me no choice. Maybe someone will restore you.
 
-- **Harm** <br>
+- **[Harm](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Harm)** <br>
   You really got on my wrong side. Don't do it again.
 
-- **Mass Suggestion** <br>
+- **[Mass Suggestion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MassSuggestion)** <br>
   Your lingering suggestions affect friend and foe alike who do not stay away.
 
 - **Tasha&rsquo;s Otherworldly Guise** <br>
   _Now I'm cross. You think I look like this every day? Give them what for and no two ways about it._
+  _(Tasha&rsquo;s Cauldron of Everything, WotC)_
 
-- **Wall of Thorns** <br>
+- **[Wall of Thorns](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#WallofThorns)** <br>
   Enemies thought the terrain difficult. Now it's painful.
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Contingency** <br>
+- **[Contingency](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Contingency)** <br>
   A Witch is always prepared.
 
-- **Move Earth** <br>
+- **[Move Earth](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MoveEarth)** <br>
   You are not just attuned to the land, even the rocks listen to you.
 
-- **True Seeing** <br>
+- **[True Seeing](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#TrueSeeing)** <br>
   A Witch sees what is really there or not.
 
 #### Level 7 Witch Spells
@@ -847,44 +854,44 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Power Word Fortify** <br>
   A Witch&rsquo;s soothing voice is so strong that it raises morale beyond their limits.
 
-- **Regenerate** <br>
+- **[Regenerate](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Regenerate)** <br>
   About that arm, maybe this bit of Troll will help.
 
 ##### 📌 Damage & Control
 
-- **Antipathy/Sympathy** <br>
+- **[Antipathy/Sympathy](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AntipathySympathy)** <br>
   With a word you twist hearts of a kind. Some may aid, others flee.
 
-- **Prismatic Spray** <br>
+- **[Prismatic Spray](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PrismaticSpray)** <br>
   You thought it was drama before. This is drama that disables and kills.
 
 - **Power Word Pain** <br>
   A Witch&rsquo;s grim voice is so strong that all but the strongest struggle to succeed.
 
-- **Symbol** <br>
+- **[Symbol](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Symbol)** <br>
   A Witch&rsquo;s mark hard to spot. When you cross the boundary, you will know and wish you hadn't.
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Mirage Arcane** <br>
+- **[Mirage Arcane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MirageArcane)** <br>
   Maybe Wizards know something after all. The land lies for you.
 
-- **Plane Shift** <br>
+- **[Plane Shift](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PlaneShift)** <br>
   _This is even harder. Let's all us go visit those places I've only spoken to._
 
-- **Etherealness** <br>
+\page
+
+- **[Etherealness](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Etherealness)** <br>
   You alone step into the plane of witchy borders, edges, and nether regions. Higher casting may bring others.
 
 #### Level 8 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
-- **Antimagic Field** <br>
+- **[Antimagic Field](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AntimagicField)** <br>
   Me nor you can use magic. Let's find out how things truly are &mdash; I've got someone here good with a sharp blade.
 
-\page
-
-- **Mind Blank** <br>
+- **[Mind Blank](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MindBlank)** <br>
   Even wishing it were so does not reach their mind. Fear might.
 
 ##### 📌 Damage & Control
@@ -892,59 +899,57 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **Abi-Dalzim&rsquo;s Horrid Wilting** <br>
   Water you need, and water I withdraw.
 
-- **Befuddlement** <br>
+- **[Befuddlement](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Befuddlement)** <br>
   _You're not so clever after all._
 
-- **Earthquake** <br>
+- **[Earthquake](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Earthquake)** <br>
   The land listens to me.
 
-- **Power Word Stun** <br>
+- **[Power Word Stun](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PowerWordStun)** <br>
   A Witch&rsquo;s grim voice is so strong that it stuns and they struggle to act.
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Control Weather** <br>
+- **[Control Weather](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ControlWeather)** <br>
   The Witch knows where they are and suits it to their liking &mdash; lightning or snow, hot or cold, or a fine day for a snack outside.
 
 - **Telepathy** <br>
-  No matter how far let's have a chat. A pity I can't show you my garden.
+  No matter how far let&rsquo;s have a chat. A pity I can't show you my garden.
 
 #### Level 9 Witch Spells
 
 ##### 🛡️ Ally Buffs & Wards
 
-- **Foresight** <br>
+- **[Foresight](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Foresight)** <br>
   For a time as you see what is truly there or will be, you can share this insight with others.
 
-- **Power Word Heal** <br>
+- **[Power Word Heal](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PowerWordHeal)** <br>
   A Witch&rsquo;s soothing voice is so strong that it leads to full recovery though you may feel tired.
 
-- **Prismatic Wall** <br>
+- **[Prismatic Wall](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PrismaticWall)** <br>
   Beyond drama, colors make a stout barrier that you direct.
 
 ##### 📌 Damage & Control
 
-- **Imprisonment** <br>
+- **[Imprisonment](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Imprisonment)** <br>
   _What should I do with this statue of you? Not that you're going anywhere._
 
-- **Power Word Kill** <br>
+- **[Power Word Kill](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PowerWordKill)** <br>
   A Witch&rsquo;s grim voice is so strong that it can kill.
 
 - **Psychic Scream** <br>
-  Enough. Let's see you get up from this.
+  Enough. Let&rsquo;s see you get up from this.
 
-- **Weird** <br>
+- **[Weird](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Weird)** <br>
   You don't just affect other minds, you inhabit them &mdash; and it is terrifying.
 
 ##### 🔍 Utility, Ritual & Trickery
 
-- **Time Stop** <br>
+- **[Time Stop](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#TimeStop)** <br>
   Gain time to do the dishes, tidy up and polish the displays. They won't know what happened.
 
-- **Wish** <br>
+- **[Wish](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Wish)** <br>
   You know "what is really real" so well that the universe shows respect and nudges a bit.
-
-\column
 
 ## Witch Subclasses
 
@@ -975,6 +980,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 7 | *Greater Invisibility*, *Hallucinatory Terrain* |
 | 9 | *Aura of Purity*, *Dream*, *Fount of Moonlight* |
 
+\page
+
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
 
@@ -983,8 +990,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 
 - **Faerie Fire** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
-
-\page
 
 - **Fount of Moonlight** <br>
   You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
@@ -1062,6 +1067,8 @@ Would you like another cup of tea, dear? I have a poultice for that and I won't 
 
 You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
+\page
+
 #### Level 3: Mother Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -1072,8 +1079,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 5 | *Create Food and Water*, *Leomund&rsquo;s Tiny Hut*, *Life Transference*, *Tongues* |
 | 7 | *Mordenkainen&rsquo;s Private Sanctum* |
 | 9 | *Aura of Life*, *Greater Restoration* |
-
-\page
 
 - **Aid** <br>
   Bolsters allies with lasting vitality.
@@ -1159,15 +1164,15 @@ _Turn Fear, Beasts and Minds into Power_
 
 The Crone Calling is wisdom sharpened into dread. She speaks with spirits, curses the arrogant, and sees paths others fear to tread. Even other witches keep their distance, for her Borrowing and baleful gaze unsettle all. The Crone is not cruelty for its own sake, but she ensures that fear teaches where gentler lessons fail.
 
+\page
+
 Playing a Crone Witch often means carrying the weight of difficult choices. You may be asked to risk your body and mind in Borrowing, to step beyond the mortal frame for answers others cannot reach. You wield magic that unnerves allies as much as enemies, and your power makes you a figure of awe or suspicion. The Crone thrives when played with care for her limits as well as her strengths.
 
 #### Level 3: Dark Intuition
 
 Your magic knowledge or commanding presence borders on the supernatural.
 
-You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
-
-\page
+You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
 
 #### Level 3: Crone Spells
 
@@ -1241,6 +1246,8 @@ _**Limits to Power.**_ While in the borrowed form, you cannot use the **Attack**
 
 _**Weariness.**_ Borrowing a creature is a mental and physical strain. While borrowing, you gain levels of *Exhaustion* as shown in the Weariness table. You also gain 1 additional level for each further period of that length you remain in the borrowed form.
 
+\page
+
 | Witch Level | Hours to Exhaustion |
 |:--:|:--:|
 | 6  | 1 |
@@ -1252,8 +1259,6 @@ _**Permanency.**_ If while borrowing you reach 6 levels of *Exhaustion* from any
 _**Returning.**_ When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. The attitude of the borrowed creature towards you remains unchanged.
 
 You can borrow a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
-
-\page
 
 #### Level 10: Greater Borrowing
 
@@ -1316,19 +1321,21 @@ You emanate an aura of supernatural charm by your words and presence that draws 
 On a failed save, choose one of the following effects for that creature:
 
 - **Charm and Fear Suppression.** The creature has immunity to the _Charmed_ and _Frightened_ conditions until the spell ends. If the creature is already _Charmed_ or _Frightened_, those conditions are suppressed for the duration.
-- **Attitude Shift.** The creature’s attitude toward you and creatures you choose shifts one step friendlier (_Hostile_ &rarr; _Indifferent_, _Indifferent_ &rarr; _Friendly_) for as long as the effect lasts. This change happens even if the creature is currently engaged in combat.
+- **Attitude Shift.** The creature&rsquo;s attitude toward you and creatures you choose shifts one step friendlier (_Hostile_ &rarr; _Indifferent_, _Indifferent_ &rarr; _Friendly_) for as long as the effect lasts. This change happens even if the creature is currently engaged in combat.
 - **Word to the Wise.** For any Charisma check you make with the affected creatures you can substitute a Wisdom check if appropriate.
 
+\page
+ 
 If an affected creature within your aura is attacked by you or your companions, the effect ends for all affected creatures in the aura, though the aura remains. When an affected creature leaves the aura, it immediately makes another Wisdom saving throw. On a success, the effect ends for that creature.
 
 When the effect ends for a creature (including when the spell ends), the improved attitude persists unless a significant event changes their mind, such as continuing combat with them or their allies (DM&rsquo;s discretion).
 
-_The aura moves with you, remaining centered on you for the spell’s duration._
-
-\page
+_The aura moves with you, remaining centered on you for the spell&rsquo;s duration._
 
 ## Usage Rights
 
 Brian Oxley Homebrewery &copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this work in your campaigns and free projects. For commercial use, please contact the author.
 
 This work references game terms and spells from the [System Reference Document 5.2 (SRD)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.
+}
+What magic items from the SRD grant advantage on saving throws?
