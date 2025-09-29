@@ -269,25 +269,13 @@ Your wisdom and presence have reached their fullest strength.
 
 Not just a plain list, but some description how to use, and why a Witch knows these.
 
-\page
-
 {{note
 ##### Spells from Outside the PHB (2024)
 Most Witch spells are listed in the Basic Rules (2024 with links to SRD) or in the _Player&rsquo;s Handbook_ (2024).
-A few come from other published sources. DMs should decide which non-core sourcebooks are included in their campaigns:
-
-- **Antagonize** &mdash; _The Book of Many Things_
-- **Earthbind** &mdash; _Elemental Evil Player&rsquo;s Companion_
-- **Frostbite** &mdash; _Elemental Evil Player&rsquo;s Companion_
-- **Psychic Scream** &mdash; _Xanathar&rsquo;s Guide to Everything_
-- **Silvery Barbs** &mdash; _Strixhaven: A Curriculum of Chaos_
-- **Spirit of Death** &mdash; _The Book of Many Things_
-- **Storm Sphere** _Elemental Evil Player&rsquo;s Companion_
-- **Tasha&rsquo;s Bubbling Cauldron** &mdash; _Tasha&rsquo;s Cauldron of Everything_
-- **Tasha&rsquo;s Caustic Brew** &mdash; _Tasha&rsquo;s Cauldron of Everything_
-- **Tasha&rsquo;s Mind Whip** &mdash; _Tasha&rsquo;s Cauldron of Everything_
-- **Tasha&rsquo;s Otherworldly Guise** &mdash; _Tasha&rsquo;s Cauldron of Everything_
+A few come from other published WotC sources. DMs should decide which non-core sourcebooks to use including: _Elemental Evil Player&rsquo;s Companion_, _Strixhaven: A Curriculum of Chaos_, _Tasha&rsquo;s Cauldron of Everything_, _The Book of Many Things_, and _Xanathar&rsquo;s Guide to Everything_. Spells are noted when sourced in these books.
 }}
+
+\page
 
 #### Cantrips (Level 0 Witch Spells)
 
@@ -384,8 +372,6 @@ _See how the flowers are? Now that is witchy no matter what others may say._
   Dramatic presence: booming voice, flickering flame, tremors, or opened doors.
   A flair for storytelling, and a reason to respect a Witch.
 
-\page
-
 #### Level 1 Witch Spells
 
 _You light the candle&mdash;witches don't waste on fireworks. Unless they're pretty, or in haste._
@@ -403,12 +389,15 @@ _A little help never hurt nobody, I always say._
 - **[Protection from Evil and Good](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProtectionfromEvilandGood)** <br>
   Iron pins, salt circles, and stern words keep the otherworld at bay.
 
+\page
+
 - **[Sanctuary](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Sanctuary)** <br>
   An attacker must choose a different target if they cannot oppose your willpower.
   A Witch stands up for those who cannot stand for themselves.
 
 - **Silvery Barbs** <br>
   A witch&rsquo;s words alter fate before "what happened" becomes "what really is".
+  _(Strixhaven: A Curriculum of Chaos)_
 
 ##### 📌 Damage & Control
 
@@ -504,8 +493,6 @@ _Now the real work begins. Two candles lit, the tea is set._
 
 _Did that snake really bite you unprovoked&mdash;sure you weren't poking at it with a stick?_
 
-\page
-
 - **Borrowed Knowledge** <br>
   The odd things you know surprise other, maybe you have other sources?
   _(Strixhaven: Curriculum of Chaos, WotC)_
@@ -527,6 +514,8 @@ _Did that snake really bite you unprovoked&mdash;sure you weren't poking at it w
 
 - **[Mirror Image](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MirrorImage)** <br>
   You're not sure which to attack? Good, I like it that way.
+
+\page
 
 - **[Protection from Poison](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProtectionfromPoison)** <br>
   Draw out the venom, smoke, salt, and old rhyme.
@@ -635,8 +624,6 @@ _Crying may help, no shame there. But let's not get too soon to crying._
   Undo the harmful words of others.
   _So they cursed you? Curse them back; it&rsquo;s just words._
 
-\page
-
 - **[Revivify](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Revivify)** <br>
   A soul still warm may be coaxed back.
   _Get up you lazy bones! Death is no excuse._
@@ -652,6 +639,8 @@ _&ldquo;Stars don't care what you wish, and magic doesn't make things better.&rd
 - **[Bestow Curse](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#BestowCurse)** <br>
   A lingering malediction tailored to your spite.
   _Don&rsquo;t you mess with me! I&rsquo;ll show you what!_
+
+\page
 
 - **[Call Lightning](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#CallLightning)** <br>
   Under a stormy sky, your wrath is shocking.
@@ -755,8 +744,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **[Animate Objects](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AnimateObjects)** <br>
   _Attack me here &mdash; what are they thinking? The whole room is on my side._
 
-\page
-
 - **[Contagion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Contagion)** <br>
   Sickness is an old friend&mdash;cured or caused&mdash;and a touch by you poisons.
 
@@ -771,6 +758,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **Synaptic Static** <br>
   _What were they thinking of?_
+
+\page
 
 ##### 🔍 Utility, Ritual & Trickery
 
@@ -879,8 +868,6 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 - **[Plane Shift](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PlaneShift)** <br>
   _This is even harder. Let's all us go visit those places I've only spoken to._
 
-\page
-
 - **[Etherealness](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Etherealness)** <br>
   You alone step into the plane of witchy borders, edges, and nether regions. Higher casting may bring others.
 
@@ -893,6 +880,8 @@ _Beyond candles now, a Witch grands woe and weal to friend or foe._
 
 - **[Mind Blank](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MindBlank)** <br>
   Even wishing it were so does not reach their mind. Fear might.
+
+\page
 
 ##### 📌 Damage & Control
 
@@ -980,8 +969,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 7 | *Greater Invisibility*, *Hallucinatory Terrain* |
 | 9 | *Aura of Purity*, *Dream*, *Fount of Moonlight* |
 
-\page
-
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
 
@@ -997,6 +984,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Greater Invisibility** <br>
   You or another you touch _stay_ invisible.
   Perfect daggers or kisses slipped unseen.
+
+\page
 
 - **Hallucinatory Terrain** <br>
   A forest, a graveyard glade, a marsh a sunlit shore, up to your imagination.
@@ -1067,8 +1056,6 @@ Would you like another cup of tea, dear? I have a poultice for that and I won't 
 
 You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check using that skill.
 
-\page
-
 #### Level 3: Mother Spells
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
@@ -1083,6 +1070,8 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aid** <br>
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
+
+\page
 
 - **Aura of Life** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
@@ -1164,8 +1153,6 @@ _Turn Fear, Beasts and Minds into Power_
 
 The Crone Calling is wisdom sharpened into dread. She speaks with spirits, curses the arrogant, and sees paths others fear to tread. Even other witches keep their distance, for her Borrowing and baleful gaze unsettle all. The Crone is not cruelty for its own sake, but she ensures that fear teaches where gentler lessons fail.
 
-\page
-
 Playing a Crone Witch often means carrying the weight of difficult choices. You may be asked to risk your body and mind in Borrowing, to step beyond the mortal frame for answers others cannot reach. You wield magic that unnerves allies as much as enemies, and your power makes you a figure of awe or suspicion. The Crone thrives when played with care for her limits as well as her strengths.
 
 #### Level 3: Dark Intuition
@@ -1173,6 +1160,8 @@ Playing a Crone Witch often means carrying the weight of difficult choices. You 
 Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
+
+\page
 
 #### Level 3: Crone Spells
 
@@ -1246,8 +1235,6 @@ _**Limits to Power.**_ While in the borrowed form, you cannot use the **Attack**
 
 _**Weariness.**_ Borrowing a creature is a mental and physical strain. While borrowing, you gain levels of *Exhaustion* as shown in the Weariness table. You also gain 1 additional level for each further period of that length you remain in the borrowed form.
 
-\page
-
 | Witch Level | Hours to Exhaustion |
 |:--:|:--:|
 | 6  | 1 |
@@ -1259,6 +1246,8 @@ _**Permanency.**_ If while borrowing you reach 6 levels of *Exhaustion* from any
 _**Returning.**_ When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. The attitude of the borrowed creature towards you remains unchanged.
 
 You can borrow a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
+
+\page
 
 #### Level 10: Greater Borrowing
 
@@ -1323,14 +1312,14 @@ On a failed save, choose one of the following effects for that creature:
 - **Charm and Fear Suppression.** The creature has immunity to the _Charmed_ and _Frightened_ conditions until the spell ends. If the creature is already _Charmed_ or _Frightened_, those conditions are suppressed for the duration.
 - **Attitude Shift.** The creature&rsquo;s attitude toward you and creatures you choose shifts one step friendlier (_Hostile_ &rarr; _Indifferent_, _Indifferent_ &rarr; _Friendly_) for as long as the effect lasts. This change happens even if the creature is currently engaged in combat.
 - **Word to the Wise.** For any Charisma check you make with the affected creatures you can substitute a Wisdom check if appropriate.
-
-\page
  
 If an affected creature within your aura is attacked by you or your companions, the effect ends for all affected creatures in the aura, though the aura remains. When an affected creature leaves the aura, it immediately makes another Wisdom saving throw. On a success, the effect ends for that creature.
 
 When the effect ends for a creature (including when the spell ends), the improved attitude persists unless a significant event changes their mind, such as continuing combat with them or their allies (DM&rsquo;s discretion).
 
 _The aura moves with you, remaining centered on you for the spell&rsquo;s duration._
+
+\page
 
 ## Usage Rights
 
