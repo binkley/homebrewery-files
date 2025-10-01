@@ -972,30 +972,30 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **Aura of Purity** <br>
   A silver glow like moonlight clings to your allies, warding them from poison, disease, and foul influence.
 
-- **Color Spray** <br>
+- **[Color Spray](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ColorSpray)** <br>
   Flair, chaos, and a touch of drama can be as potent as blades.
 
-- **Faerie Fire** <br>
+- **[Faerie Fire](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FaerieFire)** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
 
 - **Fount of Moonlight** <br>
   You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
 
-- **Greater Invisibility** <br>
+- **[Greater Invisibility](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GreaterInvisibility)** <br>
   You or another you touch _stay_ invisible.
   Perfect daggers or kisses slipped unseen.
 
 \page
 
-- **Hallucinatory Terrain** <br>
+- **[Hallucinatory Terrain](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#HallucinatoryTerrain)** <br>
   A forest, a graveyard glade, a marsh a sunlit shore, up to your imagination.
   You rewrite the world for targets.
 
-- **Major Image** <br>
+- **[Major Image](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MajorImage)** <br>
   Craft full illusions that speak, move, and mislead.
   Convince the senses and the soul may follow.
 
-- **Moonbeam** <br>
+- **[Moonbeam](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Moonbeam)** <br>
   A radiant pillar of lunar light burns away foes and blocks their egress.
   Why can&rsquo;t I cast this at coven?
 
@@ -1067,27 +1067,27 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 | 7 | *Mordenkainen&rsquo;s Private Sanctum* |
 | 9 | *Aura of Life*, *Greater Restoration* |
 
-- **Aid** <br>
+- **[Aid](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Aid)** <br>
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
 
 \page
 
-- **Aura of Life** <br>
+- **[Aura of Life](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AuraofLife)** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
 
-- **Comprehend Languages** <br>
+- **[Comprehend Languages](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ComprehendLanguages)** <br>
   You understand the meaning of spoken and written words, though your replies may be more creative than correct.
   A Witch doesn't just recognize the words&mdash;she knows what that person meant.
 
-- **Create Food and Water** <br>
+- **[Create Food and Water](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#CreateFoodandWater)** <br>
   No one goes without when a proper witch in their company.
 
-- **Greater Restoration** <br>
+- **[Greater Restoration](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GreaterRestoration)** <br>
   Fixes most serious ailments and cursed magic items.
   _Now doesn't that feel better?_
 
-- **Leomund&rsquo;s Tiny Hut** <br>
+- **[Leomund&rsquo;s Tiny Hut](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LeomundsTinyHut)** <br>
   A safe space from magic and the natural elements.
   It&rsquo;s not much, but better than nothing and a fireball.
   _Would you pass the biscuits?_
@@ -1096,14 +1096,14 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   Give your some of your life force to heal another.
   _This hurts; it really hurts. It hurts me more than it does you._
 
-- **Mordenkainen&rsquo;s Private Sanctum** <br>
+- **[Mordenkainen&rsquo;s Private Sanctum](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#MordenkainensPrivateSanctum)** <br>
   Within these wards, your guests and secrets are safe.
   _This "Mordenkainen" needs talking to about what_ private _means._
 
-- **Slow** <br>
+- **[Slow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Slow)** <br>
   Others are in such a rush. Maybe they should take their time about it.
 
-- **Tongues** <br>
+- **[Tongues](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Tongues)** <br>
   Speak and be understood, no matter the creature. Useful for parley, curses, and getting free dinners.
 
 #### Level 6: Balm of Willow-weed
@@ -1178,33 +1178,33 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
   See though the eyes of a natural creature.
   One step from _Borrowing_ them.
 
-- **Clairvoyance** <br>
+- **[Clairvoyance](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Clairvoyance)** <br>
   See or hear from afar through a chosen point.
   A bowl of water, a raven&rsquo;s eyes, a knot in the tree, all spy for you.
 
-- **Compulsion** <br>
+- **[Compulsion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Compulsion)** <br>
   An irresistible pull&mdash;your voice bends the target&rsquo;s will, driving them to move in the path you choose.
 
-- **Death Ward** <br>
+- **[Death Ward](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DeathWard)** <br>
   I had a quiet conversation with Death, and they must come twice for you this time.
 
-- **Dominate Beast** <br>
+- **[Dominate Beast](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DominateBeast)** <br>
   Strongly control a _beast_.
   You will pay the cost later, but right now your goals are all that matter.
 
-- **Enthrall** <br>
+- **[Enthrall](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Enthrall)** <br>
   Your catch attention and hold it fast when no one's fighting.
 
-- **Speak with Plants** <br>
-  Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
-
-- **Phantasmal Force** <br>
+- **[Phantasmal Force](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PhantasmalForce)** <br>
   A hallucination so real it can hurt. Fear, shame, fire, or memory might be what the target conjures.
 
-- **Phantasmal Killer** <br>
+- **[Phantasmal Killer](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#PhantasmalKiller)** <br>
   You unearth the deepest terror in a creature&rsquo;s mind, and give it shape so it stalks them from within.
 
-- **Vampiric Touch** <br>
+- **[Speak with Plants](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#SpeakwithPlants)** <br>
+  Whisper to leaves and roots; the green things of the world murmur back, gossiping about what they heard.
+
+- **[Vampiric Touch](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#VampiricTouch)** <br>
   A draining grasp of necrotic hunger fueled by pain, healed by harm.
 
 #### Level 6: Borrowing
