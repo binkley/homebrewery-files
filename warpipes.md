@@ -5,7 +5,6 @@ _Wondrous Item, varies (requires attunement by a creature proficient with bagpip
 These battle bagpipes were carried by others before and are as potent as any sword or bow or spell. Their lineage is as old as yours, and allies know to respect them or duck. Ever feared is the performer for braw or woe.
 
 {{note
-
 ##### Choose Your Pipes
 
 This dumpy bag with tubes sticking out is never the same. You may change pipes as needed for different tones, tunes, pitches and effects, and the instrument grows with you in power. When equipped, standard musical pipes are attached and may include additional sets of pipes.
@@ -17,24 +16,26 @@ To use effects of the Warpipes, you must use your _Action_ and proficiency in [b
 
 #### Found Instrument
 
-The power the instrument depends on its rarity and the sets of pipes. All expended charges are regained after you finish a _Long Rest_. To _attune_ to the _Warpipes_, you must be a minimum level.
+The power the instrument depends on its rarity and the sets of pipes. Regain all expended charges after a _Long Rest_. 
 
-| Rarity | Charges | Sets of Pipes | Attunement Level |
-|:-:|:-:|:-:|:-:|
-| Common | 1 | 2 | 1 |
-| Uncommon | 3 | 4 | 3 |
-| Rare | 5 | 6 | 6 |
-| Very Rare | 7 | 8 | 11 |
-| Legendary | 9 | 10 | 17 |
+You must be a **minimum character level** to attune to your _Warpipes_.
 
-Some _Warpipes_ are found with sets of pipes included. Other sets of pipes are found while adventuring. Each _Warpipes_ instrument may have different sets of pipes and more rare instruments may have less common pipes.
+| Rarity | Charges | Found Pipe Sets | Effect DC | Minimum Level |
+|:-:|:-:|:-:|:-:|:-:|
+| Common | 1 | 2 | 11 | 1 |
+| Uncommon | 3 | 4 | 13 | 3 |
+| Rare | 5 | 6 | 15 | 6 |
+| Very Rare | 7 | 8 | 17 | 11 |
+| Legendary | 9 | 10 | 19 | 17 |
 
-| Rarity | Typical Pipes |
+_Warpipes_ are found with sets of pipes included. Adventuring and crafting may provide additional sets of pipes.
+
+| Rarity | Typical Found Pipes |
 |:-:|--|
-| Common | Pipes of Bane, Pipes of Blessing |
-| Uncommon| Pipes of Bane, Pipes of Blessing, ?? |
-| Rare | Pipes of Bane, Pipes of Blessing, ??, ?? |
-| Very Rare | Pipes of Bane, Pipes of Blessing, ??, ??, Pipes of Pain |
+| Common | _Pipes of Bane_, _Pipes of Blessing_ |
+| Uncommon| _Opening Notes_, _Pipes of Bane_, _Pipes of Blessing_ |
+| Rare | _Opening Notes_, _Pipes of Bane_, _Pipes of Blessing_, ??, ??, ?? |
+| Very Rare | _Pipes of Bane_, Pipes of Blessing, ??, ??, Pipes of Pain |
 | Legendary | Pipes of Bane, Pipes of Blessing, ??, ??, Pipes of Pain, ??|
 
 #### Warming Up
@@ -51,35 +52,39 @@ You can use a _Bonus Action_ to replace pipes. If an ally within 5 feet can see 
 
 ### Pipes
 
-When a set of pipes has an effect requiring an ability check or a saving throw, the difficulty ([DC](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DifficultyClass)) is your choice of:
+Your DM may provide more sets of pipes than those listed here.
 
-- Your current spell save DC
-- 8 + your Performance [skill](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Skill) bonus
-- 8 + your [proficiency bonus](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Proficiency) + your Charisma bonus
+If an effect requires an ability check or saving throw, see the "Found Instrument" table for DC of the effect.
+
+#### Heroic Tune
+
+These pipes require **1 charge** from your _Warpipes_ to play after attaching.
+
+You play a wistful tune for up to 1 minute with _Concentration_. This casts the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell and choose your target at performance start.
 
 #### Opening Notes
 
-These pipes require **2 charges** from your _Warpipes to play.
+These pipes require **2 charges** from your _Warpipes_ to play after attaching.
 
-You play a curious notes. While you play cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
+You play a curious notes. This casts the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
 #### Pipes of Bane
 
-These pipes require **1 charge** from your _Warpipes_ to play.
+These pipes require **1 charge** from your _Warpipes_ to play after attaching.
 
-You play a dour drone and harsh squeaks for up to 1 minute with _Concentration_. While you play cast the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell, and you choose targets at the start of your performance.
+You play a dour drone and harsh squeaks for up to 1 minute with _Concentration_. This casts the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell and choose your targets at performance start.
 
 #### Pipes of Blessing
 
-These pipes require **1 charge** from your _Warpipes_ to play.
+These pipes require **1 charge** from your _Warpipes_ to play after attaching.
 
-You play a long drone note and hopeful melody for up to 1 minute with _Concentration_. While you play cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell, and you choose targets at the start of your performance.
+You play a long drone note and hopeful melody for up to 1 minute with _Concentration_. This casts the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell and choose your targets at performance start.
 
 \page
 
 #### Pipes of Pain
 
-These pipes require **4 charges** from your _Warpipes_ to play. You play _The King Under the Water_.
+These pipes require **4 charges** from your _Warpipes_ to play after attaching. You play _The King Under the Water_.
 
 Towering tones ripple outward from you in a 30-foot _Emanation_. Each creature in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only.
 
