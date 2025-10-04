@@ -1,4 +1,4 @@
-# Warpipes
+s# Warpipes
 
 _Wondrous Item, varies (requires attunement by a creature proficient with bagpipes)_
 
@@ -40,53 +40,37 @@ _Warpipes_ are found with sets of pipes included. Adventuring and crafting may p
 
 #### Warming Up
 
-The _Warpipes_ possess minor magics that do not require charges. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a _Long Rest_.
 
-As an _Action_, you can rehearse a continuous drone for the flow of battle, lasting until the start of your next turn. While your warming-up tones are active, you can use your _Reaction_ to make a sharp note for a creature you can see within 60 feet.
-
-That note affects an ability check, attack roll, or saving throw they make. You choose whether to add a d4 to or subtract a d4 from the roll. You can use this _Reaction_ after the d20 is rolled, but before the outcome is determined.
+_**Good or Ill.**_ As an _Action_ you play a steady drone until the start of your next turn and require _Concentration_. You can add or subtract d4 as a _Reaction_ to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined.
 
 #### Changing the Tune
 
-You can use a _Bonus Action_ to replace pipes. If an ally within 5 feet can see you changing pipes, they can assist as a _Reaction_ &mdash; no longer requiring your _Bonus Action_. That ally gains _Advantage_ on _saving throws_ for any effects of the new pipes.
+You can use a _Bonus Action_ to replace a set of pipes. If a creature within 5 feet can see you changing pipes, they can assist as a _Reaction_ freeing your _Bonus Action_. That creatures gains _Advantage_ on _saving throws_ for any effects of the new pipes.
 
 ### Pipes
 
-Your DM may provide more sets of pipes than those listed here.
-
-If an effect requires an ability check or saving throw, see the "Found Instrument" table for DC of the effect.
+All sets of pipes require attaching and are exclusive to use. Your DM may provide more sets of pipes than those listed here. DC for magical effects depend on the rarity of your instrument. Effects are never upcast.
 
 #### Heroic Tune
 
-These pipes require **1 charge** from your _Warpipes_ to play after attaching.
-
-You play a wistful tune for up to 1 minute with _Concentration_. This casts the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell and choose your target at performance start.
+**1 charge**. You play a wistful tune for up to 1 minute with _Concentration_. This casts the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell and choose your target at performance start.
 
 #### Opening Notes
 
-These pipes require **2 charges** from your _Warpipes_ to play after attaching.
-
-You play a curious notes. This casts the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
+**2 charges**. You play a curious notes. This casts the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
 #### Pipes of Bane
 
-These pipes require **1 charge** from your _Warpipes_ to play after attaching.
-
-You play a dour drone and harsh squeaks for up to 1 minute with _Concentration_. This casts the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell and choose your targets at performance start.
+**1 charge**. You play a dour drone and harsh squeaks for up to 1 minute with _Concentration_. This casts the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell and you choose targets at performance start.
 
 #### Pipes of Blessing
 
-These pipes require **1 charge** from your _Warpipes_ to play after attaching.
-
-You play a long drone note and hopeful melody for up to 1 minute with _Concentration_. This casts the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell and choose your targets at performance start.
-
-\page
+**1 charge**. You play a simple drone and hopeful melody for up to 1 minute with _Concentration_. This casts the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell and you choose targets at performance start.
 
 #### Pipes of Pain
 
-These pipes require **4 charges** from your _Warpipes_ to play after attaching. You play _The King Under the Water_.
-
-Towering tones ripple outward from you in a 30-foot _Emanation_. Each creature in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only.
+**4 charges**. You play _The King Under the Water_. Towering tones ripple outward from you in a 30-foot _Emanation_. Each creature in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only.
 
 Each creature you choose in the Emanation can use a _Reaction_ to cover their ears and throw themselves _Prone_ to take no damage.
 
@@ -95,6 +79,8 @@ Each creature you choose in the Emanation can use a _Reaction_ to cover their ea
 Increasing the rarity _Warpipes_ is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a _Cleric&rsquo;s_ blessing.
 
 You may not upgrade the rarity of your _Warpipes_ without approval by the DM.
+
+\page
 
 #### Time and Cost
 
