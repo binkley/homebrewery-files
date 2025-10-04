@@ -15,17 +15,17 @@ To use effects of the Warpipes, you must use your _Action_ and proficiency in [b
 
 **Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
 
-### Found Instrument
+#### Found Instrument
 
-The power the instrument depends on its rarity and the sets of pipes. All expended charges are regained after you finish a _Long Rest_.
+The power the instrument depends on its rarity and the sets of pipes. All expended charges are regained after you finish a _Long Rest_. To _attune_ to the _Warpipes_, you must be a minimum level.
 
-| Rarity | Charges | Sets of Pipes |
-|:-:|:-:|:-:|
-| Common | 1 | 2 |
-| Uncommon | 3 | 4 |
-| Rare | 5 | 6 |
-| Very Rare | 7 | 8 |
-| Legendary | 9 | 10 |
+| Rarity | Charges | Sets of Pipes | Attunement Level |
+|:-:|:-:|:-:|:-:|
+| Common | 1 | 2 | 1 |
+| Uncommon | 3 | 4 | 3 |
+| Rare | 5 | 6 | 6 |
+| Very Rare | 7 | 8 | 11 |
+| Legendary | 9 | 10 | 17 |
 
 Some _Warpipes_ are found with sets of pipes included. Other sets of pipes are found while adventuring. Each _Warpipes_ instrument may have different sets of pipes and more rare instruments may have less common pipes.
 
@@ -51,13 +51,17 @@ You can use a _Bonus Action_ to replace pipes. If an ally within 5 feet can see 
 
 ### Pipes
 
-#### Saving Throws
-
-When a set of pipes has an effect with a saving throw, the DC is your choice of:
+When a set of pipes has an effect requiring an ability check or a saving throw, the difficulty ([DC](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DifficultyClass)) is your choice of:
 
 - Your current spell save DC
-- 8 + your Performance skill bonus
-- 8 + your proficiency bonus + your Charisma bonus
+- 8 + your Performance [skill](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Skill) bonus
+- 8 + your [proficiency bonus](https://www.dndbeyond.com/sources/dnd/br-2024/playing-the-game#Proficiency) + your Charisma bonus
+
+#### Opening Notes
+
+These pipes require **2 charges** from your _Warpipes to play.
+
+You play a curious notes. While you play cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
 #### Pipes of Bane
 
@@ -71,6 +75,8 @@ These pipes require **1 charge** from your _Warpipes_ to play.
 
 You play a long drone note and hopeful melody for up to 1 minute with _Concentration_. While you play cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell, and you choose targets at the start of your performance.
 
+\page
+
 #### Pipes of Pain
 
 These pipes require **4 charges** from your _Warpipes_ to play. You play _The King Under the Water_.
@@ -79,17 +85,19 @@ Towering tones ripple outward from you in a 30-foot _Emanation_. Each creature i
 
 Each creature you choose in the Emanation can use a _Reaction_ to cover their ears and throw themselves _Prone_ to take no damage.
 
-\page
+### Upgrading Your Instrument
 
-### Louder and Longer
-
-Upgrading a set of _Warpipes_ is a large task, rarely achievable by a single crafter. The instrument is a complex maneuver of wood, leather, fabric, metal, and magic. To upgrade your _Warpipes_, seek out suitable artisans. It never hurts to get a _Cleric&rsquo;s_ blessing.
+Increasing the rarity _Warpipes_ is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a _Cleric&rsquo;s_ blessing.
 
 You may not upgrade the rarity of your _Warpipes_ without approval by the DM.
 
+#### Time and Cost
+
+Upgrading the rarity of your _Warpipes_ requires the same cost and tools as crafting a magic item from scratch. With required assistance the time is 1/2 that of for crafting a magic item from scratch. For upgrading to _Rare_ or greater rarity, your DM may require hard-to-find materials.
+
 #### Artisan Assistance
 
-As you upgrade your _Warpipes_ you need the assistance of others. In addition to your own crafting skills, seek the help of other artisans.
+Upgrading _Warpipes_ needs collaboration. In addition to your own crafting skills, the help of other artisans is needed.
 
 | Old Rarity | New Rarity | Artisans | Crafts |
 |:-:|:-:|:-:|--|
