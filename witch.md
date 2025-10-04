@@ -1327,4 +1327,3 @@ Brian Oxley Homebrewery &copy; 2025 Brian Oxley &mdash; Contents licensed under 
 
 This work references game terms and spells from the [System Reference Document 5.2 (SRD)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.
 }
-What magic items from the SRD grant advantage on saving throws?
