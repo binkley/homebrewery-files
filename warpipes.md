@@ -15,13 +15,27 @@ To use effects of the Warpipes, you must use your _Action_ and proficiency in [b
 
 **Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
 
-#### Charges and Rarity
+### Found Instrument
 
-The power the instrument depends on its rarity and the sets of pipes. The pipes regain all expended charges after you finish a _Long Rest_.
-- **Common.** There is 1 charge and is found with at least 2 sets of pipes.
-- **Uncommon.** There are 3 charges and is found with at least 4 sets of pipes.
-- **Rare.** There are 5 charges and is found with at least 6 sets of pipes.
-- **Very Rare.** There are 7 charges and is found with at least 8 sets of pipes.
+The power the instrument depends on its rarity and the sets of pipes. All expended charges are regained after you finish a _Long Rest_.
+
+| Rarity | Charges | Sets of Pipes |
+|:-:|:-:|:-:|
+| Common | 1 | 2 |
+| Uncommon | 3 | 4 |
+| Rare | 5 | 6 |
+| Very Rare | 7 | 8 |
+| Legendary | 9 | 10 |
+
+Some _Warpipes_ are found with sets of pipes included. Other sets of pipes are found while adventuring. Each _Warpipes_ instrument may have different sets of pipes and more rare instruments may have less common pipes.
+
+| Rarity | Typical Pipes |
+|:-:|--|
+| Common | Pipes of Bane, Pipes of Blessing |
+| Uncommon| Pipes of Bane, Pipes of Blessing, ?? |
+| Rare | Pipes of Bane, Pipes of Blessing, ??, ?? |
+| Very Rare | Pipes of Bane, Pipes of Blessing, ??, ??, Pipes of Pain |
+| Legendary | Pipes of Bane, Pipes of Blessing, ??, ??, Pipes of Pain, ??|
 
 #### Warming Up
 
@@ -37,18 +51,35 @@ You can use a _Bonus Action_ to replace pipes. If an ally within 5 feet can see 
 
 ### Pipes
 
-Some _Warpipes_ are found with sets of pipes included. Other sets of pipes are found while adventuring. Each _Warpipes_ instrument may have different sets of pipes and more rare instruments may have less common pipes.
+#### Saving Throws
 
-| Rarity | Always Included |
-|:-:|--|
-| Common | Pipes of Blessing |
-| Uncommon| ?? |
-| Rare | ?? |
-| Very Rare | Pipes of Pain |
+When a set of pipes has an effect with a saving throw, the DC is your choice of:
+
+- Your current spell save DC
+- 8 + your Performance skill bonus
+- 8 + your proficiency bonus + your Charisma bonus
+
+#### Pipes of Bane
+
+These pipes require **1 charge** from your _Warpipes_ to play.
+
+You play a dour drone and harsh squeaks for up to 1 minute with _Concentration_. While you play cast the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell, and you choose targets at the start of your performance.
 
 #### Pipes of Blessing
 
-You play a long drone note and hopeful melody for up to 1 minute with _Concentration_. While you play this on the _Warpipes_, it has the same effect as the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell, and you choose targets at the start of your performance.
+These pipes require **1 charge** from your _Warpipes_ to play.
+
+You play a long drone note and hopeful melody for up to 1 minute with _Concentration_. While you play cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell, and you choose targets at the start of your performance.
+
+#### Pipes of Pain
+
+These pipes require **4 charges** from your _Warpipes_ to play. You play _The King Under the Water_.
+
+Towering tones ripple outward from you in a 30-foot _Emanation_. Each creature in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only.
+
+Each creature you choose in the Emanation can use a _Reaction_ to cover their ears and throw themselves _Prone_ to take no damage.
+
+\page
 
 ### Louder and Longer
 
@@ -69,8 +100,6 @@ As you upgrade your _Warpipes_ you need the assistance of others. In addition to
 | &nbsp; | &nbsp; | 2 | _Alchemist_, _Calligrapher_ or _Painter_, _Jeweler_ |
 | Very Rare | Legendary | 4 | _Leatherworker_, _Metalsmith_, _Tailor_, _Tinker_ or _Woodcarver_ |
 | &nbsp; | &nbsp; | 3 | _Alchemist_, _Calligrapher_ or _Painter_, _Jeweler_ |
-
-\page
 
 _**Alchemist:**_ An Alchemist can create special oils and resins to treat woods and fabrics, making them resistant to fire, rot, or magical corruption. This treatment is crucial for the instrument's survival in perilous conditions.
 
