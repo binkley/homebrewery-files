@@ -26,7 +26,6 @@ You must be a **minimum character level** to attune to your _Warpipes_.
 | Uncommon | 3 | 4 | 13 | 3 |
 | Rare | 5 | 6 | 15 | 6 |
 | Very Rare | 7 | 8 | 17 | 11 |
-| Legendary | 9 | 10 | 19 | 17 |
 
 _Warpipes_ are found with sets of pipes included. Adventuring and crafting may provide additional sets of pipes.
 
@@ -36,7 +35,6 @@ _Warpipes_ are found with sets of pipes included. Adventuring and crafting may p
 | Uncommon| _Opening Notes_, _Pipes of Bane_, _Pipes of Blessing_ |
 | Rare | _Opening Notes_, _Pipes of Bane_, _Pipes of Blessing_, ??, ??, ?? |
 | Very Rare | _Pipes of Bane_, Pipes of Blessing, ??, ??, Pipes of Pain |
-| Legendary | Pipes of Bane, Pipes of Blessing, ??, ??, Pipes of Pain, ??|
 
 #### Warming Up
 
@@ -97,8 +95,6 @@ Upgrading _Warpipes_ needs collaboration. In addition to your own crafting skill
 | &nbsp; | &nbsp; | 1 | _Alchemist_, _Calligrapher_ or _Painter_, _Jeweler_ |
 | Rare | Very Rare | 3 | _Leatherworker_, _Metalsmith_, _Tailor_, _Tinker_ or _Woodcarver_ |
 | &nbsp; | &nbsp; | 2 | _Alchemist_, _Calligrapher_ or _Painter_, _Jeweler_ |
-| Very Rare | Legendary | 4 | _Leatherworker_, _Metalsmith_, _Tailor_, _Tinker_ or _Woodcarver_ |
-| &nbsp; | &nbsp; | 3 | _Alchemist_, _Calligrapher_ or _Painter_, _Jeweler_ |
 
 _**Alchemist:**_ An Alchemist can create special oils and resins to treat woods and fabrics, making them resistant to fire, rot, or magical corruption. This treatment is crucial for the instrument's survival in perilous conditions.
 
