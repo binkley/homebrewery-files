@@ -1,4 +1,4 @@
-s# Warpipes
+# Warpipes
 
 _Wondrous Item, varies (requires attunement by a creature proficient with bagpipes)_
 
@@ -40,7 +40,9 @@ _Warpipes_ are found with sets of pipes included. Adventuring and crafting may p
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a _Long Rest_.
 
-_**Good or Ill.**_ As an _Action_ you play a steady drone until the start of your next turn and require _Concentration_. You can add or subtract d4 as a _Reaction_ to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined.
+_**Giving the Thumb.**_ As an _Action_ cast [Vicious Mockery](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ViciousMockery).
+
+_**Good or Ill.**_ As an _Action_ play a steady drone with _Concentration_ until the start of your next turn. You can add or subtract d4 as a _Reaction_ to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined. If you use your _Reaction_ you stop playing.
 
 #### Changing the Tune
 
@@ -56,7 +58,7 @@ All sets of pipes require attaching and are exclusive to use. Your DM may provid
 
 #### Opening Notes
 
-**2 charges**. You play a curious notes. This casts the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
+**2 charges**. You play curious notes. This casts the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
 #### Pipes of Bane
 
@@ -72,13 +74,13 @@ All sets of pipes require attaching and are exclusive to use. Your DM may provid
 
 Each creature you choose in the Emanation can use a _Reaction_ to cover their ears and throw themselves _Prone_ to take no damage.
 
+\page
+
 ### Upgrading Your Instrument
 
 Increasing the rarity _Warpipes_ is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a _Cleric&rsquo;s_ blessing.
 
 You may not upgrade the rarity of your _Warpipes_ without approval by the DM.
-
-\page
 
 #### Time and Cost
 
