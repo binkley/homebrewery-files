@@ -7,7 +7,7 @@ These battle bagpipes were carried by others before and are as potent as any swo
 {{note
 ##### Choose Your Pipes
 
-This dumpy bag with tubes sticking out is never the same. You may change pipes as needed for different tones, tunes, pitches and effects, and the instrument grows with you in power. When equipped, standard musical pipes are attached and may include additional sets of pipes.
+This dumpy bag with gangly tubes is never the same. You may change pipes as needed for different tones, tunes, pitches and effects, and the instrument grows with you. Standard musical pipes are always available. Some run at the jarring sound, others march prouder into battle.
 }}
 
 To use effects of the Warpipes, you must use your _Action_ and proficiency in [bagpipes](https://www.dndbeyond.com/equipment/463-bagpipes) to play the instrument. You can also play them as simple bagpipes:

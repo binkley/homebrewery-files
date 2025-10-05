@@ -64,6 +64,9 @@ Beyond](https://www.dndbeyond.com/magic-items/10629318-investigators-case) or
   Beyond](https://www.dndbeyond.com/magic-items/10515219-scribes-supplies) or
   [Homebrewery](https://homebrewery.naturalcrit.com/share/js0JPW4UlOyw) for
   online rendering.
+- [_Warpipes_](./warpipes.md) &mdash; Dangerous _bagpipes_.
+  See [Homebrewery](https://homebrewery.naturalcrit.com/share/3h1RupfckdPY)
+  for online rendering.
 
 ## Usage Rights
 
