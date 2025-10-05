@@ -18,7 +18,7 @@ To use effects of the Warpipes, you must use your _Action_ and proficiency in [b
 
 The power the instrument depends on its rarity and the sets of pipes. Regain all expended charges after a _Long Rest_. 
 
-You must be a **minimum character level** to attune to your _Warpipes_.
+You must be a **minimum character level** to attune to your instrument of war.
 
 | Rarity | Charges | Found Pipe Sets | Effect DC | Minimum Level |
 |:-:|:-:|:-:|:-:|:-:|
@@ -27,11 +27,11 @@ You must be a **minimum character level** to attune to your _Warpipes_.
 | Rare | 5 | 6 | 15 | 6 |
 | Very Rare | 7 | 8 | 17 | 11 |
 
-Your DM decides which sets of pipes are found with your _Warpipes_. Your _Warpipes_ always include one set of non-magical pipes.
+Your DM decides which sets of pipes are found. Your instrument always include one set of non-magical musical pipes.
 
 #### Changing the Tune
 
-You can use a _Bonus Action_ to replace a set of pipes. A creature within 5 ft. can use their _Reaction_ to assist. That creatures gains _Advantage_ on _saving throws_ for any effects of the new pipes, and this feature does not spend your _Bonus Action_.
+You can use a _Bonus Action_ to replace a set of pipes. A creature within 5 ft. can use their _Reaction_ to assist. That creatures gains _Advantage_ on _saving throw_ for any effects of the new pipes, and this feature does not spend your bonus action.
 
 ### Pipes
 
@@ -45,7 +45,7 @@ _**Giving the Thumb.**_ 1 charge. You play mocking notes to cast the [Vicious Mo
 
 _**Good or Ill.**_ 2 charges. You play a steady drone with _Concentration_ until the start of your next turn. You can add or subtract d4 as a _Reaction_ to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined. If you use your _Reaction_ you stop playing.
 
-_**Heroic Tune.**_ 1 charge. You play a wistful tune for up to 1 minute with _Concentration_. This casts the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell and choose your target at performance start.
+_**Heroic Tune.**_ 1 charge. You play a wistful tune for up to 1 minute with _Concentration_. This casts the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell.
 
 _**Opening Notes.**_ 2 charges. You play curious notes to cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
@@ -63,7 +63,7 @@ _**Tiring Tones.**_ 4 charges. You play _The Famous Tay Whale_. Choose one creat
 
 ### Upgrading Your Instrument
 
-Increasing the rarity _Warpipes_ is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a _Cleric&rsquo;s_ blessing.
+Increasing the rarity of _Warpipes_ is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a _cleric&rsquo;s_ or _patron&rsquo;s_ blessing.
 
 You may not upgrade the rarity of your _Warpipes_ without approval by the DM.
 
@@ -85,21 +85,21 @@ Upgrading _Warpipes_ needs collaboration. In addition to your own crafting skill
 | Rare | Very Rare | 3 | _Leatherworker_, _Metalsmith_, _Tailor_, _Tinker_ or _Woodcarver_ |
 | &nbsp; | &nbsp; | 2 | _Alchemist_, _Calligrapher_ or _Painter_, _Jeweler_ |
 
-_**Alchemist:**_ An Alchemist can create special oils and resins to treat woods and fabrics, making them resistant to fire, rot, or magical corruption. This treatment is crucial for the instrument's survival in perilous conditions.
+_**Alchemist.**_ An Alchemist can create special oils and resins to treat woods and fabrics, making them resistant to fire, rot, or magical corruption. This treatment is crucial for the instrument's survival in perilous conditions.
 
-_**Calligrapher / Painter:**_ A master of these can adorn the instrument with delicate runes or symbols of power. These are not merely decorative; they can be imbued with minor spells or blessings that the wielder can call upon.
+_**Calligrapher or Painter.**_ A master of these can adorn the instrument with delicate runes or symbols of power. These are not merely decorative; they can be imbued with minor spells or blessings that the wielder can call upon.
 
-_**Jeweler:**_ A Jeweler can inlay your _Warpipes_ with precisely matched gemstones. These gems can serve as arcane foci, extra storage for magical charges, or show the presence of nearby magic or enemies.
+_**Jeweler.**_ A Jeweler can inlay your instrument with precisely matched gemstones. These gems can serve as arcane foci, extra storage for magical charges, or show the presence of nearby magic or enemies.
 
-_**Leatherworker:**_ The instrument&rsquo;s lungs is the leather Bag. Typically sheepskin or cow, an upgrade might need magical hide, such as that of a _Displacer Beast_, to contain volatile energies.
+_**Leatherworker.**_ The instrument&rsquo;s lungs is the leather Bag. Typically sheepskin or cow, an upgrade might need magical hide such as that of a _Displacer Beast_ or _Yeth Hound_.
 
-_**Metalsmith:**_ Parts such as ferrules (metal rings to prevent the wood-splitting) or mounts (for pipe attachments) require this artisan. For a greater upgrades, you might need mithral or inscribed runes of power.
+_**Metalsmith,**_ Parts such as ferrules (metal rings to prevent the wood-splitting) or mounts (for pipe attachments) require this artisan. For a greater upgrades you might need mithral or inscribed runes of power.
 
-_**Tailor:**_ Covering the Bag is a public face and protective layer. This artisan crafts an ornate cover from fine fabrics embroidering it with meaningful symbols and tassles. More powerful _Warpipes_ may use spider silk or threads of pure silver.
+_**Tailor.**_ Covering the Bag is a public face and protective layer. This artisan crafts an ornate cover from fine fabrics embroidering it with meaningful symbols and tassles. More powerful instruments_ may use spider silk or threads of pure metal.
 
-_**Tinker:**_ Without this artisan and their precision, you may struggle to keep stocks airtight or the blowpipe valve from failing. And they love adding their own magical touches.
+_**Tinker.**_ Without this artisan and their precision, you may struggle to keep stocks airtight or the blowpipe valve from failing. And they may add their own magical touches.
 
-_**Woodcarver:**_ The instrument&rsquo;s heart is in the delicate reeds providing the distinctive character to your instrument. This is apparent in chanter, drones, and wooden sets of pipes. Rare woods like Ironwood or a branch from a Feywild tree may better resonate to your magical tones.
+_**Woodcarver.**_ The instrument&rsquo;s heart is in the delicate reeds providing the distinctive character to your instrument. This is apparent in chanter, drones, and wooden sets of pipes. Rare woods like _Ironwood_ or a branch from a _Feywild_ tree may resonate better.
 
 ## Usage Rights
 
