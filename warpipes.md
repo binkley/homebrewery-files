@@ -49,9 +49,9 @@ _**Heroic Tune.**_ 1 charge. You play a wistful tune for up to 1 minute with _Co
 
 _**Opening Notes.**_ 2 charges. You play curious notes to cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
-_**Pipes of Bane.**_ 1 charge. You play a dour drone and harsh squeaks for up to 1 minute with _Concentration_. This casts the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell and you choose targets at performance start.
+_**Pipes of Bane.**_ 1 charge. You play a dour drone and harsh squeaks for up to 1 minute with _Concentration_. This casts the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell.
 
-_**Pipes of Blessing.**_ 1 charge. You play a simple drone and hopeful melody for up to 1 minute with _Concentration_. This casts the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell and you choose targets at performance start.
+_**Pipes of Blessing.**_ 1 charge. You play a simple drone and hopeful melody for up to 1 minute with _Concentration_. This casts the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell.
 
 _**Pipes of Pain.**_ 4 charges. You play _The King Under the Water_. Towering tones ripple outward from you in a 30-foot _Emanation_. Each creature in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only.
 
