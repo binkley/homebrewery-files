@@ -27,24 +27,17 @@ You must be a **minimum character level** to attune to your _Warpipes_.
 | Rare | 5 | 6 | 15 | 6 |
 | Very Rare | 7 | 8 | 17 | 11 |
 
-Your DM decides which sets of pipes are found with your instrument. Examples include:
-
-| Rarity | Typical Found Pipes |
-|:-:|--|
-| Common | _Pipes of Bane_, _Pipes of Blessing_ |
-| Uncommon| _Opening Notes_, _Pipes of Bane_, _Pipes of Blessing_ |
-| Rare | _Opening Notes_, _Pipes of Bane_, _Pipes of Blessing_, ??, ??, ?? |
-| Very Rare | _Pipes of Bane_, Pipes of Blessing, ??, ??, Pipes of Pain |
+Your DM decides which sets of pipes are found with your _Warpipes_. Your _Warpipes_ always include one set of non-magical pipes.
 
 #### Changing the Tune
 
-You can use a _Bonus Action_ to replace a set of pipes. If a creature within 5 feet can see you changing pipes, they can assist as a _Reaction_ freeing your _Bonus Action_. That creatures gains _Advantage_ on _saving throws_ for any effects of the new pipes.
-
-Your _Warpipes_ always include non-magical pipes for playing the instrument, and you can use them with this feature.
+You can use a _Bonus Action_ to replace a set of pipes. A creature within 5 ft. can use their _Reaction_ to assist. That creatures gains _Advantage_ on _saving throws_ for any effects of the new pipes, and this feature does not spend your _Bonus Action_.
 
 ### Pipes
 
 All sets of pipes require attaching and are exclusive to use. Your DM may provide more sets of pipes than those listed here. DC for magical effects depend on the rarity of your instrument. Effects are never upcast.
+
+\column
 
 _**General Retreat.**_ 3 charges. You play a quick, urgent march. Choose a number of creatures you can see within 60 feet of you, up to your proficiency bonus. Each chosen creature can use its _Reaction_ to immediately move up to its speed without provoking opportunity attacks.
 
@@ -66,13 +59,15 @@ Each creature you choose in the Emanation can use a _Reaction_ to cover their ea
 
 _**Shattering Pipes.**_ 3 charges. You play shrill notes to cast the [Shatter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Shatter) spell.
 
+_**Tiring Tones.**_ 4 charges. You play _The Famous Tay Whale_. Choose one creature within 60 ft. That creature suffers 1 level of _Exhaustion_.
+
 ### Upgrading Your Instrument
 
 Increasing the rarity _Warpipes_ is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a _Cleric&rsquo;s_ blessing.
 
-\page
-
 You may not upgrade the rarity of your _Warpipes_ without approval by the DM.
+
+\page
 
 #### Time and Cost
 
