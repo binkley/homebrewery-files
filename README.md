@@ -43,6 +43,17 @@
      Beyond](https://www.dndbeyond.com/feats/2092667-troll-ancestry) or
      [Homebrewery](https://homebrewery.naturalcrit.com/share/EVewjLg8mQWV) for
      online rendering.
+- Examples of chat AI automation:
+  - [_Amalgamation_](./amalgamation-2024.md) &mdash; A converstion to 2024
+    _Monster Manual_ for a _Drakkenheim_ creature.
+    See [D&amp;D
+    Beyond](https://www.dndbeyond.com/sources/dnd/modr/horrors-of-drakkenheim#Amalgamation)
+    for the pre-2024 original.
+  - [_Beetle Knight_](./beetle-knight-2024.md) &mdash; A converstion to 2024
+    _Monster Manual_ for a _Drakkenheim_ creature.
+    See [D&amp;D
+    Beyond](https://www.dndbeyond.com/sources/dnd/modr/horrors-of-drakkenheim#BeetleKnight)
+    for the pre-2024 original.
 - [_Greater Pendant of Warning_](./greater-pendant-of-warning.md) &mdash; An
   improved "Weapon of Warning" as a miscellaneous magic item.
 - [_Investigator&rsquo;s Case_](./investigators-case.md) &mdash; A compact
