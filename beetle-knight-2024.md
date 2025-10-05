@@ -1,5 +1,5 @@
 # Beetle Knight
-Beetle Knight, *Large Monstrosity, Unaligned*  
+**Beetle Knight** is a *Large Monstrosity, Unaligned*, for the _Drakkenheim_ setting. <br>
 **Armor Class** 19 (natural armor) <br>
 **Initiative** +2 (12) <br>
 **Hit Points** 95 (10d10 + 40) <br>

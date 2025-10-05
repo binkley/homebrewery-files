@@ -1,12 +1,14 @@
 # Amalgamation
 
-Amalgamation, a *Gargantuan Aberration, Chaotic Evil*
-
+**Amalgamation** is a *Gargantuan Aberration, Chaotic Evil*, for the _Drakkenheim_ setting. <br>
 **AC** 18 (natural armor) <br>
 **Initiative** +14 (24) <br>
 **HP** 175 (10d20 + 70) + 175 (10d20 + 70) per player character <br>
 **Speed** 5 ft. <br>
-**STR** 30 (+10) **DEX** 11 (+0) **CON** 27 (+7) **INT** 22 (+6) **WIS** 18 (+4) **CHA** 20 (+5) <br>
+|STR|DEX|CON|INT|WIS|CHA|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|30 (+10)|11 (+0)|27 (+7)|22 (+6)|18 (+4)|20 (+5)|
+
 **Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11, Cha +5 <br>
 **Skills** Arcana +13, Deception +12, Insight +11, Perception +11 <br>
 **Damage Immunities** Psychic <br>
