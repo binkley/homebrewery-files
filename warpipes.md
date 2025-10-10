@@ -10,9 +10,12 @@ These battle bagpipes were carried by others before and are as potent as any swo
 This dumpy bag with gangly tubes is never the same. You may change pipes as needed for different tones, tunes, pitches and effects, and the instrument grows with you. Standard musical pipes are always available. Some run at the jarring sound, others march prouder into battle.
 }}
 
-To use effects of the Warpipes, you must use your _Action_ and proficiency in [bagpipes](https://www.dndbeyond.com/equipment/463-bagpipes) to play the instrument. You can also play them as simple bagpipes:
+These remain [bagpipes](https://www.dndbeyond.com/equipment/463-bagpipes). You may use them including:
 
 **Utilize:** Play a known tune (DC 10), or improvise a song (DC 15)
+
+Your DM decides which sets of magical pipes are found with your instrument. Your instrument always include one set of non-magical musical pipes. To use effects of the Warpipes, you must use your _Action_ to play them.
+
 
 #### Found Instrument
 
@@ -31,8 +34,6 @@ _**Risk of Overuse.**_ If you expend the instrument&rsquo;s last charge, roll a 
 | Rare | 5 | d6 | 6 | 15 | 7 |
 | Very Rare | 7 | d8 | 8 | 17 | 11 |
 
-Your DM decides which sets of pipes are found. Your instrument always include one set of non-magical musical pipes.
-
 #### Changing the Tune
 
 You can use a _Bonus Action_ to replace a set of pipes. A creature within 5 ft. can use their _Reaction_ to assist. That creatures gains _Advantage_ on _saving throw_ for any effects of the new pipes, and this feature does not spend your bonus action.
@@ -47,7 +48,7 @@ Spells are never upcast when played from your _Warpipes_. DC for magical effects
 
 #### Pipes from Lore
 
-Sets of pipes mentioned by scholars or spoken of by charlatans:
+You can fit your _Warpipes_ with numerous sets of magical pipes. Among the better known sets include the following. You may discover other sets in an ancient hoard, learn from an extraplanar source, or craft to your imagination.
 
 | Charges | Pipe Set |
 |:-:|--|
@@ -55,10 +56,12 @@ Sets of pipes mentioned by scholars or spoken of by charlatans:
 | 2 | _Good or Ill_, _Opening Notes_ |
 | 3 | _General Retreat_, _Pipes of Haste_, _Pipes of Slow_, _Shattering Pipes_ |
 | 4 | _Pipes of Pain_, _Tiring Tones_ |
+| 6 | _Final Notes_ |
 
-_**Final Notes.**_ 6 charges. Listeners hear _The Minstrel Boy_ with chaotic altered notes. Destruction ripples outward from you in a 30-foot _[Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect)_. Each creature within hearing makes a Constitution saving throw. On a failed save, a target takes 10d6 Thunder damage and has the _Unconscious_ condition. On a successful save, a target takes half as much damage only.
 
-You can continue playing up to 1 minute with _Concentration_ and no change to your location. While you continue playing in this fashion each target in range takes 2d6 Bludgeoning damage.
+_**Final Notes.**_ 6 charges. Listeners hear _The Minstrel Boy_ with chaotic altered notes. Destruction ripples outward from you in a 30-foot [Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect). Each creature of your choice within that area must make a Constitution saving throw. On a failed save, a target takes 10d6 Thunder damage and is _Stunned_ until the end of your next turn. On a successful save, a target takes half as much damage.
+
+For the next minute, you can use your action on each of your turns to continue the performance, provided you maintain _Concentration_. When you do so, at the start of each of your turns, each creature that failed its initial saving throw takes 2d6 Bludgeoning damage.
 
 _**General Retreat.**_ 3 charges. You play _The Black Bear_, a quick, urgent march. Choose a number of creatures you can see within 60 feet of you, up to your proficiency bonus. Each chosen creature can use its _Reaction_ to immediately move up to its speed without provoking opportunity attacks.
 
@@ -68,11 +71,11 @@ _**Good or Ill.**_ 2 charges. You play a steady drone with _Concentration_ until
 
 _**Heroic Tune.**_ 1 charge. You play a wistful tune to cast the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell.
 
+\page
+
 _**Opening Notes.**_ 2 charges. You play curious notes to cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
 _**Pipes of Bane.**_ 1 charge. You play a dour drone and harsh squeaks to cast the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell.
-
-\page
 
 _**Pipes of Blessing.**_ 1 charge. You play a simple drone and hopeful melody to cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell.
 
