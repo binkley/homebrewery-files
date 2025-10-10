@@ -1,6 +1,6 @@
 # Warpipes
 
-_Wondrous Item, varies (requires attunement by a creature proficient with bagpipes)_
+_Wondrous Item, varies (requires attunement by a creature proficient with Bagpipes)_
 
 These battle bagpipes were carried by others before and are as potent as any sword or bow or spell. Their lineage is as old as yours, and allies know to respect them or duck. Ever feared is the performer for braw or woe.
 
@@ -16,16 +16,20 @@ To use effects of the Warpipes, you must use your _Action_ and proficiency in [b
 
 #### Found Instrument
 
-The power the instrument depends on its rarity and the sets of pipes. Regain all expended charges after a _Long Rest_. 
+The power the instrument depends on its rarity and the sets of pipes used to play.
 
-You must be a **minimum character level** to attune to your instrument of war.
+_**Attunement.**_ _Warpipes_ require attunement. To attune you must be _proficient with Bagpipes_ and have a minimum character level determined by the instrument&rsquo;s rarity as shown in the table.
 
-| Rarity | Charges | Found Pipe Sets | Effect DC | Minimum Level |
-|:-:|:-:|:-:|:-:|:-:|
-| Common | 1 | 2 | 11 | 1 |
-| Uncommon | 3 | 4 | 13 | 3 |
-| Rare | 5 | 6 | 15 | 6 |
-| Very Rare | 7 | 8 | 17 | 11 |
+_**Charges.**_ The instrument has a maximum number of charges determined by its rarity. After you finish a _Long Rest_, it regains a number of expended charges as shown in the Recharge column of the table.
+
+_**Risk of Overuse.**_ If you expend the instrument&rsquo;s last charge, roll a d20. On a roll of 1, the _Warpipes_ play a final, sad tone and become a nonmagical instrument.
+
+| Rarity | Charges | Recharge | Found Pipes | Effect DC | Minimum Level |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Common | 1 | 1 | 2 | 11 | 1 |
+| Uncommon | 3 | d4 | 4 | 13 | 3 |
+| Rare | 5 | d6 | 6 | 15 | 7 |
+| Very Rare | 7 | d8 | 8 | 17 | 11 |
 
 Your DM decides which sets of pipes are found. Your instrument always include one set of non-magical musical pipes.
 
@@ -50,7 +54,11 @@ Sets of pipes mentioned by scholars or spoken of by charlatans:
 | 3 | _General Retreat_, _Pipes of Haste_, _Pipes of Slow_, _Shattering Pipes_ |
 | 4 | _Pipes of Pain_, _Tiring Tones_ |
 
-_**General Retreat.**_ 3 charges. You play a quick, urgent march. Choose a number of creatures you can see within 60 feet of you, up to your proficiency bonus. Each chosen creature can use its _Reaction_ to immediately move up to its speed without provoking opportunity attacks.
+_**Final Notes.**_ 6 charges. Listeners hear _The Minstrel Boy_ with chaotic altered notes. Destruction ripples outward from you in a 30-foot _[Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect)_. Each creature within hearing makes a Constitution saving throw. On a failed save, a target takes 10d6 Thunder damage and has the _Unconscious_ condition. On a successful save, a target takes half as much damage only.
+
+You can continue playing up to 1 minute with _Concentration_ and no change to your location. While you continue playing in this fashion each target in range takes 2d6 Bludgeoning damage.
+
+_**General Retreat.**_ 3 charges. You play _The Black Bear_, a quick, urgent march. Choose a number of creatures you can see within 60 feet of you, up to your proficiency bonus. Each chosen creature can use its _Reaction_ to immediately move up to its speed without provoking opportunity attacks.
 
 _**Giving the Thumb.**_ 1 charge. You play mocking notes to cast the [Vicious Mockery](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ViciousMockery) cantrip.
 
@@ -70,6 +78,8 @@ _**Pipes of Pain.**_ 4 charges. You play _The King Under the Water_. Towering to
 
 The sound of your performance can be heard up to 300 feet away.
 
+\page
+
 Each creature you choose in the Emanation can use a _[Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction)_ to cover their ears and throw themselves _Prone_ to take no damage.
 
 _**Pipes of Slow.**_ 3 charges. You play _Mist Under Mountain_, a languid melody to cast the [Slow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Slow) spell.
@@ -77,8 +87,6 @@ _**Pipes of Slow.**_ 3 charges. You play _Mist Under Mountain_, a languid melody
 _**Shattering Pipes.**_ 3 charges. You play _Men of Clay_ in shrill notes to cast the [Shatter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Shatter) spell.
 
 _**Tiring Tones.**_ 4 charges. You play _The Famous Tay Whale_. Choose one creature within 60 ft. That creature suffers 1 level of _[Exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition)_.
-
-\page
 
 ### Upgrading Your Instrument
 
