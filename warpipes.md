@@ -35,9 +35,16 @@ You can use a _Bonus Action_ to replace a set of pipes. A creature within 5 ft. 
 
 ### Pipes
 
-All sets of pipes require attaching and are exclusive to use. Your DM may provide more sets of pipes than those listed here. DC for magical effects depend on the rarity of your instrument. Effects are never upcast.
+All sets of pipes require attaching and are exclusive to use. Your DM may provide more sets of pipes than those listed here.
 
-\column
+Spells are never upcast when played from your _Warpipes_. DC for magical effects depend on the rarity of your instrument. If casting a spell with your pipes you must continuing playing to maintain _[Concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration)_.
+
+| Charges | Pipe Set |
+|:-:|--|
+| 1 | _Giving the Thumb_, _Heroic Tune_, _Pipes of Bane_, _Pipes of Blessing_ |
+| 2 | _Good or Ill_, _Opening Notes_ |
+| 3 | _General Retreat_, _Pipes of Haste_, _Pipes of Slow_, _Shattering Pipes_ |
+| 4 | _Pipes of Pain_, _Tiring Tones_ |
 
 _**General Retreat.**_ 3 charges. You play a quick, urgent march. Choose a number of creatures you can see within 60 feet of you, up to your proficiency bonus. Each chosen creature can use its _Reaction_ to immediately move up to its speed without provoking opportunity attacks.
 
@@ -45,29 +52,33 @@ _**Giving the Thumb.**_ 1 charge. You play mocking notes to cast the [Vicious Mo
 
 _**Good or Ill.**_ 2 charges. You play a steady drone with _Concentration_ until the start of your next turn. You can add or subtract d4 as a _Reaction_ to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined. If you use your _Reaction_ you stop playing.
 
-_**Heroic Tune.**_ 1 charge. You play a wistful tune for up to 1 minute with _Concentration_. This casts the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell.
+_**Heroic Tune.**_ 1 charge. You play a wistful tune to cast the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell.
 
 _**Opening Notes.**_ 2 charges. You play curious notes to cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
-_**Pipes of Bane.**_ 1 charge. You play a dour drone and harsh squeaks for up to 1 minute with _Concentration_. This casts the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell.
+_**Pipes of Bane.**_ 1 charge. You play a dour drone and harsh squeaks to cast the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell.
 
-_**Pipes of Blessing.**_ 1 charge. You play a simple drone and hopeful melody for up to 1 minute with _Concentration_. This casts the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell.
+_**Pipes of Blessing.**_ 1 charge. You play a simple drone and hopeful melody to cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell.
+
+_**Pipes of Haste.**_ 3 charges. You play a quick-time march to cast the [Haste](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Haste) spell.
 
 _**Pipes of Pain.**_ 4 charges. You play _The King Under the Water_. Towering tones ripple outward from you in a 30-foot _Emanation_. Each creature in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only.
 
 Each creature you choose in the Emanation can use a _Reaction_ to cover their ears and throw themselves _Prone_ to take no damage.
 
+_**Pipes of Slow.**_ 3 charges. You play a languid melody to cast the [Slow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Slow) spell.
+
 _**Shattering Pipes.**_ 3 charges. You play shrill notes to cast the [Shatter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Shatter) spell.
 
 _**Tiring Tones.**_ 4 charges. You play _The Famous Tay Whale_. Choose one creature within 60 ft. That creature suffers 1 level of _Exhaustion_.
+
+\page
 
 ### Upgrading Your Instrument
 
 Increasing the rarity of _Warpipes_ is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a _cleric&rsquo;s_ or _patron&rsquo;s_ blessing.
 
 You may not upgrade the rarity of your _Warpipes_ without approval by the DM.
-
-\page
 
 #### Time and Cost
 
