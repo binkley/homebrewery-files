@@ -35,7 +35,7 @@ You can use a _Bonus Action_ to replace a set of pipes. A creature within 5 ft. 
 
 ### Pipes
 
-All sets of pipes require attaching and are exclusive to use. Your DM may provide more sets of pipes than those listed here.
+All sets of pipes require attaching and are exclusive to use. **Your DM may provide more sets of pipes than those listed here.**
 
 Spells are never upcast when played from your _Warpipes_. DC for magical effects depend on the rarity of your instrument. If casting a spell with your pipes you must continuing playing to maintain _[Concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration)_.
 
