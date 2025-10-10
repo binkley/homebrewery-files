@@ -37,6 +37,8 @@ Your DM decides which sets of pipes are found. Your instrument always include on
 
 You can use a _Bonus Action_ to replace a set of pipes. A creature within 5 ft. can use their _Reaction_ to assist. That creatures gains _Advantage_ on _saving throw_ for any effects of the new pipes, and this feature does not spend your bonus action.
 
+\column
+
 ### Pipes
 
 All sets of pipes require attaching and are exclusive to use. **Your DM may provide more sets of pipes than those listed here.**
@@ -70,6 +72,8 @@ _**Opening Notes.**_ 2 charges. You play curious notes to cast the [Knock](https
 
 _**Pipes of Bane.**_ 1 charge. You play a dour drone and harsh squeaks to cast the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell.
 
+\page
+
 _**Pipes of Blessing.**_ 1 charge. You play a simple drone and hopeful melody to cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell.
 
 _**Pipes of Haste.**_ 3 charges. You play _Murdo's Wedding_, a quick-time march to cast the [Haste](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Haste) spell.
@@ -77,8 +81,6 @@ _**Pipes of Haste.**_ 3 charges. You play _Murdo's Wedding_, a quick-time march 
 _**Pipes of Pain.**_ 4 charges. You play _The King Under the Water_. Towering tones ripple outward from you in a 30-foot _[Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect)_. Each creature within hearing makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only. Those within 5 feet take an additional 1d6 Thunder damange without save.
 
 The sound of your performance can be heard up to 300 feet away.
-
-\page
 
 Each creature you choose in the Emanation can use a _[Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction)_ to cover their ears and throw themselves _Prone_ to take no damage.
 
@@ -125,6 +127,8 @@ _**Tailor.**_ Covering the Bag is a public face and protective layer. This artis
 _**Tinker.**_ Without this artisan and their precision, you may struggle to keep stocks airtight or the blowpipe valve from failing. And they may add their own magical touches.
 
 _**Woodcarver.**_ The instrument&rsquo;s heart is in the delicate reeds providing the distinctive character to your instrument. This is apparent in chanter, drones, and wooden sets of pipes. Rare woods like _Ironwood_ or a branch from a _Feywild_ tree may resonate better.
+
+\page
 
 ## Usage Rights
 
