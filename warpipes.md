@@ -91,7 +91,7 @@ _**Pipes of Slow.**_ 3 charges. You play _Mist Under Mountain_, a languid melody
 
 _**Shattering Pipes.**_ 3 charges. You play _Men of Clay_ in shrill notes to cast the [Shatter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Shatter) spell.
 
-_**Tiring Tones.**_ 4 charges. You play _The Famous Tay Whale_. Choose one creature within 60 ft. That creature suffers 1 level of _[Exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition)_.
+_**Tiring Tones.**_ 4 charges. You play _The Famous Tay Whale_. Choose one creature within 60 ft. That creature makes a Constitution saving throw. On a failed save, it suffers 1 level of _[Exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition)_. On a successful save, it suffers effects of the [Slow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Slow) spell until the end of your next turn.
 
 ### Upgrading Your Instrument
 
