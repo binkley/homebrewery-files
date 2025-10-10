@@ -39,6 +39,10 @@ All sets of pipes require attaching and are exclusive to use. **Your DM may prov
 
 Spells are never upcast when played from your _Warpipes_. DC for magical effects depend on the rarity of your instrument. If casting a spell with your pipes you must continuing playing to maintain _[Concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration)_.
 
+#### Pipes from Lore
+
+Sets of pipes mentioned by scholars or spoken of by charlatans:
+
 | Charges | Pipe Set |
 |:-:|--|
 | 1 | _Giving the Thumb_, _Heroic Tune_, _Pipes of Bane_, _Pipes of Blessing_ |
@@ -60,17 +64,19 @@ _**Pipes of Bane.**_ 1 charge. You play a dour drone and harsh squeaks to cast t
 
 _**Pipes of Blessing.**_ 1 charge. You play a simple drone and hopeful melody to cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell.
 
-_**Pipes of Haste.**_ 3 charges. You play a quick-time march to cast the [Haste](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Haste) spell.
+_**Pipes of Haste.**_ 3 charges. You play _Murdo's Wedding_, a quick-time march to cast the [Haste](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Haste) spell.
 
-_**Pipes of Pain.**_ 4 charges. You play _The King Under the Water_. Towering tones ripple outward from you in a 30-foot _Emanation_. Each creature in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only.
+_**Pipes of Pain.**_ 4 charges. You play _The King Under the Water_. Towering tones ripple outward from you in a 30-foot _[Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect)_. Each creature within hearing makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the _Prone_ condition. On a successful save, a target takes half as much damage only. Those within 5 feet take an additional 1d6 Thunder damange without save.
 
-Each creature you choose in the Emanation can use a _Reaction_ to cover their ears and throw themselves _Prone_ to take no damage.
+The sound of your performance can be heard up to 300 feet away.
 
-_**Pipes of Slow.**_ 3 charges. You play a languid melody to cast the [Slow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Slow) spell.
+Each creature you choose in the Emanation can use a _[Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction)_ to cover their ears and throw themselves _Prone_ to take no damage.
 
-_**Shattering Pipes.**_ 3 charges. You play shrill notes to cast the [Shatter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Shatter) spell.
+_**Pipes of Slow.**_ 3 charges. You play _Mist Under Mountain_, a languid melody to cast the [Slow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Slow) spell.
 
-_**Tiring Tones.**_ 4 charges. You play _The Famous Tay Whale_. Choose one creature within 60 ft. That creature suffers 1 level of _Exhaustion_.
+_**Shattering Pipes.**_ 3 charges. You play _Men of Clay_ in shrill notes to cast the [Shatter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Shatter) spell.
+
+_**Tiring Tones.**_ 4 charges. You play _The Famous Tay Whale_. Choose one creature within 60 ft. That creature suffers 1 level of _[Exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition)_.
 
 \page
 
