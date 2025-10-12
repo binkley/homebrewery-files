@@ -14,12 +14,11 @@ These remain [bagpipes](https://www.dndbeyond.com/equipment/463-bagpipes). You m
 
 Your DM decides which sets of magical pipes are found with your instrument. Your instrument always include one set of non-magical musical pipes. To use effects of the Warpipes, you must use your _Action_ to play them.
 
-
 #### Found Instrument
 
 The power the instrument depends on its rarity and the sets of pipes used to play.
 
-_**Attunement.**_ _Warpipes_ require attunement. To attune you must be _proficient with Bagpipes_ and have a minimum character level determined by the instrument&rsquo;s rarity as shown in the table.
+_**Attunement.**_ _Warpipes_ require [Attunement](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Attunement). To attune you must be _proficient with Bagpipes_ and have a minimum character level determined by the instrument&rsquo;s rarity as shown in the table.
 
 _**Charges.**_ The instrument has a maximum number of charges determined by its rarity. After you finish a _Long Rest_, it regains a number of expended charges as shown in the Recharge column of the table.
 
@@ -34,7 +33,7 @@ _**Risk of Overuse.**_ If you expend the instrument&rsquo;s last charge, roll a 
 
 #### Changing the Tune
 
-You can use a _Bonus Action_ to replace a set of pipes. A creature within 5 ft. can use their _Reaction_ to assist. That creatures gains _Advantage_ on _saving throw_ for any effects of the new pipes, and this feature does not spend your bonus action.
+You can use a [Bonus Action](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#BonusAction) to replace a set of pipes. A creature within 5 ft. can use their [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to assist. That creatures gains [Advantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Advantage) on the first [saving throw](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SavingThrow) for any effects of the new pipes, and this feature does not spend your bonus action.
 
 ### Pipes
 
@@ -42,7 +41,7 @@ Sets of pipes require attaching one at a time for use. **Your DM may provide mor
 
 \column
 
-Spells are never upcast when played from your _Warpipes_. DC for magical effects depend on the rarity of your instrument. If casting a spell with your pipes you must continuing playing to maintain _[Concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration)_.
+Spells are never upcast when played from your _Warpipes_. DC for magical effects depend on the rarity of your instrument. If a spell cast with pipes requires [Concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration), you must continue playing those pipes to maintain it. The spell ends if you stop playing for any reason.
 
 #### Famous Pipes
 
@@ -51,14 +50,14 @@ You can fit your _Warpipes_ with numerous sets of magical pipes. Among the bette
 | Charges | Pipe Set |
 |:-:|--|
 | 1 | _Giving the Thumb_, _Heroic Tune_, _Pipes of Bane_, _Pipes of Blessing_ |
-| 2 | _Good or Ill_, _Opening Notes_, _Shattering Pipes_ |
-| 3 | _General Retreat_, _Pipes of Blame_, _Pipes of Haste_, _Pipes of Slow_ |
-| 4 | _Tiring Tones_ |
+| 2 | _Opening Notes_, _Piper&rsquo;s Choice_, _Shattering Pipes_ |
+| 3 | _General Retreat_, _Pipes of Haste_, _Pipes of Slow_ |
+| 4 | _Pipes of Confusion_, _Tiring Tones_ |
 | 5 | _Pipes of Pain_ |
 | 6 | _Final Notes_ |
 
 
-_**Final Notes**_ (6 charges). Listeners hear _The Minstrel Boy_ with chaotic altered notes. Destruction ripples outward from you in a 30-foot [Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect). Each creature of your choice within that area must make a Constitution saving throw. On a failed save, a target takes 10d6 Thunder damage and is _Stunned_ until the end of your next turn. On a successful save, a target takes half as much damage.
+_**Final Notes**_ (6 charges). You play _The Minstrel Boy_ with chaotic altered notes. Destruction ripples outward from you in a 30-foot [Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect). Each creature of your choice within that area must make a Constitution saving throw. On a failed save, a target takes 10d6 Thunder damage and is _Stunned_ until the end of your next turn. On a successful save, a target takes half as much damage.
 
 For the next minute, you can use your action on each of your turns to continue the performance, provided you maintain _Concentration_. When you do so, at the start of each of your turns, each creature that failed its initial saving throw takes 2d6 Bludgeoning damage.
 
@@ -66,25 +65,25 @@ _**General Retreat**_ (3 charges). You play _The Black Bear_, a quick, urgent ma
 
 _**Giving the Thumb**_ (1 charge). You play mocking notes to cast the [Vicious Mockery](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ViciousMockery) cantrip.
 
-_**Good or Ill**_ (2 charges). You play a steady drone with _Concentration_ until the start of your next turn. You can add or subtract d4 as a _Reaction_ to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined. If you use your _Reaction_ you stop playing.
-
 _**Heroic Tune**_ (1 charge). You play a wistful tune to cast the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell.
 
 _**Opening Notes**_ (2 charges). You play curious notes to cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
-_**Pipes of Bane**_ (1 charge). You play a dour drone and harsh squeaks to cast the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell.
+_**Piper&rsquo; Choice**_ (2 charges). You play a steady drone with _Concentration_ until the start of your next turn. You can add or subtract d4 as a [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined. If you use your _Reaction_ you stop playing.
 
 \page
 
-_**Pipes of Blame**_ (3 charges). You play awkward, dissonant notes to cast the [Confusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Confusion) spell. The spell&rsquo;s does not require _Concentration_ and effects on a creature&rsquo;s failed saving throw lasts only until the end of that creature&rsquo;s next turn.
+_**Pipes of Bane**_ (1 charge). You play a dour drone and harsh squeaks to cast the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell.
 
 _**Pipes of Blessing**_ (1 charge). You play a simple drone and hopeful melody to cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell.
+
+_**Pipes of Confusion**_ (4 charges). You play _Johnny Cope_ with awkward, dissonant notes to cast the [Confusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Confusion) spell.
 
 _**Pipes of Haste**_ (3 charges). You play _Murdo's Wedding_, a quick-time march to cast the [Haste](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Haste) spell.
 
 _**Pipes of Pain.**_ (5 Charges). You play _The King Under the Water_, unleashing a maddening skirl that fills a 60-foot [Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect) from you. Each creature of your choice in that area must make a Wisdom saving throw. An allied creature that can see you can use its [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to drop to the ground and cover its ears; the creature falls [Prone](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ProneCondition), is [Deafened](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DeafenedCondition) until the start of your next turn, and automatically succeeds on its saving throw.
 
-- **On a failed save**, a creature takes 6d6 Thunder damage and is wracked with confusion for up to 1 minute. While confused in this way, the creature must subtract a d6 from its attack rolls and ability checks. The creature can repeat its saving throw at the end of each of its turns, ending the effect on itself with a success.
+- **On a failed save**, a creature takes 6d6 Thunder damage and is wracked with confusion for up to 1 minute. While confused in this way, the creature must subtract a d6 from its attack rolls and ability checks. The creature can repeat its saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 - **On a successful save**, a creature takes half as much damage.
 
