@@ -33,7 +33,7 @@ _**Risk of Overuse.**_ If you expend the instrument&rsquo;s last charge, roll a 
 
 #### Changing the Tune
 
-You can use a [Bonus Action](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#BonusAction) to replace a set of pipes. A creature within 5 ft. can use their [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to assist. That creatures gains [Advantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Advantage) on the first [saving throw](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SavingThrow) for any effects of the new pipes, and this feature does not spend your bonus action.
+You can use a [Bonus Action](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#BonusAction) to replace a set of pipes. A creature within 5 ft. can use their [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to assist. If assisted, you do not expend your bonus action, and that creature gains [Advantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Advantage) on the first [saving throw](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SavingThrow) it makes against the new pipes&rsquo; effects before the end of your next turn.
 
 ### Pipes
 
@@ -41,7 +41,7 @@ Sets of pipes require attaching one at a time for use. **Your DM may provide mor
 
 \column
 
-Spells are never upcast when played from your _Warpipes_. DC for magical effects depend on the rarity of your instrument. If a spell cast with pipes requires [Concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration), you must continue playing those pipes to maintain it. The spell ends if you stop playing for any reason.
+A spell is always cast at its lowest level when played from your instrument. DC for magical effects depend on the rarity of your instrument. If a spell cast with pipes requires [Concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration), you must continue playing those pipes to maintain it. The spell ends if you stop playing those pipes for any reason.
 
 #### Famous Pipes
 
@@ -69,7 +69,7 @@ _**Heroic Tune**_ (1 charge). You play a wistful tune to cast the [Heroism](http
 
 _**Opening Notes**_ (2 charges). You play curious notes to cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
 
-_**Piper&rsquo; Choice**_ (2 charges). You play a steady drone with _Concentration_ until the start of your next turn. You can add or subtract d4 as a [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined. If you use your _Reaction_ you stop playing.
+_**Piper&rsquo;s Choice**_ (2 charges). You play a steady drone with _Concentration_ until the start of your next turn. You can add or subtract d4 as a [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined. If you use your _Reaction_ you stop playing.
 
 \page
 
