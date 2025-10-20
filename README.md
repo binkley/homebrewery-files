@@ -62,12 +62,15 @@
 Beyond](https://www.dndbeyond.com/magic-items/10629318-investigators-case) or
   [Homebrewery](https://homebrewery.naturalcrit.com/share/tnytpgwJZEfV)
   for online rendering.
+- [_Mephistopheles and the Delerium
+  Crucible_](./mephistopheles-and-the-delerium-crucible.md) &mdash; a Warlock
+  patron and effects from a delerium addiction
 - [_Peasant Greatflail_](./peasant-greatflail.md) &mdash; A _simple_
   two-handed version of the martial
   [flail](https://en.wikipedia.org/wiki/Flail).
   See [D&amp;D
   Beyond](https://www.dndbeyond.com/magic-items/10557376-peasant-greatflail)
-  and [Homebrewery](https://homebrewery.naturalcrit.com/share/HmP6sGXemkeF) for
+  or [Homebrewery](https://homebrewery.naturalcrit.com/share/HmP6sGXemkeF) for
   online rendering.
 - [_Scribe&rsquo;s Supplies_](./scribes-supplies.md) &mdash; An improved
   and magical version of _Calligrapher&rsquo;s Supplies_.
@@ -75,6 +78,12 @@ Beyond](https://www.dndbeyond.com/magic-items/10629318-investigators-case) or
   Beyond](https://www.dndbeyond.com/magic-items/10515219-scribes-supplies) or
   [Homebrewery](https://homebrewery.naturalcrit.com/share/js0JPW4UlOyw) for
   online rendering.
+- [_War Mattock of Mining_](./war-mattock-of-mining.md) &mdash; a _War Pick_
+  with spells for working the earth.
+  See [D&amp;D
+  Beyond](https://www.dndbeyond.com/magic-items/10739575-war-mattock-of-mining)
+  or [Homebrewery](https://homebrewery.naturalcrit.com/share/VxNAYhIx63js)
+  for online rendering.
 - [_Warpipes_](./warpipes.md) &mdash; Dangerous _bagpipes_.
   See [Homebrewery](https://homebrewery.naturalcrit.com/share/3h1RupfckdPY)
   for online rendering.
