@@ -78,6 +78,8 @@ Beyond](https://www.dndbeyond.com/magic-items/10629318-investigators-case) or
   Beyond](https://www.dndbeyond.com/magic-items/10515219-scribes-supplies) or
   [Homebrewery](https://homebrewery.naturalcrit.com/share/js0JPW4UlOyw) for
   online rendering.
+- [_Tucker&rsquo;s Kobolds_](./tuckers-kobolds.md) &mdash; A one-shot
+  adventure for higher-level characters.
 - [_War Mattock of Mining_](./war-mattock-of-mining.md) &mdash; a _War Pick_
   with spells for working the earth.
   See [D&amp;D
