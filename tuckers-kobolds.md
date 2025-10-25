@@ -92,7 +92,9 @@ Creatures in murder holes make ranged attacks with homemade weapons shooting jet
 
 Hung across the passage ahead is a heavy dark tarp. It muffles sound edges are affixed to the walls and floor.
 
-There is no trap here, it is a distraction, however an opportunity for kobolds to setup an ambush or provide an additional trap just behond.
+There is no trap here, it is a distraction. This gives the Kobolds an opportunity to ambush from behind or ahead.
+
+If a creature collects the tarp, it weighs 30 lbs. and is otherwise dark and ordinary.
 
 #### Magic Marker
 
