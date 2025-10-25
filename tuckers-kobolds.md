@@ -63,7 +63,7 @@ Traps are throughout the dungeon. A typical trap can be spotted with a DC 15 _In
 
 #### Always With Fire
 
-A spill of hidden [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) douses you. Make a DC 15 DEX check to avoid being covered.
+A spill of hidden [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) douses you. Make a DC 19 Dexterity check to avoid being covered.
 
 #### Deep Pit
 
@@ -85,6 +85,8 @@ This is a sophisticated, two-layer trap designed to sow confusion and waste the 
 The ceiling collapses. Make a DC 15 Dexterity saving throw to avoid 4d10 damage. It will take 30 minutes to clear the passage. Investigation does not reveal a new passage.
 
 #### Flame-thrower
+
+Creatures in murder holes make ranged attacks with homemade weapons shooting jets of fire similar to the [Fire Bolt](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FireBolt) spell. In addition to any objects [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) ignites.
 
 #### Harmless Tarp
 
@@ -126,6 +128,8 @@ The character is teleported back to the cave entrance and see a heavy metal door
 #### Too Easy
 
 The 20-foot passage ahead is covered by [Ball Bearings](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#BallBearings1GP), [Caltrops](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Caltrops1GP) or glistening [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
+
+Any creature that moves with their _Walking_ speed through Oil is "doused" for 1 turn after leaving the area.
 
 #### Treacherous Deep Pit
 
