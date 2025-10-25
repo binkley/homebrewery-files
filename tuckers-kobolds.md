@@ -127,7 +127,7 @@ The character is teleported back to the cave entrance and see a heavy metal door
 
 The 20-foot passage ahead is covered by [Ball Bearings](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#BallBearings1GP), [Caltrops](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Caltrops1GP) or glistening [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
 
-#### Trecherous Deep Pit
+#### Treacherous Deep Pit
 
 In addition to a _Deep Pit_ there is a creature at the bottom. Roll 1d6 for the creature:
 
