@@ -1,18 +1,16 @@
 # Tucker&rsquo;s Kobolds
 
-A one-shot dungeon for higher-level characters based on the famous _Tucker&rsquo;s Kobolds_ from [_Dragon 127_](https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf). This was used as a popular tournament dungeon, and here updated for D&amp;D 5e.
-
-<br/>
+A one-shot _Dungeon Crawl_ for powerful characters based on the famous _Tucker&rsquo;s Kobolds_ from [_Dragon 127_](https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf), a popular tournament dungeon and updated for D&amp;D 5e.
 
 {note}
-The party prepares for a "big boss" encounter only to find _death by 1,000 cuts_ from Kobolds. Your goal is to make adventuring miserable for a party of high-level characters, and to negate their "super" powers. The underdog (Kobolds) usually wins with guile and cunning.
+The party prepares for a "big boss" encounter only to find _Death by 1,000 cuts_ from puny Kobolds. Make adventuring miserable for a party of powerful characters and negate their &ldquo;super powers&rdquo;. The underdog wins by preparation, tactics, guile and cunning.
 {note}
 
 ### DM Goals
 
 **Your goal**: _Kill the characters though your monsters are vastly outmatched_.
 
-In direct 1-on-1 combat a character should always win. But you don&rsquo;t plan to lose. Make heavy use of traps, mob tactics, mobility, and positioning and control to see the field yielded to your monsters against a powerful party.
+In direct 1-on-1 combat a character should always win. But you don&rsquo;t plan to lose. Make heavy use of traps, mob tactics, mobility, and positioning and control yield the field to your monsters against a powerful party.
 
 Make the party retreat while screaming: _Oh no, here come the Kobolds again!_
 
@@ -40,17 +38,30 @@ Players should create or use higher-level but not end-game characters: levels 10
 
 ### Travel
 
-There is one main passage kept in poor, rough-going condition; everything else is a maze of tunnels. Travel is [Difficult Terrain](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DifficultTerrain) at best. Even the main passage turns every 30' or less blocking view. The main passage is 10' by 10' high and wide and tunnels are 3' by 3'.
+There is one main passage kept in poor, rough-going condition, covered in slimes and oozes and mixed debris; everything else is a maze of tunnels. Travel is [Difficult Terrain](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DifficultTerrain) at best. Even the main passage turns every 30' or less blocking view. The main passage is 10' by 10' high and wide and tunnels are 3' by 3'.
 
 A _Small_ creature can move through tunnels by [crawling](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Crawling). A _Medium_ or larger creature cannot enter at all. In addition while crawling a creature is [prone](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ProneCondition).
 
 ### Constant Danger
 
-Even the main passage is not safe. Clearly visible murder holes line the walls and ceilings, some just small cracks and others fist-sized openings. Kobolds harry characters by firing ranged weapons or dropping or hurling [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
+Even the main passage is not safe. Clearly visible murder holes line the walls and ceilings, some just small cracks and others fist-sized openings. Kobolds attack characters with ranged weapons or dropping or hurling [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
+
+The DM can take advantage of murder holes to harry characters while they are focused on traps.
 
 _**Behind the Holes:**_ A creature firing from a murder hole has three-quarters [cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover) (+5 to AC and DEX saves), can fire on at any target in a cone starting from their position, and does not have _Disadvantage_ if a target is adjacent. Attacks into the hole are at _Disadvantage_.
 
 _**Into the Tunnels:**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foot-by-3-foot sniper&rsquo;s nest, which connects to a network of small unlit tunnels.
+
+### Balancing the Challenges
+
+Dangers and traps are throughout the dungeon. A character actively searching can spot them with an Intelligence (Investigation) check or may discover them with a Wisdom (Perception) check. Scale the DC of checks and saving throws to your group. For a 12th-level party:
+
+- _**Mundane Checks (DC 19):**_ Use DC 19 for checks to spot physical traps (like a pit or false wall).
+- _**Magical Checks (DC 23):**_ Use DC 23 for checks to spot magical traps (like a Glyph of Warding).
+- _**Mundane Saves (DC 19):**_ Use DC 19 for saving throws against physical traps (like _Falling Rocks_ or _Oil_).
+- _**Magical Saves (DC 17):**_ Use DC 17 for saving throws against magical traps or spells (like _Start Again_ or the spells from _Magic Marker_).
+
+The DM should judge as play evolves, and depending on party composition and level, raise or lower DC by 1 or 2 or not at all.
 
 {{pageNumber 1}}
 {{footnote The Setting}}
@@ -59,36 +70,45 @@ _**Into the Tunnels:**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foo
 
 ## Example Traps
 
-Traps are throughout the dungeon. A typical trap can be spotted with a DC 15 _Investigation_ check if the player is actively checking or a passive _Perception_ check.
+#### Always with Fire
+_(Rating: 3/10; Role: Setup)_
 
-#### Always With Fire
-
-A spill of hidden [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) douses you. Make a DC 19 Dexterity check to avoid being covered.
+Hidden spills of [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) pour from above within 10', and oil pours from murder holes onto the floor 30' in both directions.
 
 #### Deep Pit
+_(Rating: 8/10; Role: Attrition)_
 
-The pit is 30 feet deep and covered at bottom in spikes. A falling creature takes 3d6 bludgeoning damage and 2d10 piercing damage. The spikes are coated in [carrion crawler mucus](https://www.dndbeyond.com/equipment/555-carrion-crawler-mucus). The opening is 5' by 5' and the bottom is 10' by 10'.
+The pit is 30' deep and covered at bottom in spikes. A falling creature takes 3d6 bludgeoning damage and 2d10 piercing damage without save. The spikes are coated in [Carrion Crawler Mucus](https://www.dndbeyond.com/equipment/555-carrion-crawler-mucus). The opening is 5' by 5' and the bottom is 10' by 10'.
 
-When a creature falls into the pit, a [net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling into the pit over the creature. Make a 15 DC Dexterity check to avoid being [restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition) for 1 round.
+When a creature falls into the pit, a [Net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling. The creature uses the 15 DC Dexterity check of _Net_ to avoid being [restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition) for 1 round.
 
 #### Fake Dead End
+_(Rating: 4/10; Role: Psychological)_
 
-Ahead, the passage comes to a dead end. The stonework looks partially finished and incomplete, with loose stones and rubble piled in the corners.
+Ahead, the passage comes to a dead end. The stonework looks partially finished and incomplete, with loose stones and rubble piled in the corners. There is both:
 
-This is a sophisticated, two-layer trap designed to sow confusion and waste the party&rsquo;s time and resources:
-
-- An actual false wall.
-- An illusion of the same wall overlaid on top.
+- An actual false wall (AC 15, 15 HP, Damage Threshold 10).
+- An illusion of the same wall overlaid on top. Dispeling or disbelieving the illusion reveals no visual change.
 
 #### Falling Rocks
+_(Rating: 8/10; Role: Attrition)_
 
-The ceiling collapses. Make a DC 15 Dexterity saving throw to avoid 4d10 damage. It will take 30 minutes to clear the passage. Investigation does not reveal a new passage.
+The ceiling collapses for 20' in either direction. No new passages are revealed. Each creature in the area must make a **Mundane Dexterity saving throw**.
+
+* **On a failed save:** A creature takes 55 (10d10) bludgeoning damage, is knocked **Prone**, and is **buried**.
+* **On a successful save:** A creature takes half as much damage only but is still prone and on top of the rubble.
+
+A **buried** creature is **Restrained** and has **Total Cover**. As an action, a buried creature can try to crawl out by making a **Mundane Strength (Athletics) check**. If the check fails, the creature remains buried and gains 1 **Exhaustion** level.
+
+A creature can spend 1 minute freeing another buried creature. Clearing the debris for passage takes **30 minutes** of work.
 
 #### Flame-thrower
+_(Rating: 4/10; Role: Payoff)_
 
-Creatures in murder holes make ranged attacks with homemade weapons shooting jets of fire similar to the [Fire Bolt](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FireBolt) spell. In addition to any objects [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) ignites.
+Kobolds range attack from murder holes with homemade weapons shooting jets of fire similar to the [Fire Bolt](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FireBolt) spell. Any [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) on creatures or objects ignites.
 
 #### Harmless Tarp
+_(Rating: 2/10; Role: Psychological)_
 
 Hung across the passage ahead is a heavy dark tarp. It muffles sound edges are affixed to the walls and floor.
 
@@ -97,8 +117,9 @@ There is no trap here, it is a distraction. This gives the Kobolds an opportunit
 If a creature collects the tarp, it weighs 30 lbs. and is otherwise dark and ordinary.
 
 #### Magic Marker
+_(Rating: 8/10; Role: Attrition)_
 
-A [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) is hard to notice. Make a DC 17 Intelligence (Investigation) or Wisdom (Perception) check to find the trap. The trap triggers when any character is within 5 feet. Kobolds range attack from their murder holes. If a Kobold is affected by a spell from the glyph, it retreats.
+A [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) is hard to notice. The trap triggers when any character is within 5'. Kobolds range attack from their murder holes. If a Kobold is affected by a spell from the glyph, it retreats.
 
 Roll 1d12 for the spell stored in the glyph:
 
@@ -118,22 +139,34 @@ Roll 1d12 for the spell stored in the glyph:
 | 12 | Roll twice ignoring this or a previous result. There are two glyphs and each is a separate spell casting. |
 
 #### No Magic
+_(Rating: 10/10; Role: Deadly)_
 
-You trigger a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) that casts an enhanced [Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic). Within 10 feet all spells or spell effects end. Casters lose _Concentration_. Magic items are non-magical for 10 minutes. You can detect this glyph with a DC 15 _Perception_ check.
+You trigger a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) that casts an enhanced [Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic). Within 10' all spells or spell effects end. Casters lose _Concentration_. Magic items are non-magical for 10 minutes.
 
-#### Summonng
+#### Summoning
+_(Rating: 8/10; Role: Attrition or Psychological)_
+
+At the DM&rsquo;s discretion a _Glyph of Warding_ contains an upcast spell to summon one or more creatures of the DM&rsquo;s choice or cast [Programmed Illusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProgrammedIllusion) of them.
 
 #### Start Again
+_(Rating: 9/10; Role: Split Party)_
 
 The character is teleported back to the cave entrance and see a heavy metal door barring reentry as they arrive.
 
 #### Too Easy
+_(Rating: 3/10; Role: Setup)_
 
 The 20-foot passage ahead is covered by [Ball Bearings](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#BallBearings1GP), [Caltrops](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Caltrops1GP) or glistening [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
 
 Any creature that moves with their _Walking_ speed through Oil is "doused" for 1 turn after leaving the area.
 
+{{pageNumber 2}}
+{{footnote The Hazards}}
+
+\page
+
 #### Treacherous Deep Pit
+_(Rating: 9/10; Role: Deadly)_
 
 In addition to a _Deep Pit_ there is a creature at the bottom. Roll 1d6 for the creature:
 
@@ -147,10 +180,11 @@ In addition to a _Deep Pit_ there is a creature at the bottom. Roll 1d6 for the 
 | 6 | Roll twice ignoring this result. |
 
 #### Wet
+_(Rating: 1/10; Role: Setup)_
 
-Within 10 feet any creature and their posssessions are drentched. Non-magical light sources are extinguished and cannot be relit while wet. Creatures and items dry out after 10 minutes. While wet a character or item is at disadvantage for cold or lightning damage.
+Within 10' any creature and their posssessions are drentched. Non-magical light sources are extinguished and cannot be relit while wet. Creatures and items dry out after 10 minutes. While wet a character or item is at disadvantage for cold or lightning damage.
 
-{{pageNumber 2}}
+{{pageNumber 3}}
 {{footnote The Hazards}}
 
 \page
