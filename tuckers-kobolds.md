@@ -3,38 +3,45 @@
 A one-shot _Dungeon Crawl_ for powerful characters based on the famous _Tucker&rsquo;s Kobolds_ from [_Dragon 127_](https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf), a popular tournament dungeon and updated for D&amp;D 5e.
 
 {note}
-The party prepares for a "big boss" encounter only to find _Death by 1,000 cuts_ from puny Kobolds. Make adventuring miserable for a party of powerful characters and negate their &ldquo;super powers&rdquo;. The underdog wins by preparation, tactics, guile and cunning.
+The party prepares for a "big boss" encounter only to find _Death by 1,000 cuts_ from puny Kobolds. Make adventuring miserable for powerful characters. The underdog wins by preparation, tactics, guile and cunning.
 {note}
 
 ### DM Goals
 
 **Your goal**: _Kill the characters though your monsters are vastly outmatched_.
 
-In direct 1-on-1 combat a character should always win. But you don&rsquo;t plan to lose. Make heavy use of traps, mob tactics, mobility, and positioning and control yield the field to your monsters against a powerful party.
-
 Make the party retreat while screaming: _Oh no, here come the Kobolds again!_
 
 ### DM Strategy
 
-Monsters employ cunning and rely heavily on traps. They are skirmishers and avoid direct combat. Example tactics include:
+Characters should win direct 1-on-1 combat. But you don&rsquo;t plan to lose. Heavy use of traps, hidden positions, mob tactics, and draining the characters yield the field to your monsters against a powerful party. The Kobolds are skirmishers and tacticians:
 
-- Traps or tactics that split the character party.
-- Lean into character checks that are weak at higher-levels.
-- "Hide and seek" tactics of firing ranged weapons from tunnels or murder holes, and denying a clear target for characters to attack.
-- Summoning other suitable monsters to waste character time while the Kobolds regroup.
-- Reliance on fire or poison for trap or weapon damange with frequent DC checks until some fail.
+- Split the character party.
+- Drain party resources to waste powerful actions.
+- Offer false choices.
+- Use "hide and seek" tactics from murder holes.
+- Force frequent DC checks that eventually fail.
+- Plant stronger monsters effectively.
 
 Players will spend turns to use _Perception_ or _Investigation_ checks, or cast the unhelpful [Find Traps](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FindTraps) spell. Pepper them with ranged damage from inaccessible murder holes to encourage progress.
 
 ### Hook the Characters
 
-A prominent local NPC provides an excuse for the party to defeat a "big boss" in a cave system (possibly nearby), and to recover "the item" (a MacGuffin). Explain that the locals need help from your great (high-level) party, and suggest a reward suitably enticing for the party level.
+_**The Ruse.**_ Provide a suitable story hook that a party of powerful characters would undertake a _Dungeon Crawl_.
 
-The NPC mentions in pasing that there may be weak creatures in the caves&mdash;no challenge for a party of this callibre&mdash;on the way to accomplish their goal. Play down the challenge of these "trash mobs" on the way to the goal.
+Emphasize a &ldquo;big bad boss&rdquo;, &ldquo;powerful magics&rdquo;, a &ldquo;tribe of unstoppable raiders&rdquo; and so on. Encourage player focus to single or high-level targets. Examples include:
+
+- The Mayor&rsquo;s child was kidnapped nearby.
+- The _MacGuffin_ was carried into nearby caves.
+- Evil near stirs and threatens our livelihood.
+- The Rebel and his forces hole up just over there.
+- Foul unnatural smells come from those caves.
 
 ### Powerful Characters
 
 Players should create or use higher-level but not end-game characters: levels 10-13 is good level range. Use the opening hook to encourage single-target attacks, nova damage, strong spell casters, so on.
+
+Adjust the DC of traps or choices of monsters to suit the overall party level.
 
 ### Travel
 
@@ -48,9 +55,9 @@ Even the main passage is not safe. Clearly visible murder holes line the walls a
 
 The DM can take advantage of murder holes to harry characters while they are focused on traps.
 
-_**Behind the Holes:**_ A creature firing from a murder hole has three-quarters [cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover) (+5 to AC and DEX saves), can fire on at any target in a cone starting from their position, and does not have _Disadvantage_ if a target is adjacent. Attacks into the hole are at _Disadvantage_.
+_**Behind the Holes.**_ Kobolds fire from murder holes and have three-quarters [Cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover). They can fire on at any target in a cone starting from their position, and do not have _Disadvantage_ when a target is adjacent. Attacks into a murder hole are at _Disadvantage_.
 
-_**Into the Tunnels:**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foot-by-3-foot sniper&rsquo;s nest, which connects to a network of small unlit tunnels.
+_**Into the Tunnels.**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foot-by-3-foot sniper&rsquo;s nest, which connects to a network of small unlit tunnels.
 
 ### Balancing the Challenges
 
@@ -153,17 +160,28 @@ _(Rating: 9/10; Role: Split Party)_
 
 The character is teleported back to the cave entrance and see a heavy metal door barring reentry as they arrive.
 
+{{pageNumber 2}}
+{{footnote Traps and Hazards}}
+
+\page
+
+#### Three-way Failure
+_(Rating: 5/10; Role: Setup)_
+
+The main passage splits into 3 choices. Each alternative passage contains more traps and opportunities for Kobolds to harry the party.
+
+- **Left Choice.** The passage continues levelly 20' into a sharp turn left.
+- **Center Choice.** The passage continues downwards for 60' before curving right.
+- **Right Choice.** The passage continues upwards 20' into a sharp turn right.
+
+All choices lead to a _Fake Dead End_ trap. The DM chooses which continues, and which are true dead ends.
+
 #### Too Easy
 _(Rating: 3/10; Role: Setup)_
 
 The 20-foot passage ahead is covered by [Ball Bearings](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#BallBearings1GP), [Caltrops](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Caltrops1GP) or glistening [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
 
 Any creature that moves with their _Walking_ speed through Oil is "doused" for 1 turn after leaving the area.
-
-{{pageNumber 2}}
-{{footnote The Hazards}}
-
-\page
 
 #### Treacherous Deep Pit
 _(Rating: 9/10; Role: Deadly)_
@@ -185,7 +203,7 @@ _(Rating: 1/10; Role: Setup)_
 Within 10' any creature and their possessions are drenched. Non-magical light sources are extinguished and cannot be relit while wet. Creatures and items dry out after 10 minutes. While wet a character or item is at disadvantage for cold or lightning damage.
 
 {{pageNumber 3}}
-{{footnote The Hazards}}
+{{footnote Traps and Hazards}}
 
 \page
 
@@ -195,5 +213,5 @@ Brian Oxley Homebrewery &copy; 2025 Brian Oxley &mdash; Contents licensed under 
 
 This work references game terms and spells from the [System Reference Document 5.2 (SRD)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.
 
-{{pageNumber 3}}
+{{pageNumber 4}}
 {{footnote Usage Rights}}
