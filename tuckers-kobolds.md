@@ -61,14 +61,14 @@ _**Into the Tunnels.**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foo
 
 ### Balancing the Challenges
 
-Dangers and traps are throughout the dungeon. A character actively searching can spot them with an Intelligence (Investigation) check or may discover them with a Wisdom (Perception) check. Scale the DC of checks and saving throws to your group. For a 12th-level party:
+Dangers and traps are throughout the dungeon and may be more challenging than expected. Specific items or circumstances may have their own DC checks and saving throws. Active searching can locate a trap or hazard with an Intelligence (Investigation) or Wisdom (Perception) check.
 
 - _**Mundane Checks (DC 19):**_ Use DC 19 for checks to spot physical traps (like a pit or false wall).
 - _**Magical Checks (DC 23):**_ Use DC 23 for checks to spot magical traps (like a Glyph of Warding).
 - _**Mundane Saves (DC 19):**_ Use DC 19 for saving throws against physical traps (like _Falling Rocks_ or _Oil_).
 - _**Magical Saves (DC 17):**_ Use DC 17 for saving throws against magical traps or spells (like _Start Again_ or the spells from _Magic Marker_).
 
-The DM should judge as play evolves, and depending on party composition and level, raise or lower DC by 1 or 2 or not at all.
+The DM can raise or lower skill and saving throw DCs based on party composition and levels and as play evolves.
 
 {{pageNumber 1}}
 {{footnote The Setting}}
@@ -80,7 +80,7 @@ The DM should judge as play evolves, and depending on party composition and leve
 #### Always with Fire
 _(Rating: 3/10; Role: Setup)_
 
-Hidden spills of [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) pour from above within 10', and oil pours from murder holes onto the floor 30' in both directions.
+Hidden spills of [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) pour from above within 10', and oil pours from murder holes onto the floor 30' in both directions. Each creature in range must make a **Mundane Dexterity saving throw** to avoid dousing from above.
 
 #### Cruel Cultivation
 
@@ -99,12 +99,14 @@ Roll 1d8:
 | 7 | [Yellow Mold](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#YellowMold) |
 | 8 | Roll twice ignoring this or a previous result. There are two hazards. |
 
+**Tougher Challenge.** These hazards are more potent. Replace any saving throw DC in the hazard&rsquo;s description with the appropriate DC from the **Balancing the Challenges** section.
+
 #### Deep Pit
 _(Rating: 8/10; Role: Attrition)_
 
 The pit is 30' deep and covered at bottom in spikes. A falling creature takes 3d6 bludgeoning damage and 2d10 piercing damage without save. The spikes are coated in [Carrion Crawler Mucus](https://www.dndbeyond.com/equipment/555-carrion-crawler-mucus). The opening is 5' by 5' and the bottom is 10' by 10'.
 
-When a creature falls into the pit, a [Net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling. The creature uses the 15 DC Dexterity check of _Net_ to avoid being [restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition) for 1 round.
+When a creature falls into the pit, a [Net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling. The creature must make a **Mundane Dexterity saving throw** to avoid being restrained by the net.
 
 #### Fake Dead End
 _(Rating: 4/10; Role: Psychological)_
@@ -113,6 +115,8 @@ Ahead, the passage comes to a dead end. The stonework looks partially finished a
 
 - An actual false wall (AC 15, 15 HP, Damage Threshold 10).
 - An illusion of the same wall overlaid on top. Dispeling or disbelieving the illusion reveals no visual change.
+
+Breaking down the false wall takes 10 minutes and echoes loudly on both sides.
 
 #### Falling Rocks
 _(Rating: 8/10; Role: Attrition)_
@@ -162,15 +166,15 @@ Roll 1d12 for the spell stored in the glyph:
 | 11 | [Web](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Web)
 | 12 | Roll twice ignoring this or a previous result. There are two glyphs and each is a separate spell casting. |
 
-#### No Magic
-_(Rating: 10/10; Role: Deadly)_
-
-You trigger a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) that casts an enhanced [Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic). Within 10' all spells or spell effects end. Casters lose _Concentration_. Magic items are non-magical for 10 minutes.
-
 {{pageNumber 2}}
 {{footnote Traps and Hazards}}
 
 \page
+
+#### No Magic
+_(Rating: 10/10; Role: Deadly)_
+
+You trigger a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) that casts an enhanced [Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic). Within 10' all spells or spell effects end. Casters lose _Concentration_. Magic items are non-magical for 10 minutes.
 
 #### Summoning
 _(Rating: 8/10; Role: Attrition or Psychological)_
@@ -194,30 +198,30 @@ The main passage splits into 3 choices. Each alternative passage contains more t
 All choices lead to a _Fake Dead End_ trap. The DM chooses which continues, and which are true dead ends.
 
 #### Too Easy
-_(Rating: 3/10; Role: Setup)_
+_(Rating: 2/10; Role: Setup)_
 
 The 20-foot passage ahead is covered by [Ball Bearings](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#BallBearings1GP), [Caltrops](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Caltrops1GP) or glistening [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
-
-Any creature that moves with their _Walking_ speed through Oil is "doused" for 1 turn after leaving the area.
 
 #### Treacherous Deep Pit
 _(Rating: 9/10; Role: Deadly)_
 
-In addition to a _Deep Pit_ there is a creature at the bottom. Roll 1d6 for the creature:
+In addition to a _Deep Pit_ there is a creature at the bottom. Roll 1d8 for the creature:
 
 | Roll | Monster |
 |:--:|:--|
-| 1 | [Black Pudding](https://www.dndbeyond.com/monsters/5194925-black-pudding) |
-| 2 | [Cloaker](https://www.dndbeyond.com/monsters/5194946-cloaker) |
-| 3 | [Gelatinous Cube](https://www.dndbeyond.com/monsters/5195005-gelatinous-cube) |
-| 4 | [Mimic](https://www.dndbeyond.com/monsters/5195123-mimic) appearing as spikes |
-| 5 | [Rust Monster](https://www.dndbeyond.com/monsters/5195186-rust-monster) |
-| 6 | Roll twice ignoring this result. |
+| 1 | [Black Pudding](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#BlackPudding) |
+| 2 | [Cloaker](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#Cloaker) |
+| 3 | [Gelatinous Cube](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#GelatinousCube) |
+| 4 | [Gray Oooze](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#GrayOoze) |
+| 5 | [Mimic](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#Mimic) appearing as spikes |
+| 6 | [Rust Monster](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#RustMonster) |
+| 7 | [Trapper](https://www.dndbeyond.com/monsters/2560944-trapper) |
+| 8 | Roll twice ignoring this result. |
 
 #### Wet
 _(Rating: 1/10; Role: Setup)_
 
-Within 10' any creature and their possessions are drenched. Non-magical light sources are extinguished and cannot be relit while wet. Creatures and items dry out after 10 minutes. While wet a character or item is at disadvantage for cold or lightning damage.
+Within 10' any creature and their possessions are drenched. Non-magical light sources are extinguished and cannot be relit while wet. Creatures and items dry out after 10 minutes. While wet a character or item is at _Disadvantage_ for cold or lightning damage.
 
 {{pageNumber 3}}
 {{footnote Traps and Hazards}}
@@ -235,7 +239,7 @@ Murder holes work with a generic Kobold and they avoid face-to-face combat. A me
 - [Adeptus](https://www.dndbeyond.com/monsters/4485909-kobold-adeptus) (from _Flee, Mortals!_)
 - [Alchemist](https://www.dndbeyond.com/monsters/4340106-kobold-alchemist) (from _Tome of Beasts 1_)
 - [Centurion](https://www.dndbeyond.com/monsters/4485911-kobold-centurion) (from _Flee, Mortals!_)
-- [Chieftan](https://www.dndbeyond.com/monsters/4340107-kobold-chieftain) (from Tome of Beasts 1_) &mdash; not the big boss but a group leader
+- [Chieftan](https://www.dndbeyond.com/monsters/4340107-kobold-chieftain) (from _Tome of Beasts 1_)
 - [Commoner](https://www.dndbeyond.com/monsters/288128-kobold-commoner) (from _Tales from the Yawning Portal_)
 - [Dragonshield](https://www.dndbeyond.com/monsters/2560855-kobold-dragonshield) (from 2024 _MM_)
 - [Inventor](https://www.dndbeyond.com/monsters/2560856-kobold-inventor) (from _Mordenkainen Presents: Monsters of the Multiverse_)
@@ -248,22 +252,26 @@ Murder holes work with a generic Kobold and they avoid face-to-face combat. A me
 - [Underling](https://www.dndbeyond.com/monsters/744321-kobold-underling) (from _Explorer&rsquo;s Guide to Wildemount_)
 - [Veles](https://www.dndbeyond.com/monsters/4485915-kobold-veles) (from _Flee, Mortals!_)
 - [Venator](https://www.dndbeyond.com/monsters/4485916-kobold-venator) (from _Flee, Mortals!_)
-- [Warrior](https://www.dndbeyond.com/monsters/5195096-kobold-warrior) (from 2024 _MM_)
+- [Warrior](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#KoboldWarrior) &mdash; the common Kobold
 - [Winged](https://www.dndbeyond.com/monsters/5195271-winged-kobold) (from 2024 _MM_)
+
+\column
 
 ### Trap and Hazard Monsters
 
 Many types of monsters can appear with a trap or hazard including:
 
-- [Black Pudding](https://www.dndbeyond.com/monsters/5194925-black-pudding) (from 2024 _DMG_)
+- [Black Pudding](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#BlackPudding)
 - [Brown Fungus](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#BrownMold) (from 2024 _DMG_)
-- [Cloaker](https://www.dndbeyond.com/monsters/5194946-cloaker)
+- [Cloaker](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#Cloaker)
 - [Fireball Fungus](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#FireballFungus) (from 2024 _DMG_)
-- [Gelatinous Cube](https://www.dndbeyond.com/monsters/5195005-gelatinous-cube)
+- [Gelatinous Cube](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#GelatinousCube)
+- [Gray Ooze](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#GrayOoze)
 - [Green Slime](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#GreenSlime) (from 2024 _DMG_)
-- [Mimic](https://www.dndbeyond.com/monsters/5195123-mimic)
+- [Mimic](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#Mimic)
 - [Razorvine](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Razorvine) (from 2024 _DMG_)
-- [Rust Monster](https://www.dndbeyond.com/monsters/5195186-rust-monster)
+- [Rust Monster](https://www.dndbeyond.com/sources/dnd/br-2024/creature-stat-blocks#RustMonster)
+- [Trapper](https://www.dndbeyond.com/monsters/2560944-trapper) (from _Mordenkainen Presents: Monsters of the Multiverse_)
 - [Vicious Vine](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#ViciousVine) (from 2024 _DMG_)
 - [Yellow Mold](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#YellowMold) (from 2024 _DMG_)
 
