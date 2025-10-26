@@ -82,6 +82,23 @@ _(Rating: 3/10; Role: Setup)_
 
 Hidden spills of [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) pour from above within 10', and oil pours from murder holes onto the floor 30' in both directions.
 
+#### Cruel Cultivation
+
+The Kobolds cultivate various hazards.
+
+Roll 1d6:
+
+| Roll | Hazard |
+|:--:|:--|
+| 1 | [Brown Fungus](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#BrownMold) |
+| 2 | [Fireball Fungus](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#FireballFungus) |
+| 3 | [Green Slime](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#GreenSlime) |
+| 4 | [Razorvine](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Razorvine) |
+| 5 | [Vicious Vine](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#ViciousVine) |
+| 6 | [Webs](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Webs) |
+| 7 | [Yellow Mold](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#YellowMold) |
+| 8 | Roll twice ignoring this or a previous result. There are two hazards. |
+
 #### Deep Pit
 _(Rating: 8/10; Role: Attrition)_
 
@@ -150,6 +167,11 @@ _(Rating: 10/10; Role: Deadly)_
 
 You trigger a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) that casts an enhanced [Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic). Within 10' all spells or spell effects end. Casters lose _Concentration_. Magic items are non-magical for 10 minutes.
 
+{{pageNumber 2}}
+{{footnote Traps and Hazards}}
+
+\page
+
 #### Summoning
 _(Rating: 8/10; Role: Attrition or Psychological)_
 
@@ -159,11 +181,6 @@ At the DM&rsquo;s discretion a _Glyph of Warding_ contains an upcast spell to su
 _(Rating: 9/10; Role: Split Party)_
 
 The character is teleported back to the cave entrance and see a heavy metal door barring reentry as they arrive.
-
-{{pageNumber 2}}
-{{footnote Traps and Hazards}}
-
-\page
 
 #### Three-way Failure
 _(Rating: 5/10; Role: Setup)_
@@ -207,11 +224,59 @@ Within 10' any creature and their possessions are drenched. Non-magical light so
 
 \page
 
+## Monsters
+
+Choice of monsters is DM&rsquo;s discretion. 
+
+### Harrying Kobolds
+
+Murder holes work with a generic Kobold and they avoid face-to-face combat. A menu of Kobold options:
+
+- [Adeptus](https://www.dndbeyond.com/monsters/4485909-kobold-adeptus) (from _Flee, Mortals!_)
+- [Alchemist](https://www.dndbeyond.com/monsters/4340106-kobold-alchemist) (from _Tome of Beasts 1_)
+- [Centurion](https://www.dndbeyond.com/monsters/4485911-kobold-centurion) (from _Flee, Mortals!_)
+- [Chieftan](https://www.dndbeyond.com/monsters/4340107-kobold-chieftain) (from Tome of Beasts 1_) &mdash; not the big boss but a group leader
+- [Commoner](https://www.dndbeyond.com/monsters/288128-kobold-commoner) (from _Tales from the Yawning Portal_)
+- [Dragonshield](https://www.dndbeyond.com/monsters/2560855-kobold-dragonshield) (from 2024 _MM_)
+- [Inventor](https://www.dndbeyond.com/monsters/2560856-kobold-inventor) (from _Mordenkainen Presents: Monsters of the Multiverse_)
+- [Legionary](https://www.dndbeyond.com/monsters/4485912-kobold-legionary) (from _Flee, Mortals!_)
+- [Scale Sorcerer](https://www.dndbeyond.com/monsters/2560857-kobold-scale-sorcerer) (from _Mordenkainen Presents: Monsters of the Multiverse_)
+- [Signifier](https://www.dndbeyond.com/monsters/4485913-kobold-signifer) (from _Flee, Mortals!_)
+- [Tinkerer](https://www.dndbeyond.com/monsters/2953450-kobold-tinkerer) (from Dragons of Stormwreck Isle_)
+- [Tiro](https://www.dndbeyond.com/monsters/4485914-kobold-tiro)  (from _Flee, Mortals!_)
+- [Trapsmith](https://www.dndbeyond.com/monsters/4340108-kobold-trapsmith) (from Tome of Beasts 1_)
+- [Underling](https://www.dndbeyond.com/monsters/744321-kobold-underling) (from _Explorer&rsquo;s Guide to Wildemount_)
+- [Veles](https://www.dndbeyond.com/monsters/4485915-kobold-veles) (from _Flee, Mortals!_)
+- [Venator](https://www.dndbeyond.com/monsters/4485916-kobold-venator) (from _Flee, Mortals!_)
+- [Warrior](https://www.dndbeyond.com/monsters/5195096-kobold-warrior) (from 2024 _MM_)
+- [Winged](https://www.dndbeyond.com/monsters/5195271-winged-kobold) (from 2024 _MM_)
+
+### Trap and Hazard Monsters
+
+Many types of monsters can appear with a trap or hazard including:
+
+- [Black Pudding](https://www.dndbeyond.com/monsters/5194925-black-pudding) (from 2024 _DMG_)
+- [Brown Fungus](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#BrownMold) (from 2024 _DMG_)
+- [Cloaker](https://www.dndbeyond.com/monsters/5194946-cloaker)
+- [Fireball Fungus](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#FireballFungus) (from 2024 _DMG_)
+- [Gelatinous Cube](https://www.dndbeyond.com/monsters/5195005-gelatinous-cube)
+- [Green Slime](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#GreenSlime) (from 2024 _DMG_)
+- [Mimic](https://www.dndbeyond.com/monsters/5195123-mimic)
+- [Razorvine](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#Razorvine) (from 2024 _DMG_)
+- [Rust Monster](https://www.dndbeyond.com/monsters/5195186-rust-monster)
+- [Vicious Vine](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#ViciousVine) (from 2024 _DMG_)
+- [Yellow Mold](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#YellowMold) (from 2024 _DMG_)
+
+{{pageNumber 4}}
+{{footnote Monsters}}
+
+\page
+
 ## Usage Rights
 
 Brian Oxley Homebrewery &copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this work in your campaigns and free projects. For commercial use, please contact the author.
 
 This work references game terms and spells from the [System Reference Document 5.2 (SRD)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.
 
-{{pageNumber 4}}
+{{pageNumber 5}}
 {{footnote Usage Rights}}
