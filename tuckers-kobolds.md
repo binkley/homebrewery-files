@@ -86,7 +86,7 @@ Hidden spills of [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#O
 
 The Kobolds cultivate various hazards.
 
-Roll 1d6:
+Roll 1d8:
 
 | Roll | Hazard |
 |:--:|:--|
