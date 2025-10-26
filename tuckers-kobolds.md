@@ -182,7 +182,7 @@ In addition to a _Deep Pit_ there is a creature at the bottom. Roll 1d6 for the 
 #### Wet
 _(Rating: 1/10; Role: Setup)_
 
-Within 10' any creature and their posssessions are drentched. Non-magical light sources are extinguished and cannot be relit while wet. Creatures and items dry out after 10 minutes. While wet a character or item is at disadvantage for cold or lightning damage.
+Within 10' any creature and their possessions are drenched. Non-magical light sources are extinguished and cannot be relit while wet. Creatures and items dry out after 10 minutes. While wet a character or item is at disadvantage for cold or lightning damage.
 
 {{pageNumber 3}}
 {{footnote The Hazards}}
