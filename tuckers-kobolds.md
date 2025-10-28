@@ -16,7 +16,7 @@ Make the party retreat while screaming: _Oh no, here come the Kobolds again!_
 
 Characters should win direct 1-on-1 combat. But you don&rsquo;t plan to lose. Heavy use of traps, hidden positions, mob tactics, and draining the characters yield the field to your monsters against a powerful party. The Kobolds are skirmishers and tacticians:
 
-- Split the character party.
+- Split the party.
 - Drain party resources to waste powerful actions.
 - Offer false choices.
 - Use "hide and seek" tactics from murder holes.
@@ -61,7 +61,7 @@ _**Into the Tunnels.**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foo
 
 ### Balancing the Challenges
 
-Dangers and traps are throughout the dungeon and may be more challenging than expected. Specific items or circumstances may have their own DC checks and saving throws. Active searching can locate a trap or hazard with an Intelligence (Investigation) or Wisdom (Perception) check.
+Dangers and traps are throughout the dungeon and may be more challenging than expected. Active searching can locate a trap or hazard with an Intelligence (Investigation) or Wisdom (Perception) check.
 
 - _**Mundane Checks (DC 19):**_ Use DC 19 for checks to spot physical traps (like a pit or false wall).
 - _**Magical Checks (DC 23):**_ Use DC 23 for checks to spot magical traps (like a Glyph of Warding).
@@ -77,12 +77,15 @@ The DM can raise or lower skill and saving throw DCs based on party composition 
 
 ## Example Traps
 
+Traps come with &ldquo;Rating&rdquo; and &ldquo;Role&rdquo; tags. _Rating_ gives a sense of challenge; _Role_ is a suggestion when and where to use a trap in the dungeon crawl.
+
 #### Always with Fire
 _(Rating: 3/10; Role: Setup)_
 
 Hidden spills of [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) pour from above within 10', and oil pours from murder holes onto the floor 30' in both directions. Each creature in range must make a **Mundane Dexterity saving throw** to avoid dousing from above.
 
 #### Cruel Cultivation
+_(Rating: 7/10; Role: Attrition)_
 
 The Kobolds cultivate various hazards.
 
@@ -107,6 +110,8 @@ _(Rating: 8/10; Role: Attrition)_
 The pit is 30' deep and covered at bottom in spikes. A falling creature takes 3d6 bludgeoning damage and 2d10 piercing damage without save. The spikes are coated in [Carrion Crawler Mucus](https://www.dndbeyond.com/equipment/555-carrion-crawler-mucus). The opening is 5' by 5' and the bottom is 10' by 10'.
 
 When a creature falls into the pit, a [Net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling. The creature must make a **Mundane Dexterity saving throw** to avoid being restrained by the net.
+
+\column
 
 #### Fake Dead End
 _(Rating: 4/10; Role: Psychological)_
@@ -144,6 +149,11 @@ There is no trap here, it is a distraction. This gives the Kobolds an opportunit
 
 If a creature collects the tarp, it weighs 30 lbs. and is otherwise dark and ordinary.
 
+{{pageNumber 2}}
+{{footnote Traps and Hazards}}
+
+\page
+
 #### Magic Marker
 _(Rating: 8/10; Role: Attrition)_
 
@@ -166,11 +176,6 @@ Roll 1d12 for the spell stored in the glyph:
 | 11 | [Web](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Web)
 | 12 | Roll twice ignoring this or a previous result. There are two glyphs and each is a separate spell casting. |
 
-{{pageNumber 2}}
-{{footnote Traps and Hazards}}
-
-\page
-
 #### No Magic
 _(Rating: 10/10; Role: Deadly)_
 
@@ -187,7 +192,7 @@ _(Rating: 9/10; Role: Split Party)_
 The character is teleported back to the cave entrance and see a heavy metal door barring reentry as they arrive.
 
 #### Three-way Failure
-_(Rating: 5/10; Role: Setup)_
+_(Rating: 7/10; Role: Setup)_
 
 The main passage splits into 3 choices. Each alternative passage contains more traps and opportunities for Kobolds to harry the party.
 
@@ -196,6 +201,8 @@ The main passage splits into 3 choices. Each alternative passage contains more t
 - **Right Choice.** The passage continues upwards 20' into a sharp turn right.
 
 All choices lead to a _Fake Dead End_ trap. The DM chooses which continues, and which are true dead ends.
+
+\column
 
 #### Too Easy
 _(Rating: 2/10; Role: Setup)_
@@ -228,7 +235,7 @@ Within 10' any creature and their possessions are drenched. Non-magical light so
 
 \page
 
-## Monsters
+## Appendix: Monsters
 
 Choice of monsters is DM&rsquo;s discretion. 
 
