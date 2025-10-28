@@ -57,7 +57,7 @@ Take advantage of murder holes to harry characters when characters focus on trap
 
 _**Behind the Holes.**_ Kobolds fire from murder holes and have three-quarters [cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover). They can fire at any target in a cone starting from their position (3 targets adjacent in the main 10' passage, 5 targets opposite). Ranged attacks from a murder hole do not have [Disadvantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Disadvantage) when targeting an adjacent creature, and attacks into a murder hole are at [Disadvantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Disadvantage).
 
-_**Into the Tunnels.**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foot-by-3-foot sniper&rsquo;s nest, which connects to a network of small unlit tunnels.
+_**Into the Tunnels.**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foot-by-3-foot sniper&rsquo;s nest which connects to a network of small unlit tunnels.
 
 ### Balancing the Challenges
 
@@ -155,7 +155,7 @@ If a creature collects the tarp, it weighs 30 lbs. and is otherwise dark and ord
 \page
 
 #### Magic Marker
-_(Rating: 8/10; Role: Attrition)_
+_(Rating: 8/10; Role: Attrition and Deadly)_
 
 A [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) is hard to notice. The trap triggers when any character is within 5'. Kobolds range attack from their murder holes. If a Kobold is affected by a spell from the glyph, it retreats.
 
@@ -187,12 +187,12 @@ _(Rating: 8/10; Role: Attrition or Psychological)_
 At the DM&rsquo;s discretion a _Glyph of Warding_ contains an upcast spell to summon one or more creatures of the DM&rsquo;s choice or cast [Programmed Illusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProgrammedIllusion) of them.
 
 #### Start Again
-_(Rating: 9/10; Role: Split Party)_
+_(Rating: 9/10; Role: Split the Party)_
 
 The character is teleported back to the cave entrance and see a heavy metal door barring reentry as they arrive.
 
 #### Three-way Failure
-_(Rating: 7/10; Role: Setup)_
+_(Rating: 7/10; Role: Attrition, Setup, and Split the Party)_
 
 The main passage splits into 3 choices. Each alternative passage contains more traps and opportunities for Kobolds to harry the party.
 
@@ -205,7 +205,7 @@ All choices lead to a _Fake Dead End_ trap. The DM chooses which continues, and 
 \column
 
 #### Too Easy
-_(Rating: 2/10; Role: Setup)_
+_(Rating: 2/10; Role: Attrition and Setup)_
 
 The 20-foot passage ahead is covered by [Ball Bearings](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#BallBearings1GP), [Caltrops](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Caltrops1GP) or glistening [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
 
