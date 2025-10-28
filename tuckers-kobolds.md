@@ -53,9 +53,9 @@ A _Small_ creature can move through tunnels by [crawling](https://www.dndbeyond.
 
 Even the main passage is not safe. Clearly visible murder holes line the walls and ceilings, some just small cracks and others fist-sized openings. Kobolds attack characters with ranged weapons or dropping or hurling [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP).
 
-The DM can take advantage of murder holes to harry characters while they are focused on traps.
+Take advantage of murder holes to harry characters when characters focus on traps.
 
-_**Behind the Holes.**_ Kobolds fire from murder holes and have three-quarters [Cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover). They can fire on at any target in a cone starting from their position, and do not have _Disadvantage_ when a target is adjacent. Attacks into a murder hole are at _Disadvantage_.
+_**Behind the Holes.**_ Kobolds fire from murder holes and have three-quarters [cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover). They can fire at any target in a cone starting from their position (3 targets adjacent in the main 10' passage, 5 targets opposite). Ranged attacks from a murder hole do not have [Disadvantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Disadvantage) when targeting an adjacent creature, and attacks into a murder hole are at [Disadvantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Disadvantage).
 
 _**Into the Tunnels.**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foot-by-3-foot sniper&rsquo;s nest, which connects to a network of small unlit tunnels.
 
@@ -109,7 +109,7 @@ _(Rating: 8/10; Role: Attrition)_
 
 The pit is 30' deep and covered at bottom in spikes. A falling creature takes 3d6 bludgeoning damage and 2d10 piercing damage without save. The spikes are coated in [Carrion Crawler Mucus](https://www.dndbeyond.com/equipment/555-carrion-crawler-mucus). The opening is 5' by 5' and the bottom is 10' by 10'.
 
-When a creature falls into the pit, a [Net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling. The creature must make a **Mundane Dexterity saving throw** to avoid being restrained by the net.
+When a creature falls into the pit, a [Net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling. The creature must make a **Mundane Dexterity saving throw** to avoid being [restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition) by the net.
 
 \column
 
@@ -118,7 +118,7 @@ _(Rating: 4/10; Role: Psychological)_
 
 Ahead, the passage comes to a dead end. The stonework looks partially finished and incomplete, with loose stones and rubble piled in the corners. There is both:
 
-- An actual false wall (AC 15, 15 HP, Damage Threshold 10).
+- An actual false wall (AC 15, 15 HP, [Damage Threshold](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DamageThreshold) 10).
 - An illusion of the same wall overlaid on top. Dispeling or disbelieving the illusion reveals no visual change.
 
 Breaking down the false wall takes 10 minutes and echoes loudly on both sides.
@@ -128,10 +128,10 @@ _(Rating: 8/10; Role: Attrition)_
 
 The ceiling collapses for 20' in either direction. No new passages are revealed. Each creature in the area must make a **Mundane Dexterity saving throw**.
 
-* **On a failed save:** A creature takes 55 (10d10) bludgeoning damage, is knocked **Prone**, and is **buried**.
-* **On a successful save:** A creature takes half as much damage only but is still prone and on top of the rubble.
+* **On a failed save:** A creature takes 55 (10d10) bludgeoning damage, is knocked **[prone](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ProneCondition)**, and is **buried**.
+* **On a successful save:** A creature takes half as much damage only but is still **[prone](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ProneCondition)** and on top of the rubble.
 
-A **buried** creature is **Restrained** and has **Total Cover**. As an action, a buried creature can try to crawl out by making a **Mundane Strength (Athletics) check**. If the check fails, the creature remains buried and gains 1 **Exhaustion** level.
+A **buried** creature is **[restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition)** and has **[Total Cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover)**. As an action, a buried creature can try to crawl out by making a **Mundane Strength (Athletics) check**. If the check fails, the creature remains buried and gains 1 **[exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition)** level.
 
 A creature can spend 1 minute freeing another buried creature. Clearing the debris for passage takes **30 minutes** of work.
 
@@ -179,7 +179,7 @@ Roll 1d12 for the spell stored in the glyph:
 #### No Magic
 _(Rating: 10/10; Role: Deadly)_
 
-You trigger a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) that casts an enhanced [Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic). Within 10' all spells or spell effects end. Casters lose _Concentration_. Magic items are non-magical for 10 minutes.
+You trigger a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) that casts an enhanced [Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic). Within 10' all spells or spell effects end. Casters lose [concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration). Magic items are non-magical for 10 minutes.
 
 #### Summoning
 _(Rating: 8/10; Role: Attrition or Psychological)_
