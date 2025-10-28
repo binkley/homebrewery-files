@@ -17,13 +17,13 @@ Make the party retreat while screaming: _Oh no, here come the Kobolds again!_
 Characters should win direct 1-on-1 combat. But you don&rsquo;t plan to lose. Heavy use of traps, hidden positions, mob tactics, and draining the characters yield the field to your monsters against a powerful party. The Kobolds are skirmishers and tacticians:
 
 - Split the party.
-- Drain party resources to waste powerful actions.
+- Drain character resources to waste powerful actions.
 - Offer false choices.
 - Use "hide and seek" tactics from murder holes.
 - Force frequent DC checks that eventually fail.
 - Plant stronger monsters effectively.
 
-Players will spend turns to use _Perception_ or _Investigation_ checks, or cast the unhelpful [Find Traps](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FindTraps) spell. Pepper them with ranged damage from inaccessible murder holes to encourage progress.
+Players will spend turns to use _Perception_ or _Investigation_ checks, or cast the unhelpful [Find Traps](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FindTraps) spell. Pepper them with ranged damage from inaccessible positions to encourage moving on.
 
 ### Hook the Characters
 
