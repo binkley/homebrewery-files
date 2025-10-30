@@ -10,7 +10,7 @@ The thick hickory haft of this heavy mattock is topped by a dangerous head of da
 
 A war mattock is similar to a [war pick](https://www.dndbeyond.com/equipment/32-war-pick) and better suited for surface work. Using this item as a weapon requires proficiency in _War Pick_ and can always be used as a mundane work item.
 
-You can cast the [Earth Tremor](https://www.dndbeyond.com/spells/2378-earth-tremor) or [Mold Earth](https://www.dndbeyond.com/spells/2394-mold-earth) spells with this mattock as a magic action. This weapon has 2 charges, which you can expend to cast spells from it. It regains all expended charges when you finish a Long Rest.
+You can cast the [Earth Tremor](https://www.dndbeyond.com/spells/2378-earth-tremor) or [Mold Earth](https://www.dndbeyond.com/spells/2394-mold-earth) spells with this mattock as a magic action. This weapon has 2 charges, which you can expend to cast spells from it. It regains all expended charges when you finish a [Long Rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest).
 
 {note}
 Both _Earth Tremor_ and _Mold Earth_ spells are from other published works and
