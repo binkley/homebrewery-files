@@ -1,6 +1,6 @@
 # Tucker&rsquo;s Kobolds
 
-A one-shot _Dungeon Crawl_ for powerful characters based on the famous _Tucker&rsquo;s Kobolds_ from [_Dragon 127_](https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf), a popular tournament dungeon and updated for D&amp;D 5e.
+A one-shot _Dungeon Crawl_ for powerful characters based on the famous _Tucker&rsquo;s Kobolds_ from [_Dragon 127_](https://media.wizards.com/2014/downloads/dnd/TuckersKobolds.pdf), a popular tournament dungeon updated for D&amp;D 5e.
 
 {note}
 The party prepares for a "big boss" encounter only to find _Death by 1,000 cuts_ from puny Kobolds. Make adventuring miserable for powerful characters. The underdog wins by preparation, tactics, guile and cunning.
@@ -8,9 +8,7 @@ The party prepares for a "big boss" encounter only to find _Death by 1,000 cuts_
 
 ### DM Goals
 
-**Your goal**: _Kill the characters though your monsters are vastly outmatched_.
-
-Make the party retreat while screaming: _Oh no, here come the Kobolds again!_
+**Your goal**: _Kill the characters though your monsters are vastly outmatched_. Make the party retreat while screaming: _Oh no, here come the Kobolds again!_
 
 ### DM Strategy
 
