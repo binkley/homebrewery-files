@@ -189,6 +189,13 @@ _(Rating: 9/10; Role: Split the Party)_
 
 The character is teleported back to the cave entrance and see a heavy metal door barring reentry as they arrive.
 
+#### Stink Bomb
+_(Rating: 6/10; Role: Attrition)_
+
+From a murder hole a Kobold tosses among you a rotted object that emits [Stinking Cloud](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#StinkingCloud). They immediately fire into the yellow cloud with _Disadvantage_ hoping to hit a [Poisoned](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#PoisonedCondition) character to add injury to insult.
+
+\column
+
 #### Three-way Failure
 _(Rating: 7/10; Role: Attrition, Setup, and Split the Party)_
 
@@ -199,8 +206,6 @@ The main passage splits into 3 choices. Each alternative passage contains more t
 - **Right Choice.** The passage continues upwards 20' into a sharp turn right.
 
 All choices lead to a _Fake Dead End_ trap. The DM chooses which continues, and which are true dead ends.
-
-\column
 
 #### Too Easy
 _(Rating: 2/10; Role: Attrition and Setup)_
@@ -227,6 +232,8 @@ In addition to a _Deep Pit_ there is a creature at the bottom. Roll 1d8 for the 
 _(Rating: 1/10; Role: Setup)_
 
 Within 10' any creature and their possessions are drenched. Non-magical light sources are extinguished and cannot be relit while wet. Creatures and items dry out after 10 minutes. While wet a character or item is at _Disadvantage_ for cold or lightning damage.
+
+A spell such as [Continual Flame](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ContinualFlame) continues to burn. Kobolds see you from murder holes in darkness or not.
 
 {{pageNumber 3}}
 {{footnote Traps and Hazards}}
