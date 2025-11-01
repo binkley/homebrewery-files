@@ -61,12 +61,12 @@ _**Into the Tunnels.**_ Breaking through a wall (AC 15, 30 HP) reveals the 3-foo
 
 Dangers and traps are throughout the dungeon and may be more challenging than expected. Active searching can locate a trap or hazard with an Intelligence (Investigation) or Wisdom (Perception) check.
 
-- _**Mundane Checks (DC 19):**_ Use DC 19 for checks to spot physical traps (like a pit or false wall).
-- _**Magical Checks (DC 23):**_ Use DC 23 for checks to spot magical traps (like a Glyph of Warding).
-- _**Mundane Saves (DC 19):**_ Use DC 19 for saving throws against physical traps (like _Falling Rocks_ or _Oil_).
-- _**Magical Saves (DC 17):**_ Use DC 17 for saving throws against magical traps or spells (like _Start Again_ or the spells from _Magic Marker_).
+- _**Mundane Checks (DC 19):**_ Use DC 19 for checks to spot physical traps (such as a pit or false wall).
+- _**Magical Checks (DC 23):**_ Use DC 23 for checks to spot magical traps (such as a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding)).
+- _**Mundane Saves (DC 19):**_ Use DC 19 for saving throws against physical traps (such as _Falling Rocks_ or _Oil_).
+- _**Magical Saves (DC 17):**_ Use DC 17 for saving throws against magical traps or spells (such as _Start Again_ or the spells from _Magic Marker_).
 
-The DM can raise or lower skill and saving throw DCs based on party composition and levels and as play evolves.
+The DM can raise or lower check and saving throw DCs based on party composition and levels and as play evolves, and choose what skills can apply.
 
 {{pageNumber 1}}
 {{footnote The Setting}}
@@ -80,7 +80,12 @@ Traps come with &ldquo;Rating&rdquo; and &ldquo;Role&rdquo; tags. _Rating_ gives
 #### Always with Fire
 _(Rating: 3/10; Role: Setup)_
 
-Hidden spills of [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) pour from above within 10', and oil pours from murder holes onto the floor 30' in both directions. Each creature in range must make a **Mundane Dexterity saving throw** to avoid dousing from above.
+Hidden spills of [Oil](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Oil1SP) pour from above within 10', and oil pours from murder holes onto the floor 30' in both directions. Each creature in range must make a **Mundane Save** (Dexterity) to avoid dousing from above.
+
+#### Breakup
+_(Rating: 9/10; Role: Deadly, and Split the Party)_
+
+A _Glyph of Warding_ explodes. Characters failing a **Magical Save** (Wisdom) are teleported up to 120' along the main passage &mdash; ahead and behind &mdash; at locations chosen by the DM, and are immediately ambushed from murder holes.
 
 #### Cruel Cultivation
 _(Rating: 7/10; Role: Attrition)_
@@ -100,14 +105,14 @@ Roll 1d8:
 | 7 | [Yellow Mold](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#YellowMold) |
 | 8 | Roll twice ignoring this or a previous result. There are two hazards. |
 
-**Tougher Challenge.** These hazards are more potent. Replace any saving throw DC in the hazard&rsquo;s description with the appropriate DC from the **Balancing the Challenges** section.
+**Tougher Challenge.** These hazards are more potent. Replace any saving throw DC in the hazard&rsquo;s description with the appropriate DC from **Balancing the Challenges**.
 
 #### Deep Pit
 _(Rating: 8/10; Role: Attrition)_
 
 The pit is 30' deep and covered at bottom in spikes. A falling creature takes 3d6 bludgeoning damage and 2d10 piercing damage without save. The spikes are coated in [Carrion Crawler Mucus](https://www.dndbeyond.com/equipment/555-carrion-crawler-mucus). The opening is 5' by 5' and the bottom is 10' by 10'.
 
-When a creature falls into the pit, a [Net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling. The creature must make a **Mundane Dexterity saving throw** to avoid being [restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition) by the net.
+When a creature falls into the pit, a [Net](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#Net1GP) falls from the ceiling. The creature must make a **Mundane Save** (Dexterity) to avoid being [restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition) by the net.
 
 \column
 
@@ -117,19 +122,19 @@ _(Rating: 4/10; Role: Psychological)_
 Ahead, the passage comes to a dead end. The stonework looks partially finished and incomplete, with loose stones and rubble piled in the corners. There is both:
 
 - An actual false wall (AC 15, 15 HP, [Damage Threshold](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DamageThreshold) 10).
-- An illusion of the same wall overlaid on top. Dispeling or disbelieving the illusion reveals no visual change.
+- An illusion of the same wall overlaid on top. Dispeling or disbelieving the illusion reveals no visual change with a successful **Magical Check**.
 
 Breaking down the false wall takes 10 minutes and echoes loudly on both sides.
 
 #### Falling Rocks
 _(Rating: 8/10; Role: Attrition)_
 
-The ceiling collapses for 20' in either direction. No new passages are revealed. Each creature in the area must make a **Mundane Dexterity saving throw**.
+The ceiling collapses for 20' in either direction. No new passages are revealed. Each creature in the area must make a **Mundane Save** (Dexterity).
 
 * **On a failed save:** A creature takes 55 (10d10) bludgeoning damage, is knocked **[prone](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ProneCondition)**, and is **buried**.
 * **On a successful save:** A creature takes half as much damage only but is still **[prone](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ProneCondition)** and on top of the rubble.
 
-A **buried** creature is **[restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition)** and has **[Total Cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover)**. As an action, a buried creature can try to crawl out by making a **Mundane Strength (Athletics) check**. If the check fails, the creature remains buried and gains 1 **[exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition)** level.
+A **buried** creature is **[restrained](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#RestrainedCondition)** and has **[Total Cover](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Cover)**. As an action, a buried creature can try to crawl out by making a **Mundane Check** (Strength). If the check fails, the creature remains buried and gains 1 **[exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition)** level.
 
 A creature can spend 1 minute freeing another buried creature. Clearing the debris for passage takes **30 minutes** of work.
 
@@ -179,7 +184,7 @@ _(Rating: 10/10; Role: Deadly)_
 
 You trigger a [Glyph of Warding](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GlyphofWarding) that casts an enhanced [Dispel Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DispelMagic). Within 10' all spells or spell effects end. Casters lose [concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration). Magic items are non-magical for 10 minutes.
 
-#### Summoning
+#### Possible Summoning
 _(Rating: 8/10; Role: Attrition or Psychological)_
 
 At the DM&rsquo;s discretion a _Glyph of Warding_ contains an upcast spell to summon one or more creatures of the DM&rsquo;s choice or cast [Programmed Illusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ProgrammedIllusion) of them.
