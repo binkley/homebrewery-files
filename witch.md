@@ -1007,9 +1007,9 @@ You gain these benefits:
 
 _**Eye for Reality.**_ You gain **advantage** on _Wisdom (Insight and Perception)_ checks.
 
-_**Spotting Trouble.**_ As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this reaction a number of times equal to your **proficiency bonus**, regaining all expended uses when you finish a long rest.
+_**Spotting Trouble.**_ As a reaction, when a creature within 30 feet makes a _Charisma (Deception)_ or _Dexterity (Stealth)_ check, you can impose **disadvantage** on the roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
-_**Strong Voice.**_ When you cast a spell, you can ignore its somatic component and any material component that lacks a listed gold cost. You can cast this way a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+_**Strong Voice.**_ When you cast a spell, you can ignore its somatic component and any material component that lacks a listed gold cost. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 #### Level 10: Vine, Vision and Voice
 
@@ -1023,7 +1023,7 @@ As a bonus action, you can call upon one of three auras of presence, which exten
 
 - **Commanding Aura.** Creatures affected by the aura have disadvantage on Wisdom saving throws against being charmed or frightened.
 
-You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a long rest.
+You can activate one of these auras a number of times per long rest as shown in the _Aura Uses_ table. You regain all expended uses when you finish a Long Rest.
 
 | Witch Level | Aura Uses |
 |:--:|:--:|
@@ -1036,7 +1036,7 @@ _Your voice weaves a binding harmony that steadies hearts and wards off hostile 
 
 As an action, you begin a mystical singsong that lasts for 1 minute, requiring concentration as though you were concentrating on a spell. While it lasts, each ally of your choice within 30 feet of you has advantage on saving throws against spells and other magical effects.
 
-Once you use this feature, you can’t do so again until you finish a long rest.
+Once you use this feature, you can’t do so again until you finish a Long Rest.
 
 ### The Mother Calling
 
@@ -1122,7 +1122,7 @@ _You wade into battle or soirees to lower tensions._
 
 Your presence is a campaign in itself a deliberate act of charm and influence that can sway a crowd or halt a battle without violence.
 
-You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell without expending a spell slot a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. (The spell is described at the end.)
+You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. (The spell is described at the end.)
 
 #### Level 10: Terrifying Familiar
 
@@ -1132,7 +1132,7 @@ When you command your familiar to take the **Attack** action using the rules of 
 
 Creatures immune to the **Frightened** condition are unaffected.
 
-You can use this feature a number of times per long rest as shown in the _Terrifying Familiar Uses_ table. You regain all expended uses when you finish a long rest.
+You can use this feature a number of times per long rest as shown in the _Terrifying Familiar Uses_ table. You regain all expended uses when you finish a Long Rest.
 
 | Witch Level | Terrifying Familiar Uses |
 |:--:|:--:|
@@ -1145,7 +1145,7 @@ _I can't make them worse, but I can make you better._
 
 You speak words or think thoughts that twist fate.
 
-As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can grant **advantage** on that roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 ### The Crone Calling
 
@@ -1245,7 +1245,7 @@ _**Permanency.**_ If while borrowing you reach 6 levels of *Exhaustion* from any
 
 _**Returning.**_ When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. The attitude of the borrowed creature towards you remains unchanged.
 
-You can borrow a number of times equal to your **proficiency bonus**, and you regain all expended uses when you finish a long rest.
+You can borrow a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 \page
 
@@ -1269,7 +1269,7 @@ _I can't make you better, but I can make them worse._
 
 You speak words or think thoughts that twist fate.
 
-As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can impose **disadvantage** on that roll. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can impose **disadvantage** on that roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
 
 # New Spells
 
@@ -1326,4 +1326,3 @@ _The aura moves with you, remaining centered on you for the spell&rsquo;s durati
 Brian Oxley Homebrewery &copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this work in your campaigns and free projects. For commercial use, please contact the author.
 
 This work references game terms and spells from the [System Reference Document 5.2 (SRD)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.
-}
