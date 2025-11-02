@@ -1124,6 +1124,8 @@ Your presence is a campaign in itself a deliberate act of charm and influence th
 
 You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. (The spell is described at the end.)
 
+\column
+
 #### Level 10: Terrifying Familiar
 
 _Your familiar draws respect and frightens others._
