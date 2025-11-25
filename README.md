@@ -7,6 +7,8 @@
 # A collection of Markdown for Homebrewery
 
 ## Player choices
+
+### Ancestries
 - Alternative Goliath ancestries (2024 D&amp;D 5e)
     - [_Ettin Ancestry_](./ettin-ancestry.md) &mdash; An alternative species
       for Goliath&rsquo;s _Giant Ancestry_ feature.
@@ -22,9 +24,13 @@
       Beyond](https://www.dndbeyond.com/feats/2092667-troll-ancestry) or
       [Homebrewery](https://homebrewery.naturalcrit.com/share/EVewjLg8mQWV) for
       online rendering.
+
+### Patrons
 - [_Mephistopheles and the Delerium
   Crucible_](./mephistopheles-and-the-delerium-crucible.md) &mdash; a Warlock
   patron and effects from a delerium addiction (Drakkenheim)
+
+### Classes
 - [_The Witch_](./witch.md) &mdash; A D&amp;D 5e (2024) spellcasting class.
   Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a
   martial.
@@ -46,11 +52,8 @@
       for online rendering.
 
 ## Equipment & Magic items
-- _Arcane Autography_ &mdash; A series of D&amp;D 5e (2024) magic item spell
-  books.
-    - [_Introdution_](./arcane-autography-introduction.md)
-- [_Greater Pendant of Warning_](./greater-pendant-of-warning.md) &mdash; An
-  improved "Weapon of Warning" as a miscellaneous magic item.
+
+### Mundane
 - [_Investigator&rsquo;s Case_](./investigators-case.md) &mdash; A compact
   toolkit for the nosey in the field.
   See [D&amp;D
@@ -70,6 +73,13 @@
   Beyond](https://www.dndbeyond.com/magic-items/10515219-scribes-supplies) or
   [Homebrewery](https://homebrewery.naturalcrit.com/share/js0JPW4UlOyw) for
   online rendering.
+
+### Magical
+- _Arcane Autography_ &mdash; A series of D&amp;D 5e (2024) magic item spell
+  books.
+    - [_Introdution_](./arcane-autography-introduction.md)
+- [_Greater Pendant of Warning_](./greater-pendant-of-warning.md) &mdash; An
+  improved "Weapon of Warning" as a miscellaneous magic item.
 - [_War Mattock of Mining_](./war-mattock-of-mining.md) &mdash; a _War Pick_
   with spells for working the earth.
   See [D&amp;D
@@ -81,8 +91,16 @@
   for online rendering.
 
 ## DM stuff
+
+### Adventures
 - [_Tucker&rsquo;s Kobolds_](./tuckers-kobolds.md) &mdash; A one-shot
   adventure for higher-level characters.
+
+### Monsters
+- [_Amalgamation_](./amalgamation-2024.md) &mdash; A Drakkenheim beastie
+  updated for 2024.
+- [_Beetle Knight_](./beetle-knight-2024.md) &mdash; A Drakkenheim beastie
+  updated for 2024.
 
 ## Usage Rights
 
