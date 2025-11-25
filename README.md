@@ -77,7 +77,7 @@
 ### Magical
 - _Arcane Autography_ &mdash; A series of D&amp;D 5e (2024) magic item spell
   books.
-    - [_Introdution_](./arcane-autography-introduction.md)
+    - [_Introduction_](./arcane-autography-introduction.md)
 - [_Greater Pendant of Warning_](./greater-pendant-of-warning.md) &mdash; An
   improved "Weapon of Warning" as a miscellaneous magic item.
 - [_War Mattock of Mining_](./war-mattock-of-mining.md) &mdash; a _War Pick_
