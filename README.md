@@ -8,7 +8,7 @@
 
 ## Player choices
 
-### Ancestries
+### Species & Ancestries
 - Alternative Goliath ancestries (2024 D&amp;D 5e)
     - [_Ettin Ancestry_](./ettin-ancestry.md) &mdash; An alternative species
       for Goliath&rsquo;s _Giant Ancestry_ feature.
