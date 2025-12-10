@@ -74,8 +74,8 @@ Every spell includes a brief note on how Witches tend to use it. These notes don
 | 2 | +2 | Cross Words, Second Thoughts, Witch&rsquo;s Familiar | 1 | 3 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 3 | +2 | Witch Subclass, Herbal Sage | 1 | 3 | 4 | 4 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 4 | +2 | ASI | 1 | 4 | 5 | 4 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 5 | +3 | Coven Magic | 2 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
-| 6 | +3 | Subclass feature | 2 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 5 | +3 | Shamble | 2 | 4 | 6 | 4 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
+| 6 | +3 | Coven Magic, Subclass feature | 2 | 4 | 7 | 4 | 3 | 3 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 7 | +3 | Token of Respect | 2 | 4 | 8 | 4 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 8 | +3 | ASI | 2 | 4 | 9 | 4 | 3 | 3 | 2 | &mdash; | &mdash; | &mdash; | &mdash; | &mdash; |
 | 9 | +4 | Dangerous Familiar | 3 | 4 | 10 | 4 | 3 | 3 | 3 | 1 | &mdash; | &mdash; | &mdash; | &mdash; |
@@ -165,11 +165,6 @@ You learn the [Find Familiar](https://www.dndbeyond.com/sources/dnd/br-2024/spel
 
 _**Fearless**._ Your familiar gains immunity to the Charmed and Frightened conditions.
 
-#### Level 3: Herbal Sage
-
-Your understanding of animals, plants and folk cures is guided by wisdom, not rote learning. You are wise in the ways of roots and remedies.
-
-You gain **expertise** with the _herbalism kit_ and double your proficiency bonus for any check using this tool. Additionally, when you use your herbalism kit to brew a _Potion of Healing_, the time and cost required are halved for you.
 
 #### Level 3: Witch Subclass
 
@@ -185,7 +180,11 @@ Every Witch walks their own path, and each Calling reflects your talents and att
 
 **The Crone.** Mysterious, relentless, and rooted in deep lore. If you want to inhabit strange forms, command uncanny forces, and take on the risk of great power, the Crone is your path. This calling may be likened to a Moon Druid with a touch of Wizard, for players who relish mechanical depth.
 
-#### Level 5: Coven Magic
+#### Level 5: Shamble
+
+Items in your pockets, a bit of string, something living within reach &mdash; with these, you form a _Shamble_ that amplifies your magic or gives a view into past or future. Once per [long rest](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#LongRest) you may take an action with two free hands to craft a _Shamble_ from bits on your person or things within your reach.
+
+#### Level 6: Coven Magic
 
 _Three stand beneath the moon. The spell is cast not alone, but in accord. Birds flock, tea leaves, cards lay. The auspices don't lie, they're only misread._
 
@@ -954,9 +953,11 @@ Playing a Maiden Witch means embracing versatility and performance. You may weav
 
 #### Level 3: Inner Discovery
 
-Your herbal knowledge or your voice borders on the supernatural.
+Your herbal knowledge and your voice borders on the supernatural.
 
 You gain proficiency in your choice of the _Nature_ or _Performance_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
+
+You gain **expertise** with the _disguise kit_ or _herbalism kit_ and double your proficiency bonus for any check using the tool you chose. Additionally, when you use your disguise kit to craft a _Costume_ or your herbalism kit to brew a _Potion of Healing_, the time and cost required are halved for you.
 
 #### Level 3: Maiden Spells
 
@@ -978,14 +979,14 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **[Faerie Fire](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FaerieFire)** <br>
   Enchant the air around foes to make obvious targets and reveal the unseen.
 
+\page
+
 - **Fount of Moonlight** <br>
   You call down soft moonlight that heals, soothes, and reveals hidden things—it burns only those it must.
 
 - **[Greater Invisibility](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#GreaterInvisibility)** <br>
   You or another you touch _stay_ invisible.
   Perfect daggers or kisses slipped unseen.
-
-\page
 
 - **[Hallucinatory Terrain](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#HallucinatoryTerrain)** <br>
   A forest, a graveyard glade, a marsh a sunlit shore, up to your imagination.
@@ -1060,6 +1061,8 @@ You gain proficiency in your choice of the _Medicine_ or _Persuasion_ skill. If 
 
 When you choose this Calling at 3rd level, you gain additional spells that reflect the nurturing, protective, sensible magic of matron witches. These spells are always prepared and count as Witch spells for you. They do not count against the number of spells you can prepare.
 
+\page
+
 | Witch Level | Spell |
 |:--:|:--|
 | 3 | *Aid*, *Ceremony*, *Comprehend Languages*, *Haste*, *Slow* |
@@ -1070,8 +1073,6 @@ When you choose this Calling at 3rd level, you gain additional spells that refle
 - **[Aid](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Aid)** <br>
   Bolsters allies with lasting vitality.
   A Witch&rsquo;s comfort shared with friends.
-
-\page
 
 - **[Aura of Life](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#AuraofLife)** <br>
   The warm presence of hearth and home lingers in the air around you, keeping death&rsquo;s cold hand at bay.
@@ -1124,8 +1125,6 @@ Your presence is a campaign in itself a deliberate act of charm and influence th
 
 You learn the _Aura of Calm_ spell. It counts as a Witch spell for you and doesn't count against the number of Witch spells you know. You can cast the spell a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest. (The spell is described at the end.)
 
-\column
-
 #### Level 10: Terrifying Familiar
 
 _Your familiar draws respect and frightens others._
@@ -1157,13 +1156,13 @@ The Crone Calling is wisdom sharpened into dread. She speaks with spirits, curse
 
 Playing a Crone Witch often means carrying the weight of difficult choices. You may be asked to risk your body and mind in Borrowing, to step beyond the mortal frame for answers others cannot reach. You wield magic that unnerves allies as much as enemies, and your power makes you a figure of awe or suspicion. The Crone thrives when played with care for her limits as well as her strengths.
 
+\page
+
 #### Level 3: Dark Intuition
 
 Your magic knowledge or commanding presence borders on the supernatural.
 
 You gain proficiency in your choice of the _Arcana_ or _Intimidation_ skill. If you are already proficient in the chosen skill, you gain **expertise** and double your proficiency bonus for any ability check you make using that skill.
-
-\page
 
 #### Level 3: Crone Spells
 
@@ -1245,11 +1244,11 @@ _**Weariness.**_ Borrowing a creature is a mental and physical strain. While bor
 
 _**Permanency.**_ If while borrowing you reach 6 levels of *Exhaustion* from any source, your own body dies, your separate mind is lost, and you permanently become that creature in all respects. Your new body immediately loses 1 level of *Exhaustion*.
 
+\page
+
 _**Returning.**_ When you return to your own body, voluntarily or otherwise, you fall **Prone** and are **Incapacitated** until the end of your next turn. The attitude of the borrowed creature towards you remains unchanged.
 
 You can borrow a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
-
-\page
 
 #### Level 10: Greater Borrowing
 
@@ -1272,6 +1271,28 @@ _I can't make you better, but I can make them worse._
 You speak words or think thoughts that twist fate.
 
 As a reaction when a creature you can see within 60 feet makes a **D20 Test**, you can impose **disadvantage** on that roll. You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+\page
+
+# New Magic Items
+
+### Shamble
+
+As an Action, you craft a _Shamble_ using two free hands and whatever materials are within reach. It takes a free hand to hold it together and after 10 minutes it falls apart. You must maintain _Concentration_ on the _Shamble_ while you hold it.
+
+You can cast 1 spell with the _Shamble_. It is the material components for the spell, casting time is always 1 action, and duration (unless instantaneous) is that of the _Shamble_. The spells you can cast this way are:
+
+- **[Augury](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Augury)**
+- **[Detect Evil and Good](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectEvilandGood)**
+- **[Detect Magic](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectMagic)**
+- **[Detect Poison and Disease](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectPoisonandDisease)**
+- **[Detect Thoughts](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#DetectThoughts)**
+- **[Find Traps](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#FindTraps)**
+- **[Locate Animals or Plants](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LocateAnimalsorPlants)**
+- **[Locate Creature](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LocateCreature)**
+- **[Locate Object](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#LocateObject)**
+
+\page
 
 # New Spells
 
