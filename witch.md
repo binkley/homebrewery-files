@@ -232,9 +232,11 @@ You learn the _Tasha&rsquo;s Bubbling Cauldron_ spell. It is always prepared, co
 
 #### Level 12: Pointing Curse
 
-At 12th level, your curses leave an indelible mark on victims. When a creature is under the effect of your _Hex_ spell cast with the **Cross Words** feature, you have a constant sense of their general direction and distance from you, as long as are both on the same plane of existence. This appears as an invisible pointing hand that only you can perceive.
+At 12th level, your curses leave an indelible mark on victims. While a creature is under the effect of a _Hex_ spell cast by you or another, you have a constant sense of their general direction and distance from you, as long as you are both on the same plane of existence. This appears as an invisible pointing hand that only you perceive.
 
 Additionally, that creature doesn&rsquo;t benefit from half or three-quarters cover against any spell you cast that targets only it, and it has disadvantage on saving throws against scrying or location spells that you cast against it while the hex lasts.
+
+\column
 
 #### Level 17: Final Words
 
