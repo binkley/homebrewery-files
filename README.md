@@ -6,6 +6,9 @@
 
 # A collection of Markdown for Homebrewery
 
+## Characters
+- [Sam the Mortar](./sam-the-mortar.md) &mdash; A Starfinder 2e tank.
+
 ## Player choices
 
 ### Species & Ancestries
