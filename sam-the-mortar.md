@@ -1,8 +1,7 @@
 # Sam the Mortar
 
-*Tanky Big Boy*
-
-*Medium Vesk, Soldier 1*
+*A Tanky Big Boy <br>
+Medium Vesk, Soldier 1*
 
 - **Ancestry:** Vesk (Plated Vesk)
 - **Background:** Brutaris Player (Titan Wrestler)
