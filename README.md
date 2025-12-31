@@ -7,21 +7,22 @@
 # A collection of Markdown for Homebrewery
 
 ## Characters
-- [Sam the Mortar](./sam-the-mortar.md) &mdash; A Starfinder 2e tank.
+- [Sam the Mortar](./characters/sam-the-mortar.md) &mdash; A Starfinder 2e
+  tank.
 
 ## Player choices
 
 ### Species & Ancestries
 - Alternative Goliath ancestries (2024 D&amp;D 5e)
-    - [_Ettin Ancestry_](./ettin-ancestry.md) &mdash; An alternative species
-      for Goliath&rsquo;s _Giant Ancestry_ feature.
+    - [_Ettin Ancestry_](./species/ettin-ancestry.md) &mdash; An alternative
+      species for Goliath&rsquo;s _Giant Ancestry_ feature.
       Focus is on **psychic damage and defense**.
       See [D&amp;D
       Beyond](https://www.dndbeyond.com/feats/2092753-ettin-ancestry) or
       [Homebrewery](https://homebrewery.naturalcrit.com/share/lOKHndrjdH8T) for
       online rendering.
-    - [_Troll Ancestry_](./troll-ancestry.md) &mdash; An alternative species
-      for Goliath&rsquo;s _Giant Ancestry_ feature.
+    - [_Troll Ancestry_](./species/troll-ancestry.md) &mdash; An alternative
+      species for Goliath&rsquo;s _Giant Ancestry_ feature.
       Focus is on **self-healing through regeneration**.
       See [D&amp;D
       Beyond](https://www.dndbeyond.com/feats/2092667-troll-ancestry) or
@@ -34,7 +35,8 @@
   patron and effects from a delerium addiction (Drakkenheim)
 
 ### Classes
-- [_The Witch_](./witch.md) &mdash; A D&amp;D 5e (2024) spellcasting class.
+- [_The Witch_](./classes/witch.md) &mdash; A D&amp;D 5e (2024) spellcasting
+  class.
   Not a Cleric, Druid, Sorcerer, Warlock, nor Wizard. Definitely not a
   martial.
   Focus is on **the personal and classic Witch archetypes.**
@@ -42,13 +44,13 @@
   See [Homebrewery](https://homebrewery.naturalcrit.com/share/TZbQ_KbOAiTR)
   for online rendering.
   (D&amp;D Beyond does not support custom classes, only subclasses.)
-    - [_Aura of Calm_](./aura-of-calm.md) &mdash; a witchy spell for _Mother_
-      subclass.
+    - [_Aura of Calm_](./spells/aura-of-calm.md) &mdash; a witchy spell for
+      _Mother_ subclass.
       See [D&amp;D
       Beyond](https://www.dndbeyond.com/spells/3008065-aura-of-calm)
       or [Homebrewery](https://homebrewery.naturalcrit.com/share/lzo4cjj-N2cN)
       for online rendering.
-    - [_Harsh Glare_](./harsh-glare.md) &mdash; a witchy Cantrip.
+    - [_Harsh Glare_](./spells/harsh-glare.md) &mdash; a witchy Cantrip.
       See [D&amp;D
       Beyond](https://www.dndbeyond.com/spells/3008061-harsh-glare).
       or [Homebrewery](https://homebrewery.naturalcrit.com/share/rnUBg4nI2cEg)
@@ -57,21 +59,21 @@
 ## Equipment & Magic items
 
 ### Mundane
-- [_Investigator&rsquo;s Case_](./investigators-case.md) &mdash; A compact
-  toolkit for the nosey in the field.
+- [_Investigator&rsquo;s Case_](./magic-items/investigators-case.md) &mdash; A
+  compact toolkit for the nosey in the field.
   See [D&amp;D
   Beyond](https://www.dndbeyond.com/magic-items/10629318-investigators-case) or
   [Homebrewery](https://homebrewery.naturalcrit.com/share/tnytpgwJZEfV)
   for online rendering.
-- [_Peasant Greatflail_](./peasant-greatflail.md) &mdash; A _simple_
+- [_Peasant Greatflail_](./equipment/peasant-greatflail.md) &mdash; A _simple_
   two-handed version of the martial
   [flail](https://en.wikipedia.org/wiki/Flail).
   See [D&amp;D
   Beyond](https://www.dndbeyond.com/magic-items/10557376-peasant-greatflail)
   or [Homebrewery](https://homebrewery.naturalcrit.com/share/HmP6sGXemkeF) for
   online rendering.
-- [_Scribe&rsquo;s Supplies_](./scribes-supplies.md) &mdash; An improved
-  and magical version of _Calligrapher&rsquo;s Supplies_.
+- [_Scribe&rsquo;s Supplies_](./magic-items/scribes-supplies.md) &mdash; An
+  improved and magical version of _Calligrapher&rsquo;s Supplies_.
   See [D&amp;D
   Beyond](https://www.dndbeyond.com/magic-items/10515219-scribes-supplies) or
   [Homebrewery](https://homebrewery.naturalcrit.com/share/js0JPW4UlOyw) for
@@ -80,30 +82,30 @@
 ### Magical
 - _Arcane Autography_ &mdash; A series of D&amp;D 5e (2024) magic item spell
   books.
-    - [_Introduction_](./arcane-autography-introduction.md)
-- [_Greater Pendant of Warning_](./greater-pendant-of-warning.md) &mdash; An
-  improved "Weapon of Warning" as a miscellaneous magic item.
-- [_War Mattock of Mining_](./war-mattock-of-mining.md) &mdash; a _War Pick_
-  with spells for working the earth.
+    - [_Introduction_](./magic-items/arcane-autography-introduction.md)
+- [_Greater Pendant of Warning_](./magic-items/greater-pendant-of-warning.md)
+  &mdash; An improved "Weapon of Warning" as a miscellaneous magic item.
+- [_War Mattock of Mining_](./magic-items/war-mattock-of-mining.md) &mdash; a
+  _War Pick_ with spells for working the earth.
   See [D&amp;D
   Beyond](https://www.dndbeyond.com/magic-items/10739575-war-mattock-of-mining)
   or [Homebrewery](https://homebrewery.naturalcrit.com/share/VxNAYhIx63js)
   for online rendering.
-- [_Warpipes_](./warpipes.md) &mdash; Dangerous _bagpipes_.
+- [_Warpipes_](./magic-items/warpipes.md) &mdash; Dangerous _bagpipes_.
   See [Homebrewery](https://homebrewery.naturalcrit.com/share/3h1RupfckdPY)
   for online rendering.
 
 ## DM stuff
 
 ### Adventures
-- [_Tucker&rsquo;s Kobolds_](./tuckers-kobolds.md) &mdash; A one-shot
-  adventure for higher-level characters.
+- [_Tucker&rsquo;s Kobolds_](./adventures/tuckers-kobolds.md) &mdash; A
+  one-shot deadly adventure for higher-level characters.
 
 ### Monsters
-- [_Amalgamation_](./amalgamation-2024.md) &mdash; A Drakkenheim beastie
-  updated for 2024.
-- [_Beetle Knight_](./beetle-knight-2024.md) &mdash; A Drakkenheim beastie
-  updated for 2024.
+- [_Amalgamation_](./monsters/amalgamation-2024.md) &mdash; A Drakkenheim
+  beastie updated for 2024.
+- [_Beetle Knight_](./monsters/beetle-knight-2024.md) &mdash; A Drakkenheim
+  beastie updated for 2024.
 
 ## Usage Rights
 
