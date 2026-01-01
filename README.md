@@ -95,6 +95,10 @@
   See [Homebrewery](https://homebrewery.naturalcrit.com/share/3h1RupfckdPY)
   for online rendering.
 
+## Feats
+- [_Warren Commander_](./feats/warren-commander.md) &mdash; A custom feat for
+  the _Oh no, here come the Humans!_ one-shot adventure.
+
 ## DM stuff
 
 ### Adventures
