@@ -31,8 +31,8 @@
 
 ### Patrons
 - [_Mephistopheles and the Delerium
-  Crucible_](./mephistopheles-and-the-delerium-crucible.md) &mdash; a Warlock
-  patron and effects from a delerium addiction (Drakkenheim)
+  Crucible_](./patrons/mephistopheles-and-the-delerium-crucible.md) &mdash; a
+  Warlock patron and effects from a delerium addiction (**Drakkenheim**)
 
 ### Classes
 - [_The Witch_](./classes/witch.md) &mdash; A D&amp;D 5e (2024) spellcasting
@@ -106,10 +106,10 @@
   one-shot deadly adventure for higher-level characters.
 
 ### Monsters
-- [_Amalgamation_](./monsters/amalgamation-2024.md) &mdash; A Drakkenheim
+- [_Amalgamation_](./monsters/amalgamation-2024.md) &mdash; A **Drakkenheim**
   beastie updated for 2024.
-- [_Beetle Knight_](./monsters/beetle-knight-2024.md) &mdash; A Drakkenheim
-  beastie updated for 2024.
+- [_Beetle Knight_](./monsters/beetle-knight-2024.md) &mdash; A
+  **Drakkenheim** beastie updated for 2024.
 
 ## Usage Rights
 
