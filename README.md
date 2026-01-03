@@ -102,8 +102,8 @@
 ## DM stuff
 
 ### Adventures
-- [_Tucker&rsquo;s Kobolds_](./adventures/tuckers-kobolds.md) &mdash; A
-  one-shot deadly adventure for higher-level characters.
+- [_Tucker&rsquo;s Humans_](./adventures/tuckers-humans.md) &mdash; A
+  one-shot deadly adventure for low-level characters.
 
 ### Monsters
 - [_Amalgamation_](./monsters/amalgamation-2024.md) &mdash; A **Drakkenheim**
