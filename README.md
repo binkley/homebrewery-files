@@ -96,6 +96,8 @@
   for online rendering.
 
 ## Feats
+- [_Poison Mastery_](./feats/poison-mastery.md) &mdash; A replacement for the
+  PHB "Poisoner" feat.
 - [_Warren Commander_](./feats/warren-commander.md) &mdash; A custom feat for
   the _Oh no, here come the Humans!_ one-shot adventure.
 
