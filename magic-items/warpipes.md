@@ -61,7 +61,7 @@ _**Banshee’s Wail**_ (3 charges). You play a terrifying, piercing chord to cas
 
 _**General Retreat**_ (3 charges). You play *Hundred Pipers*. Choose a number of creatures you can see within 60 feet of you, up to your **Proficiency** bonus. Each chosen creature can use its **Reaction** to immediately move up to its speed without provoking **Opportunity Attacks**.
 
-_**Giving the Thumb**_ (0 charges). You play mocking, flatulent notes to cast the *Vicious Mockery* cantrip. You can use this feature a number of times equal to your **Proficiency** bonus, and you regain all expended uses when you finish a **Long Rest**.
+_**Giving the Thumb**_ (0 charges). You play mocking, flatulent notes to cast the *Vicious Mockery* cantrip. You can play these pipes a number of times equal to your **Proficiency** bonus, and you regain all expended uses when you finish a **Long Rest**.
 
 \page
 
