@@ -1,123 +1,104 @@
 # Warpipes
-
 _Wondrous Item, varies (requires attunement by a creature proficient with Bagpipes)_
 
-These battle bagpipes may have been carried by others and are now as potent as any sword, bow or spell. Wise allies know to respect them or duck come braw or woe.
+These *Warpipes* were carried by others before and are as potent as any sword or bow or spell. Their lineage is as old as yours, and allies know to respect them or duck. Ever feared is the performer for braw or woe.
 
 {{note
 ##### Choose Your Pipes
-
-This handsome bag is never the same. Different pipes give different magic. The instrument grows with crafting.
+This dumpy bag with gangly tubes is never the same. You may change pipes as needed for different tones, tunes, pitches, and effects, and the instrument grows with you. Standard musical pipes are always available. Some run at the jarring sound, others march prouder into battle.
 }}
 
-These remain [bagpipes](https://www.dndbeyond.com/equipment/463-bagpipes). You may use them as such including their features.
+To use effects of the Warpipes, you must use your **Action** and proficiency in bagpipes to play the instrument. You can also play them as simple bagpipes.
 
-Your DM decides which sets of magical pipes are found with your instrument. Your instrument always include one set of non-magical musical pipes. To use effects of the Warpipes, you must use your _Action_ to play them.
+**Ability:** Use the modifier of a Primary Ability Score of your class. If your class has multiple Primary Abilities (such as a Paladin or Ranger) or you are multiclassed, choose one of those Primary Abilities when you attune to the instrument.
+
+**Utilize:** Play a known tune (DC 10), or improvise a song (DC 15).
+
+#### Handling the Pipes
+Playing the Warpipes requires the use of both hands. While you maintain **Concentration** on a Warpipes effect, both of your hands remain occupied holding and playing the instrument. However, the instrument serves as your spellcasting focus, and you can fulfill the Somatic and Material components of the instrument's spells (and your own spells, if you have them) through the act of playing. Your voice remains free for Verbal components and other class features.
 
 #### Found Instrument
+The power of the instrument depends on its rarity and the sets of pipes. Regain all expended charges after a **Long Rest**.
 
-The power the instrument depends on its rarity and the sets of pipes used to play.
+You must meet the **minimum character level** to attune to this instrument of war.
 
-_**Attunement.**_ _Warpipes_ require [Attunement](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Attunement). To attune you must be _proficient with Bagpipes_ and have a minimum character level determined by the instrument&rsquo;s rarity as shown in the table.
+| Rarity | Charges | Found Pipe Sets | Rarity Bonus | Minimum Level |
+|:---|:---:|:---:|:---:|:---:|
+| Common | 1 | 2 | +0 | 1 |
+| Uncommon | 3 | 4 | +1 | 3 |
+| Rare | 5 | 6 | +2 | 6 |
+| Very Rare | 7 | 8 | +3 | 11 |
 
-_**Charges.**_ The instrument has a maximum number of charges determined by its rarity. After you finish a _Long Rest_, it regains a number of expended charges as shown in the Recharge column of the table.
-
-_**Risk of Overuse.**_ If you expend the instrument&rsquo;s last charge, roll a d20. On a roll of 1, the _Warpipes_ play a final, sad tone and become a nonmagical instrument.
-
-| Rarity | Charges | Recharge | Found Pipes | Effect DC | Minimum Level |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Common | 1 | 1 | 2 | 11 | 1 |
-| Uncommon | 3 | d4 | 4 | 13 | 3 |
-| Rare | 5 | d6 | 6 | 15 | 7 |
-| Very Rare | 7 | d8 | 8 | 17 | 11 |
-
-#### Changing the Tune
-
-You can use a [Bonus Action](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#BonusAction) to replace a set of pipes. A creature within 5 ft. can use their [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to assist. If assisted, you do not expend your bonus action, and that creature gains [Advantage](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Advantage) on the first [saving throw](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SavingThrow) it makes against the new pipes&rsquo; effects before the end of your next turn.
-
-### Pipes
-
-Sets of pipes require attaching one at a time for use. **Your DM may provide more sets of pipes than those listed here.**
+Your DM decides which sets of pipes are found. Your instrument always includes one set of non-magical musical pipes.
 
 \column
 
-A spell is always cast at its lowest level when played from your instrument. DC for magical effects depend on the rarity of your instrument. If a spell cast with pipes requires [Concentration](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Concentration), you must continue playing those pipes to maintain it. The spell ends if you stop playing those pipes for any reason.
+#### Changing the Tune
+You can use a **Bonus Action** to replace a set of pipes. A creature within 5 ft. can use their **Reaction** to assist. That creature gains **Advantage** on the next **Saving Throw** it makes against any effects of the Warpipes within the next minute, and this feature does not spend your **Bonus Action**.
 
-#### Famous Pipes
+### Pipes
+All sets of pipes require attaching and are exclusive to use. Your DM may provide more sets of pipes than those listed here. Effects are always cast at their lowest base level.
 
-You can fit your _Warpipes_ with numerous sets of magical pipes. Among the better known sets include the following. You may discover other sets in an ancient hoard, learn from an extraplanar source, or craft to your imagination.
+**Spellcasting Modifier:** If an effect or spell cast from the Warpipes requires a spellcasting ability modifier (such as the temporary hit points from *Heroism*), use the same Primary **Ability** modifier chosen for this instrument's **Utilize** features.
+
+**Effect DC:** The saving throw DC for any magical effects caused by the Warpipes equals 8 + your **Proficiency** bonus + your chosen Primary **Ability** modifier + the instrument's Rarity Bonus (as shown in the *Found Instrument* table).
+
+**Con Brio:** When you use a pipe feature that requires a saving throw, you can choose to expend additional charges beyond the baseline requirement to push the instrument to its limits. For each additional charge you expend, the Effect DC increases by +1 for that performance. You cannot increase the DC by an amount greater than your **Proficiency** bonus in this way.
+
+### Pipe Sets
 
 | Charges | Pipe Set |
-|:-:|--|
-| 1 | _Giving the Thumb_, _Heroic Tune_, _Pipes of Bane_, _Pipes of Blessing_ |
-| 2 | _Opening Notes_, _Piper&rsquo;s Choice_, _Shattering Pipes_ |
-| 3 | _General Retreat_, _Pipes of Haste_, _Pipes of Slow_ |
-| 4 | _Pipes of Confusion_, _Tiring Tones_ |
-| 5 | _Pipes of Pain_ |
-| 6 | _Final Notes_ |
+|:---:|:---|
+| 0 | *Giving the Thumb* |
+| 1 | *Heroic Tune*, *Pipes of Bane*, *Pipes of Blessing* |
+| 2 | *Good or Ill*, *Opening Notes*, *Shattering Pipes* |
+| 3 | *Banshee’s Wail*, *General Retreat* |
+| 4 | *Pipes of Pain*, *Tiring Tones* |
 
+<br>
 
-_**Final Notes**_ (6 charges). You play _The Minstrel Boy_ with chaotic altered notes. Destruction ripples outward from you in a 30-foot [Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect). Each creature of your choice within that area must make a Constitution saving throw. On a failed save, a target takes 10d6 Thunder damage and is _Stunned_ until the end of your next turn. On a successful save, a target takes half as much damage.
+_**Banshee’s Wail**_ (3 charges). You play a terrifying, piercing chord to cast the *Fear* spell, requiring **Concentration**.
 
-For the next minute, you can use your action on each of your turns to continue the performance, provided you maintain _Concentration_. When you do so, at the start of each of your turns, each creature that failed its initial saving throw takes 2d6 Bludgeoning damage.
+_**General Retreat**_ (3 charges). You play *Hundred Pipers*. Choose a number of creatures you can see within 60 feet of you, up to your **Proficiency** bonus. Each chosen creature can use its **Reaction** to immediately move up to its speed without provoking **Opportunity Attacks**.
 
-_**General Retreat**_ (3 charges). You play _The Black Bear_, a quick, urgent march. Choose a number of creatures you can see within 60 feet of you, up to your proficiency bonus. Each chosen creature can use its _Reaction_ to immediately move up to its speed without provoking opportunity attacks.
-
-_**Giving the Thumb**_ (1 charge). You play mocking notes to cast the [Vicious Mockery](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#ViciousMockery) cantrip.
-
-_**Heroic Tune**_ (1 charge). You play a wistful tune to cast the [Heroism](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Heroism) spell.
-
-_**Opening Notes**_ (2 charges). You play curious notes to cast the [Knock](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Knock) spell.
-
-_**Piper&rsquo;s Choice**_ (2 charges). You play a steady drone with _Concentration_ until the start of your next turn. You can add or subtract d4 as a [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to any ability check, attack roll, or saving throw of a creature within 60 ft. You can do this after the d20 is rolled, but before the outcome is determined. If you use your _Reaction_ you stop playing.
+_**Giving the Thumb**_ (0 charges). You play mocking, flatulent notes. You take the **Utilize** action to cast the *Vicious Mockery* cantrip through the instrument. You can use this feature a number of times equal to your **Proficiency** bonus, and you regain all expended uses when you finish a **Long Rest**.
 
 \page
 
-_**Pipes of Bane**_ (1 charge). You play a dour drone and harsh squeaks to cast the [Bane](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bane) spell.
+_**Good or Ill**_ (2 charges). You play a steady, shifting drone. You must maintain **Concentration** on this melody for up to 1 minute (as if concentrating on a spell). While you concentrate, you can use your **Reaction** when a creature you can see within 60 feet makes an attack roll, an ability check, or a **Saving Throw** to add or subtract a d4 from the creature's roll. You can choose to do this after the d20 is rolled, but before the DM determines the outcome.
 
-_**Pipes of Blessing**_ (1 charge). You play a simple drone and hopeful melody to cast the [Bless](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Bless) spell.
+_**Heroic Tune**_ (1 charge). You play a wistful tune to cast the *Heroism* spell, requiring **Concentration**.
 
-_**Pipes of Confusion**_ (4 charges). You play _Johnny Cope_ with awkward, dissonant notes to cast the [Confusion](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Confusion) spell.
+_**Opening Notes**_ (2 charges). You play curious notes to cast the *Knock* spell.
 
-_**Pipes of Haste**_ (3 charges). You play _Murdo's Wedding_, a quick-time march to cast the [Haste](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Haste) spell.
+_**Pipes of Bane**_ (1 charge). You play a dour drone and harsh squeaks to cast the *Bane* spell, requiring **Concentration**.
 
-_**Pipes of Pain.**_ (5 Charges). You play _The King Under the Water_, unleashing a maddening skirl that fills a 60-foot [Emanation](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#EmanationAreaofEffect) from you. Each creature of your choice in that area must make a Wisdom saving throw. An allied creature that can see you can use its [Reaction](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#Reaction) to drop to the ground and cover its ears; the creature falls [Prone](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ProneCondition), is [Deafened](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#DeafenedCondition) until the start of your next turn, and automatically succeeds on its saving throw.
+_**Pipes of Blessing**_ (1 charge). You play a simple drone and hopeful melody to cast the *Bless* spell, requiring **Concentration**.
 
-- **On a failed save**, a creature takes 6d6 Thunder damage and is wracked with confusion for up to 1 minute. While confused in this way, the creature must subtract a d6 from its attack rolls and ability checks. The creature can repeat its saving throw at the end of each of its turns, ending the effect on itself on a success.
+_**Pipes of Pain**_ (4 charges). You play *The King Under the Water*. Towering tones ripple outward from you in a 30-foot **Emanation**. Each creature of your choice in the Emanation must make a Constitution **Saving Throw** against your Effect DC. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and falls **Prone**. On a successful save, a target takes half as much damage only. An ally within the Emanation can use its **Reaction** to throw itself **Prone** and cover its ears, taking no damage from this effect regardless of its saving throw outcome.
 
-- **On a successful save**, a creature takes half as much damage.
+_**Shattering Pipes**_ (2 charges). You play shrill notes to cast the *Shatter* spell.
 
-The sound of your performance can be heard up to 300 feet away.
-
-_**Pipes of Slow**_ (3 charges). You play _Mist Under Mountain_, a languid melody to cast the [Slow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Slow) spell.
-
-_**Shattering Pipes**_ (2 charges). You play _Men of Clay_ in shrill notes to cast the [Shatter](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Shatter) spell.
-
-_**Tiring Tones**_ (4 charges). You play _The Famous Tay Whale_. Choose one creature within 60 ft. That creature suffers effects of the [Slow](https://www.dndbeyond.com/sources/dnd/br-2024/spell-descriptions#Slow) spell until the end of its next turn. That creature makes a Constitution saving throw. On a failed save, it suffers 1 level of _[Exhaustion](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#ExhaustionCondition)_.
+_**Tiring Tones**_ (4 charges). You play *The Famous Tay Whale*. Choose one creature within 60 ft. That creature must make a Constitution **Saving Throw** with **Disadvantage** against your Effect DC. On a failed save, the target suffers 1 level of **Exhaustion**. You must maintain **Concentration** on this melody for up to 1 minute (as if concentrating on a spell) to preserve the effect.
 
 ### Upgrading Your Instrument
+Increasing the rarity of *Warpipes* is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a *cleric’s* or *patron’s* blessing.
 
-Increasing the rarity of _Warpipes_ is a large task not achievable by a single crafter. Your instrument is a complex maneuver of wood, leather, fabric, metal, and magic. Seek out suitable artisans, and it never hurts to get a _cleric&rsquo;s_ or _patron&rsquo;s_ blessing.
-
-You may not upgrade the rarity of your _Warpipes_ without approval by the DM.
+You may not upgrade the rarity of your *Warpipes* without approval by the DM.
 
 #### Time and Cost
-
-Upgrading the rarity of your _Warpipes_ requires the same cost and tools as crafting a magic item from scratch. With required assistance the time is 1/2 that of for crafting a magic item from scratch. For upgrading to _Rare_ or greater rarity, your DM may require hard-to-find materials.
-
-\column
+Upgrading the rarity of your *Warpipes* requires the same cost and tools as crafting a magic item from scratch. With required assistance, the time is 1/2 that required for crafting a magic item from scratch. For upgrading to *Rare* or greater rarity, your DM may require hard-to-find materials.
 
 #### Artisan Assistance
-
-Upgrading _Warpipes_ needs collaboration. In addition to your own crafting skills, the help of other artisans is needed.
+Upgrading *Warpipes* needs collaboration. In addition to your own crafting skills, the help of other artisans is needed.
 
 | Old Rarity | New Rarity | Artisans | Crafts |
-|:-:|:-:|:-:|--|
-| Common | Uncommon | 1 | _Leatherworker_, _Metalsmith_, _Tailor_, _Tinker_ or _Woodcarver_ |
-| Uncommon | Rare | 2 | _Leatherworker_, _Metalsmith_, _Tailor_, _Tinker_ or _Woodcarver_ |
-| &nbsp; | &nbsp; | 1 | _Alchemist_, _Calligrapher_ or _Painter_, _Jeweler_ |
-| Rare | Very Rare | 3 | _Leatherworker_, _Metalsmith_, _Tailor_, _Tinker_ or _Woodcarver_ |
-| &nbsp; | &nbsp; | 2 | _Alchemist_, _Calligrapher_ or _Painter_, _Jeweler_ |
+|:---|:---|:---:|:---|
+| Common | Uncommon | 1 | Leatherworker, Metalsmith, Tailor, Tinker, Woodcarver |
+| Uncommon | Rare | 2 | Leatherworker, Metalsmith, Tailor, Tinker, Woodcarver |
+| &nbsp; | &nbsp; | 1 | Alchemist, Calligrapher or Painter, Jeweler |
+| Rare | Very Rare | 3 | Leatherworker, Metalsmith, Tailor, Tinker, Woodcarver |
+| &nbsp; | &nbsp; | 2 | Alchemist, Calligrapher or Painter, Jeweler |
 
 _**Alchemist.**_ An Alchemist can create special oils and resins to treat woods and fabrics, making them resistant to fire, rot, or magical corruption. This treatment is crucial for the instrument's survival in perilous conditions.
 
@@ -125,20 +106,19 @@ _**Calligrapher or Painter.**_ A master of these can adorn the instrument with d
 
 _**Jeweler.**_ A Jeweler can inlay your instrument with precisely matched gemstones. These gems can serve as arcane foci, extra storage for magical charges, or show the presence of nearby magic or enemies.
 
-_**Leatherworker.**_ The instrument&rsquo;s lungs is the leather Bag. Typically sheepskin or cow, an upgrade might need magical hide such as that of a _Displacer Beast_ or _Yeth Hound_.
+_**Leatherworker.**_ The instrument’s lungs is the leather *Bag*. Typically made of sheepskin or cowhide, this upgrade may require magical material such as that sourced from a Displacer Beast or Yeth Hound.
 
-_**Metalsmith,**_ Parts such as ferrules (metal rings to prevent the wood-splitting) or mounts (for pipe attachments) require this artisan. For a greater upgrades you might need mithral or inscribed runes of power.
+_**Metalsmith.**_ Parts such as ferrules (metal rings to prevent the wood-splitting) or mounts (for pipe attachments) require this artisan. For greater upgrades you might need mithral or inscribed runes of power.
 
-_**Tailor.**_ Covering the Bag is a public face and protective layer. This artisan crafts an ornate cover from fine fabrics embroidering it with meaningful symbols and tassles. More powerful instruments_ may use spider silk or threads of pure metal.
+_**Tailor.**_ Covering the Bag is a public face and protective layer. This artisan crafts an ornate cover from fine fabrics embroidering it with meaningful symbols and tassels. More powerful instruments may use spider silk or threads of pure metal.
 
 _**Tinker.**_ Without this artisan and their precision, you may struggle to keep stocks airtight or the blowpipe valve from failing. And they may add their own magical touches.
 
-_**Woodcarver.**_ The instrument&rsquo;s heart is in the delicate reeds providing the distinctive character to your instrument. This is apparent in chanter, drones, and wooden sets of pipes. Rare woods like _Ironwood_ or a branch from a _Feywild_ tree may resonate better.
+_**Woodcarver.**_ The instrument’s heart is in the delicate reeds providing the distinctive character to your instrument. This is apparent in chanter, drones, and wooden sets of pipes. Rare woods like *Ironwood* or a branch from a *Feywild* tree may resonate better.
 
 \page
 
 ## Usage Rights
-
 Brian Oxley Homebrewery &copy; 2025 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this work in your campaigns and free projects. For commercial use, please contact the author.
 
 This work references game terms and spells from the [System Reference Document 5.2 (SRD)](https://dnd.wizards.com/resources/systems-reference-document) by Wizards of the Coast, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and also names works of theirs not included in the SRD.
