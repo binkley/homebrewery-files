@@ -35,9 +35,9 @@ You gain all Background or Species features that are not tied to your
 character level. When a feature scales with level, it does not apply until you
 reach Level 1.
 
-However, you **do not gain 1st level spells** until you reach Level 1 in your
-character such as spells granted from the _Magic Initiate_ background or some
-Species.
+You **do not gain casting of 1st level spells** such as from Species features
+or background feats such as _Magic Initiate_ until you reach Level 1. You
+retain those features and can select spells but they are not usable yet.
 
 ## Leveling Up to 1
 
@@ -175,8 +175,6 @@ Josias can double the extra movement provided. <br/>
 can impose _Disadvantage_ on a _D20 Test_ he can see within 60 feet before the
 die is cast.
 }}
-
-\page
 
 ### The Street Urchin
 
