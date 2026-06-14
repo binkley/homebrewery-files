@@ -1,10 +1,8 @@
-# Buckland and the weather report
+# Buckland
 
 Buckland is across the river from the Marish in eastern Shire. There is
 constant traffic over the Brandywine Bridge between these.  Buckland nominally
 in Bree-land but is indepedent and considered the eastern border of the Shire.
-It has a mild, temperate climate similar to England’s West Midlands or the
-countryside of Wales in early autumn.
 
 ## Landscape
 
@@ -17,6 +15,9 @@ countryside of Wales in early autumn.
   mushrooms.
 
 ## Weather and climate
+
+Mild, temperate climate similar to England’s West Midlands or the countryside
+of Wales in early autumn.
 
 - Late September: Cooler nights, misty mornings, trees are changing color.
 - Daytime: ~13–18°C (55–65°F) – Mild and comfortable with lingering warmth.
@@ -79,6 +80,8 @@ The first apple pressing is **two nights away**.
 - Barrel-rolling races.
 - Storytelling contests in Brandy Hall’s main hall.
 - Dance & music by the riverbank.
+
+\page
 
 ### Buckland Night Watch
 
