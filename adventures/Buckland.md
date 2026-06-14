@@ -6,6 +6,16 @@ in Bree-land but is indepedent and considered the eastern border of the Shire.
 It has a mild, temperate climate similar to England’s West Midlands or the
 countryside of Wales in early autumn.
 
+## Landscape
+
+- Brandy Hall stocks up on cider, beer, and root vegetables.
+- Bucklanders prepare for autumn festivals.
+- Trees turning golden & red – apple trees heavy with fruit—perfect for cider
+  making.
+- Local fields harvested by Hobbits for grain and storing up for Winter.
+- Mushrooms eagerly sought across the Great East Road or further. Hobbits love
+  mushrooms.
+
 ## Weather and climate
 
 - Late September: Cooler nights, misty mornings, trees are changing color.
@@ -36,43 +46,9 @@ countryside of Wales in early autumn.
   deeper woods are unnaturally dense year-round as you spotted from traveling
   the Great East Road.
 
-## The landscape
-
-- Brandy Hall stocks up on cider, beer, and root vegetables.
-- Bucklanders prepare for autumn festivals.
-- Trees turning golden & red – apple trees heavy with fruit—perfect for cider
-  making.
-- Local fields harvested by Hobbits for grain and storing up for Winter.
-- Mushrooms eagerly sought across the Great East Road or further. Hobbits love
-  mushrooms.
-
 ## Local events
 
-### Brandywine Harvest Feast
-
-The first apple pressing is **two nights away**.
-
-- A big community gathering in Brandy Hall, open to all Hobbits (and friendly
-  travelers).
-- Apple cider pressing & tasting.
-- Barrel-rolling races.
-- Storytelling contests in Brandy Hall’s main hall.
-- Dance & music by the riverbank.
-
-### Buckland Night Watch
-
-Apprehending darker nights ahead is **three nights away**.
-
-- A traditional patrol along the Hedge before autumn deepens.
-- Led by Shiriffs and older Brandybucks, some of whom claim they’ve seen
-  the trees move.
-- Rumors heard in Buckland when you ask or overhear:
-  - _Someone saw flickering lights in the Old Forest._
-  - _The Brandywine rose strangely high last night._
-  - _Old Rory Brandybuck swears he saw a fox walking on two legs._
-  - _Strange dreams in Brandy Hall lately—visions of a golden tree._
-
-### River-lantern Festival_
+### River-lantern Festival
 
 The festival is **tomorrow night**.
 
@@ -92,3 +68,28 @@ The festival is **tomorrow night**.
    - _A boat vanished last year—found empty downriver the next morning._
    - _Boats are quite tricky enough for those that sit still without looking
      for the cause of trouble_
+
+### Brandywine Harvest Feast
+
+The first apple pressing is **two nights away**.
+
+- A big community gathering in Brandy Hall, open to all Hobbits (and friendly
+  travelers).
+- Apple cider pressing & tasting.
+- Barrel-rolling races.
+- Storytelling contests in Brandy Hall’s main hall.
+- Dance & music by the riverbank.
+
+### Buckland Night Watch
+
+Apprehending darker nights ahead is **three nights away** if you stay and gain
+trust of the Watch with your observations.
+
+- A traditional patrol along the Hedge before autumn deepens.
+- Led by Shiriffs and older Brandybucks, some of whom claim they’ve seen
+  the trees move.
+- Rumors heard in Buckland when you ask or overhear:
+  - _Someone saw flickering lights in the Old Forest._
+  - _The Brandywine rose strangely high last night._
+  - _Old Rory Brandybuck swears he saw a fox walking on two legs._
+  - _Strange dreams in Brandy Hall lately—visions of a golden tree._
