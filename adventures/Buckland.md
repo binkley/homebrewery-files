@@ -2,7 +2,8 @@
 
 Buckland is across the river from the Marish in eastern Shire. There is
 constant traffic over the Brandywine Bridge between these.  Buckland nominally
-in Bree-land but is indepedent and considered the eastern border of the Shire.
+in Bree-land but is independent and considered the eastern border of the
+Shire.
 
 ## Landscape
 
