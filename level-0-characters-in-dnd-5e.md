@@ -177,7 +177,7 @@ Rest_.
 
 ***Foolhardy Adventurer.*** Once per _Long Rest_, immediately after rolling a
 _D20 Test_ but before the outcome is known, Josias can reroll the die. <br/>
-***Narrow Escape.*** Once per _Long Rest_, when taking the _Dash_ action,
+***Narrow Escape.*** Once per _Short Rest_, when taking the _Dash_ action,
 Josias can double the extra movement provided. <br/>
 ***Newcomer&rsquo;s Luck.*** Once per _Long Rest_, as a _Reaction_, Josias can
 impose _Disadvantage_ on a _D20 Test_ he can see within 60 feet before the die
@@ -234,7 +234,7 @@ she can swap initiative with a willing ally.
 
 ***Foolhardy Adventurer.*** Once per _Long Rest_, immediately after rolling a
 _D20 Test_ but before the outcome is known, Kaelen can reroll the die. <br/>
-***Narrow Escape.*** Once per _Long Rest_, when taking the _Dash_ action,
+***Narrow Escape.*** Once per _Short Rest_, when taking the _Dash_ action,
 Kaelen can double the extra movement provided. <br/>
 ***Newcomer&rsquo;s Luck.*** Once per _Long Rest_, as a _Reaction_, Kaelen can
 impose _Disadvantage_ on a _D20 Test_ she can see within 60 feet before the
@@ -355,7 +355,7 @@ Poisoned, and resistance to Poison damage. <br/>
 (included above). <br/>
 ***Stonecunning.*** As a Bonus Action, Orsik can gain Tremorsense out to a
 range of 60 feet for 10 minutes while touching stone. They can use this a
-number of times equal to his Proficiency Bonus per Long Rest. <br/>
+number of times equal to his Proficiency Bonus per _Long Rest_. <br/>
 ***Magic Initiate (Feat).*** Orsik knows the *Guidance* and *Sacred Flame*
 cantrips. Wisdom is their spellcasting ability. They have pre-selected the
 1st-level spell *Bless* **(Locked until Level 1)**.
