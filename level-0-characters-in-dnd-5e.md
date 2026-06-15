@@ -6,9 +6,8 @@ character is dipping your toes in new directions whether by choice, suggestion
 of a patron or friend, poor personal choices, or outside forces.
 
 {{note
-#### DM Notes
-
-There are no official rules for Level-0 characters. Other ideas include:
+This document is homebrew for 5.5e adhering to PHB. There are no official
+rules for Level-0 characters. Other ideas include:
 - _[A Guide to Playing Level 0
   Characters](https://spuf.org/2022/10/14/dd-5e-a-guide-to-playing-level-0-characters/)_
 - _[Starting From Scratch: A Guide to Level 0 Play for D&D
@@ -17,17 +16,13 @@ There are no official rules for Level-0 characters. Other ideas include:
 
 ## Creating a Level 0 Character
 
-Use the template below (_Adventurous Commoner_) to build a level 0 character.
-Add to that:
-
+Use the _Adventurous Commoner_ template to build a level 0 character and add standard PHB character creation except for a Class.
 - Choose a _Background_.
-- Choose a _Species_.
+- Choose a _Species_ and all features such as Size, Ancestry, Legacy or Lineage.
 - Choose _Ability Scores and Modifiers_.
 
 You gain all Background and Ability Score benefits and Species features not
-tied to character level. These choices carry over to level 1. You start with a
-_Proficiency Bonus_ of +2 (same as level 1) reflecting your competence and
-pre-adventuring experience.
+tied to character level. You start with a _Proficiency Bonus_ of +2 just as level 1 reflecting your competence and pre-adventuring experience.
 
 ### Limitations for Level 0 Characters
 
@@ -40,7 +35,12 @@ Species or Background, you may only cast Cantrips until you reach level 1.
 You retain those features and can pre-select your 1st-level spells, but they
 are locked and unusable for now.
 
-## Leveling Up to 1
+{{note
+**Player Tip**
+When you can use a Skill and Tool proficiency together, you get _Advantage_ on your _D20 Test_ roll. This does not depend on your level.
+}}
+
+### Leveling Up to 1
 
 When you reach Level 1, your pre-adventuring life ends and your heroic path
 begins. Pick your starting 1st-level Class and apply the following
@@ -60,7 +60,7 @@ adjustments:
 - **Traits.** You permanently lose your Level 0 traits (_Foolhardy
   Adventurer_, _Narrow Escape_, and _Newcomer&rsquo;s Luck_).
 
-{{monster,frame
+{{wide,monster,frame
 ## Adventurous Commoner
 *Small or Medium Humanoid, Any alignment*
 
@@ -119,10 +119,9 @@ impose _Disadvantage_ on the roll. You lose this trait when you reach Level 1.
 
 ## Examples
 
-### The Plucky Farmhand
+### Human Farmer to Fighter
 
-*A surprisingly durable Human kid who is handy with livestock and naturally
-lucky, destined to become a Fighter.*
+*Josias is a durable lucky Human handy with livestock destined to be a Fighter.*
 
 * **Ability Array Chosen:** Str 14, Dex 12, Con 15, Int 8, Wis 13, Cha 10
 * **Human Species Benefits:** *Versatile* trait (grants an extra Origin Feat:
@@ -181,10 +180,9 @@ can impose _Disadvantage_ on a _D20 Test_ he can see within 60 feet before the
 die is cast.
 }}
 
-### The Street Urchin
+### Elf Urchin to Rogue
 
-*A quick-fingered Wood Elf lookout who survives on razor-sharp instincts,
-destined to become a Rogue.*
+*Kaelen is a Wood Elf sharp to trouble and casting small distractions destined to become a Rogue.*
 
 * **Ability Array Chosen:** Str 8, Dex 15, Con 12, Int 10, Wis 13, Cha 14
 * **Elf Species Benefits:** *Darkvision* (60 ft), *Keen Senses* (Insight
@@ -194,14 +192,14 @@ destined to become a Rogue.*
   Stealth proficiencies. Thieves&rsquo; Tools. Origin Feat: **Alert**.
 
 {{wide,monster,frame
-### Kaelen, Wood Elf Urchin
+### Kaelen, Elf Urchin
 *Medium Humanoid (Elf), Chaotic Neutral*
 
 {{vitals
 **AC** :: 13 (10 + 3)
 **Initiative** :: d20 + 5 (+3 Dex + 2 Proficiency Bonus via Alert feat)
 **HP** :: 5 (4 Base + 1 Con)
-**Speed** :: 35 ft. (30 ft Base + 5 ft Wood Elf)
+**Speed** :: 30 ft.
 **Proficiency Bonus** :: +2
 **Skill proficiencies** :: Insight, Sleight of Hand, Stealth
 **Tool proficiencies** :: Thieves&rsquo; Tools
@@ -224,9 +222,9 @@ destined to become a Rogue.*
 ### Origin Feats & Species Traits
 
 ***Elven Lineage (Wood Elf).*** Kaelen knows the *Druidcraft* cantrip. <br/>
-***Alert (Feat).*** Kaelen adds his _Proficiency Bonus_ (+2) to his Initiative
+***Alert (Feat).*** Kaelen adds her _Proficiency Bonus_ (+2) to Initiative
 checks (included above). Additionally, immediately after rolling initiative,
-he can swap his initiative tracker score with any willing ally.
+she can swap initiative with a willing ally.
 
 ### Level 0 Traits
 
@@ -235,6 +233,135 @@ _D20 Test_ but before the outcome is known, Kaelen can reroll the die. <br/>
 ***Narrow Escape.*** Once per _Long Rest_, when taking the _Dash_ action,
 Kaelen can double the extra movement provided. <br/>
 ***Newcomer&rsquo;s Luck.*** Once per _Long Rest_, as a _Reaction_, Kaelen can
+impose _Disadvantage_ on a _D20 Test_ she can see within 60 feet before the die
+is cast.
+}}
+
+\page
+
+### Gnome Sage to Wizard
+
+*Fimble is an offbeat Gnome archivist destined to become a Wizard.*
+
+* **Ability Array Chosen:** Str 8, Dex 13, Con 14, Int 15, Wis 12, Cha 10
+* **Gnome Species Benefits:** *Darkvision* (60 ft), *Gnome Cunning* (Advantage
+  on Intelligence, Wisdom, and Charisma saving throws), and *Gnomish Lineage*
+  (Rock Gnome: grants *Prestidigitation* and clockwork tinkering).
+* **Sage Background Benefits:** +2 Intelligence, +1 Dexterity. Arcana and
+  History proficiencies. Calligrapher&rsquo;s Tools. Origin Feat:
+  **Magic Initiate (Wizard)**.
+
+{{wide,monster,frame
+### Fimble, Gnome Sage
+*Small Humanoid (Gnome), Chaotic Good*
+
+{{vitals
+**AC** :: 12 (10 + 2)
+**Initiative** :: d20 + 2
+**HP** :: 6 (4 Base + 2 Con)
+**Speed** :: 30 ft.
+**Proficiency Bonus** :: +2
+**Skill proficiencies** :: Arcana, History, Investigation
+**Tool proficiencies** :: Calligrapher&rsquo;s Tools, Tinker&rsquo;s Tools
+**Equipment** :: Quarterstaff, Calligrapher&rsquo;s Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP
+**Senses** :: Darkvision 60 ft., Passive Perception 11
+**Languages** :: Common, Gnomish, Draconic
+}}
+
+{{tables
+|   |  SCORE | MOD | SAVE |
+|:--|:------:|:---:|:----:|
+|Str|    8   |  -1 |  -1  |
+|Dex|   14   |  +2 |  +2  |
+|Con|   14   |  +2 |  +2  |
+|Int|   17   |  +3 |  +3  |
+|Wis|   12   |  +1 |  +1  |
+|Cha|   10   |  +0 |  +0  |
+}}
+
+### Origin Feats & Species Traits
+
+***Gnome Cunning.*** Fimble has _Advantage_ on all Intelligence, Wisdom, and
+Charisma saving throws. <br/>
+***Gnomish Lineage (Rock Gnome).*** Fimble knows the *Prestidigitation* cantrip
+and can spend 10 minutes to craft a tiny clockwork device. <br/>
+***Magic Initiate (Feat).*** Fimble knows the *Mage Hand* and *Minor Illusion*
+cantrips. Intelligence is his spellcasting ability. He has pre-selected the 
+1st-level spell *Shield* **(locked until Level 1)**.
+
+### Level 0 Traits
+
+***Foolhardy Adventurer.*** Once per _Long Rest_, immediately after rolling a
+_D20 Test_ but before the outcome is known, Fimble can reroll the die. <br/>
+***Narrow Escape.*** Once per _Short Rest_, when taking the _Dash_ action,
+Fimble can double the extra movement provided. <br/>
+***Newcomer&rsquo;s Luck.*** Once per _Long Rest_, as a _Reaction_, Fimble can
+impose _Disadvantage_ on a _D20 Test_ he can see within 60 feet before the die
+is cast.
+}}
+
+### Dwarven Acolyte to Cleric
+
+*Osrik is a devout novice tending studying holy scripture destined to become a Cleric.*
+
+* **Ability Array Chosen:** Str 13, Dex 10, Con 14, Int 8, Wis 15, Cha 12
+* **Dwarf Species Benefits:** *Darkvision* (60 ft), *Dwarven Resilience*
+  (Advantage and Resistance vs Poison), *Dwarven Toughness* (+1 maximum Hit
+  Point), and *Stonecunning* (Tremorsense on stone as a Bonus Action).
+* **Acolyte Background Benefits:** +2 Wisdom, +1 Charisma. Insight and
+  Religion proficiencies. Calligrapher&rsquo;s Tools. Origin Feat:
+  **Magic Initiate (Cleric)**.
+
+{{wide,monster,frame
+### Orsik, Dwarf Acolyte
+*Medium Humanoid (Dwarf), Lawful Good*
+
+{{vitals
+**AC** :: 10 (10 + 0)
+**Initiative** :: d20 + 0
+**HP** :: 7 (4 Base + 2 Con + 1 Dwarven Toughness)
+**Speed** :: 30 ft.
+\column
+**Skill proficiencies** :: Insight, Religion
+**Tool proficiencies** :: Calligrapher&rsquo;s Tools
+**Equipment** :: Holy Symbol, Prayer Book, Vestments, 5 Incense sticks, 15 GP
+**Senses** :: Darkvision 60 ft., Passive Perception 13
+**Languages** :: Common, Dwarvish, Celestial
+}}
+
+{{tables
+|   |  SCORE | MOD | SAVE |
+|:--|:------:|:---:|:----:|
+|Str|   13   |  +1 |  +1  |
+|Dex|   10   |  +0 |  +0  |
+|Con|   14   |  +2 |  +2  |
+|Int|    8   |  -1 |  -1  |
+|Wis|   17   |  +3 |  +3  |
+|Cha|   13   |  +1 |  +1  |
+}}
+
+**Proficiency Bonus** :: +2
+
+### Origin Feats & Species Traits
+
+***Dwarven Resilience.*** Orsik has _Advantage_ on saving throws against being
+Poisoned, and resistance to Poison damage. <br/>
+***Dwarven Toughness.*** Orsik&rsquo;s maximum Hit Points are increased by 1 
+(included above). <br/>
+***Stonecunning.*** As a Bonus Action, Orsik can gain Tremorsense out to a 
+range of 60 feet for 10 minutes while touching stone. He can use this a 
+number of times equal to his Proficiency Bonus per Long Rest. <br/>
+***Magic Initiate (Feat).*** Orsik knows the *Guidance* and *Sacred Flame*
+cantrips. Wisdom is his spellcasting ability. He has pre-selected the 
+1st-level spell *Bless* **(Locked until Level 1)**.
+
+### Level 0 Traits
+
+***Foolhardy Adventurer.*** Once per _Long Rest_, immediately after rolling a
+_D20 Test_ but before the outcome is known, Orsik can reroll the die. <br/>
+***Narrow Escape.*** Once per _Short Rest_, when taking the _Dash_ action,
+Orsik can double the extra movement provided. <br/>
+***Newcomer&rsquo;s Luck.*** Once per _Long Rest_, as a _Reaction_, Orsik can
 impose _Disadvantage_ on a _D20 Test_ he can see within 60 feet before the die
 is cast.
 }}
