@@ -14,7 +14,8 @@ There are no official rules for Level-0 characters. Other ideas include:
 - _[A Guide to Playing Level 0
   Characters](https://spuf.org/2022/10/14/dd-5e-a-guide-to-playing-level-0-characters/)_
 - _[Starting From Scratch: A Guide to Level 0 Play for D&D
-  5e](https://david-ingham.itch.io/starting-from-scratch)_ }}
+  5e](https://david-ingham.itch.io/starting-from-scratch)_
+}}
 
 ## Creating a Level-0 Character
 
