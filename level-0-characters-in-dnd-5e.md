@@ -6,8 +6,7 @@ character is dipping your toes in new directions whether by choice, suggestion
 of a patron or friend, poor personal choices, or outside forces.
 
 {{note
-This document is homebrew for 5.5e adhering to PHB. There are no official
-rules for Level-0 characters. Other ideas include:
+This document is homebrew for 5.5e sticking close to PHB. There are no official rules for Level-0 characters. Other ideas include:
 - _[A Guide to Playing Level 0
   Characters](https://spuf.org/2022/10/14/dd-5e-a-guide-to-playing-level-0-characters/)_
 - _[Starting From Scratch: A Guide to Level 0 Play for D&D
@@ -16,13 +15,16 @@ rules for Level-0 characters. Other ideas include:
 
 ## Creating a Level 0 Character
 
-Use the _Adventurous Commoner_ template to build a level 0 character and add standard PHB character creation except for a Class.
-- Choose a _Background_.
-- Choose a _Species_ and all features such as Size, Ancestry, Legacy or Lineage.
+Use the _Adventurous Commoner_ template to build a level 0 character and add
+standard PHB character creation except for a Class.
+- Choose a _Background_ and all features such as Origin feat(s).
+- Choose a _Species_ and all features such as Size, Ancestry, Legacy or
+  Lineage.
 - Choose _Ability Scores and Modifiers_.
 
 You gain all Background and Ability Score benefits and Species features not
-tied to character level. You start with a _Proficiency Bonus_ of +2 just as level 1 reflecting your competence and pre-adventuring experience.
+tied to character level. You start with a _Proficiency Bonus_ of +2 just as
+level 1 reflecting your competence and pre-adventuring experience.
 
 ### Limitations for Level 0 Characters
 
@@ -37,7 +39,8 @@ are locked and unusable for now.
 
 {{note
 **Player Tip**
-When you can use a Skill and Tool proficiency together, you get _Advantage_ on your _D20 Test_ roll. This does not depend on your level.
+When you can use a Skill and Tool proficiency together, you get _Advantage_ on
+your _D20 Test_ roll. This does not depend on your level.
 }}
 
 ### Leveling Up to 1
@@ -121,7 +124,8 @@ impose _Disadvantage_ on the roll. You lose this trait when you reach Level 1.
 
 ### Human Farmer to Fighter
 
-*Josias is a durable lucky Human handy with livestock destined to be a Fighter.*
+*Josias is a durable lucky Human handy with livestock destined to be a
+Fighter.*
 
 * **Ability Array Chosen:** Str 14, Dex 12, Con 15, Int 8, Wis 13, Cha 10
 * **Human Species Benefits:** *Versatile* trait (grants an extra Origin Feat:
@@ -175,9 +179,9 @@ Rest_.
 _D20 Test_ but before the outcome is known, Josias can reroll the die. <br/>
 ***Narrow Escape.*** Once per _Long Rest_, when taking the _Dash_ action,
 Josias can double the extra movement provided. <br/>
-***Newcomer&rsquo;s Luck.*** Once per _Long Rest_, as a _Reaction_, Josias
-can impose _Disadvantage_ on a _D20 Test_ he can see within 60 feet before the
-die is cast.
+***Newcomer&rsquo;s Luck.*** Once per _Long Rest_, as a _Reaction_, Josias can
+impose _Disadvantage_ on a _D20 Test_ he can see within 60 feet before the die
+is cast.
 }}
 
 ### Elf Urchin to Rogue
@@ -233,8 +237,8 @@ _D20 Test_ but before the outcome is known, Kaelen can reroll the die. <br/>
 ***Narrow Escape.*** Once per _Long Rest_, when taking the _Dash_ action,
 Kaelen can double the extra movement provided. <br/>
 ***Newcomer&rsquo;s Luck.*** Once per _Long Rest_, as a _Reaction_, Kaelen can
-impose _Disadvantage_ on a _D20 Test_ she can see within 60 feet before the die
-is cast.
+impose _Disadvantage_ on a _D20 Test_ she can see within 60 feet before the
+die is cast.
 }}
 
 \page
@@ -248,8 +252,8 @@ is cast.
   on Intelligence, Wisdom, and Charisma saving throws), and *Gnomish Lineage*
   (Rock Gnome: grants *Prestidigitation* and clockwork tinkering).
 * **Sage Background Benefits:** +2 Intelligence, +1 Dexterity. Arcana and
-  History proficiencies. Calligrapher&rsquo;s Tools. Origin Feat:
-  **Magic Initiate (Wizard)**.
+  History proficiencies. Calligrapher&rsquo;s Tools. Origin Feat: **Magic
+  Initiate (Wizard)**.
 
 {{wide,monster,frame
 ### Fimble, Gnome Sage
@@ -283,10 +287,10 @@ is cast.
 
 ***Gnome Cunning.*** Fimble has _Advantage_ on all Intelligence, Wisdom, and
 Charisma saving throws. <br/>
-***Gnomish Lineage (Rock Gnome).*** Fimble knows the *Prestidigitation* cantrip
-and can spend 10 minutes to craft a tiny clockwork device. <br/>
+***Gnomish Lineage (Rock Gnome).*** Fimble knows the *Prestidigitation*
+cantrip and can spend 10 minutes to craft a tiny clockwork device. <br/>
 ***Magic Initiate (Feat).*** Fimble knows the *Mage Hand* and *Minor Illusion*
-cantrips. Intelligence is his spellcasting ability. He has pre-selected the 
+cantrips. Intelligence is his spellcasting ability. He has pre-selected the
 1st-level spell *Shield* **(locked until Level 1)**.
 
 ### Level 0 Traits
@@ -302,15 +306,16 @@ is cast.
 
 ### Dwarven Acolyte to Cleric
 
-*Osrik is a devout novice tending studying holy scripture destined to become a Cleric.*
+*Osrik is a devout novice tending to holy scripture and destined to become a
+Cleric.*
 
 * **Ability Array Chosen:** Str 13, Dex 10, Con 14, Int 8, Wis 15, Cha 12
 * **Dwarf Species Benefits:** *Darkvision* (60 ft), *Dwarven Resilience*
   (Advantage and Resistance vs Poison), *Dwarven Toughness* (+1 maximum Hit
   Point), and *Stonecunning* (Tremorsense on stone as a Bonus Action).
 * **Acolyte Background Benefits:** +2 Wisdom, +1 Charisma. Insight and
-  Religion proficiencies. Calligrapher&rsquo;s Tools. Origin Feat:
-  **Magic Initiate (Cleric)**.
+  Religion proficiencies. Calligrapher&rsquo;s Tools. Origin Feat: **Magic
+  Initiate (Cleric)**.
 
 {{wide,monster,frame
 ### Orsik, Dwarf Acolyte
@@ -346,13 +351,13 @@ is cast.
 
 ***Dwarven Resilience.*** Orsik has _Advantage_ on saving throws against being
 Poisoned, and resistance to Poison damage. <br/>
-***Dwarven Toughness.*** Orsik&rsquo;s maximum Hit Points are increased by 1 
+***Dwarven Toughness.*** Orsik&rsquo;s maximum Hit Points are increased by 1
 (included above). <br/>
-***Stonecunning.*** As a Bonus Action, Orsik can gain Tremorsense out to a 
-range of 60 feet for 10 minutes while touching stone. He can use this a 
-number of times equal to his Proficiency Bonus per Long Rest. <br/>
+***Stonecunning.*** As a Bonus Action, Orsik can gain Tremorsense out to a
+range of 60 feet for 10 minutes while touching stone. He can use this a number
+of times equal to his Proficiency Bonus per Long Rest. <br/>
 ***Magic Initiate (Feat).*** Orsik knows the *Guidance* and *Sacred Flame*
-cantrips. Wisdom is his spellcasting ability. He has pre-selected the 
+cantrips. Wisdom is his spellcasting ability. He has pre-selected the
 1st-level spell *Bless* **(Locked until Level 1)**.
 
 ### Level 0 Traits
