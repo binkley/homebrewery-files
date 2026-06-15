@@ -54,7 +54,7 @@ be more difficult.
 *Small or Medium Humanoid, Any alignment*
 
 {{note
-You may not be a Commoner in your society, but your adventurous spirit sets
+You may be a _Commoner_, but your adventurous spirit sets
 you apart.
 }}
 
