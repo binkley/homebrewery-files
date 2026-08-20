@@ -50,18 +50,20 @@ This early page in the book changes as determined by the DM. The first time you 
 | Catalog | Item | Cost |
 | :- | :- | :- |
 | ADDL&#8209;633 | *[Amulet of Deterrence against Detection and Location](https://www.dndbeyond.com/magic-items/11689972-amulet-of-deterrence-against-detection-and)* &mdash; A great bargain! Your business is your own business! | 95 gp (12 gp delivery) |
-| APDL&#8209;2 | 💰 *Amulet of Proof against Detection and Location* &mdash; our competitor and we sell it. Only buy what you need unlike other vendors. Shop Funco&trade;! | 380 gp (12 gp delivery) |
-| BAG&#8209;17 | *Bag of Present Need* &mdash; Grab that ladder while on the go! **LOW STOCK. BUY YOURS NOW!** | Discuss with an agent on price and delivery. |
-| BOOT&#8209;17 | Go first quicker! Buy *Boots of Orckind* from Funco&trade; &mdash; we sell for less! | 10 gp (12 gp delivery) |
-| BOOT&#8209;19 | *Boots of Insulation* &mdash; Perfect companion for the fabulous *Javelin of Ground Fault*. Don’t get shocked again! | 45 gp (12 gp delivery) |
-| BNT&#8209;2 | Don’t forget lifting yourself or others with a block and tackle! Try out our powerful *Hoist*! | 4 gp (12 gp delivery for plain block and tackle) |
-| BTMS&#8209;112 | *Boots of Midstepping* &mdash; You’re halfway there! Take no chances! | 95 gp (12 gp delivery) |
-| BR&#8209;2 | *Sweeping Broom* &mdash; From our new **HOME** line of products. Never be embarrassed by guests again! You will *love* this broom. | 75 gp (12 gp delivery) |
-| EP&#8209;1 | *Eyes of Beguiling* &mdash; Show off your fabulous taste and charming personality! | 95 gp, your lock of hair, scale, ooze, or appropriate (12 gp delivery) |
-| HMM&#8209;12 | *Helm of Mind Meld* &mdash; Closer than you’ve ever been! Keep your friends close and your enemies closer! **GREAT PRESENT!** | 95 gp (12 gp delivery) |
-| JGF&#8209;19 | ***NEW AND IMPROVED!*** Zap the bad guys! Give them a shock with your own *Javelin of Ground Fault.* | 105 gp (12 gp delivery) |
-| OA&#8209;4 | *Orichalcum Armor* &mdash; Are *adamantine* or *mithral* armors overpriced? **A BEST SELLER!** | Work with us on sizing and armor choice. |
-| POLE&#8209;1 | <em>The classic 10-foot pole</em>. Our best seller. Consider upgrading to a *Pole of Collapsing* (POLE&#8209;33) or the incredible *Factotum Pole of Myriad Uses*! (IP&#8209;7). | **FREE** with other purchase! Sold separately. 12 gp delivery if not part of another order |
+| APDL&#8209;2 | 💰 *[Amulet of Proof against Detection and Location](https://www.dndbeyond.com/magic-items/4569-amulet-of-proof-against-detection-and-location)* &mdash; our competitor and we sell it. Only buy what you need unlike other vendors. Shop Funco&trade;! | 380 gp (12 gp delivery + 17 gp proof of authenticity) |
+| BAG&#8209;17 | *[Bag of Present Need](https://www.dndbeyond.com/magic-items/11898259-bag-of-present-need)* &mdash; Grab that ladder while on the go! **LOW STOCK. BUY YOURS NOW!** | Discuss with an agent on price and delivery. |
+| BOOT&#8209;17 | Go first quicker! Buy *[Boots of Orckind](https://www.dndbeyond.com/magic-items/11898320-boots-of-orckind)* from Funco&trade; &mdash; we sell for less! | 10 gp (12 gp delivery) |
+| BOOT&#8209;19 | *[Boots of Insulation](https://www.dndbeyond.com/magic-items/11767468-boots-of-insulation)* &mdash; Perfect companion for the fabulous *Javelin of Ground Fault*. Don’t get shocked again! | 45 gp (12 gp delivery) |
+| BNT&#8209;2 | Need a lift? Try our [block and tackle](https://www.dndbeyond.com/equipment/435-block-and-tackle)! For more power buy a _Hoist_! | 2 gp (12 gp delivery) |
+| BTMS&#8209;112 | *[Boots of Midstepping](https://www.dndbeyond.com/magic-items/11692663-boots-of-midstepping)* &mdash; You’re halfway there! Take no chances! | 95 gp (12 gp delivery) |
+| BR&#8209;2 | *[Sweeping Broom](https://www.dndbeyond.com/magic-items/11759787-sweeping-broom)* &mdash; From our new **HOME** line of products. Never be embarrassed to have guests again! You will *love* this broom. | 75 gp (12 gp delivery) |
+| EP&#8209;1 | *[Eyes of Beguiling](https://www.dndbeyond.com/magic-items/11692728-eyes-of-beguiling)* &mdash; Show off your fabulous taste and charming personality! | 95 gp, your lock of hair, scale, ooze, or appropriate (12 gp delivery) |
+| HMM&#8209;12 | *[Helm of Mind Meld](https://www.dndbeyond.com/magic-items/11898620-helm-of-mind-meld)* &mdash; Closer than you’ve ever been! Keep your friends close and your enemies closer! **GREAT PRESENT!** | 95 gp (12 gp delivery) |
+| HOIST&#8209;3 | Use our *[Hoist](https://www.dndbeyond.com/magic-items/11898344-hoist)* when you need more lift! Don&rsquo;t be left low with an inadequate _block and tackle_. | 18 gp (12 gp delivery)
+| JGF&#8209;19 | ***NEW AND IMPROVED!*** Zap the bad guys! Give them a shock with your own *[Javelin of Ground Fault](https://www.dndbeyond.com/magic-items/11898734-javelin-of-ground-fault).* | 105 gp (12 gp delivery) |
+| OA&#8209;4 | *[Orichalcum Armor](https://www.dndbeyond.com/magic-items/11736209-orichalcum-armor)* &mdash; Are *adamantine* or *mithral* armors overpriced? **A BEST SELLER!** | Work with us on sizing and armor choice. |
+| POLE&#8209;1 | _The classic [10-foot pole](https://www.dndbeyond.com/equipment/400-pole)_. Our best seller. Consider upgrading to a *Pole of Collapsing* (POLE&#8209;33) or the incredible *Factotum Pole of Myriad Uses*! (IP&#8209;7). | **FREE** with other purchases! Sold separately at 2 gp. 12 gp delivery if not part of another order |
+| POLE&#8209;23 | _[Factotum Pole of Myriad Uses](https://www.dndbeyond.com/magic-items/11692951-factotum-pole-of-myriad-uses)_. Show off your pole! Better than all competitors. | 1,499 gp (12 gp delivery) |
 }}
 
 #### Order a Match!
