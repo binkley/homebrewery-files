@@ -1,12 +1,13 @@
 # Funco Catalog
-*Wondrous item, common*
+**FUNCO&trade;!** &mdash; *Wondrous item, common*
 
 <br/>
 
 ***CATALOG UPDATE!***
 
-Keep current with fine Funco&trade; products for all your adventuring needs. *Frequently refreshed.*
-Our delivery prices have changed. Check with a representative. We stock everything you need and accept custom orders.
+Keep current with fine Funco&trade; Products for all your adventuring needs. *Frequently refreshed.*
+
+Our delivery prices have changed. Check with a representative. We stock everything you need and accept custom orders. If you can&rsquo;t find it with Funco&trade;, that&rsquo;s not "Fun"!
 
 {{note
 ##### Recent Disruptions
@@ -48,7 +49,7 @@ This early page in the book changes as determined by the DM. The first time you 
 {{wide
 | Catalog | Item | Cost |
 | :- | :- | :- |
-| ADDL&#8209;633 | *Amulet of Deterrence against Detection and Location* &mdash; A great bargain! Your business is your own business! | 95 gp (12 gp delivery) |
+| ADDL&#8209;633 | *[Amulet of Deterrence against Detection and Location](https://www.dndbeyond.com/magic-items/11689972-amulet-of-deterrence-against-detection-and)* &mdash; A great bargain! Your business is your own business! | 95 gp (12 gp delivery) |
 | APDL&#8209;2 | 💰 *Amulet of Proof against Detection and Location* &mdash; our competitor and we sell it. Only buy what you need unlike other vendors. Shop Funco&trade;! | 380 gp (12 gp delivery) |
 | BAG&#8209;17 | *Bag of Present Need* &mdash; Grab that ladder while on the go! **LOW STOCK. BUY YOURS NOW!** | Discuss with an agent on price and delivery. |
 | BOOT&#8209;17 | Go first quicker! Buy *Boots of Orckind* from Funco&trade; &mdash; we sell for less! | 10 gp (12 gp delivery) |
