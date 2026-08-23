@@ -68,12 +68,15 @@ This early page in the book changes as determined by the DM. The first time you 
 | HOIST&#8209;3 | *[Hoist](https://www.dndbeyond.com/magic-items/11898344-hoist)* &mdash; When you need more lift! Don&rsquo;t be left low with _Block and Tackle_. | 18 gp (12 gp delivery) |
 | JGF&#8209;19 | *[Javelin of Ground Fault](https://www.dndbeyond.com/magic-items/11898734-javelin-of-ground-fault)* &mdash; ***NEW AND IMPROVED!*** Give a shock of your own! | 220 gp (12 gp delivery) |
 | OA&#8209;4 | *[Orichalcum Armor](https://www.dndbeyond.com/magic-items/11736209-orichalcum-armor)* &mdash; Overpriced *adamantine* and *mithral* armor? **BEST SELLER!** | Work with us on sizing and armor choice. |
-| POLE&#8209;1 | *[10-foot pole](https://www.dndbeyond.com/equipment/400-pole)*. Our best seller. Upgrade  to raise your game! | 2 gp (12 gp delivery) <br/> **FREE** with other purchases on request |
-| POLE&#8209;23 | _[Factotum Pole of Myriad Uses](https://www.dndbeyond.com/magic-items/11692951-factotum-pole-of-myriad-uses)_. Show off your pole! Better than all competitors. | 1,499 gp (12 gp delivery) |
-| PC&#8209;1 | _[Portable Crucible](https://www.dndbeyond.com/magic-items/11909306-portable-crucible)_ &mdash; A Funco&trade; exclusive! Craft on the go! Perfect for your Artificers. | 340 gp (18 gp delivery) |
+| POLE&#8209;23 | *[Factotum Pole of Myriad Uses](https://www.dndbeyond.com/magic-items/11692951-factotum-pole-of-myriad-uses)*. Show off your pole! Better than all competitors. | 1,499 gp (12 gp delivery) |
+| PC&#8209;1 | _[Portable Crucible](https://www.dndbeyond.com/magic-items/11909306-portable-crucible)_ &mdash; A Funco&trade; exclusive! Craft on the go! Perfect for your Artificers. | 340 gp (28 gp delivery, some assembly required) |
 | PRA&#8209;2 | _[Repeater Attachment](https://www.dndbeyond.com/magic-items/11904929-prototype-repeater-attachment)_. Stop running out of ammunition or wasting time collecting misses. | 160 gp (12 gp delivery) |
 | SWW&#8209;1 | *[Scythe War Wain](https://www.dndbeyond.com/magic-items/11901551-scythe-war-wain)* &mdash; Reap the competition! Heavy freight rates apply. | 510 gp (60 gp delivery oversized freight) |
 }}
+
+#### Free Pole With Every Order
+
+Every order comes with a free [10-foot pole](https://www.dndbeyond.com/equipment/400-pole). Upgrade to our Funco&trade; exclusive *[Factotum Pole of Myriad Uses](https://www.dndbeyond.com/magic-items/11692951-factotum-pole-of-myriad-uses)*. For the budget-minded we sell the *[Pole of Angling](https://www.dndbeyond.com/magic-items/9228930-pole-of-angling)* and *[Pole of Collapsing](https://www.dndbeyond.com/magic-items/9228931-pole-of-collapsing)*.
 
 #### Order a Match!
 
