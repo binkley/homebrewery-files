@@ -96,6 +96,16 @@ Nestled in a fertile Hill Country valley west of Ostin. An insular fiefdom of st
 #### San Anjel (formerly San Angelo)
 A fortified oasis town at the junction of the Concho River branches. Famous for freshwater pearls and deep wells, serving as a key desert staging post.
 
+#### The Salt Lands
+
+With the realm operating on a mix of imperial coin and direct barter, salt is a high-value Texan export heavily guarded by the Empire. Key salt basins across the realm include:
+
+* **El Sal del Rey (Ed'nburg / lower valley):** A naturally occurring lake north of the Rio Grand where salt crystallizes along the shorelines, and harvesting is heavily guarded.
+* **The San Elizario Flats (Guadaloop Mountains):** Ancient alkali salt beds lost to the High Elves of New Mexico. Though occupied by Elven sentinels, the Texan Empire continuously plots campaigns to reclaim these coveted salt grounds.
+* **Grand Saline (formerly Van Zandt County):** A massive, shallow salt dome near the surface. Imperial miners call it *Morton's Salt*, named after a forgotten pre-fall merchant guild whose umbrella-bearing emblem is still etched into ancient stone mine shafts.
+* **The Hockley Vaults (Houston Region):** Deep subsurface pillars of rock salt near *Grave City*. While rich in pure mineral salt, several lower mine shafts remain toxic or chemically poisoned from pre-fall industry, requiring specialized salvage gear to harvest.
+* **The Salt Forks (North-Central Marches):** Brine-rich river branches including the Salt Fork of the Red River, the Salt Fork of the Brazos, and Salt Croton Creek. Frontier traders evaporate the brine in pans from salterns, occasionally unearthing massive, ancient fossils embedded in the saline mud.
+
 ### Borderlands & Strongholds
 
 #### El Vado (formerly Laredo)
@@ -197,3 +207,55 @@ Perched at the base of the Balcones Escarpment, **Sa'atone** (San Antonio) is a 
 * **The Stolen Sluice-Key:** A rogue artificer has sabotaged the primary pressure release valve in the Aquifer Vaults, threatening to flood the River Cut unless a rare replacement gear is retrieved from a drowning Houston vault.
 * **The Smuggler's Badge:** "Gutter-Jack" needs an escort for a caravan of pilgrims carrying forged Topo Chico badges through the Range-Keeper checkpoints outside Beeville.
 * **Desert Relic Run:** Baroness Ysabel hires the party to trek past the Chisos Redoubt into Mexican borderlands to recover a pre-fall solar irrigation module from an abandoned hacienda.
+
+\page
+
+## Currency & Barter
+
+In a realm where distant trade routes have fractured into medieval-style riverways and fortified caravan trails, commerce is driven by a mix of minted imperial specie, paper letters of credit, pre-fall scrap, and regional trade commodities.
+
+### Imperial Currency of Texas
+
+#### Brass Bit (1 CP Equivalent)
+Hammered pre-fall rifle and handgun brass shell casings, flattened into octagonal discs and stamped with a crude Imperial Star. Lower-class peasants, serfs, and wasteland scavengers call them "Shells" or "Bits." Because pure copper is hoarded by artificers for wiring and distillery stills, flattened brass serves as everyday pocket change.
+
+#### Silver Star or "Lone Star" (1 SP Equivalent)
+A clean, round silver coin minted jointly by the Imperial Treasury in Ostin and the banker-nobles of Dalla. Stamped with the Lone Star on the obverse and the Balcones Escarpment on the reverse, it is the workhorse currency for common market trade, inn stays, and soldier pay.
+
+#### Golden Spur or "Pink Crown" (1 GP Equivalent)
+A heavy gold coin minted in Ostin using gold extracted from the Llano Uplift batholith. Stamped with the profile of the Pink Citadel, it is carried primarily by landowning barons, wealthy merchants, and senior officers of the Remnant Guard.
+
+#### Cotton Scrip / Vault Notes (10 GP / 1 PP Equivalent)
+Often viewed suspiciously, water-resistant banknotes printed on heavy woven cotton-rag paper and sealed with a wax-and-lead imprint from the Banker-Nobles of Dallas or the Salt Vaults of Houston. Carrying hundreds of pounds of metal coin across bandit-plagued prairies is dangerous; Cotton Scrip acts as a letter of credit redeemable for physical bullion or salt rights at major banking houses in Ostin, Dalla, or Port Corpus.
+
+#### Black Gold
+
+
+---
+
+### Foreign & Borderland Specie
+
+* **Mexican Silver Reales:** High-purity, heavy silver coins minted by the secretive Empire of Mexico. Highly valued by Texan merchants and smugglers for their reliable weight, often fetching a 10–20% premium over Imperial Stars.
+* **Elven Solar-Glass Tokens:** Blown from high-purity silica glass and enchanted by the High Elves of New Mexico. They glow with a faint, warm sunlight when held and cannot be forged by human smiths. Artificers in Texas pay steep prices to study their permanent luminescence.
+
+---
+
+\column
+
+### Major Trade Commodities
+
+| Commodity | Primary Source | Regional Value & Usage |
+| :--- | :--- | :--- |
+| **Pecos Jerky & Sorghum** | Mission Fiefdoms, Viktoria | Standard trail rations; beef and grain cured with salt-dome salt and mesquite smoke. |
+| **Black Pitch & Petroleum** | Spindle-Bay, Houston, Three Rivers | Raw siege fuel, lamp oil, machine lubricant, and Alchemist’s Fire catalyst. |
+| **Green Bottle-Glass** | Coastal Shrines, Drowned Ruins | Used as pilgrimage offerings at *Our Lady of Topo Chico*, raw material for optics, or melted down by glassblowers. |
+| **Llano Crucible Steel** | Iron-Dome | High-grade spring steel and iron ingots stamped with furnace marks; the backbone of Texan armor and cannon forging. |
+| **Copper Coils & Salvage Wire** | Houston Ruins, Boca Chica | Intact pre-fall electrical wiring; hoarded by water-artificers and spark-craftsmen at exorbitant prices. |
+
+{{note
+##### Quick Conversion Reference
+* **10 Brass Bits** = 1 Silver Star
+* **10 Silver Stars** = 1 Golden Spur
+* **10 Golden Spurs** = 1 Cotton Scrip (10 GP)
+* **Pre-Fall Scrap:** Unrefined copper wire, intact glass bottles, and sealed spark-cells are accepted as direct barter in most border markets.
+}}
