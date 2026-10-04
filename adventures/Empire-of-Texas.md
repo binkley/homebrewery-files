@@ -1,7 +1,6 @@
 # The Empire of Texas
-## A Post-Fall Fantasy Campaign Setting
 
-Set in a distant future Texas, this campaign blends late Medieval and early Renaissance feudalism with remnants of pre-fall technology.
+Texas set in a distant or alternate future, this campaign blends late Medieval and early Renaissance feudalism with remnants of pre-fall technology.
 
 ### The Geopolitical Realm
 * **The Empire of Texas:** A fragmented, human-dominated empire in name only—comprising rump Texas, rump Oklahoma, and western Louisiana.
@@ -172,6 +171,20 @@ Pilgrims wear stamped metal badges on their garment reflecting their destination
 
 \page
 
+{{descriptive
+##### Faction: The Order of the Index
+**Seat of Power:** Ostin  
+**Holy Relic:** *The Book: Ultimate Guide to Rebuilding Civilization*  
+
+A monastic brotherhood of scribes and scholars who guard a surviving pre-fall technical manual as divine scripture. They closely guard the old _University of Texas_ library.
+
+* **The High Abbot:** Interprets the "Holy Diagrams" for landowning barons in exchange for silver and land grants.
+* **The Liturgy:** Technical warnings ("WEAR EYE PROTECTION") are chanted as protective wards against demonic backlash.
+* **The Heresy of Inquiry:** Rebuilding tech without priestly blessing is punished by excommunication or trial by ordeal.
+}}
+
+\page
+
 ## Starter Hub: Sa'atone
 
 Perched at the base of the Balcones Escarpment, **Sa'atone** (San Antonio) is a bustling oasis city dominating river trade, grain production, and southern defense.
@@ -203,14 +216,13 @@ Perched at the base of the Balcones Escarpment, **Sa'atone** (San Antonio) is a 
 * **The Smuggler's Badge:** "Gutter-Jack" needs an escort for a caravan of pilgrims carrying forged Topo Chico badges through the Range-Keeper checkpoints outside Beeville.
 * **Desert Relic Run:** Baroness Ysabel hires the party to trek past the Chisos Redoubt into Mexican borderlands to recover a pre-fall solar irrigation module from an abandoned hacienda.
 
-#### Example Encounters
-
 {{descriptive
+#### Encounter: Sun-Catcher at Stonecut Market
 In the Stonecut Market, massive concrete flyovers of the old interchange provide some shade. You see an elderly "Sun-Catcher" with hand-polished copper reflectors on pulleys redirect some of the glare. A bell chimes warning. You see bright sun striking a vendor&rsquo;s delicate basket of fresh hill-country mint. You hear someone call out, _Master Tomas, the noon sun!_
 }}
 
 {{descriptive
-##### Encounter: Imperial Guards Looking for Bribes
+#### Encounter: Imperial Guards Looking for Bribes
 
 The guards know better, but give you a hard time. Likely they want a little "spread the wealth".
 
