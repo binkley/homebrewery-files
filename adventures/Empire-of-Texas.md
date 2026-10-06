@@ -275,3 +275,103 @@ A standard 42-gallon sealed barrel of refined crude or petroleum pitch. Too heav
 * **Mexican Silver Reales:** High-purity, heavy silver coins minted by the secretive Empire of Mexico. Highly valued by Texan merchants and smugglers for their reliable weight, often fetching a 10–20% premium over Imperial Stars.
 * **Elven Solar-Glass Tokens:** Blown from high-purity silica glass and enchanted by the High Elves of New Mexico. They glow with a faint, warm sunlight when held and cannot be forged by outside smiths. Artificers in Texas pay steep prices to study their permanent luminescence.
 * **Dead-Paper (Pre-Fall Currency):** Preserved pre-fall federal banknotes. Merchants and innkeepers reject them outright as useless clutter, though hedge-alchemists and blacksmiths occasionally buy bundles for a single Brass Bit to use as kindling or pipe-wadding. Some believe this paper has powers to discover.
+
+\page
+
+## First Encouter
+
+### The Scribe-Friars Litany
+
+**Location:** The Stonecut Market (Sa'atone), lower water-terrace <br>
+**Tone:** Atmospheric, social conflict, skill-focused <br>
+**Target Level:** 1–3 (Starter Party)
+
+#### GM Overview & Setup
+
+While navigating the shaded stone walkways of the River Cut, the party encounters **Friar Eliphas**, an itinerant monk of the **Order of the Index**. Clad in ink-stained burlap and wearing a heavy brass spectacle frame with mismatched lenses, Eliphas stands atop an overturned pitch crate preaching the "Liturgy of the Schematic."
+
+The scene escalates when an agent of the **Derrick League** accuses the monk of preaching trade secrets regarding oil filters and mechanical pressure, threatening to toss the friar—and his hand-copied holy relics—into the river.
+
+---
+
+##### Read-Aloud Text
+
+> The cool, damp shadow of the concrete flyovers overhead offers sweet relief from the Texas sun, but the market air is thick with tension. A small crowd of vendors and river-traders has gathered near a public water trough.
+> Standing on a wooden crate, a friar in a patchwork habit holds aloft a sheet of cracked vellum decorated with gold leaf and bright vermilion ink.
+> *"Hear ye the word of Chapter Four, Verse Twelve!"* the monk shouts, ringing a small brass handbell. *"Curse be upon he who bypasseth the inline gasket without the sacred sealant! For as the Prophet wrote: 'DO NOT OPERATE WITHOUT ADEQUATE VENTILATION!'"*
+> A burly man in grease-stained leather pushing through the crowd snaps his iron-tipped cane against the crate. *"Shut your mouth, index-crawler! The Derrick League owns all rights to pump seals in this fief. Give up that paper or you're going for a swim!"*
+
+---
+
+#### Key NPCs
+
+* **Friar Eliphas (Order of the Index):** Pious, eccentric, and fiercely protective of his "illuminated schematics." He does not understand how a carburetor works, but he believes misquoting the maintenance manual brings bad weather and crop failure.
+* **Agent Jax (Derrick League Enforcer):** A low-level corporate thug for the oil barons. Illiterate, bullyish, and eager to confiscate any written tech documents that might threaten his guild's local monopoly.
+* **The River Cut Crowd:** A mix of curious market vendors, townspeople, and off-duty Texas Ranger Guard recruits watching the spectacle unfold.
+
+---
+
+#### Tactical Situation & PC Approaches
+
+The encounter begins as Agent Jax grabs Friar Eliphas by the collar. During the scuffle, a stray elbow knocks the friar's leather satchel—containing a rare **Illuminated Leaf of Engine Assembly**—over the stone railing toward the churning waters of the canal below.
+
+```
+              [ Upper Terrace Walkway ]
+(Jax & Thugs) <---> [ Friar Eliphas ]
+                          |
+                 ~ ~ ~ ~ ~ | ~ ~ ~ ~ ~ ~ 
+               [ 15-foot Drop to Water ]
+               [ Falling Sacred Leaf   ]
+                 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
+```
+
+Players can react across three immediate fronts:
+
+##### 1. Catch the Falling Relic (Physical / Mobility)
+
+* **The Task:** A PC attempts to catch or retrieve the illuminated page before it hits the water and dissolves.
+* **Checks:**
+* **Dexterity / Acrobatics:** Leap over the stone railing to snag the vellum mid-air or dive into the river to recover it before it drifts downstream.
+* **Creative Solutions:** Using a whip, mage hand, lasso, or extended pole arm to snag the parchment before it submerges.
+
+
+##### 2. De-escalate or Out-Debate (Social / Lore)
+
+* **The Task:** Step between Jax and the Friar to defuse the violent confrontation using logic, law, or authority.
+* **Checks:**
+* **Charisma / Persuasion:** Appeal to the crowd and off-duty Ranger Guards, citing the *Law of the Pint* (no violence near public drinking water).
+* **Intelligence / Ancient History or Arcana:** Cite dummy trade laws or fake religious scripture to confuse Jax: *"According to the Ostin Summit of '84, public recitation of non-operational schematics is protected under Pilgrim Travel Rights."*
+* **Charisma / Intimidation:** Threaten Jax with local market justice or step in with drawn steel.
+
+##### 3. Out-Bribe or Barter (Economic)
+
+* **The Task:** Pay off the guild enforcer to buy the friar's freedom without drawing blood.
+* **Cost:** Jax agrees to back down for **3 Silver Stars** or a single jar of unrefined lamp oil.
+
+#### Outcomes & Resolution
+
+* **Major Success (Relic Saved & Jax Backs Down):** Friar Eliphas is overwhelmed with gratitude. He bestows his blessing upon the party (*granting a minor one-time reroll or luck token for their next exploration check*) and offers them a place to sleep at the local Scribe-Hospice.
+* **Partial Success (Friar Saved, Relic Lost/Damaged):** Eliphas is safe but mourns the water-damaged page. He still offers the party a lead on a local quest in exchange for helping him dry his remaining scrolls.
+* **Combat Escalation:** If PCs attack Jax outright, two additional Derrick League thugs join from the crowd. Local Ranger Guards step in within 3 rounds to break up the brawl, arresting anyone who draws lethal weapons under Sa'atone city law.
+
+#### Campaign Hooks & Rewards
+
+* **The Reward:** Friar Eliphas gives the party a hand-drawn **Pilgrim's Map of the Piney Woods**, showing safe travel paths, clean wells, and secret abbeys between Sa'atone and Nacog.
+* **The Quest Lead:** Eliphas reveals he was traveling to Sa'atone to meet a contact at the **Alamo Citadel**. He possesses an incomplete page from *The Book* describing "Subterranean Pressure Valves" and needs an escort into the **Aquifer Vaults** to see if the ancient pumps match the holy text.
+
+{{descriptive
+##### GM Design Note: Formatting Encounter Modules
+This layout uses a standardized 5-block structure for GM usability:
+1. **At-a-Glance Headers:** Location, Tone, Level, and Core Conflict.
+2. **Read-Aloud Sensory Text:** Immediate narrative hook for the table.
+3. **NPC Profiles:** Bulleted Motivations & Roles.
+4. **Multi-Track Solutions:** Physical, Social, and Economic player options with concrete skill checks.
+5. **Outcomes & Campaign Hooks:** Clear mechanical rewards and narrative links to the broader setting.
+}}
+
+## Adventure Modules
+
+### The Monks of Ut
+
+Closely preserving (but not using) knowledge from old times, the Ostin monastery of Ut guards the old University of Texas campus, especially the library. They consider John B. Goodenough as their patron saint, and jealously guard "The Book" &mdash; still pristine in its original shipping box.
