@@ -2,11 +2,17 @@
 
 After time and effort taming a wild Mimic, you have a somewhat loyal pet. The size and abilities of your tame Mimic vary. 
 
-A tame Mimic is smarter than a bird, cat or dog, but is still a wild aberration.
+A tame Mimic is smarter than a bird, cat or dog, but is still a wild aberration. Treat it as a very smart cat with the personality of a shark.
 
 ## Training
 
 Training an Aberration such as a mimic requires convincing its predatory mind that cooperation yields safer food than eating its trainer. Once tamed, a mimic accepts only one master and demands daily care to remain loyal.
+
+{{note
+An excellent varmint. See this hand? Training a wild Mimic is not for the faint of heart.
+
+&mdash; Nine-fingered Johnson, Bounty Hunter
+}}
 
 ### Leash (Control)
 
@@ -30,11 +36,13 @@ When attuning choose Strength, Wisdom, or Charisma.
 
 The mimic uses your chosen modifier for its attack rolls and its **Mimic Save DC**: _8 + your Proficiency Bonus + chosen modifier_. For all other checks and traits, the mimic uses its own ability scores.
 
-Once attuned, it binds to your voice and scent:
+\column
 
-_**Trainer's Speech:**_ The mimic understands your spoken voice in the language you trained it in, obeying your commands. It does not understand other creatures.
+Once attuned, the mimic binds to your appearance, voice, and scent:
 
-_**New Friends:**_ During a Short or Long Rest, you can command the mimic to recognize up to a number of creatures equal to your chosen modifier as allies, obeying their commands and treating them as non-prey.
+_**Loyalty:**_ The mimic understands your gestures and voice in the language used during its training (including _Common Sign Language_). It obeys your commands and ignores commands from all other creatures.
+
+_**New Friends:**_ During a Short or Long Rest, you can instruct the mimic to recognize a number of creatures up to your chosen modifier as allies. The mimic treats these creatures as non-prey and obeys their commands (your com
 
 _**Softer Stomach:**_ On command, the mimic suppresses its digestive acids, allowing nonmagical objects to be safely stored in its cavity.
 
