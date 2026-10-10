@@ -40,7 +40,7 @@ The mimic uses your chosen modifier for its attack rolls and its **Mimic Save DC
 
 Once attuned, the mimic binds to your appearance, voice, and scent:
 
-_**Loyalty:**_ The mimic understands your gestures and voice in the language used during its training (including _Common Sign Language_). It obeys your commands and ignores commands from all other creatures.
+_**Loyalty:**_ The mimic understands your gestures and voice in the language used during its training (including _Common Sign Language_). It obeys your commands and ignores commands from all other creatures. It is inherently hostile toward Beasts, seeing them as food.
 
 _**New Friends:**_ During a Short or Long Rest, you can instruct the mimic to recognize a number of creatures up to your chosen modifier as allies. The mimic treats these creatures as non-prey and obeys their commands (your com
 
