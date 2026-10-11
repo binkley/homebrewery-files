@@ -2,7 +2,7 @@
 
 After time and effort taming a wild mimic, you have a somewhat loyal pet. The size and abilities of your tame mimic vary. 
 
-A tame mimic is smarter than a bird, cat or dog, but is still a wild aberration. Treat it as a very smart cat with the personality of a shark.
+A tame mimic is smarter than a bird, cat, or dog, but is still a wild aberration. Treat it as a very smart cat with the personality of a shark.
 
 ## Training
 
@@ -16,38 +16,37 @@ An excellent varmint. See this hand? Training a wild mimic is not for the faint 
 
 ### Leash (Control)
 
-Taming requires daily interaction over a set duration based on the mimic's size category. Choose one or more methods during training:
+Taming requires daily interaction and feeding by you personally over a set duration. Methods include:
 
 _**Coercion (Magic):**_ Spells like _Geas_ (30-day duration), _Modify Memory_, or _Charm Monster_ make feeding safe and grant automatic success on weekly taming checks.
 
-_**Conditioning (Checks):**_ Spend at least 1 complete hour daily with the mimic. At the end of each week, make a DC 13 Charisma (Persuasion) or Wisdom (Animal Handling) check (or use the _Influence_ action). Three total failures reset all progress and trigger an immediate attack. (This check is also needed when _Bloodied_.)
+_**Conditioning (Checks):**_ Spend at least 1 complete hour daily with the mimic. At the end of each week, make a DC 13 Charisma (Persuasion) or Wisdom (Animal Handling) check (or use the _Influence_ action). Three total failures reset all progress and trigger an immediate attack.
 
-_**Bribery (Delicacies):**_ Offering delicacies grants _Advantage_ on weekly checks (10 gp of coins/gems or 50 gp of magic items). Each 200 gp of delicacies consumed reduces total taming time by 1 week.
+_**Bribery (Delicacies):**_ Delicacies fed by you grant _Advantage_ on weekly checks. These include 50 gp of coins/gems or 200 gp of magic items. Most other items are just food. A successful check in a week with a delicacy reduces total taming time by an additional 1 week.
 
 {{note
-Use market meat or a local sheep. Bigger forms mean bigger appetites. My &ldquo;former companions&rdquo; objected to a hopeless beggar as food. They made several days feeding and had nothing further to say.
+Use market meat or a local sheep. Bigger forms mean bigger appetites. My &ldquo;former companions&rdquo; objected to a hopeless beggar as food. All made several days feeding and had nothing further to say.
 
 &mdash; Thraq, Dark Wizard (deceased)
 }}
 
+\column
+
 ### Collar (Attunement)
 
-When attuning choose Strength, Wisdom, or Charisma.
-
-The mimic uses your chosen modifier for its attack rolls and its **Mimic Save DC**: _8 + your Proficiency Bonus + chosen modifier_. For all other checks and traits, the mimic uses its own ability scores.
-
-\column
+When attuning chose Strength, Wisdom, or Charisma.
 
 Once attuned, the mimic binds to your appearance, voice, and scent:
 
+_**Loyalty:**_ Your mimic understands your gestures and voice in the language used during its training (including _Common Sign Language_). It obeys your commands and, by default, ignores commands from all other creatures. It is inherently hostile toward beasts, seeing them as food. It changes form or attacks or follows your general commands.
 
-_**Loyalty:**_ The mimic understands your gestures and voice in the language used during its training (including _Common Sign Language_). It obeys your commands and, by default, ignores commands from all other creatures. It is inherently hostile toward Beasts, seeing them as food.
+_**Bound Prowess:**_ The mimic uses _your Proficiency Bonus + your chosen ability modifier_ for its attack rolls, and its **Mimic Save DC** equals _8 + your Proficiency Bonus + your chosen ability modifier_. For all other checks and traits, the mimic uses its own statistics.
 
-_**New Friends:**_ During a Short or Long Rest, you can instruct the mimic to recognize a number of creatures up to your chosen modifier as allies. The mimic treats these creatures as non-prey and obeys their commands (your commands take precedence if a conflict arises).
+_**Softer Stomach:**_ The mimic supresses its digestive acids allowing you to stow objects safely within.
 
-_**Softer Stomach:**_ On command, the mimic suppresses its digestive acids, allowing nonmagical objects to be safely stored in its cavity.
+_**Selective Adhesion:**_ The mimic suppresses its _Adhesive_ trait for you.
 
-_**Selective Adhesion:**_ On command, the mimic suppresses its Adhesive trait for you and approved allies.
+_**New Friends:**_ During a Short or Long Rest, you can instruct the mimic to recognize a number of creatures up to your chosen modifier as allies. The mimic is loyal to these creatures while this feature is in effect. If creatures give conflicing commands, make a Conditioning check that the mimic remains tame.
 
 {{note
 Never forget what this is. It does not love you. The purring is incessant. It eats, and respects the leash. Three days hungry, it eats you last. Carnage to your enemies and more feeding. It is my close companion. Do not forget your spells.
@@ -61,14 +60,14 @@ A tamed mimic obeys verbal commands within 30 feet. Beyond 30 feet, it follows i
 
 _**Self-Preservation:**_ Issuing a directly self-destructive or life-ending command ends attunement immediately, causing the mimic to revert to a wild state.
 
-_**mimic Mood:**_ When the mimic drops to half its maximum Hit Points or lower (_Bloodied_), make a _Conditioning_ check. On a failure, attunement breaks and the mimic turns hostile.
+_**Mimic Mood:**_ When the mimic drops to half its maximum Hit Points or lower (_Bloodied_), make a _Conditioning_ check. On a failure, attunement breaks and the mimic turns hostile.
 
 \page
 
 {{wide
 ## Different Sizes
 
-mimics come in different sizes depending on age. You may encounter wild mimics of different ages in your travels that you can attempt to tame.
+Mimics come in different sizes depending on age. You may encounter wild mimics of different ages in your travels that you can attempt to tame.
 
 | Age       | Size   | Rarity    | Taming Time | Daily Meat | Example Forms    | Storage Capacity     |
 |:----------|:-------|:----------|:------------|:-----------|:-----------------|:---------------------|
@@ -101,7 +100,7 @@ In a tavern check for breathing. Not patrons&mdash;the walls. Watch the barkeep.
 
 #### Adult (Medium / Very Rare)
 
-* _**Independent Guardian:**_ In combat, your tame mimic rolls its own **Initiative** and acts on its own turn as an independent ally using the **mimic** stat block while still following commands.
+* _**Independent Guardian:**_ In combat, your tame mimic rolls its own **Initiative** and acts on its own turn as an independent ally using the **Mimic** stat block while still following commands.
 * _**Campsite Sentry:**_ While in object form, your tame mimic has Darkvision (60 ft) and Tremorsense (60 ft).
 
 #### Elder (Large / Legendary)
@@ -111,7 +110,7 @@ In a tavern check for breathing. Not patrons&mdash;the walls. Watch the barkeep.
 
 #### Hoard (Huge / Artifact)
 
-* _**Territorial Apex:**_ Your tame mimic acts as an independent ally using the **Hoard mimic** stat block, guarding a defined area up to a 100-foot cube on your behalf.
+* _**Territorial Apex:**_ Your tame mimic acts as an independent ally using the **Hoard Mimic** stat block, guarding a defined area up to a 100-foot cube on your behalf.
 * _**Aberration Shelter:**_ Your tame mimic can form an enclosed, weather-proof structure (such as a cottage or vault).
 
 {{note
