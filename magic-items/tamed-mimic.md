@@ -1,4 +1,4 @@
-# Tame Mimic
+# Tamed Mimic
 
 After time and effort taming a wild mimic, you have a somewhat loyal pet. The size and abilities of your tame mimic vary. 
 
