@@ -5,19 +5,46 @@ A Placeholder Name
 
 - Works like D&D 5e and Pathfinder 2e but simpler.
 - Focus on the Pillars in gaming. 
-- XXX (working name: Support) covers healing, crafting, research, recovery, minions, projects, and other activities done outside of encounters.
 - Ability scores are only the four pillars.
 - Classes are focuses on pillars; a character chooses a primary pillar focus.
 - Starting 1st-level characters pick a pillar to focus on: this is their “class”.
 - 1st-level characters can pick a “focus” (e.g., Archer focus for Combatant class).
 - Specialization beyond the starting focus can be negotiated with the GM or taken from defaults
+- Advancement is quicker and more capped than D&amp;D or Pathfinder
+- Favorite Pathfinder feature: 3 action economy
+- Favorite D&D feature: Advantage/Disadvantage
  
 ## The Four Pillars
 
 - Combat
+  - Direct conflict
+  - Weapon use
+  - Tactical positioning
+  - Overcoming opponents through force or precision
 - Exploration
+  - Navigation
+  - Perception
+  - Stealth
+  - Traps
+  - Environmental challenges
+  - Mapping
+  - Discovering what the world contains
 - Social
-- Support (working name — healing, crafting, research, recovery, projects, and enabling activities)
+  - Persuasion
+  - Deception
+  - Negotiation
+  - Insight
+  - Reputation
+  - Leadership
+  - Resolving situations through people
+- Support
+  - Healing
+  - Recovery
+  - Crafting
+  - Research
+  - Projects
+  - Home base
+  - Minions
 
 ## All Characters
 
@@ -33,7 +60,7 @@ Classes are the primary pillar a character focuses on. At 1<sup>st</sup>-level y
 
 ## Combatant
 
-You master the Combat pillar. You freely use any armor or weapon.
+You master the Combat pillar. You freely use any armor or weapon. You roll initiative with _Advantage_.
 
 ## Focuses
 
@@ -43,7 +70,7 @@ You use ranged weapons with _Advantage_.
 
 ### Guardian
 
-You excel at protection and holding the line. (Default benefits negotiated or assigned by GM.)
+You excel at protection and holding the line.
 
 ### Skirmisher
 
@@ -57,7 +84,7 @@ You excel at single-target precision and defense.
 
 ## Explorer
 
-Your master the Exploration pillar. You freely use any armor that is not heavy, and any weapon.
+You master the Exploration pillar. You freely use any armor that is not heavy, and any weapon. You roll initiative with _Advantage_.
 
 ## Focuses
 
@@ -83,7 +110,7 @@ Perception, mapping, and environmental detail.
 
 (Social pillar — name still open)
 
-Your master the Social pillar.
+You master the Social pillar.
 
 ## Focuses
 
@@ -109,7 +136,7 @@ Insight, counsel, and building trust.
 
 (Support pillar — name still open)
 
-Your master the Support pillar (healing, crafting, research, recovery, projects).
+You master the Support pillar (healing, crafting, research, recovery, projects).
 
 ## Focuses
 
@@ -133,10 +160,13 @@ Resources, holdings, and long-term management.
 
 ## Advancement
 
-Character levels raise pillar scores and grant features or negotiated character features.
+At each character level increase you get 3 character points:
 
-Each level (or every few levels) a character may raise pillar scores and gain specialization options.
-Players may negotiate up to three specialties per level with the GM, or accept default improvements for their Focus.
+- Increase any pillar score by +1 (2 points)
+- Gain a new feature suitable to your level to negotiatiate with your GM (1 point)
+- Acquire a new magic item suitable to your level (1 point)
+
+TODO: Should there be a cap on max pillar scores? What if a player takes the +1 on a score every level up.
 
 \page
 
