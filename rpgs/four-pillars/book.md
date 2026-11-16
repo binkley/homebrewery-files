@@ -1,9 +1,10 @@
 # RPG With No Name
-A Placeholder Name
+A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
 
 ## Goals
 
 - Works like D&D 5e and Pathfinder 2e but simpler.
+- GM decides things, minimize rules lawyering.
 - Focus on the Pillars of gaming. 
 - The four pillar scores replace the traditional six ability scores and the skills.
 - Use the Support pillar outside downtime, including healing and most spell-casting.
@@ -26,6 +27,7 @@ A Placeholder Name
   - Weapon use
   - Tactical positioning
   - Overcoming opponents through force or precision
+  - Crowd Control &mdash; should this be for Support pillar?
 - Exploration
   - Navigation
   - Perception
@@ -43,7 +45,7 @@ A Placeholder Name
   - Leadership
   - Resolving situations through people
 - Support
-  <br/>Lots of rules in RPGs on this pillar, but not explicity called out
+  <br/>Lots of rules in RPGs around this pillar, but not explicity called out by them as such.
   - Healing
   - Recovery
   - Crafting
@@ -51,6 +53,7 @@ A Placeholder Name
   - Projects
   - Home base
   - Minions
+  - Crowd Control &mdash; TODO: is this only for Combat?
 
 \page
 
