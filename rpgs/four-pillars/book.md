@@ -146,7 +146,7 @@ You excel at ranged combat. You use ranged weapons with _Advantage_ when a targe
 
 ### Guardian
 
-You excel at protection and holding the line. When an close-by ally is hit by an attack, you may use your reaction to become the target instead.
+You excel at protection and holding the line. When an ally next to you is hit by an attack, you may use your reaction to become the target instead and take the damage or effects.
 
 ### Skirmisher
 
@@ -166,7 +166,7 @@ You master the Exploration pillar. You freely use any armor that is not heavy, a
 
 ### Scout
 
-Stealth, reconnaissance, and avoiding notice. You have Advantage on Stealth checks. When you are hidden and make an attack, you do not automatically reveal your position if the attack misses. Once per encounter you may take the Hide action as a bonus action.
+Stealth, reconnaissance, and avoiding notice. You have Advantage on being stealthy. When you are hidden and make an attack, you do not automatically reveal your position if the attack misses. Once per encounter you can hide as a free action.
 
 ### Pathfinder
 
@@ -198,7 +198,7 @@ Deception, disguise, and false identities. You have Advantage on Deception check
 
 ### Orator
 
-Inspiration, leadership, and public presence. Once per encounter, when you address a group or a key listener, you may shift the their attitude one step friendlier, or grant your allies Advantage on their next Social check involving that group.
+Inspiration, leadership, and public presence. Once per encounter, when you address a group or a key listener, you may shift their disposition to you one step friendlier, or grant your allies Advantage on their next Social check involving that group.
 
 ### Confidant
 
@@ -218,7 +218,7 @@ Recovery, treatment, and stabilization. Add your Support modifier to healing you
 
 ### Crafter
 
-Creating, repairing, and improving items. Crafting take half either the usual time or cost (your choice).
+Creating, repairing, and improving items. Crafting takes half either the usual time or cost (your choice).
 
 ### Scholar
 
@@ -235,7 +235,7 @@ Resources, holdings, and long-term management. A place you manage produces one e
 At each character level increase you get 3 character points:
 
 - Increase any pillar score by +1 (2 points)
-- Gain a new feature suitable to your level to negotiatiate with your GM (1 point)
+- Gain a new feature suitable to your level to discuss with your GM (1 point)
 - Acquire a new magic item suitable to your level (1 point)
 
 \page
