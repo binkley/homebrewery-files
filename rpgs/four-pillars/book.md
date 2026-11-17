@@ -111,6 +111,8 @@ Coming from D&amp;D or Pathfinder, map your ancestry/species and background abil
 | Wisdom | Exploration or Social or Support |
 | Charisma | Social |
 
+Using Strength for Support is interesting. You don&rsquo;t just hit things: you can push and lift.
+
 #### Best You Can Do
 
 Regardless of your pillar scores, you can never have a bonus above +5 from these. You may have other features or magic items to go higher. Best of luck to you.
