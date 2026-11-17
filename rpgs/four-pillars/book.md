@@ -229,3 +229,10 @@ At each character level increase you get 3 character points:
 - Increase any pillar score by +1 (2 points)
 - Gain a new feature suitable to your level to negotiatiate with your GM (1 point)
 - Acquire a new magic item suitable to your level (1 point)
+
+
+\page
+
+## Usage Rights
+
+Brian Oxley Homebrewery &copy; 2026 Brian Oxley &mdash; Contents licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free for noncommercial use with attribution &mdash; I _want_ you to reuse this work in your campaigns and free projects. For commercial use, please contact the author.
