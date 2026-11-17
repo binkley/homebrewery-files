@@ -3,23 +3,19 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
 
 ## Goals
 
-- Works like D&D 5e and Pathfinder 2e but simpler.
-- Minimize rules lawyering: the GM decides.
-- Focus on the Pillars of gaming. 
-- The four pillar scores replace the traditional six ability scores and the skills.
-- Use the Support pillar outside downtime, including healing and most spell-casting.
-- Starting 1st-level characters pick a pillar to focus on: this is their “class”.
-- 1st-level characters can pick a “focus” (e.g., Archer focus for Combatant class).
-- Specialization beyond the starting focus can be negotiated with the GM or taken from defaults
-- Advancement is quicker and more capped than D&amp;D or Pathfinder
+- The GM runs the show including rulings on rules and character features.
+- Focus on the Pillars of gaming. Add a Support pillar. Replace the traditional six ability scores and skills with pillar scores.
+- Works like D&D 5.5e and Pathfinder 2e but simpler.
+- Build out the Support pillar outside of downtime. Include healing and much spell-casting.
+- Characters can focus and specialize from their start.
+- Level 1-10 rather than 1-20.
 - Map classes to roles:
   - Combatant (controller/tank/striker)
   - Explorer (ranger/rogue/scout)
   - Speaker (face)
   - Scholar (healer/utility/wizard)
-- When in doubt and equivalent, prefer Advantage over flat bonuses &mdash; more table enjoyment
-- **Favorite Pathfinder feature:** 3 action economy
-- **Favorite D&D feature:** Advantage/Disadvantage
+- **Favorite D&D feature:** Advantage/Disadvantage over flat bonuses
+- **Favorite Pathfinder feature:** 3 action economy over bonus actions
 
 ## The Four Pillars
 
