@@ -17,6 +17,7 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
   - Explorer (ranger/rogue/scout)
   - Speaker (face)
   - Scholar (healer/utility/wizard)
+- When in doubt and equivalent, prefer Advantage over flat bonuses &mdash; more table enjoyment
 - **Favorite Pathfinder feature:** 3 action economy
 - **Favorite D&D feature:** Advantage/Disadvantage
 
@@ -133,19 +134,19 @@ You master the Combat pillar. You freely use any armor or weapon. You roll initi
 
 ### Archer
 
-You use ranged weapons with _Advantage_.
+You excel at ranged combat. You use ranged weapons with _Advantage_ when a target is within normal range.
 
 ### Guardian
 
-You excel at protection and holding the line.
+You excel at protection and holding the line. When an close-by ally is hit by an attack, you may use your reaction to become the target instead.
 
 ### Skirmisher
 
-You excel at mobile melee and opportunistic strikes.
+You excel at mobile melee and opportunistic strikes. When you hit with a melee weapon, you may move up to 10 feet with no opportunity attacks from your opponents.
 
 ### Duelist
 
-You excel at single-target precision and defense.
+You excel at single-target precision and defense. When you attack a creature and no other creature is next to it, roll with Advantage. You may do this once per round.
 
 \page
 
@@ -157,25 +158,23 @@ You master the Exploration pillar. You freely use any armor that is not heavy, a
 
 ### Scout
 
-Stealth, reconnaissance, and avoiding notice.
+Stealth, reconnaissance, and avoiding notice. You have Advantage on Stealth checks. When you are hidden and make an attack, you do not automatically reveal your position if the attack misses. Once per encounter you may take the Hide action as a bonus action.
 
 ### Pathfinder
 
-Navigation, tracking, and wilderness travel.
+Navigation, tracking, and wilderness travel. You and allies within 30 feet travel at a faster pace without the usual penalties (no disadvantage on Perception, no increased chance of exhaustion). Once per day you may automatically find a safe route, shortcut, or source of fresh water or shelter.
 
 ### Delver
 
-Traps, locks, and dungeon hazards.
+Traps, locks, and dungeon hazards. You have Advantage on checks to find or disable traps and to open locks.
 
 ### Surveyor
 
-Perception, mapping, and environmental detail.
+Perception, mapping, and environmental detail. You have Advantage sensing around and accurately map areas with those senses as you pass through.
 
 \page
 
 ## Speaker
-
-(Social pillar — name still open)
 
 You master the Social pillar.
 
@@ -183,25 +182,23 @@ You master the Social pillar.
 
 ### Negotiator
 
-Persuasion, deals, and calming.
+Persuasion, deals, and calming. You have Advantage on checks to persuade or reach a peaceful agreement.
 
 ### Infiltrator
 
-Deception, disguise, and false identities.
+Deception, disguise, and false identities. You have Advantage on Deception checks to maintain a disguise or false identity.
 
 ### Orator
 
-Inspiration, leadership, and public presence.
+Inspiration, leadership, and public presence. Once per encounter, when you address a group or a key listener, you may shift the their attitude one step friendlier, or grant your allies Advantage on their next Social check involving that group.
 
 ### Confidant
 
-Insight, counsel, and building trust.
+Insight, counsel, and building trust. You have Advantage on Insight checks and on checks to calm or reassure a willing creature.
 
 \page
 
 ## Scholar
-
-(Support pillar — name still open)
 
 You master the Support pillar (healing, crafting, research, recovery, projects).
 
@@ -209,19 +206,19 @@ You master the Support pillar (healing, crafting, research, recovery, projects).
 
 ### Healer
 
-Recovery, treatment, and stabilization. Add Support modifier to healing; limited use in combat.
+Recovery, treatment, and stabilization. Add your Support modifier to healing you perform.
 
 ### Crafter
 
-Creating, repairing, and improving items.
+Creating, repairing, and improving items. Crafting take half either the usual time or cost (your choice).
 
 ### Scholar
 
-Research, lore, and ritual preparation.
+Research, lore, and ritual preparation. You have Advantage on research checks and may prepare one extra minor magical effect during downtime.
 
 ### Steward
 
-Resources, holdings, and long-term management.
+Resources, holdings, and long-term management. A place you manage produces one extra useful resource (supplies, coin, or information) each downtime period.
 
 \page
 
