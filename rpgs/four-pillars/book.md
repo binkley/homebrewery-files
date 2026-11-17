@@ -58,7 +58,7 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
 
 \page
 
-## All Characters
+## For the Player
 
 You may use any non-magical item, including weapons and armor. You may freely use any simple or common item. Any other item is used with _Disadvantage_.
 
@@ -230,6 +230,37 @@ At each character level increase you get 3 character points:
 - Gain a new feature suitable to your level to negotiatiate with your GM (1 point)
 - Acquire a new magic item suitable to your level (1 point)
 
+\page
+
+## For the Game Master
+
+### Monsters
+
+Use the creature’s strongest attack bonus, armor, and hit points to set its Combat score. Map Perception, Stealth, and special senses to Exploration. Map any social or leadership traits to Social. Map healing, minions, or long-term effects to Support. Then rewrite its key abilities in the new format. The same steps work for D&D 5.5e, Pathfinder 2e, or most other fantasy RPGs.
+
+### Example: Goblin Warrior
+
+{{note
+#### Goblin Warrior
+*Small humanoid, chaotic neutral*
+___
+- **Armor Class** 15
+- **Hit Points** 10
+- **Speed** 30 ft.
+- **Difficulty** 1
+- **Senses** Darkvision 60 ft.
+- **Languages** Common, Goblin
+___
+|Combat|Exploration|Social|Support|
+|:---:|:---:|:---:|:---:|
+|14|14|8|10|
+___
+***Go First.*** Roll initiative with Advantage. <br/>
+***Nimble Escape.*** The goblin can choose to Disengage or Hide on each of its turns.
+### Actions
+***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage. <br/>
+***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+}}
 
 \page
 
