@@ -54,8 +54,11 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
 
 \page
 
+{{wide
 ## For the Player
+}}
 
+### All Characters
 You may use any non-magical item, including weapons and armor. You may freely use any simple or common item. Any other item is used with _Disadvantage_.
 
 ### Pick Who You Are
@@ -70,14 +73,6 @@ If you are not sure what to suggest, here are examples based on other published 
 - Leshy (Pathfinder): _Superstition_ &mdash; You gain a +1 to saves against effects that would control or charm you, and you can automatically identify edible plants in natural environments.
 - Mouse (Mouse Guard): _Home Guard_ &mdash; Once per session, when you fail a check related to protecting your home or companions, you may reroll the check. You must keep the second result.
 - Rock Gnome (D&amp;D): _Handy_ &mdash; You have proficiency with tools and can spend 1 hour and 10 credits/gp of materials to construct a Tiny clockwork device (AC 5, 1 hp) that performs one simple action (noise, light, or movement) for up to 24 hours.
-
-### On Your Turn
-
-You get 3 actions. Most choices cost 1 action: move, attack, cast a simple spell, use an item, hide, so on. You also get 1 reaction, usable on another creature&rsquo;s turn.
-
-Some choices are free such as drawing or dropping a single weapon or item. Some choices cost 2 or 3 actions. A few choices may require actions across multiple turns.
-
-Your GM decides on what makes sense at the table.
 
 ### Starting Pillar Scores
 
@@ -122,11 +117,28 @@ Using Strength for Support is interesting. You don&rsquo;t just hit things: you 
 
 Regardless of your pillar scores, you can never have a bonus above +5 from these. You may have other features or magic items to go higher. Best of luck to you.
 
+### On Your Turn
+
+You get 3 actions. Most choices cost 1 action: move, attack, cast a simple spell, use an item, hide, so on. You also get 1 reaction, usable on another creature&rsquo;s turn.
+
+Some choices are free such as drawing or dropping a single weapon or item. Some choices cost 2 or 3 actions. A few choices may require actions across multiple turns.
+
+Your GM decides on what makes sense at the table.
+
+#### Attacking Again
+
+When you use your actions to attack more than once:
+
+- Any character can attack a second time as one of their 3 actions, but with Disadvantage
+- Some characters can attack the second time without Disadvantage, or make a third attack
+
 \page
 
+{{wide
 ## Classes
 
 Classes are the primary pillar a character focuses on. At 1<sup>st</sup>-level you choose one class (pillar) and one starting Focus within it. You may add another class and Focus at any level gain.
+}}
 
 \page
 
@@ -134,23 +146,95 @@ Classes are the primary pillar a character focuses on. At 1<sup>st</sup>-level y
 
 You master the Combat pillar. You freely use any armor or weapon. You roll initiative with _Advantage_.
 
-## Focuses
+Choose a focus from below at 1<sup>st</sup>-level.
+
+At 3 levels your 2<sup>nd</sup> attack in a turn is not at _Disadvantage_. At 5 levels you can strike a 3<sup>rd</sup> time in your turn with _Disadvantage_. At 7 levels your 3<sup>rd</sup> attack is not at _Disadvantage_. At 9 levels you gain 1 additional attack as a free action.
+
+### Generalist
+
+You trained in all styles of combat.
+
+#### 1 Level
+
+**Apprentice Attacker.** Once per encounter you have _Advantage_ on any attack.
+
+**Improvised Weapon.** No suitable item in reach is unusable as a melee weapon. Improvised melee weapons deal d4 damage.
+
+#### 2 Levels
+
+**Journeyman Attacker.** Once per encounter you have _Advantage_ on all attacks during your turn.
 
 ### Archer
 
-You excel at ranged combat. You use ranged weapons with _Advantage_ when a target is within normal range.
+You excel at ranged combat.
 
-### Guardian
+#### 1 Level
 
-You excel at protection and holding the line. When an ally next to you is hit by an attack, you may use your reaction to become the target instead and take the damage or effects.
+**Better Aim.** You use ranged weapons with _Advantage_ when a target is within normal range.
 
-### Skirmisher
+**Ranged Improvised Weapon.** No suitable item in reach is unusable as a ranged weapon. Improvised ranged weapons deal d6 damage with a 20 foot range.
 
-You excel at mobile melee and opportunistic strikes. When you hit with a melee weapon, you may move up to 10 feet with no opportunity attacks from your opponents.
+#### 2 Levels
+
+**Faster Shots.** Your second ranged attack each turn does not have _Disadvantage_ if the target is within normal range.
 
 ### Duelist
 
-You excel at single-target precision and defense. When you attack a creature and no other creature is next to it, roll with Advantage. You may do this once per round.
+You excel at single-target precision.
+
+#### 1 Level
+
+**Single Target.** When you attack a creature and no other creature is next to it, roll with _Advantage_. You may do this once per turn.
+
+**Come to Me.** Once per encounter you can call out a target up to 60 feet away to approach you best it can to within 5 feet of you.
+
+#### 2 Levels
+
+**Stronger Strikes.** When you hit a creature and no other creature is next to it, add your Combat modifier to the damage a second time.
+
+### Hand to Hand
+
+Your fists are your weapons.
+
+#### 1 Level
+
+**Dangerous Hands.** Your hands attack as d8 weapons.
+
+**Elemental Hands.** Once per encounter your fists take elemental aspects and deal that damage type for all attacks.
+
+**Improved Improvised Weapon.** No suitable item in reach is unusable as a melee weapon. Improvised melee weapons deal d6 damage.
+
+#### 2 Levels
+
+**Hazardous Hands.** Your hits are harder. Each turn double the damage dice on the first successful attack using your fists.
+
+### Guardian
+
+You excel at protection and holding the line. 
+
+#### 1 Level
+
+**Attack Me.** When an ally next to you is hit by an attack, you may use your reaction to become the target instead and take the damage or effects.
+
+**Missed by an Inch**. Once per encounter you can increase your AC by 5 as a reaction.
+
+#### 2 Levels
+
+**Push Back.** When you use your reaction to take a hit for an ally, you may also push the attacker 5 feet or knock it prone (your choice).
+
+### Skirmisher
+
+You excel at mobile melee and opportunistic strikes. 
+
+#### 1 Level
+
+**Nimble Feet.** When you are damaged from melee, you can react by moving up to 10 feet, and those in melee cannot attack you.
+
+**Speedy Feet.** Once per encounter you can dash with double your movement speed.
+
+#### 2 Levels
+
+**Dangerous Quarry.** When you are damaged from melee and react by moving, you may freely attack one time after moving.
 
 \page
 
@@ -158,11 +242,19 @@ You excel at single-target precision and defense. When you attack a creature and
 
 You master the Exploration pillar. You freely use any armor that is not heavy, and any weapon. You roll initiative with _Advantage_.
 
+Choose a focus from below at 1<sup>st</sup>-level.
+
 ## Focuses
 
 ### Scout
 
+#### 1 Level
+
 Stealth, reconnaissance, and avoiding notice. You have Advantage on being stealthy. When you are hidden and make an attack, you do not automatically reveal your position if the attack misses. Once per encounter you can hide as a free action.
+
+##### 2 Levels
+
+You may hide as a free action once per turn (instead of once per encounter).
 
 ### Pathfinder
 
@@ -226,6 +318,7 @@ Resources, holdings, and long-term management. A place you manage produces one e
 
 \page
 
+{{wide
 ## Advancement
 
 At each character level increase you get 3 character points:
@@ -233,10 +326,13 @@ At each character level increase you get 3 character points:
 - Increase any pillar score by +1 (2 points)
 - Gain a new feature suitable to your level to discuss with your GM (1 point)
 - Acquire a new magic item suitable to your level (1 point)
+}}
 
 \page
 
+{{wide
 ## For the Game Master
+}}
 
 ### Monsters
 
@@ -264,7 +360,6 @@ ___
 ### Actions
 ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage. <br/>
 ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
-}}
 
 \page
 
