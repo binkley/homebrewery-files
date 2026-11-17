@@ -144,15 +144,20 @@ Classes are the primary pillar a character focuses on. At 1<sup>st</sup>-level y
 
 ## Combatant
 
-You master the Combat pillar. You freely use any armor or weapon. You roll initiative with _Advantage_.
+You master the Combat pillar.
+
+**Martial Training.** You freely use any armor or weapon.
+
+**Quick To Act.** You roll initiative with _Advantage_.
+
+**TODO: TURN THIS TO A TABLE?** <br/>
+**On the Offense.** At 3 levels your 2<sup>nd</sup> attack in a turn is not at _Disadvantage_. At 5 levels you can attack a 3<sup>rd</sup> time in your turn with _Disadvantage_. At 7 levels your 3<sup>rd</sup> attack is not at _Disadvantage_. At 9 levels you gain 1 additional attack as a free action.
 
 Choose a focus from below at 1<sup>st</sup>-level.
 
-At 3 levels your 2<sup>nd</sup> attack in a turn is not at _Disadvantage_. At 5 levels you can strike a 3<sup>rd</sup> time in your turn with _Disadvantage_. At 7 levels your 3<sup>rd</sup> attack is not at _Disadvantage_. At 9 levels you gain 1 additional attack as a free action.
-
 ### Generalist
 
-You trained in all styles of combat.
+You trained in all styles of Combat.
 
 #### 1 Level
 
@@ -240,17 +245,43 @@ You excel at mobile melee and opportunistic strikes.
 
 ## Explorer
 
-You master the Exploration pillar. You freely use any armor that is not heavy, and any weapon. You roll initiative with _Advantage_.
+You master the Exploration pillar.
+
+**Ranger Training.** You freely use any armor that is not heavy, and any weapon.
+
+**Quick to Act.** You roll initiative with _Advantage_.
 
 Choose a focus from below at 1<sup>st</sup>-level.
 
 ## Focuses
 
-### Scout
+### Generalist
+
+You trained in all styles of Exploration.
+
+**TODO: THIS NEEDS HEAVY RETHINKING.**
 
 #### 1 Level
 
-Stealth, reconnaissance, and avoiding notice. You have Advantage on being stealthy. When you are hidden and make an attack, you do not automatically reveal your position if the attack misses. Once per encounter you can hide as a free action.
+**Apprentice Explorer.** Once per encounter you have _Advantage_ on any exploration check.
+
+**Improvised Tool.** No suitable item in reach is unusable as a tool for climbing, prying, or similar tasks. Improvised tools work without _Disadvantage_.
+
+#### 2 Levels
+
+**Journeyman Explorer.** Once per day you have _Advantage_ on all Exploration checks during your turn.
+
+### Scout
+
+Stealth, reconnaissance, and avoiding notice.
+
+#### 1 Level
+
+**Hard to Notice.** You have _Advantage_ on being stealthy.
+
+**Attack From Behind.** When you are hidden and make an attack, you do not automatically reveal your position if the attack misses.
+
+**Safer Spot.** Once per encounter you can hide as a free action.
 
 ##### 2 Levels
 
@@ -258,15 +289,37 @@ You may hide as a free action once per turn (instead of once per encounter).
 
 ### Pathfinder
 
-Navigation, tracking, and wilderness travel. You and allies within 30 feet travel at a faster pace without the usual penalties (no disadvantage on Perception, no increased chance of exhaustion). Once per day you may automatically find a safe route, shortcut, or source of fresh water or shelter.
+Navigation, tracking, and wilderness travel.
+
+#### 1 Level
+
+**Quick Guidance.** You and allies within 30 feet travel at a faster pace without the usual penalties (no disadvantage on Perception, no increased chance of exhaustion).
+
+**Safe Harbor.** Once per day you may automatically find a safe route, shortcut, or source of fresh water or shelter.
+
+#### 2 Levels
 
 ### Delver
 
-Traps, locks, and dungeon hazards. You have Advantage on checks to find or disable traps and to open locks.
+Traps, locks, and dungeon hazards.
+
+#### 1 Level
+
+**Clever Fingers.** You have _Advantage_ on checks to find or disable traps and to open locks.
+
+#### 2 Levels
 
 ### Surveyor
 
-Perception, mapping, and environmental detail. You have Advantage sensing around and accurately map areas with those senses as you pass through.
+Perception, mapping, and environmental detail.
+
+#### 1 Level
+
+**Good Observer.** You map your surroundings as you pass through keeping detailed notes, and refer later to these.
+
+**Good Listener.** After conversations you can take full notes without losing details as an Action, and refer later to these.
+
+#### 2 Levels
 
 \page
 
@@ -276,21 +329,57 @@ You master the Social pillar.
 
 ## Focuses
 
+### Generalist
+
+You trained in all styles of Social interaction.
+
+#### 1 Level
+
+**Apprentice Speaker.** Once per day you have _Advantage_ on one Social check.
+
+**Read the Room.** Once per encounter you may ask the GM one yes/no question for a truthful answer about a creature&rsquo;s current attitude or immediate goal.
+
+#### 2 Levels
+
+**Journeyman Speaker.** Once per day you have _Advantage_ on all Social checks during a single encouter.
+
 ### Negotiator
 
-Persuasion, deals, and calming. You have Advantage on checks to persuade or reach a peaceful agreement.
+Persuasion, deals, and calming.
+
+#### 1 Level
+
+**Apprentice Negotiator.** You have _Advantage_ on checks to persuade or reach a peaceful agreement.
+
+#### 2 Levels
 
 ### Infiltrator
 
-Deception, disguise, and false identities. You have Advantage on Deception checks to maintain a disguise or false identity.
+Deception, disguise, and false identities.
+
+#### 1 Level
+
+**Fake Face.** You have _Advantage_ on Deception checks to maintain a disguise or false identity.
+
+#### 2 Levels
 
 ### Orator
 
-Inspiration, leadership, and public presence. Once per encounter, when you address a group or a key listener, you may shift their disposition to you one step friendlier, or grant your allies Advantage on their next Social check involving that group.
+Inspiration, leadership, and public presence.
+
+#### 1 Level
+
+**Persuasive Voice.** Once per encounter, when you address a group or a key listener, you may shift their disposition to you one step friendlier, or grant your allies _Advantage_ on their next Social check involving that group.
 
 ### Confidant
 
-Insight, counsel, and building trust. You have Advantage on Insight checks and on checks to calm or reassure a willing creature.
+Insight, counsel, and building trust.
+
+#### 1 Level
+
+**Thoughtful Insight.** You have _Advantage_ on Insight checks and on checks to calm or reassure a willing creature.
+
+#### 2 Levels
 
 \page
 
@@ -300,21 +389,49 @@ You master the Support pillar (healing, crafting, research, recovery, projects).
 
 ## Focuses
 
+### Generalist
+
+You trained in all means of Support.
+
 ### Healer
 
-Recovery, treatment, and stabilization. Add your Support modifier to healing you perform.
+Recovery, treatment, and stabilization.
+
+#### 1 Level
+
+**Nurse.** Add your Support modifier to healing you perform.
+
+#### 2 Levels
 
 ### Crafter
 
-Creating, repairing, and improving items. Crafting takes half either the usual time or cost (your choice).
+Creating, repairing, and improving items. 
+
+#### 1 Level
+
+**Apprentice Crafter.** Crafting takes half either the usual time or cost (your choice).
+
+#### 2 Levels
 
 ### Scholar
 
-Research, lore, and ritual preparation. You have Advantage on research checks and may prepare one extra minor magical effect during downtime.
+Research, lore, and ritual preparation. 
+
+#### 1 Level
+
+**Doctoral Student.** You have Advantage on research checks and may prepare one extra minor magical effect during downtime.
+
+#### 2 Levels
 
 ### Steward
 
-Resources, holdings, and long-term management. A place you manage produces one extra useful resource (supplies, coin, or information) each downtime period.
+Resources, holdings, and long-term management.
+
+#### 1 Level
+
+**Manager.** A place you manage produces one extra useful resource (supplies, coin, or information) each downtime period.
+
+#### 2 Levels
 
 \page
 
