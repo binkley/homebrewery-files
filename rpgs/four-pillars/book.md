@@ -111,6 +111,10 @@ Coming from D&amp;D or Pathfinder, map your ancestry/species and background abil
 | Wisdom | Exploration or Social or Support |
 | Charisma | Social |
 
+#### Best You Can Do
+
+Regardless of your pillar scores, you can never have a bonus above +5 from these. You may have other features or magic items to go higher. Best of luck to you.
+
 \page
 
 ## Classes
@@ -226,5 +230,3 @@ At each character level increase you get 3 character points:
 - Increase any pillar score by +1 (2 points)
 - Gain a new feature suitable to your level to negotiatiate with your GM (1 point)
 - Acquire a new magic item suitable to your level (1 point)
-
-TODO: Should there be a cap on max pillar scores? What if a player takes the +1 on a score every level up.
