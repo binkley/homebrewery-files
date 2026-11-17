@@ -4,7 +4,7 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
 ## Goals
 
 - Works like D&D 5e and Pathfinder 2e but simpler.
-- GM decides things, minimize rules lawyering.
+- Minimize rules lawyering: the GM decides.
 - Focus on the Pillars of gaming. 
 - The four pillar scores replace the traditional six ability scores and the skills.
 - Use the Support pillar outside downtime, including healing and most spell-casting.
@@ -74,6 +74,14 @@ If you are not sure what to suggest, here are examples based on other published 
 - Leshy (Pathfinder): _Superstition_ &mdash; You gain a +1 to saves against effects that would control or charm you, and you can automatically identify edible plants in natural environments.
 - Mouse (Mouse Guard): _Home Guard_ &mdash; Once per session, when you fail a check related to protecting your home or companions, you may reroll the check. You must keep the second result.
 - Rock Gnome (D&amp;D): _Handy_ &mdash; You have proficiency with tools and can spend 1 hour and 10 credits/gp of materials to construct a Tiny clockwork device (AC 5, 1 hp) that performs one simple action (noise, light, or movement) for up to 24 hours.
+
+### On Your Turn
+
+You get 3 actions. Most choices cost 1 action: move, attack, cast a simple spell, use an item, hide, so on. You also get 1 reaction, usable on another creature&rsquo;s turn.
+
+Some choices are free such as drawing or dropping a single weapon or item. Some choices cost 2 or 3 actions. A few choices may require actions across multiple turns.
+
+Your GM decides on what makes sense at the table.
 
 ### Starting Pillar Scores
 
