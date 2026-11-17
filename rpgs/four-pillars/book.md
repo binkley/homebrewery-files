@@ -109,7 +109,7 @@ You start with an initial budget of 18 points. Spend on scores until you run out
 
 #### Species and Background
 
-Coming from D&amp;D or Pathfinder, map your ancestry/species and background ability scores increases:
+Coming from D&amp;D or Pathfinder, map your ancestry/species and background ability score increases:
 
 | D&amp;D | Pillar |
 | :------ | :----- |
