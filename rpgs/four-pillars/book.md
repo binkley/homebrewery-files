@@ -15,7 +15,7 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
   - Speaker (face)
   - Scholar (healer/utility/wizard)
 - **Favorite D&D feature:** Advantage/Disadvantage over flat bonuses
-- **Favorite Pathfinder feature:** 3 action economy over bonus actions
+- **Favorite Pathfinder feature:** 3 Action economy over Bonus Actions
 
 ## The Four Pillars
 
@@ -72,7 +72,7 @@ If you are not sure what to suggest, here are examples based on other published 
 - An extra language for the campaign.
 - Leshy (Pathfinder): _Superstition_ &mdash; You gain a +1 to saves against effects that would control or charm you, and you can automatically identify edible plants in natural environments.
 - Mouse (Mouse Guard): _Home Guard_ &mdash; Once per session, when you fail a check related to protecting your home or companions, you may reroll the check. You must keep the second result.
-- Rock Gnome (D&amp;D): _Handy_ &mdash; You have proficiency with tools and can spend 1 hour and 10 credits/gp of materials to construct a Tiny clockwork device (AC 5, 1 hp) that performs one simple action (noise, light, or movement) for up to 24 hours.
+- Rock Gnome (D&amp;D): _Handy_ &mdash; You have proficiency with tools and can spend 1 hour and 10 credits/gp of materials to construct a Tiny clockwork device (AC 5, 1 hp) that performs one simple Action (noise, light, or movement) for up to 24 hours.
 
 ### Starting Pillar Scores
 
@@ -119,18 +119,18 @@ Regardless of your pillar scores, you can never have a bonus above +5 from these
 
 ### On Your Turn
 
-You get 3 actions. Most choices cost 1 action: move, attack, cast a simple spell, use an item, hide, so on. You also get 1 reaction, usable on another creature&rsquo;s turn.
+You get 3 Actions. Most choices cost 1 Action: move, attack, cast a simple spell, use an item, hide, so on. You also get 1 Reaction, usable an another creature&rsquo;s turn.
 
-Some choices are free such as drawing or dropping a single weapon or item. Some choices cost 2 or 3 actions. A few choices may require actions across multiple turns.
+Some choices are free such as drawing or dropping a single weapon or item. Some choices cost 2 or 3 Actions. A few choices may require Actions across multiple turns.
 
 Your GM decides on what makes sense at the table.
 
 #### Attacking Again
 
-When you use your actions to attack more than once:
+When you use your Actions to attack more than once:
 
-- Any character can attack a second time as one of their 3 actions, but with Disadvantage
-- Some characters can attack the second time without Disadvantage, or make a third attack
+- Any character can attack a second time as one of their 3 Actions, but with _Disadvantage_.
+- Some characters can attack the second time without _Disadvantage_, or make a third attack.
 
 \page
 
@@ -153,7 +153,7 @@ You master the Combat pillar.
 **Quick To Act.** You roll initiative with _Advantage_.
 
 **TODO: TURN THIS TO A TABLE?** <br/>
-**On the Offense.** At 3 levels your 2<sup>nd</sup> attack in a turn is not at _Disadvantage_. At 5 levels you can attack a 3<sup>rd</sup> time in your turn with _Disadvantage_. At 7 levels your 3<sup>rd</sup> attack is not at _Disadvantage_. At 9 levels you gain 1 additional attack as a free action.
+**On the Offense.** At 3 levels your 2<sup>nd</sup> attack in a turn is not at _Disadvantage_. At 5 levels you can attack a 3<sup>rd</sup> time in your turn with _Disadvantage_. At 7 levels your 3<sup>rd</sup> attack is not at _Disadvantage_. At 9 levels you gain 1 additional attack as a Free Action.
 
 Choose a focus from below at 1<sup>st</sup>-level.
 
@@ -199,6 +199,22 @@ You excel at single-target precision.
 
 **Stronger Strikes.** When you hit a creature and no other creature is next to it, add your Combat modifier to the damage a second time.
 
+### Guardian
+
+You excel at protection and holding the line. 
+
+#### 1 Level
+
+**Attack Me.** When an ally next to you is hit by an attack, you may use your Reaction to become the target instead and take the damage or effects.
+
+**Missed by an Inch.**. Once per encounter you can increase your AC by 5 as a Reaction.
+
+#### 2 Levels
+
+**Best Buddy.** When an ally within 5 feet of you is hit by an attack, you can use your Reaction to impose _Disadvantage_ on the attack roll.
+
+**Push Back.** When you use your Reaction to take a hit for an ally, you may also push the attacker 5 feet or knock it prone (your choice).
+
 ### Hand to Hand
 
 Your fists are your weapons.
@@ -214,20 +230,6 @@ Your fists are your weapons.
 #### 2 Levels
 
 **Hazardous Hands.** Your hits are harder. Each turn double the damage dice on the first successful attack using your fists.
-
-### Guardian
-
-You excel at protection and holding the line. 
-
-#### 1 Level
-
-**Attack Me.** When an ally next to you is hit by an attack, you may use your reaction to become the target instead and take the damage or effects.
-
-**Missed by an Inch**. Once per encounter you can increase your AC by 5 as a reaction.
-
-#### 2 Levels
-
-**Push Back.** When you use your reaction to take a hit for an ally, you may also push the attacker 5 feet or knock it prone (your choice).
 
 ### Skirmisher
 
@@ -283,7 +285,7 @@ Traps, locks, and dungeon hazards.
 
 #### 2 Levels
 
-**Well Spotted.** Once per day you may find or disable a trap, or open a lock, as a free action.
+**Well Spotted.** Once per day you may find or disable a trap, or open a lock, as a Free Action.
 
 **Hazardous Terrain.** Once per day you can spend 10 minutes working a 20' by 20' area of ground to turn it into difficult terrain.
 
@@ -297,11 +299,11 @@ Stealth, reconnaissance, and avoiding notice.
 
 **Attack From Behind.** When you are hidden and make an attack, you do not automatically reveal your position if the attack misses.
 
-**Safer Spot.** Once per encounter you can hide as a free action.
+**Safer Spot.** Once per encounter you can hide as a Free Action.
 
 ##### 2 Levels
 
-**Quick Cover.** You may hide as a free action once per turn (instead of once per encounter).
+**Quick Cover.** You may hide as a Free Action once per turn (instead of once per encounter).
 
 ### Pathfinder
 
@@ -309,13 +311,13 @@ Navigation, tracking, and wilderness travel.
 
 #### 1 Level
 
-**Quick Guidance.** You and allies within 30 feet travel at a faster pace without the usual penalties (no disadvantage on Perception, no increased chance of exhaustion).
+**Quick Guidance.** You and allies within 30 feet travel at a faster pace without the usual penalties (no _Disadvantage_ on perception, no increased chance of exhaustion).
 
 **Safe Harbor.** Once per day you may automatically find a safe route, shortcut, or source of fresh water or shelter.
 
 #### 2 Levels
 
-**Sure Path.** While you lead the party, difficult terrain does not slow you or your allies, and the party has Advantage on checks to avoid becoming lost or exhausted from travel.
+**Sure Path.** While you lead the party, difficult terrain does not slow you or your allies, and the party has _Advantage_ on checks to avoid becoming lost or exhausted from travel.
 
 ### Surveyor
 
@@ -391,6 +393,8 @@ Persuasion, deals, and calming.
 
 **Favorable Terms.** Once per day, when you successfully reach a peaceful agreement, you may add one minor additional concession from the other party. The GM decides what is reasonable.
 
+**Read the Room.** When you spend at least 1 minute observing a social gathering or negotiation, you learn one useful fact about the power dynamics, hidden motives, or recent events that the participants know. You have _Advantage_ on the next Social check you make in that scenario.
+
 ### Orator
 
 Inspiration, leadership, and public presence.
@@ -403,6 +407,8 @@ Inspiration, leadership, and public presence.
 
 **Leading Presence.** Once per encounter, when you address a group, you may grant all allies within earshot _Advantage_ on their next check or saving throw before the end of their next turns.
 
+**Command the Room.** Once per day, when you address a group for at least 1 minute, you have _Advantage_ on the next Social check you make to inspire, persuade, or intimidate that group.
+
 \page
 
 ## Scholar
@@ -411,7 +417,7 @@ You master the Support pillar (healing, crafting, research, recovery, projects).
 
 #### 1 Level
 
-**Doctoral Student.** You have Advantage on research checks and may prepare one extra minor magical effect when you craft.
+**Doctoral Student.** You have _Advantage_ on research checks and may prepare one extra minor magical effect when you craft.
 
 ## Focuses
 
@@ -439,11 +445,16 @@ Recovery, treatment, and stabilization.
 
 #### 1 Level
 
+**Field Care.** During a rest, you can treat yourself or another resting creature within reach a number of times per day equal to your Support modifier (minimum 1). Treatment of your target:
+- Stabilizes at 0 hit points.
+- Regains hit points equal to your Support modifier (minimum 1).
+- Loses one level of exhaustion.
+
 **Nurse.** Add your Support modifier to healing you perform.
 
 #### 2 Levels
 
-**Rapid Treatment.** Once per encounter you may heal a creature as a free action instead of an action.
+**Rapid Treatment.** Once per encounter you may heal a creature as a Free Action instead of an Action.
 
 ### Crafter
 
@@ -455,7 +466,7 @@ Creating, repairing, and improving items.
 
 #### 2 Levels
 
-**Journeyman Crafter.** Once per day you may complete a crafting project that would normally take up to 1 hour as a free action. In addition, when you choose to halve either the time or the cost of a project (from Apprentice Crafter), you may also reduce the other by 25%.
+**Journeyman Crafter.** Once per day you may complete a crafting project that would normally take up to 1 hour as a Free Action. In addition, when you choose to halve either the time or the cost of a project (from Apprentice Crafter), you may also reduce the other by 25%.
 
 ### Steward
 
@@ -508,8 +519,9 @@ ___
 |:---:|:---:|:---:|:---:|
 |14|14|8|10|
 ___
-***Go First.*** Roll initiative with Advantage. <br/>
+***Go First.*** Roll initiative with _Advantage_. <br/>
 ***Nimble Escape.*** The goblin can choose to Disengage or Hide on each of its turns.
+
 ### Actions
 ***Scimitar.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) slashing damage. <br/>
 ***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
