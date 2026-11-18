@@ -301,7 +301,7 @@ Stealth, reconnaissance, and avoiding notice.
 
 ##### 2 Levels
 
-You may hide as a free action once per turn (instead of once per encounter).
+**Quick Cover.** You may hide as a free action once per turn (instead of once per encounter).
 
 ### Pathfinder
 
@@ -355,15 +355,17 @@ You trained in all styles of Social interaction.
 
 **Journeyman Speaker.** Once per day you have _Advantage_ on all Social checks during a single encouter.
 
-### Negotiator
+### Confidant
 
-Persuasion, deals, and calming.
+Insight, counsel, and building trust.
 
 #### 1 Level
 
-**Apprentice Negotiator.** You have _Advantage_ on checks to persuade or reach a peaceful agreement.
+**Thoughtful Insight.** You have _Advantage_ on insight checks and on checks to calm or reassure a willing creature.
 
 #### 2 Levels
+
+**Trusted Counsel.** Once per day, after a conversation, you learn one personal secret, fear, or desire of a creature you spoke with. The creature knows you know.
 
 ### Infiltrator
 
@@ -375,6 +377,20 @@ Deception, disguise, and false identities.
 
 #### 2 Levels
 
+**Slip the Net.** Once per encounter, when your false identity or disguise is about to be exposed, you may reroll one failed deception check. You must use the new result.
+
+### Negotiator
+
+Persuasion, deals, and calming.
+
+#### 1 Level
+
+**Apprentice Negotiator.** You have _Advantage_ on checks to persuade or reach a peaceful agreement.
+
+#### 2 Levels
+
+**Favorable Terms.** Once per day, when you successfully reach a peaceful agreement, you may add one minor additional concession from the other party. The GM decides what is reasonable.
+
 ### Orator
 
 Inspiration, leadership, and public presence.
@@ -383,15 +399,9 @@ Inspiration, leadership, and public presence.
 
 **Persuasive Voice.** Once per encounter, when you address a group or a key listener, you may shift their disposition to you one step friendlier, or grant your allies _Advantage_ on their next Social check involving that group.
 
-### Confidant
-
-Insight, counsel, and building trust.
-
-#### 1 Level
-
-**Thoughtful Insight.** You have _Advantage_ on Insight checks and on checks to calm or reassure a willing creature.
-
 #### 2 Levels
+
+**Leading Presence.** Once per encounter, when you address a group, you may grant all allies within earshot _Advantage_ on their next check or saving throw before the end of their next turns.
 
 \page
 
@@ -421,6 +431,8 @@ You trained in all means of Support.
 
 #### 2 Levels
 
+**Broad Knowledge.** Once per day you may treat a failed Support check as a success.
+
 ### Healer
 
 Recovery, treatment, and stabilization.
@@ -430,6 +442,8 @@ Recovery, treatment, and stabilization.
 **Nurse.** Add your Support modifier to healing you perform.
 
 #### 2 Levels
+
+**Rapid Treatment.** Once per encounter you may heal a creature as a free action instead of an action.
 
 ### Crafter
 
@@ -441,6 +455,7 @@ Creating, repairing, and improving items.
 
 #### 2 Levels
 
+**Journeyman Crafter.** Once per day you may complete a crafting project that would normally take up to 1 hour as a free action. In addition, when you choose to halve either the time or the cost of a project (from Apprentice Crafter), you may also reduce the other by 25%.
 
 ### Steward
 
@@ -451,6 +466,8 @@ Resources, holdings, and long-term management.
 **Manager.** A place you manage produces one extra useful resource (supplies, coin, or information) each downtime period.
 
 #### 2 Levels
+
+**Reliable Holdings.** Once per downtime period you may double useful resources produced by a place you manage.
 
 \page
 
