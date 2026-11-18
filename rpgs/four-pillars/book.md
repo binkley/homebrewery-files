@@ -325,21 +325,100 @@ Perception, mapping, and environmental detail.
 
 #### 1 Level
 
-**Good Observer.** You map your surroundings as you pass through keeping detailed notes, and refer later to these.
+**Good Observer.** You automatically keep usable notes and a rough map of areas you travel through to  document terrain, paths, or major landmarks.
 
-**Good Listener.** After conversations you can take full notes without losing details as an Action, and refer later to these.
+**Good Listener.** Within 1 day of a conversation, you can spend an Action to reconstruct full, accurate notes of what was said without losing key details.
 
-**Starting Equipment.** You gain paper or parchment and a quill and ink for making maps if you lack these.
+**Starting Equipment.** You begin with paper or parchment, a quill, and ink if you do not already have these.
 
 #### 2 Levels
 
-**Keen Eye.** Once per day you may notice one hidden detail, secret, or environmental hazard in the current area without a check.
+**Keen Eye.**  Once per day within range of your senses you may notice one hidden detail, secret, or environmental hazard without a check.
+
+**Expert Observer.** Once per day your maps or notes give _Advantage_ to their readers for Exploration checks of what you noted.
+
+\page
+
+## Scholar
+
+You master the Support pillar (healing, crafting, research, recovery, projects).
+
+#### 1 Level
+
+**Doctoral Student.** You have _Advantage_ on research checks and may prepare one extra minor magical effect when you craft.
+
+**Field Kit.** Once per day you can spend an Action to produce a minor consumable (healing salve, antitoxin, or temporary tool) that grants the consumer _Advantage_ on one relevant check or restores hit points equal to your Support modifier (minimum 1). It remains usable for 1 day.
+
+## Focuses
+
+### Generalist
+
+You trained in all means of Support.
+
+#### 1 Level
+
+**Well Read.** Once per day you can freely identify one item drawing on your broad scholarship. This takes 1 hour of interrupted study to fully identify the item, or 10 minutes to determine if the item is cursed and identify one non-obvious property. You can do this more often in a day as you gain levels as a Scholar:
+
+| Levels | Uses per Day |
+|:------:|:------------:|
+| 1 | 1 |
+| 4 | 2 |
+| 8 | 3 |
+
+#### 2 Levels
+
+**Broad Knowledge.** Once per day you may treat a failed Support check as a success.
+
+### Healer
+
+Recovery, treatment, and stabilization.
+
+#### 1 Level
+
+**Field Care.** During a rest, you can treat yourself or another resting creature within reach a number of times per day equal to your Support modifier (minimum 1). Treatment of your target:
+- Stabilizes at 0 hit points.
+- Regains hit points equal to your Support modifier (minimum 1).
+- Loses one level of exhaustion.
+
+**Nurse.** Add your Support modifier to healing you perform.
+
+#### 2 Levels
+
+**Rapid Treatment.** Once per encounter you may heal a creature as a Free Action instead of an Action.
+
+### Crafter
+
+Creating, repairing, and improving items. 
+
+#### 1 Level
+
+**Apprentice Crafter.** Crafting takes half either the usual time or cost (your choice).
+
+#### 2 Levels
+
+**Journeyman Crafter.** Once per day you may complete a crafting project that would normally take up to 1 hour as a Free Action. In addition, when you choose to halve either the time or the cost of a project (from Apprentice Crafter), you may also reduce the other by 25%.
+
+### Steward
+
+Resources, holdings, and long-term management.
+
+#### 1 Level
+
+**Manager.** A place you manage produces one extra useful resource (supplies, coin, or information) each downtime period.
+
+#### 2 Levels
+
+**Reliable Holdings.** Once per downtime period you may double useful resources produced by a place you manage.
 
 \page
 
 ## Speaker
 
 You master the Social pillar.
+
+#### 1 Level
+
+**Attention to Detail.** Once per day you can make a Social check in place of an Exploration check when you may have picked up information on this from others.
 
 ## Focuses
 
@@ -408,77 +487,6 @@ Inspiration, leadership, and public presence.
 **Leading Presence.** Once per encounter, when you address a group, you may grant all allies within earshot _Advantage_ on their next check or saving throw before the end of their next turns.
 
 **Command the Room.** Once per day, when you address a group for at least 1 minute, you have _Advantage_ on the next Social check you make to inspire, persuade, or intimidate that group.
-
-\page
-
-## Scholar
-
-You master the Support pillar (healing, crafting, research, recovery, projects).
-
-#### 1 Level
-
-**Doctoral Student.** You have _Advantage_ on research checks and may prepare one extra minor magical effect when you craft.
-
-## Focuses
-
-### Generalist
-
-You trained in all means of Support.
-
-#### 1 Level
-
-**Well Read.** Once per day you can freely identify one item drawing on your broad scholarship. This takes 1 hour of interrupted study to fully identify the item, or 10 minutes to determine if the item is cursed and identify one non-obvious property. You can do this more often in a day as you gain levels as a Scholar:
-
-| Levels | Uses per Day |
-|:------:|:------------:|
-| 1 | 1 |
-| 4 | 2 |
-| 8 | 3 |
-
-#### 2 Levels
-
-**Broad Knowledge.** Once per day you may treat a failed Support check as a success.
-
-### Healer
-
-Recovery, treatment, and stabilization.
-
-#### 1 Level
-
-**Field Care.** During a rest, you can treat yourself or another resting creature within reach a number of times per day equal to your Support modifier (minimum 1). Treatment of your target:
-- Stabilizes at 0 hit points.
-- Regains hit points equal to your Support modifier (minimum 1).
-- Loses one level of exhaustion.
-
-**Nurse.** Add your Support modifier to healing you perform.
-
-#### 2 Levels
-
-**Rapid Treatment.** Once per encounter you may heal a creature as a Free Action instead of an Action.
-
-### Crafter
-
-Creating, repairing, and improving items. 
-
-#### 1 Level
-
-**Apprentice Crafter.** Crafting takes half either the usual time or cost (your choice).
-
-#### 2 Levels
-
-**Journeyman Crafter.** Once per day you may complete a crafting project that would normally take up to 1 hour as a Free Action. In addition, when you choose to halve either the time or the cost of a project (from Apprentice Crafter), you may also reduce the other by 25%.
-
-### Steward
-
-Resources, holdings, and long-term management.
-
-#### 1 Level
-
-**Manager.** A place you manage produces one extra useful resource (supplies, coin, or information) each downtime period.
-
-#### 2 Levels
-
-**Reliable Holdings.** Once per downtime period you may double useful resources produced by a place you manage.
 
 \page
 
