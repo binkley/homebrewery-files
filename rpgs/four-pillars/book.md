@@ -179,6 +179,10 @@ You master the Combat pillar.
 
 **Pillar Focus.** Choose a Combatant Focus.
 
+#### 3 Levels
+
+**Going All Out.** Once per encounter, when you hit a creature with an attack, you may immediately make one additional attack against the same creature as a Free Action without _Disadvantage_.
+
 ### Generalist
 
 You trained in all styles of Combat.
@@ -291,6 +295,10 @@ You master the Exploration pillar.
 
 **Pillar Focus.** Choose an Explorer Focus.
 
+#### 3 Levels
+
+**Read the Ground.** Once per day, when you or an ally within 30 feet fails an Exploration check, you may let that character reroll the check. In addition, while you are leading the party you and your allies have _Advantage_ on checks to notice hidden creatures or objects.
+
 ## Focuses
 
 ### Generalist
@@ -389,6 +397,10 @@ You master the Support pillar (healing, crafting, research, recovery, projects).
 
 **Pillar Focus.** Choose a Scholar Focus.
 
+#### 3 Levels
+
+**Prepared Mind.** Once per day you may treat a failed Support check as a success. In addition, when you produce a minor consumable with Field Kit or a similar feature, you may create two instead of one.
+
 ## Focuses
 
 ### Generalist
@@ -465,6 +477,10 @@ You master the Social pillar.
 **Light Training.** You freely use light armor and simple weapons.
 
 **Pillar Focus.** Choose a Speaker Focus.
+
+#### 3 Levels
+
+**Center of Attention.** Once per encounter, when you address a group or a key listener, you may choose one ally within earshot. That ally has _Advantage_ on their next attack roll, ability check, or saving throw before the end of their next turn.
 
 ## Focuses
 
