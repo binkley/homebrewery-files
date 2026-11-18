@@ -5,17 +5,29 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
 
 - The GM runs the show including rulings on rules and character features.
 - Focus on the Pillars of gaming. Add a Support pillar. Replace the traditional six ability scores and skills with pillar scores.
+- Deemphasize Skills. Time-consuming at table, and hard for players to manage.
 - Works like D&D 5.5e and Pathfinder 2e but simpler.
+- Add-in design. So game rules like Exhaustion from D&D or modular feats from Pathfinder work.
 - Build out the Support pillar outside of downtime. Include healing and much spell-casting.
 - Characters can focus and specialize from their start.
 - Level 1-10 rather than 1-20.
+- **Favorite D&D feature:** Advantage/Disadvantage over flat bonuses
+- **Favorite Pathfinder feature:** 3 Action economy over Bonus Actions
+
+### Design Notes
+
 - Map classes to roles:
   - Combatant (controller/tank/striker)
   - Explorer (ranger/rogue/scout)
-  - Speaker (face)
-  - Scholar (healer/utility/wizard)
-- **Favorite D&D feature:** Advantage/Disadvantage over flat bonuses
-- **Favorite Pathfinder feature:** 3 Action economy over Bonus Actions
+  - Speaker (face) &mdash; more application? What about magic?
+  - Scholar (healer/utility/casters)
+
+#### Guardian
+
+- The current Guardian mixes single-ally protection (Attack Me, Best Buddy) with a light Social taunt. This overlaps with the Duelist’s single-target aggro tools.Reconsider later:
+- Keep Guardian as the single-ally protector and move any area-effect taunt or “protect the group” features to a new Combatant Focus (e.g. Vanguard or Sentinel), or
+Shift Guardian toward local AoE protection (allies within 5–10 feet) and leave pure single-target “fight me” to the Duelist.
+- Decide before locking higher-level Guardian features.
 
 ## The Four Pillars
 
@@ -52,6 +64,10 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
   - Minions
   - Crowd Control &mdash; TODO: is this only for Combat?
 
+## Bring Your Own
+
+Bring in rules and systems from other game. For example Exhaustion from D&amp;D or small modular feats from Pathfinder.
+
 \page
 
 {{wide
@@ -59,20 +75,16 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
 }}
 
 ### All Characters
-You may use any non-magical item, including weapons and armor. You may freely use any simple or common item. Any other item is used with _Disadvantage_.
+
+You may use any non-magical item, including weapons and armor. You may use any simple weapon or common item. Other items are usable with _Disadvantage_. Each class has more specific details.
 
 ### Pick Who You Are
 
-Bring your ancestry, species, or background and negotiate with the GM if it fits the campaign. Use resources from D&amp;D or Pathfinder or other RPG, or your imagination. You are what you are.
+Choose a background and an ancestry, race, or species. Negotiate with the GM so it fits the campaign.
 
-All characters get 3 free minor features of your choice from who you are subject to the GM accepting them. Humans get 4.
+All characters receive 3 minor features tied to who they are. These can be drawn from background; ancestry, race, or species; or backstory.
 
-If you are not sure what to suggest, here are examples based on other published RPG games:
-
-- An extra language for the campaign.
-- Leshy (Pathfinder): _Superstition_ &mdash; You gain a +1 to saves against effects that would control or charm you, and you can automatically identify edible plants in natural environments.
-- Mouse (Mouse Guard): _Home Guard_ &mdash; Once per session, when you fail a check related to protecting your home or companions, you may reroll the check. You must keep the second result.
-- Rock Gnome (D&amp;D): _Handy_ &mdash; You have proficiency with tools and can spend 1 hour and 10 credits/gp of materials to construct a Tiny clockwork device (AC 5, 1 hp) that performs one simple Action (noise, light, or movement) for up to 24 hours.
+Describe what you look like, what you did before adventuring, and who or what matters to you.
 
 ### Starting Pillar Scores
 
@@ -148,14 +160,23 @@ Classes are the primary pillar a character focuses on. At 1<sup>st</sup>-level y
 
 You master the Combat pillar.
 
-**Martial Training.** You freely use any armor or weapon.
+#### 1 Level
+
+**Heavy Training.** You freely use light, medium, or heavy armor and all weapons, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
+
+**On the Offense.** You are better at multiple attacks and gain more of them. Still some weapons may take more than one attack Action to use against opponents.
+
+| Levels | Benefits |
+|:------:|:---------|
+| 3 | 2<sup>nd</sup> attack Action is not at _Disadvantage_ |
+| 5 | Gain a 3<sup>rd</sup> Action attack at _Disadvantage_ |
+| 6 | All weapons only need 1 Attack action to strike with |
+| 7 | 3<sup>rd</sup> attack Action is not at _Disadvantage_ |
+| 9 | A 4<sup>th</sup> attack Action at _Disadvantage_ as a Free Action |
 
 **Quick To Act.** You roll initiative with _Advantage_.
 
-**TODO: TURN THIS TO A TABLE?** <br/>
-**On the Offense.** At 3 levels your 2<sup>nd</sup> attack in a turn is not at _Disadvantage_. At 5 levels you can attack a 3<sup>rd</sup> time in your turn with _Disadvantage_. At 7 levels your 3<sup>rd</sup> attack is not at _Disadvantage_. At 9 levels you gain 1 additional attack as a Free Action.
-
-Choose a focus from below at 1<sup>st</sup>-level.
+**Pillar Focus.** Choose a Combatant Focus.
 
 ### Generalist
 
@@ -195,6 +216,8 @@ You excel at single-target precision.
 
 **Come to Me.** Once per encounter you can call out a target up to 60 feet away to approach you best it can to within 5 feet of you.
 
+**Call Out.** Once per encounter, when you hit a creature or use Come to Me, you may taunt it. Make a Social check; on a success the target has _Disadvantage_ on attacks against anyone other than you until the end of its next turn.
+
 #### 2 Levels
 
 **Stronger Strikes.** When you hit a creature and no other creature is next to it, add your Combat modifier to the damage a second time.
@@ -207,11 +230,13 @@ You excel at protection and holding the line.
 
 **Attack Me.** When an ally next to you is hit by an attack, you may use your Reaction to become the target instead and take the damage or effects.
 
+**Hold the Line.** Once per encounter, when you use Attack Me or Missed by an Inch, you can taunt the attacker. Make a Social check; on a success the attacker has _Disadvantage_ on its next attack.
+
 **Missed by an Inch.**. Once per encounter you can increase your AC by 5 as a Reaction.
 
 #### 2 Levels
 
-**Best Buddy.** When an ally within 5 feet of you is hit by an attack, you can use your Reaction to impose _Disadvantage_ on the attack roll.
+**Best Buddy.** When an ally within 5 feet of you is hit by an attack, you can use your Reaction to impose _Disadvantage_ on the attack roll possibly turning the hit into a miss.
 
 **Push Back.** When you use your Reaction to take a hit for an ally, you may also push the attacker 5 feet or knock it prone (your choice).
 
@@ -251,11 +276,13 @@ You excel at mobile melee and opportunistic strikes.
 
 You master the Exploration pillar.
 
-**Ranger Training.** You freely use any armor that is not heavy, and any weapon.
+#### 1 Level
+
+**Medium Training.** You freely use any light or medium armor, and any weapon that is not two-handed, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
 
 **Quick to Act.** You roll initiative with _Advantage_.
 
-Choose a focus from below at 1<sup>st</sup>-level.
+**Pillar Focus.** Choose an Explorer Focus.
 
 ## Focuses
 
@@ -345,9 +372,13 @@ You master the Support pillar (healing, crafting, research, recovery, projects).
 
 #### 1 Level
 
+**Light Training.** You freely use any armor that is light and any simple weapons, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
+
 **Doctoral Student.** You have _Advantage_ on research checks and may prepare one extra minor magical effect when you craft.
 
 **Field Kit.** Once per day you can spend an Action to produce a minor consumable (healing salve, antitoxin, or temporary tool) that grants the consumer _Advantage_ on one relevant check or restores hit points equal to your Support modifier (minimum 1). It remains usable for 1 day.
+
+**Pillar Focus.** Choose a Scholar Focus.
 
 ## Focuses
 
@@ -420,6 +451,10 @@ You master the Social pillar.
 
 **Attention to Detail.** Once per day you can make a Social check in place of an Exploration check when you may have picked up information on this from others.
 
+**Light Training.** You freely use any armor that is light and any simple weapons, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
+
+**Pillar Focus.** Choose a Speaker Focus.
+
 ## Focuses
 
 ### Generalist
@@ -429,6 +464,8 @@ You trained in all styles of Social interaction.
 #### 1 Level
 
 **Apprentice Speaker.** Once per day you have _Advantage_ on one Social check.
+
+**Medium Training.** You freely use any light or medium armor, and any weapon that is not two-handed, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
 
 **Read the Room.** Once per encounter you may ask the GM one yes/no question for a truthful answer about a creature&rsquo;s current attitude or immediate goal.
 
