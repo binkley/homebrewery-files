@@ -138,6 +138,8 @@ When you use your actions to attack more than once:
 ## Classes
 
 Classes are the primary pillar a character focuses on. At 1<sup>st</sup>-level you choose one class (pillar) and one starting Focus within it. You may add another class and Focus at any level gain.
+
+**Starting Items.** You begin with one item or set of basic equipment suited to your Focus.
 }}
 
 \page
@@ -259,17 +261,31 @@ Choose a focus from below at 1<sup>st</sup>-level.
 
 You trained in all styles of Exploration.
 
-**TODO: THIS NEEDS HEAVY RETHINKING.**
-
 #### 1 Level
 
-**Apprentice Explorer.** Once per encounter you have _Advantage_ on any exploration check.
+**Apprentice Explorer.** Once per day you have _Advantage_ on any exploration check.
 
-**Improvised Tool.** No suitable item in reach is unusable as a tool for climbing, prying, or similar tasks. Improvised tools work without _Disadvantage_.
+**Improvised Tool.** No suitable item in reach is unusable as a tool for exploration. Improvised tools work without _Disadvantage_.
 
 #### 2 Levels
 
-**Journeyman Explorer.** Once per day you have _Advantage_ on all Exploration checks during your turn.
+**Journeyman Explorer.** Once per day you have _Advantage_ on all exploration checks during a single scenario or stretch of travel (up to 4 hours).
+
+### Delver
+
+Traps, locks, and dungeon hazards.
+
+#### 1 Level
+
+**Clever Fingers.** You have _Advantage_ on checks to find or disable traps and to open locks.
+
+**Starting Equipment.** You have a pickaxe. You can use this to delve or as a weapon.
+
+#### 2 Levels
+
+**Well Spotted.** Once per day you may find or disable a trap, or open a lock, as a free action.
+
+**Hazardous Terrain.** Once per day you can spend 10 minutes working a 20' by 20' area of ground to turn it into difficult terrain.
 
 ### Scout
 
@@ -299,15 +315,7 @@ Navigation, tracking, and wilderness travel.
 
 #### 2 Levels
 
-### Delver
-
-Traps, locks, and dungeon hazards.
-
-#### 1 Level
-
-**Clever Fingers.** You have _Advantage_ on checks to find or disable traps and to open locks.
-
-#### 2 Levels
+**Sure Path.** While you lead the party, difficult terrain does not slow you or your allies, and the party has Advantage on checks to avoid becoming lost or exhausted from travel.
 
 ### Surveyor
 
@@ -319,7 +327,11 @@ Perception, mapping, and environmental detail.
 
 **Good Listener.** After conversations you can take full notes without losing details as an Action, and refer later to these.
 
+**Starting Equipment.** You gain paper or parchment and a quill and ink for making maps if you lack these.
+
 #### 2 Levels
+
+**Keen Eye.** Once per day you may notice one hidden detail, secret, or environmental hazard in the current area without a check.
 
 \page
 
@@ -387,11 +399,27 @@ Insight, counsel, and building trust.
 
 You master the Support pillar (healing, crafting, research, recovery, projects).
 
+#### 1 Level
+
+**Doctoral Student.** You have Advantage on research checks and may prepare one extra minor magical effect when you craft.
+
 ## Focuses
 
 ### Generalist
 
 You trained in all means of Support.
+
+#### 1 Level
+
+**Well Read.** Once per day you can freely identify one item drawing on your broad scholarship. This takes 1 hour of interrupted study to fully identify the item, or 10 minutes to determine if the item is cursed and identify one non-obvious property. You can do this more often in a day as you gain levels as a Scholar:
+
+| Levels | Uses per Day |
+|:------:|:------------:|
+| 1 | 1 |
+| 4 | 2 |
+| 8 | 3 |
+
+#### 2 Levels
 
 ### Healer
 
@@ -413,15 +441,6 @@ Creating, repairing, and improving items.
 
 #### 2 Levels
 
-### Scholar
-
-Research, lore, and ritual preparation. 
-
-#### 1 Level
-
-**Doctoral Student.** You have Advantage on research checks and may prepare one extra minor magical effect during downtime.
-
-#### 2 Levels
 
 ### Steward
 
