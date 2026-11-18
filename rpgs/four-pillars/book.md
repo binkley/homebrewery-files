@@ -4,13 +4,14 @@ A Placeholder Name &mdash; Could be OSR merged with current popular RPGs.
 ## Goals
 
 - The GM runs the show including rulings on rules and character features.
-- Focus on the Pillars of gaming. Add a Support pillar. Replace the traditional six ability scores and skills with pillar scores.
+- Focus on Pillars of play. Add a Support pillar.
+- Replace the traditional six ability scores and skills with pillar scores.
 - Deemphasize Skills. Time-consuming at table, and hard for players to manage.
-- Works like D&D 5.5e and Pathfinder 2e but simpler.
+- Level 1-10 rather than 1-20. Each level is more meaningful, and features jump more rapidly.
+- Characters focus and specialize from the start. No multi-class restrictions or penalties.
+- Works like D&D 5.5e and Pathfinder 2e with mapping over of items, monsters, so on.
 - Add-in design. So game rules like Exhaustion from D&D or modular feats from Pathfinder work.
 - Build out the Support pillar outside of downtime. Include healing and much spell-casting.
-- Characters can focus and specialize from their start.
-- Level 1-10 rather than 1-20.
 - **Favorite D&D feature:** Advantage/Disadvantage over flat bonuses
 - **Favorite Pathfinder feature:** 3 Action economy over Bonus Actions
 
@@ -76,7 +77,7 @@ Bring in rules and systems from other game. For example Exhaustion from D&amp;D 
 
 ### All Characters
 
-You may use any non-magical item, including weapons and armor. You may use any simple weapon or common item. Other items are usable with _Disadvantage_. Each class has more specific details.
+You may use any non-magical item, including weapons and armor. You may use any simple weapon or common item. All armors need training. Other items are usable with _Disadvantage_. Each class has more specific details.
 
 ### Pick Who You Are
 
@@ -162,17 +163,17 @@ You master the Combat pillar.
 
 #### 1 Level
 
-**Heavy Training.** You freely use light, medium, or heavy armor and all weapons, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
+**Heavy Training.** You can freely use all armor and all weapons.
 
-**On the Offense.** You are better at multiple attacks and gain more of them. Still some weapons may take more than one attack Action to use against opponents.
+**On the Offense.** You gain the following benefits at the listed levels:
 
 | Levels | Benefits |
 |:------:|:---------|
-| 3 | 2<sup>nd</sup> attack Action is not at _Disadvantage_ |
-| 5 | Gain a 3<sup>rd</sup> Action attack at _Disadvantage_ |
+| 3 | Second attack Action is not at _Disadvantage_ |
+| 5 | Gain a third Action attack at _Disadvantage_ |
 | 6 | All weapons only need 1 Attack action to strike with |
-| 7 | 3<sup>rd</sup> attack Action is not at _Disadvantage_ |
-| 9 | A 4<sup>th</sup> attack Action at _Disadvantage_ as a Free Action |
+| 7 | Third attack Action is not at _Disadvantage_ |
+| 9 | Gain a fourth attack Action at _Disadvantage_ as a Free Action |
 
 **Quick To Act.** You roll initiative with _Advantage_.
 
@@ -204,6 +205,8 @@ You excel at ranged combat.
 
 #### 2 Levels
 
+**Difficult Shot.** Your first ranged attack ignores cover unless completely hidden from you.
+
 **Faster Shots.** Your second ranged attack each turn does not have _Disadvantage_ if the target is within normal range.
 
 ### Duelist
@@ -220,7 +223,9 @@ You excel at single-target precision.
 
 #### 2 Levels
 
-**Stronger Strikes.** When you hit a creature and no other creature is next to it, add your Combat modifier to the damage a second time.
+**Clean Opening.** Once per encounter, when you miss with a melee attack against a creature that has no allies next to it, you may immediately make one additional melee attack against it.
+
+**Stronger Strikes.** When you hit a creature and no other creature is next to it, add your Combat modifier to all attacks and not just the first one.
 
 ### Guardian
 
@@ -270,7 +275,7 @@ You excel at mobile melee and opportunistic strikes.
 
 #### 2 Levels
 
-**Dangerous Quarry.** When you are damaged from melee and react by moving, you may freely attack one time after moving.
+**Dangerous Quarry.** When you are damaged from melee and react by moving, you may freely attack at _Advantage_ one time after moving.
 
 \page
 
@@ -280,7 +285,7 @@ You master the Exploration pillar.
 
 #### 1 Level
 
-**Medium Training.** You freely use any light or medium armor, and any weapon that is not two-handed, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
+**Medium Training.** You can freely use light and medium armor and all one-handed weapons.
 
 **Quick to Act.** You roll initiative with _Advantage_.
 
@@ -348,6 +353,8 @@ Navigation, tracking, and wilderness travel.
 
 **Sure Path.** While you lead the party, difficult terrain does not slow you or your allies, and the party has _Advantage_ on checks to avoid becoming lost or exhausted from travel.
 
+**Quick Start.** Once per encounter, when initiative is rolled, you and up to three allies can each move up to 10 feet before the first turn begins. This movement does not provoke opportunity attacks.
+
 ### Surveyor
 
 Perception, mapping, and environmental detail.
@@ -374,7 +381,7 @@ You master the Support pillar (healing, crafting, research, recovery, projects).
 
 #### 1 Level
 
-**Light Training.** You freely use any armor that is light and any simple weapons, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
+**Light Training.** You freely use light armor and simple weapons.
 
 **Doctoral Student.** You have _Advantage_ on research checks and may prepare one extra minor magical effect when you craft.
 
@@ -402,6 +409,20 @@ You trained in all means of Support.
 
 **Broad Knowledge.** Once per day you may treat a failed Support check as a success.
 
+**Recall.** Once per encounter, when you or an ally within 30 feet fails an Exploration or Support check, they can reroll the check. You must be able to see them.
+
+### Crafter
+
+Creating, repairing, and improving items. 
+
+#### 1 Level
+
+**Apprentice Crafter.** Crafting takes half either the usual time or cost (your choice).
+
+#### 2 Levels
+
+**Journeyman Crafter.** Once per day you may complete a crafting project that would normally take up to 1 hour as a Free Action. In addition, when you choose to halve either the time or the cost of a project (from Apprentice Crafter), you may also reduce the other by 25%.
+
 ### Healer
 
 Recovery, treatment, and stabilization.
@@ -418,18 +439,6 @@ Recovery, treatment, and stabilization.
 #### 2 Levels
 
 **Rapid Treatment.** Once per encounter you may heal a creature as a Free Action instead of an Action.
-
-### Crafter
-
-Creating, repairing, and improving items. 
-
-#### 1 Level
-
-**Apprentice Crafter.** Crafting takes half either the usual time or cost (your choice).
-
-#### 2 Levels
-
-**Journeyman Crafter.** Once per day you may complete a crafting project that would normally take up to 1 hour as a Free Action. In addition, when you choose to halve either the time or the cost of a project (from Apprentice Crafter), you may also reduce the other by 25%.
 
 ### Steward
 
@@ -453,7 +462,7 @@ You master the Social pillar.
 
 **Attention to Detail.** Once per day you can make a Social check in place of an Exploration check when you may have picked up information on this from others.
 
-**Light Training.** You freely use any armor that is light and any simple weapons, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
+**Light Training.** You freely use light armor and simple weapons.
 
 **Pillar Focus.** Choose a Speaker Focus.
 
@@ -467,7 +476,7 @@ You trained in all styles of Social interaction.
 
 **Apprentice Speaker.** Once per day you have _Advantage_ on one Social check.
 
-**Medium Training.** You freely use any light or medium armor, and any weapon that is not two-handed, and equivalent magic items. Other items are at _Disadvantage_ to use without further training.
+**Medium Training.** You freely use any light or medium armor, and any weapon that is not two-handed.
 
 **Read the Room.** Once per encounter you may ask the GM one yes/no question for a truthful answer about a creature&rsquo;s current attitude or immediate goal.
 
@@ -485,6 +494,8 @@ Insight, counsel, and building trust.
 
 #### 2 Levels
 
+**Reassuring Rake.** Once per encounter, when an ally within 30 feet fails a saving throw against being charmed or frightened, you may let that ally reroll the save. You must be able to see the ally.
+
 **Trusted Counsel.** Once per day, after a conversation, you learn one personal secret, fear, or desire of a creature you spoke with. The creature knows you know.
 
 ### Infiltrator
@@ -493,9 +504,11 @@ Deception, disguise, and false identities.
 
 #### 1 Level
 
-**Fake Face.** You have _Advantage_ on Deception checks to maintain a disguise or false identity.
+**Fake Face.** You have _Advantage_ on Social checks to maintain a disguise or false identity.
 
 #### 2 Levels
+
+**Blend Away.** Once per day, when your disguise was questioned, you and any allies who were part of the same false identity may each move up to 30 feet without being followed or remembered clearly.
 
 **Slip the Net.** Once per encounter, when your false identity or disguise is about to be exposed, you may reroll one failed deception check. You must use the new result.
 
@@ -509,9 +522,9 @@ Persuasion, deals, and calming.
 
 #### 2 Levels
 
-**Favorable Terms.** Once per day, when you successfully reach a peaceful agreement, you may add one minor additional concession from the other party. The GM decides what is reasonable.
+**Favorable Terms.** Once per day when reaching a peaceable agreement, the other party adds one minor concession.
 
-**Read the Room.** When you spend at least 1 minute observing a social gathering or negotiation, you learn one useful fact about the power dynamics, hidden motives, or recent events that the participants know. You have _Advantage_ on the next Social check you make in that scenario.
+**Read the Room.** At a social gathering or negotiation, you learn one useful fact about the power dynamics, hidden motives, or recent events that the participants know. You have _Advantage_ on the next Social check you make there, and one participant owes you a small favor that does not cost them significant resources or risk.
 
 ### Orator
 
