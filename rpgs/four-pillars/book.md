@@ -193,6 +193,8 @@ You trained in all styles of Combat.
 
 **Improvised Weapon.** No suitable item in reach is unusable as a melee weapon. Improvised melee weapons deal d4 damage.
 
+**Starting Equipment.** A sturdy sidearm (shortsword, handaxe, or light crossbow &mdash; your choice).
+
 #### 2 Levels
 
 **Journeyman Attacker.** Once per encounter you have _Advantage_ on all attacks during your turn.
@@ -207,6 +209,8 @@ You excel at ranged combat.
 
 **Ranged Improvised Weapon.** No suitable item in reach is unusable as a ranged weapon. Improvised ranged weapons deal d6 damage with a 20 foot range.
 
+**Starting Equipment.** A shortbow and a quiver filled with 20 arrows.
+
 #### 2 Levels
 
 **Difficult Shot.** Your first ranged attack ignores cover unless completely hidden from you.
@@ -219,11 +223,13 @@ You excel at single-target precision.
 
 #### 1 Level
 
-**Single Target.** When you attack a creature and no other creature is next to it, roll with _Advantage_. You may do this once per turn.
-
 **Come to Me.** Once per encounter you can call out a target up to 60 feet away to approach you best it can to within 5 feet of you.
 
 **Call Out.** Once per encounter, when you hit a creature or use Come to Me, you may taunt it. Make a Social check; on a success the target has _Disadvantage_ on attacks against anyone other than you until the end of its next turn.
+
+**Single Target.** When you attack a creature and no other creature is next to it, roll with _Advantage_. You may do this once per turn.
+
+**Starting Equipment.** A suitable melee weapon (rapier, shortsword, or dagger &mdash; your choice).
 
 #### 2 Levels
 
@@ -242,6 +248,8 @@ You excel at protection and holding the line.
 **Hold the Line.** Once per encounter, when you use Attack Me or Missed by an Inch, you can taunt the attacker. Make a Social check; on a success the attacker has _Disadvantage_ on its next attack.
 
 **Missed by an Inch.**. Once per encounter you can increase your AC by 5 as a Reaction.
+
+**Starting Equipment.** A shield.
 
 #### 2 Levels
 
@@ -263,6 +271,8 @@ Your fists are your weapons.
 
 **Improved Improvised Weapon.** No suitable item in reach is unusable as a melee weapon. Improvised melee weapons deal d6 damage.
 
+**Starting Equipment.** A pair of reinforced hand wraps or cestus.
+
 #### 2 Levels
 
 **Hazardous Hands.** Your hits are harder. Each turn double the damage dice on the first successful attack using your fists.
@@ -276,6 +286,8 @@ You excel at mobile melee and opportunistic strikes.
 **Nimble Feet.** When you are damaged from melee, you can react by moving up to 10 feet, and those in melee cannot attack you.
 
 **Speedy Feet.** Once per encounter you can dash with double your movement speed.
+
+**Starting Equipment.** A light one-handed weapon (shortsword, handaxe, or dagger &mdash; your choice).
 
 #### 2 Levels
 
@@ -309,7 +321,9 @@ You trained in all styles of Exploration.
 
 **Apprentice Explorer.** Once per day you have _Advantage_ on any exploration check.
 
-**Improvised Tool.** No suitable item in reach is unusable as a tool for exploration. Improvised tools work without _Disadvantage_.
+**Improvised Tool.** Any suitable item in reach is usable as a tool for exploration. Improvised tools work without _Disadvantage_.
+
+**Starting Equipment.** A climber&rsquo;s kit.
 
 #### 2 Levels
 
@@ -323,29 +337,13 @@ Traps, locks, and dungeon hazards.
 
 **Clever Fingers.** You have _Advantage_ on checks to find or disable traps and to open locks.
 
-**Starting Equipment.** You have a pickaxe. You can use this to delve or as a weapon.
+**Starting Equipment.** A pickaxe. You can use this to delve or as a weapon.
 
 #### 2 Levels
 
-**Well Spotted.** Once per day you may find or disable a trap, or open a lock, as a Free Action.
-
 **Hazardous Terrain.** Once per day you can spend 10 minutes working a 20' by 20' area of ground to turn it into difficult terrain.
 
-### Scout
-
-Stealth, reconnaissance, and avoiding notice.
-
-#### 1 Level
-
-**Hard to Notice.** You have _Advantage_ on being stealthy.
-
-**Attack From Behind.** When you are hidden and make an attack, you do not automatically reveal your position if the attack misses.
-
-**Safer Spot.** Once per encounter you can hide as a Free Action.
-
-##### 2 Levels
-
-**Quick Cover.** You may hide as a Free Action once per turn (instead of once per encounter).
+**Well Spotted.** Once per day you may find or disable a trap, or open a lock, as a Free Action.
 
 ### Pathfinder
 
@@ -357,11 +355,31 @@ Navigation, tracking, and wilderness travel.
 
 **Safe Harbor.** Once per day you may automatically find a safe route, shortcut, or source of fresh water or shelter.
 
+**Starting Equipment.** A compass and a 50-foot length of light rope.
+
 #### 2 Levels
 
 **Sure Path.** While you lead the party, difficult terrain does not slow you or your allies, and the party has _Advantage_ on checks to avoid becoming lost or exhausted from travel.
 
 **Quick Start.** Once per encounter, when initiative is rolled, you and up to three allies can each move up to 10 feet before the first turn begins. This movement does not provoke opportunity attacks.
+
+### Scout
+
+Stealth, reconnaissance, and avoiding notice.
+
+#### 1 Level
+
+**Attack From Behind.** When you are hidden and make an attack, you do not automatically reveal your position if the attack misses.
+
+**Hard to Notice.** You have _Advantage_ on being stealthy.
+
+**Safer Spot.** Once per encounter you can hide as a Free Action.
+
+**Starting Equipment.** A camouflage cloak or dark cloak.
+
+##### 2 Levels
+
+**Quick Cover.** You may hide as a Free Action once per turn (instead of once per encounter).
 
 ### Surveyor
 
@@ -373,7 +391,7 @@ Perception, mapping, and environmental detail.
 
 **Good Listener.** Within 1 day of a conversation, you can spend an Action to reconstruct full, accurate notes of what was said without losing key details.
 
-**Starting Equipment.** You begin with paper or parchment, a quill, and ink if you do not already have these.
+**Starting Equipment.** Paper or parchment, a quill, and ink.
 
 #### 2 Levels
 
@@ -409,6 +427,8 @@ You trained in all means of Support.
 
 #### 1 Level
 
+**Starting Equipment.** A small pouch ingredients needed for spell casting or research.
+
 **Well Read.** Once per day you can freely identify one item drawing on your broad scholarship. This takes 1 hour of interrupted study to fully identify the item, or 10 minutes to determine if the item is cursed and identify one non-obvious property. You can do this more often in a day as you gain levels as a Scholar:
 
 | Levels | Uses per Day |
@@ -431,6 +451,8 @@ Creating, repairing, and improving items.
 
 **Apprentice Crafter.** Crafting takes half either the usual time or cost (your choice).
 
+**Starting Equipment.** A set of tools appropriate to your craft.
+
 #### 2 Levels
 
 **Journeyman Crafter.** Once per day you may complete a crafting project that would normally take up to 1 hour as a Free Action. In addition, when you choose to halve either the time or the cost of a project (from Apprentice Crafter), you may also reduce the other by 25%.
@@ -448,6 +470,8 @@ Recovery, treatment, and stabilization.
 
 **Nurse.** Add your Support modifier to healing you perform.
 
+**Starting Equipment.** A kit for healing and tending the injured.
+
 #### 2 Levels
 
 **Rapid Treatment.** Once per encounter you may heal a creature as a Free Action instead of an Action.
@@ -459,6 +483,8 @@ Resources, holdings, and long-term management.
 #### 1 Level
 
 **Manager.** A place you manage produces one extra useful resource (supplies, coin, or information) each downtime period.
+
+**Starting Equipment.** A ledger and a set of keys to a modest holding or workshop.
 
 #### 2 Levels
 
@@ -496,6 +522,8 @@ You trained in all styles of Social interaction.
 
 **Read the Room.** Once per encounter you may ask the GM one yes/no question for a truthful answer about a creature&rsquo;s current attitude or immediate goal.
 
+**Starting Equipment.** A set of fine clothes suitable for your region.
+
 #### 2 Levels
 
 **Journeyman Speaker.** Once per day you have _Advantage_ on all Social checks during a single encouter.
@@ -506,7 +534,9 @@ Insight, counsel, and building trust.
 
 #### 1 Level
 
-**Thoughtful Insight.** You have _Advantage_ on insight checks and on checks to calm or reassure a willing creature.
+**Starting Equipment.** A small journal, ink, and quill.
+
+**Thoughtful Insight.** You have _Advantage_ on reading people and on checks to calm or reassure a willing creature.
 
 #### 2 Levels
 
@@ -522,6 +552,8 @@ Deception, disguise, and false identities.
 
 **Fake Face.** You have _Advantage_ on Social checks to maintain a disguise or false identity.
 
+**Starting Equipment.** A disguise kit.
+
 #### 2 Levels
 
 **Blend Away.** Once per day, when your disguise was questioned, you and any allies who were part of the same false identity may each move up to 30 feet without being followed or remembered clearly.
@@ -536,6 +568,8 @@ Persuasion, deals, and calming.
 
 **Apprentice Negotiator.** You have _Advantage_ on checks to persuade or reach a peaceful agreement.
 
+**Starting Equipment.** A set of fine clothes and a small pouch of trade items or coin.
+
 #### 2 Levels
 
 **Favorable Terms.** Once per day when reaching a peaceable agreement, the other party adds one minor concession.
@@ -549,6 +583,8 @@ Inspiration, leadership, and public presence.
 #### 1 Level
 
 **Persuasive Voice.** Once per encounter, when you address a group or a key listener, you may shift their disposition to you one step friendlier, or grant your allies _Advantage_ on their next Social check involving that group.
+
+**Starting Equipment.** A set of fine clothes and a banner or badge of office.
 
 #### 2 Levels
 
